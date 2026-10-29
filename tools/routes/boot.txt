@@ -1,0 +1,6 @@
+# Cold boot: wait through the logos into the intro, Start skips to the title, Start again opens the menu.
+1000 -
+6 start
+240 -
+6 start
+300 -

@@ -1,2 +1,2 @@
-# SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
-<sha1>  rom/<file>
+# SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). No-Intro: GetBackers Dakkanya - Metropolis Dakkan Sakusen! (Japan).
+72dce89b9529f8a0b17fd154c915875a0c02e2d9  rom/GetBackers Dakkanya - Metropolis Dakkan Sakusen! (Japan).gba

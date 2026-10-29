@@ -1,0 +1,11 @@
+"""check.py: the one-command check (tests + text lint). The pre-commit hook runs it; exit code gates the commit.
+
+    python -X utf8 tools/check.py"""
+import subprocess
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+
+sys.exit(subprocess.call([sys.executable, "-X", "utf8", "-m", "pytest", "-q", "-m", "not slow", str(ROOT / "tests")],
+                         cwd=ROOT))
