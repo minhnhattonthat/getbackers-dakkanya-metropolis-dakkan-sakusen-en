@@ -33,10 +33,15 @@ Addresses are file offsets in the `rom.sha1` dump unless written 08xxxxxx.
   34 data tables at 0x4FF6C-0x6A108, mixed with event ids) or to PAC+8 (= first record; the 10 PACs the magic scan
   finds unreferenced: 0x39F398 font <- 0x51EC0, 0x3D7DE4 system text <- 0x527E4, 0x3CFCEC, 0x3D5744, 0x5C20FC,
   0x6143F0, 0x64FC14, 0x6E9A34, 0x77B0EC, 0x7D41DC; slot table 0x51EC0-0x51ED4 and 0x515D8, 0x527E4, 0x643FC,
-  0x4E588). 0x39F398 also has a +12 slot at 0xF044. The 8-byte magic makes false positives negligible, but
-  repoint only slots whose word equals a PAC (or PAC+8/+12) start.
-- Relocating a PAC = write it to free space and rewrite its slots; records are self-delimiting and position-free
-  (guess: no internal absolute pointers seen in dialogue PACs).
+  0x4E588; also 0x54214 -> 0x7D41DC). +12 slots (= record 0's data): 0xF044 -> 0x39F398, 0x4D050/0x4D3E0/
+  0x4DA44/0x4DD3C -> 0x3CFCEC. Total 3283 slots (3267 +0, 11 +8, 5 +12), all below the first PAC; every PAC has
+  at least one. A word equal to a PAC start counts as +0 (empty 12-byte PACs sit back to back, so PAC+12 is often
+  the next magic). `tools/build.py slots()` finds them; `tests/test_build.py` pins the count.
+- Relocating a PAC = write it to free space and rewrite its slots (verified: phase 3, `build.py --relocate all`
+  moves all 1803 PACs past 8 MiB; the build boots and warps to act1/act5/battle/menu_item/ending show the same screens and text as the original,
+  only fades/captions a few frames apart; `work/qa/cmp_act1.png`, `cmp_ending.png`).
+  Interior pointers: 387 aligned words point inside a PAC past +12, 24 of them into text PACs, all noise (graphics/
+  sound data, odd offsets); so text PACs are reached only through their slots.
 
 ## Dialogue PAC format (structure verified by parse of all 1616; command meanings guessed)
 1616 PACs contain a 4-byte record `0x270F` (end). Records:

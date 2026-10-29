@@ -3,7 +3,7 @@
 Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its SKILL.md before ROM, text or QA work. `"$(python tools/skill.py)"` works in bash and PowerShell; never paste a `plugins/cache/<hash>` path.
 
 ## Commands (run from repo root)
-- Build:    `python -X utf8 tools/build.py`  -> build/getbackers_en.gba (checks the dump against `rom.sha1` first; not written yet)
+- Build:    `python -X utf8 tools/build.py`  -> build/getbackers_en.gba (checks the dump against `rom.sha1` first; edited PACs move past 8 MiB, slots repointed; `--relocate all|text` to test the pointer writer)
 - Check:    `python -X utf8 tools/check.py`  (pytest `tests/` minus `slow` + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/getbackers_en.gba --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Warp:     `python -X utf8 tools/debug/warp_all.py <scene>.. [--rom build/getbackers_en.gba]` (no names = all; sheets in `work/qa/warp/<scene>/`, states `work/states/<scene>.mss`; scenes and fields: `tools/debug/scenes.lua`, notes `docs/re/debug.md`; never ask the user to play to a scene)

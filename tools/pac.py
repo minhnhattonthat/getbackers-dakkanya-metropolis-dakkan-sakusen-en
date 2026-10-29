@@ -25,6 +25,17 @@ def records(rom, off):
         p += n
 
 
+def unpack(rom, off):
+    """The record payloads of the PAC at off, as a list of bytes."""
+    return [bytes(rom[p:p + n]) for p, n in records(rom, off)[0]]
+
+
+def pack(recs):
+    """Inverse of unpack: a whole PAC, terminator included."""
+    assert all(recs), 'a 0-length record would read as the terminator'
+    return MAGIC + b''.join(struct.pack('<I', len(r)) + r for r in recs) + bytes(4)
+
+
 def find_all(rom):
     return [m.start() for m in re.finditer(re.escape(MAGIC), rom)]
 
