@@ -6,7 +6,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 - Build:    `python -X utf8 tools/build.py`  -> build/getbackers_en.gba (checks the dump against `rom.sha1` first; not written yet)
 - Check:    `python -X utf8 tools/check.py`  (pytest `tests/` minus `slow` + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/getbackers_en.gba --out work/qa/smoke --route tools/routes/boot.txt --smoke`
-- Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/getbackers_en.gba --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (scenes: `tools/debug/scenes.lua`; never ask the user to play to a scene; not written yet)
+- Warp:     `python -X utf8 tools/debug/warp_all.py <scene>.. [--rom build/getbackers_en.gba]` (no names = all; sheets in `work/qa/warp/<scene>/`, states `work/states/<scene>.mss`; scenes and fields: `tools/debug/scenes.lua`, notes `docs/re/debug.md`; never ask the user to play to a scene)
 - Release:  `python -X utf8 tools/release.py` (patch + verify; never publish without the user; not written yet)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 

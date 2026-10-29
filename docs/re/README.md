@@ -14,4 +14,5 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 |---|---|---|
 | [rom.md](rom.md) | header, save type, ROM map, free space | verified header/save; map partly guessed |
 | [text.md](text.md) | u16 font-cell encoding, font, PAC_2.00 containers + pointers, dialogue format, text ranges | encoding/PAC/pointers verified; command meanings and char table guessed |
+| [debug.md](debug.md) | game flow, map/room tables, LoadMap/Battle/flags, warp mechanism | verified by warps (phase 2) |
 | [graphics.md](graphics.md) | graphics-text survey (tour + static sweep) | tour verified; sweep by reviewer agents |

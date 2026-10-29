@@ -1,0 +1,18 @@
+# Cold boot to NEW GAME: logos + intro, Start to the title, Start for the menu, A on NEW GAME.
+1000 -
+6 start
+240 -
+6 start
+200 -
+6 a
+300 -
+# SCENE=menu_status (map M204, no event): wait for field control, then the field menu.
+900 -
+6 start
+90 -
+6 a
+150 -
+6 a
+150 -
+6 right
+100 -
