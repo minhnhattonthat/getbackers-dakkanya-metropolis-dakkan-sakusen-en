@@ -15,4 +15,5 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [rom.md](rom.md) | header, save type, ROM map, free space | verified header/save; map partly guessed |
 | [text.md](text.md) | u16 font-cell encoding, font + jp.tbl, PAC_2.00 containers + pointers, script format, system text, menu text, text ranges | verified (phase 4); script command meanings guessed |
 | [debug.md](debug.md) | game flow, map/room tables, LoadMap/Battle/flags, warp mechanism | verified by warps (phase 2) |
+| [vwf.md](vwf.md) | English engine: sprite VWF hook, string pool, box budgets (width gate), menu BG plan | dialogue verified (unicorn + marker tours); menus in progress |
 | [graphics.md](graphics.md) | graphics-text survey (tour + static sweep) | tour verified; sweep by reviewer agents |

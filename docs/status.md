@@ -2,33 +2,33 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 4 (extract) done; next is phase 5 (engine spike + marker build).
-- **Done (phase 4):**
-  - `tools/script.py dump` -> `script/<PAC>.json` (1626 script PACs, 10639 lines; fields id/kind name|line/box/
-    speaker/jp/en; `--force` refreshes jp and keeps en, listing changed translated ids). Record split command vs
-    line is structural (`docs/re/text.md` §Script PAC format).
-  - `tbl/jp.tbl`: all 1379 used codes read by eye (`tools/fontread.py`, readings `tbl/reads/`, rulings
-    `tbl/font_overrides.tsv`), then a 6-reader proofreading scan of all 6148 distinct lines found no misread cell.
-    Original-text quirks listed in `docs/re/text.md`.
-  - **Bug fixed** in `tools/pac.py`: a length-0 record ended every PAC, but 17 PACs (system text, 16 battle/event
-    scripts) have empty records mid-PAC; phase 3's relocation copied them short. Now parsed to the next PAC.
-  - System text = 10 counted sections to 0x3DD72C (loader traced, `docs/re/text.md`).
-  - Draw-routine check: everything 0805281C drew on all warp tours is in `script/` (`tests/data/drawn/`).
-  - Tests: `tests/test_script.py` (record kinds, PAC set pinned, table unique, roundtrip + coverage of every line,
-    insertion identity through `build(edits=)`, drawn-text coverage).
-  - **Menu text** (second system): 7 charsets + 786 glyph-index strings at 0x9C148-0x9ECF4, drawn into BG tiles by
-    LoadCharset 0800C8A0 / DrawString 0800C920 / 0800C9D4 -> `script/menu.json` (`tools/menutext.py`); charset per
-    string block checked against an exec-hook trace of the menu warps (`tests/test_menutext.py`, fixture
-    `tests/data/menu/`). 5 cells used only by menu charsets added to the table (拳 東 左 割 [SEL]).
-- **Next: phase 5** (engine spike + marker build). Two text paths need English: (1) dialogue/battle/system =
-  16x16 OBJ sprites per cell through 0805281C (VWF into OBJ tiles; box ~16 cells x 2 lines; names box), records
-  replaced via `build(edits=)` (`script.records()`); (2) menus = BG tiles from per-menu charsets (new charsets with
-  Latin glyphs, or a BG VWF; 12 px pitch over BG0/BG1). Also find where the item/card description and names are
-  wrapped. Marker build: every line `[id]` (PAC.rec / M<offset>), measure each box variant (width gate).
-- **Debug gaps (add scenes when phase 8 needs them; non-blocking):** game over (loss not reproduced: demo fight is
-  scripted, party battle HP not found; enemy-HP guess 03000F28 unverified), the 13 choice windows (G7) and
-  elevator floor select (find their event calls), card/item lists (a warped game has no items: add an item-give
-  write), demo notice G8, random encounters, shops (none seen).
+- **Phase:** 5 (engine spike + marker build) in progress. Dialogue/battle/system VWF done; menu BG VWF next.
+- **Done (phase 5 so far):** `docs/re/vwf.md`
+  - Font `fonts/vwf.txt` (own design, MIT; ASCII + ♪ ♥), `tools/vwf.py` (load, width, encode, budgets, preview).
+  - Sprite VWF hook `tools/engine.py` (keystone Thumb at 0x08800000, DrawLine 08052930 patched; 0xFEFF inline /
+    0xFEFE pool-pointer lines; Japanese lines keep the glyph path). `tests/test_vwf.py` runs it in unicorn on the
+    real ROM code.
+  - `tools/build.py`: default build = engine + every non-empty `en`; `--marker` = every script line as
+    `[id] The quick brown fox...` cut to its budget; `--bare` = identity build. String pool at 0x802000.
+  - Width gate for sprite text measured (vwf.md §Budgets): line 216 px, name 72 px, system strings = JP cells
+    except battle shouts/closing text 216, battle message fragments 144 (guess). Marker tours: act1, act5, battle,
+    battle_02, ending (`build/marker.gba`, sheets `work/qa/warp/<scene>/`; Japanese reference copies in
+    `work/qa/warp_jp/`).
+  - `tools/lua/linelog.lua`: logs every DrawText (sprite/tile index, n, x, y).
+- **Next (phase 5 remainder):**
+  1. Menu BG VWF (plan in vwf.md §Menus): English menu string = one u16 0xF800+k (k = index into a table of
+     {text ptr, field cells, lines}) [+ FFFF]; hooks at 0800C920 and 0800C9D4 (12-byte prologue jump, r4 free
+     after `push {r4}`; non-English path replays the 12 displaced bytes and returns to +12). Render on BG0 only into
+     position-owned tiles (base + row*30 + col, 600 tiles), write map entries into 0300203C, clear BG1 over the
+     field. Shrink charsets (LoadCharset 0800C8A0 byte-length literals at its 8 call sites) to the cells still drawn
+     the Japanese way; first check how digits are drawn (digit-string lookup vs constant index).
+  2. Menu markers in `--marker` (script/menu.json ids M<offset>), tour all menu warps, measure menu field widths.
+  3. Torture line (all glyphs) shown in game; `jp_left.py` on the marker build.
+- **Debug gaps (add scenes when phase 8 needs them; non-blocking):** game over, the 13 choice windows (G7),
+  elevator floor select, card/item lists (a warped game has no items: add an item-give write), demo notice G8,
+  random encounters, shops.
 - **Open bugs:** none.
+- **Polish ideas:** concatenated system fragments start on a 12 px cell boundary (gap after names); credits get
+  only Japanese cell counts (may need a wider slot or smaller text later).
 - **Waiting on the user:** GUI keyboard input in `tools/mesen/` not checked by hand (headless agent); emu.py wrote
   default key mappings. Non-blocking.

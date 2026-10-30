@@ -48,6 +48,12 @@ def codes(rec):
     return struct.unpack(f'<{len(rec) // 2}H', rec)
 
 
+def cells(rec):
+    """Sprite cells the game draws for a line record: its code count less one trailing 0x5C3 pad (08052EB8)."""
+    n = len(rec) // 2
+    return n - (n > 0 and codes(rec)[-1] == 0x5C3)
+
+
 def script_pacs(rom):
     """{pac offset: [record bytes]} for every script PAC."""
     out = {}
