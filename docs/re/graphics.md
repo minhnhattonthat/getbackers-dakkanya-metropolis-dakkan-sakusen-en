@@ -23,6 +23,16 @@ hold the rest (chapter-card tiles). No custom compression seen.
 | G10 | Status element icons 無 etc. | status screen | OBJ | **font cells** 0x507-0x587 (dialogue font page 5) | via font, not graphics |
 | G11 | Stage labels "1-A".."3-C", ON/OFF | not seen (debug/stage select?) | OBJ | 0x144C00-0x145000 | Latin, keep; may lead to a debug menu (phase 2) |
 
+## Redraws (phase 8, `tools/gfx.py`; `python -X utf8 tools/gfx.py preview OUT.png` shows them all)
+
+| # | Status | How (verified in a cold-boot shot) |
+|---|---|---|
+| G1 | done: katakana reading erased, 奪還屋 tag -> red box "Dakkanya" (tiny font) | title BG2 8bpp: tiles 0x7D0EC (308 x 64 B, DMA'd whole), map **30x20 at 0x81DEC holding ROM tile numbers** (game adds 1). Re-encoded in place, ≤ 308 tiles. Shot `work/qa/title_en` |
+| G2 | done: title strip "Operation Metropolis Retrieval!" (STIX 12, dark red on white); intro banner the same words, "Metropolis" red (DejaVu 12, AA on the banner's ramps) | title: as G1; intro: PAC 0x683714 rec 26 tiles / 46 map / 6 palette. Shots `title_en`, `intro_en` f1050 |
+| G3 | done: "<epithet> <name>" per bar, 2 lines when one doesn't fit | PAC 0x683714: **rec k = tiles, k+20 = 32x4 map, k-20 = palette** (k = 27-34, 37; 34 Juubei not caught in a tour yet: the intro picks its order at random). BG2/BG3, map at char base + 0x3000. Shot `intro_en` |
+| G4 | done: "(C) Yuya Aoki, Rando Ayamine, Kodansha / Team Dakkanya" | OBJ tiles 60-119 from title OBJ tile 0 at 0x1456C4 (seven 32x16 + one 16x16 sprite, 1D), ink 1, outline 4; in place |
+| G6 | done: Act.0-3, 5-9 (Act.4 Latin already) | table 0x091C6C, 10 x {tiles, 30x20 map, palette, tile bytes}, raw; **the loader adds 0xE000 to every map entry** (store bank 0). New tiles+map+grey-ramp palette past 8 MiB, table repointed. VRAM 0x4A00-0x7FFF is empty at a card (Act.9 needs 100 tiles vs 86 max before). Shots `work/qa/warp/act*` f1750 |
+
 Not text (checked): Latin HUD/menu fonts 0x0824A0, 0x099D40, 0x0A06A0, 0x39F7E0, 0x3D0820 (digits); battle cut-ins
 PAC 0x5012A4-0x5B1F24 (bracelet pattern 0x533C44 is ornament), battle backgrounds PAC 0x6143F0 (unreadable shop
 signs at 0x614428 - incidental), ~115 portraits PAC 0x6F2D00, effect sprites 0x7D41DC+, audio 0x1E0000-0x34FFFF.

@@ -21,6 +21,7 @@ from pathlib import Path
 
 import check_rom
 import engine
+import gfx
 import pac
 import vwf
 
@@ -155,12 +156,13 @@ def menu_edits(orig, pool, mode='en', qa=None):
     return menutext.english(orig, texts, pool, 0x08000000 + MENUTAB)
 
 
-def build(orig, edits=None, relocate=None, engine_on=False, pool=None, menu=None):
+def build(orig, edits=None, relocate=None, engine_on=False, pool=None, menu=None, gfx=None):
     """Returns (new rom bytes, writes) with writes = [(offset, orig bytes, new bytes, writer)].
 
     edits: {pac offset: [record bytes]} replacing that PAC's records. relocate: None, 'text' or 'all'.
     engine_on: install the text engine (tools/engine.py) at ORIG_END. pool: vwf.Pool written at POOL.
-    menu: menu_edits() result (string/charset writes, menu table at MENUTAB, LoadCharset cap)."""
+    menu: menu_edits() result (string/charset writes, menu table at MENUTAB, LoadCharset cap).
+    gfx: tools/gfx.py items(), blobs written past the PACs with their pointers repointed."""
     edits = edits or {}
     offs = pac.find_all(orig)
     rom = bytearray(orig)
@@ -215,6 +217,14 @@ def build(orig, edits=None, relocate=None, engine_on=False, pool=None, menu=None
         for s, d in slot[o]:
             write(s, struct.pack('<I', 0x08000000 + free + d), f'slot {o:06X}+{d}')
         free = (free + len(blob) + 3) & ~3
+    for label, blob, ptrs, extra in gfx or ():
+        if blob:
+            write(free, blob, f'gfx {label}')
+        for off, d in ptrs:
+            write(off, struct.pack('<I', 0x08000000 + free + d), f'gfx {label} pointer')
+        for off, data in extra:
+            write(off, data, f'gfx {label}')
+        free = (free + len(blob) + 3) & ~3
     if len(rom) > ORIG_END:
         rom.extend(b'\xff' * (-len(rom) % 0x100000))  # whole MiB, 0xFF like the cart's own fill
     return bytes(rom), writes
@@ -236,7 +246,10 @@ def main():
     qa = dict(q.replace('\\n', '\n').split('=', 1) for q in a.qa)
     edits, pool = ({}, None) if a.bare else text_edits(orig, mode, qa)
     menu = None if a.bare else menu_edits(orig, pool, mode, qa)
-    rom, writes = build(orig, edits, relocate=a.relocate, engine_on=not a.bare, pool=pool, menu=menu)
+    gfx_items = None if a.bare or a.marker else gfx.items(orig)
+    if gfx_items:
+        edits.update(gfx.pac_edits(orig))
+    rom, writes = build(orig, edits, relocate=a.relocate, engine_on=not a.bare, pool=pool, menu=menu, gfx=gfx_items)
     a.out.parent.mkdir(parents=True, exist_ok=True)
     a.out.write_bytes(rom)
     if a.writes:

@@ -25,7 +25,8 @@ def built():
     orig = build.ROM.read_bytes()
     edits, pool = build.text_edits(orig)
     menu = build.menu_edits(orig, pool)
-    rom, writes = build.build(orig, edits, engine_on=True, pool=pool, menu=menu)
+    edits.update(build.gfx.pac_edits(orig))
+    rom, writes = build.build(orig, edits, engine_on=True, pool=pool, menu=menu, gfx=build.gfx.items(orig))
     return orig, rom, writes, edits
 
 
@@ -78,11 +79,14 @@ def test_writes_inside_the_original_rom_are_slots_hooks_or_menu_text(built):
     orig, _, writes, _ = built
     slot_offs = {s for refs in build.slots(orig, pac.find_all(orig)).values() for s, _ in refs}
     hooks = {off for off, *_ in engine.patches({n: 0 for n in (*engine.ENTRIES, 'party_names')})}
+    gfx_offs = {off for _, _, ptrs, extra in build.gfx.items(orig) for off, _ in ptrs + extra}
     for off, old, new, by in writes:
         if off >= build.ORIG_END:
             continue
         kind = by.split()[0]
-        if kind == 'slot':
+        if kind == 'gfx':
+            assert off in gfx_offs, f'{by} at {off:06X}'
+        elif kind == 'slot':
             assert off in slot_offs and len(new) == 4, by
         elif kind in ('menu', 'charset'):
             assert off < build.ORIG_END, by

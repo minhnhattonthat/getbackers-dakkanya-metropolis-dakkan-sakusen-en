@@ -247,6 +247,13 @@ unless the notes say `no lint`.
 | 裏新宿２４時！ | Ura-Shinjuku 24 Hours! | | book/show title | |
 | ＴＳＣ | TSC | | | |
 | ＣＡＶ | CAV | | anti-VOLTS gang (Act C) | |
+| メトロポリス奪還作戦！ | Operation Metropolis Retrieval! | | game subtitle (title, intro, Act.8 card; Act.9 "True ...") | |
+| 謎のゲームソフトを奪り還せ！ | Take Back the Mystery Game! | | Act.0 card | |
+| GetBackers 登場！！ | Enter the GetBackers!! | | Act.1 card | |
+| 奪還ミステリーツアー | Retrieval Mystery Tour | | Act.2 card | |
+| 現われた謎の敵！ | A Mysterious Enemy Appears! | | Act.5 card | |
+| 離れ島へ行こう！ | Off to a Remote Island! | | Act.6 card | |
+| 決戦！ アルファタワー！！ | Showdown! Alpha Tower!! | | Act.7 card | |
 | ペンペンズ | Pen-Pens | | Emishi + Shido penguin duo | |
 | ＥＸＰ | EXP | | | |
 | ＨＰ | HP | | | |
