@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8 (QA in the emulator) done except one gap (G7 below); next is 9 (release).
+- **Phase:** 8 (QA in the emulator): G7 now captured; awaiting independent choice-window verdicts to close it.
 - **Done (phase 8):**
   - Graphics text redrawn by `tools/gfx.py` (docs/re/graphics.md §Redraws, D10, D11): act cards Act.0-9, title
     logo (katakana reading erased, tag "Retrievers", subtitle strip), title/end copyright line, intro banner + 9
@@ -16,9 +16,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
     signs); rechecks ok. Room-map survey: all 189 rooms rendered (`work/qa/rooms/maps`, gate
     `work/qa/rooms/manifest.tsv`), only Act 1 town/street had legible sign text (now English).
     `qa_gate.py check` exits 0 on both manifests (43 tour sheets, 189 rooms); smoke ok; check 42 passed.
-- **Gap (non-blocking):** the 13 choice windows G7 are built (`gfx.py preview`) but no warp shows them: loader
-  08051E98 mode 4 (choice PAC 0877B0F4) is called only from the cutscene/ending task family (080653F4 case code,
-  08065B80). The elevator floor select is one of them.
+- **G7 follow-up:** all 13 choice windows now reached from cold boot (`choice_00`-`choice_12`, including four
+  elevator lists), 13/13 exit 0. Shots/states in `work/qa/choices/` / `work/states/choice_*.mss`; overview
+  `docs/screenshots/phase8_choices.png`. The event-table hook resolves relocated pointers; `choice_05` overrides
+  a selector to exercise the otherwise unused Drink/Don't drink window (not proof of story reachability).
+  `work/qa/choices/manifest.tsv` awaits independent visual review; tools and captures frozen during review.
+  Fresh build: 2026-10-30 10:31:41 UTC, SHA-1 `3b47207abe39ad396784390e3795477d296074af`; smoke passes,
+  check 42 passed, existing 43-sheet tour and 189-room gates pass. Debug hooks remain emulator-only.
 - **Next (phase 9):** story pass per chapter (`qa_gate.py` on `work/qa/story/manifest.tsv`, skill
   references/translation.md §Review), `docs/polish.md` (from the polish ideas below), `tools/release.py` (patch,
   re-apply, verify, README with base ROM hashes, zip = patch + README; runs `qa_gate.py check` on every manifest),
@@ -38,7 +42,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     sprite totals per skill/item info case, `jp_left.py` (0 runs, 29 known).
 - **Guessed budgets left:** いどう location names (2 x 60; drawn at (2,15) in the bottom box, likely 216), save
   warning/error, load title (menu text).
-- **Debug gaps (non-blocking):** the 13 choice windows (G7), elevator floor select, いどう screen, demo notice G8,
+- **Debug gaps (non-blocking):** いどう screen, demo notice G8,
   random encounters, shops. Battle menus need play.py sessions: `warp_all.py battle_02 --frames 1830` saves the
   command-menu state; `tools/lua/inventory.lua` fills the items.
 - **Open bugs:** none.

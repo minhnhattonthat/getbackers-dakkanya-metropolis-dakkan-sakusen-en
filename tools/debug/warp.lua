@@ -36,6 +36,21 @@ end
 if sc.call then write_stub(sc.call[1], { table.unpack(sc.call, 2) }) end
 for off, v in pairs(sc.rom32 or {}) do emu.write32(off, v, rom) end
 
+-- Redirect the chosen event through a real ROM pointer slot (works after PAC relocation).
+-- The dialogue task has initialized its tables by this point, before checking the event pointer.
+if sc.event_slot then
+  L.on_exec(0x08063F46, 0x08063F46, function()
+    local event = emu.read32(0x020188DC, mem)
+    local ptr = emu.read32(sc.event_slot, rom)
+    emu.write32(0x02013910 + 4 * event, ptr, mem)
+    -- An otherwise unused window can be exercised with a copy of a real choice command.
+    if sc.choice_override then
+      emu.write32(ptr - 0x08000000 + 16, sc.choice_override, rom)
+    end
+    L.log(string.format("choice event %X: slot %X -> %X", event, sc.event_slot, ptr))
+  end)
+end
+
 -- RAM writes right before the new game's map load (08005BB2 runs after the new-game state is cleared).
 L.on_exec(0x08005BB2, 0x08005BB2, function()
   for addr, v in pairs(sc.w16 or {}) do emu.write16(addr, v, mem) end

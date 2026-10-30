@@ -4,6 +4,8 @@
 --   x, y     start tile
 --   flags    story flag ids set just before the map load; w16/w8 = {[addr] = value} RAM writes then
 --   call     {fn, r0..r3}: run fn once on map entry (stub in warp.lua), e.g. Battle 08008E80, Ending 080650D4
+--   event_slot ROM pointer slot for the event script to substitute after RunEvent initializes its table
+--   choice_override replace the choice command's selector (debug memory only; exercises unused windows)
 --   enemy_hp pin the enemy's battle HP (03000F28) every frame
 --   route    tools/routes/<route>.txt instead of newgame.txt (must start with the newgame presses)
 --   frames, mash: run length and mash interval for warp_all.py (defaults 5000, 60)
@@ -40,4 +42,18 @@ SCENES.list = {
   battle = { map = 4, x = 6, y = 3, call = { 0x08008E80, 0x2F } },    -- Battle(0x2F): the act-0 demo fight
   battle_02 = { map = 4, x = 6, y = 3, call = { 0x08008E80, 0x02 }, frames = 9000 },  -- first Act-1 fight
   ending ={ map = 4, x = 6, y = 3, call = { 0x080650D4 }, frames = 25000, mash = 0 },  -- epilogue + credits
+  -- Choice PACs: the event task loads them through their relocated pointer slots. Do not mash past the choice.
+  choice_00 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x62248, frames = 2300, mash = 0 },
+  choice_01 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x62250, frames = 2300, mash = 0 },
+  choice_02 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x62258, frames = 2300, mash = 0 },
+  choice_03 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x62260, frames = 2300, mash = 0 },
+  choice_04 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x62834, frames = 2300, mash = 0 },
+  choice_05 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x5FB9C, choice_override = 9, frames = 2300, mash = 0 },
+  choice_06 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x5FB9C, frames = 2300, mash = 0 },
+  choice_07 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x62E70, frames = 2300, mash = 0 },
+  choice_08 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x61414, frames = 2300, mash = 0 },
+  choice_09 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x63ABC, frames = 2300, mash = 0 },
+  choice_10 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x63AC0, frames = 2300, mash = 0 },
+  choice_11 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x63AC8, frames = 2300, mash = 0 },
+  choice_12 = { map = 10, call = { 0x0800F66C, 0x118 }, event_slot = 0x63ACC, frames = 2300, mash = 0 },
 }
