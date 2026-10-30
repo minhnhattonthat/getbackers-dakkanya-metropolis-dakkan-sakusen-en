@@ -208,7 +208,7 @@ MEASURED = [
     (0x9C4E2, 0x9C4F2, 48),   # item tabs: 56 px apart
     (0x9E4F4, 0x9E4F4, 216),  # option title
     (0x9E4FE, 0x9E518, 72),   # option labels: x 24, slider at 104
-    (0x9E536, 0x9E5C7, 216),  # option descriptions: 2 lines, frame at 233
+    (0x9E536, 0x9E5C7, 216, 2),  # option descriptions: 2 lines, frame at 233
     (0x9EC76, 0x9EC7C, 216),  # save / load titles (load: same box, not shown)
     (0x9EC82, 0x9EC82, 16),   # 番 after the slot digit, NO DATA 16 px further
     (0x9EC86, 0x9EC86, 32),   # 現在: portraits 32 px further

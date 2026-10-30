@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "アル",
   "jp": "銀さん、それ…光にかざしてみて下さい",
-  "en": "Gin-san, that... please hold it up to the\nlight."
+  "en": "Gin-san... please hold that up to the light."
  },
  {
   "id": "7C9A64.7",
@@ -267,7 +267,7 @@
   "box": 15,
   "speaker": "アル",
   "jp": "そうです…ジェンド様は　",
-  "en": "Yes... Jend-sama has barriers of all"
+  "en": "Yes... Jend-sama has"
  },
  {
   "id": "7C9A64.61",
@@ -275,7 +275,7 @@
   "box": 15,
   "speaker": "アル",
   "jp": "全ての属性のバリア持ってる…",
-  "en": "elements..."
+  "en": "barriers of all elements..."
  },
  {
   "id": "7C9A64.63",
@@ -462,7 +462,7 @@
   "box": 27,
   "speaker": "アル",
   "jp": "おねがいです…　",
-  "en": "Please... With that, Jend-sama..."
+  "en": "Please..."
  },
  {
   "id": "7C9A64.103",
@@ -470,7 +470,7 @@
   "box": 27,
   "speaker": "アル",
   "jp": "それでジェンド様を…ジェンド様を…　",
-  "en": "Jend-sama..."
+  "en": "With that, Jend-sama... Jend-sama..."
  },
  {
   "id": "7C9A64.105",

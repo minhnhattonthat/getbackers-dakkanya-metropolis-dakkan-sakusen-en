@@ -243,6 +243,9 @@ def read_out(b):
     return out, errs
 
 
+SPACED = {'M09E520'}  # battle-speed slider: spaces (4 px) put its dots under the marker's 12 px cells
+
+
 def check(b, us=None, quiet=False):
     """(errors, warnings, {id: en}) for a batch's output."""
     us = us or by_id()
@@ -262,7 +265,7 @@ def check(b, us=None, quiet=False):
         if not en.strip():
             errs.append(f'{i}: empty')
             continue
-        if en != en.strip() or '  ' in en:
+        if en != en.strip() or '  ' in en and i not in SPACED:
             errs.append(f'{i}: leading/trailing or double spaces')
         if '\\u' in en or '\\n' in en:
             errs.append(f'{i}: escape sequence in the English (use " / " for a line break)')

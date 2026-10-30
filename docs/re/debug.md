@@ -48,8 +48,11 @@ stub written at ROM 0x7FD000 (0xFF tail) that calls any function once on entry (
 in emulated memory only; the release ROM is untouched.
 
 ## Not reached yet (next)
-- Game over: battle loss not reproduced (the 0x2F demo fight is scripted; enemy-HP guess 03000F28 unverified;
-  party battle HP not found). Try a non-demo fight id (e.g. 0x02) with the party at low HP.
+- Game over: no screen found (phase 8). Battle 08008E80 returns 0 on a loss and the story callers (080118FC,
+  080125B2, 080138F8...) fall through to the same party-slot loop as after a win; no other code path shows one.
+  The sound test's track 20 「ゲームオーバー」 (table 0809FE70, PlaySong 08001E54) is played only by the ending
+  task 080653F4 case 0 (08065AA8), which then loads the title logo BG (palette 0807CEEC, tiles 0807D0EC, map
+  08081DEC: G1, English).
 - The 13 pre-rendered choice windows (G7, PAC 0877B0EC via loader 08051E98 mode table 08051EDC), elevator floor
   select, demo notice G8 (item/event/card lists: scenes menu_items/menu_event/menu_card write the inventory).
 - Random encounters (08005172 -> 08056524) and shops (none seen yet).

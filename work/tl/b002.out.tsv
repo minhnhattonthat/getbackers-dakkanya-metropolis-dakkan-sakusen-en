@@ -74,8 +74,8 @@ M09E4FE	Battle Speed
 M09E508	Music
 M09E510	Sound
 M09E518	Voice
-M09E520	Fast........Slow
-M09E536	Set the battle display speed.
+M09E520	F   .  .   .  .   .  .   .  . S
+M09E536	Set the battle display speed. / F: fast, S: slow.
 M09E54A	Music, sound. Left/Right: change. / A Button: play. R Button: stop.
 M09E58C	Voice. Left/Right: change. / A Button: play. R Button: stop.
 M09E62A	Opening

@@ -4463,14 +4463,14 @@
   "charset": "09F0A2",
   "end": true,
   "jp": "速・・・・・・・・遅",
-  "en": "Fast........Slow"
+  "en": "F   .  .   .  .   .  .   .  . S"
  },
  {
   "id": "M09E536",
   "charset": "09F0A2",
   "end": true,
   "jp": "戦闘表示速度の設定",
-  "en": "Set the battle display speed."
+  "en": "Set the battle display speed.\nF: fast, S: slow."
  },
  {
   "id": "M09E54A",

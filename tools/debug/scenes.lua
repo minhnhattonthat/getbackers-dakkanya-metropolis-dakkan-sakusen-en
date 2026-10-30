@@ -12,6 +12,7 @@ SCENES = {}
 SCENES.list = {
   act0 = { map = 2, x = 6, y = 11 },         -- M003: start of the hidden title entry (Act.0 demo)
   act1 = { map = 4, x = 6, y = 3 },          -- M102: the game's own new-game start
+  act1_m101 = { map = 3, x = 6, y = 3, frames = 2000, mash = 0 },  -- M101: street tileset 0x0B6A9C (signs G9)
   act2 = { map = 7, x = 0x14, y = 0x25 },    -- M201: from act-1 end code 08014D42
   act3 = { map = 31, x = 4, y = 5 },         -- M303: map script 0801CB51 shows the act card
   act3_m301 = { map = 29, x = 120, y = 5 },  -- M301: LoadMap call 0801EF18 (mid-act, no card)

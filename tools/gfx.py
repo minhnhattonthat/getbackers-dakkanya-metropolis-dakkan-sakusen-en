@@ -303,30 +303,42 @@ def icons(orig):
     return ('element icons', b'', [], out)
 
 
-# G9 shop signs in the Act 1 town tileset: LZ77 block 0x0B97F4 (768 tiles, a 32-tile-wide sheet, VRAM 0x8000; the
-# room table points at it from 0x143710 and 0x143740). Per sign: the text's rect in sheet pixels, background,
-# ink and shadow indices, English. The block is recompressed past 8 MiB and both pointers repointed.
-TOWN = 0x0B97F4
-TOWN_PTRS = (0x143710, 0x143740)
-SIGNS = [
-    ((34, 3, 74, 12), 4, 0xB, 3, 'UEDA BANK'),     # 上田銀行
-    ((183, 3, 214, 14), 5, 6, None, 'TATSUYA'),    # たつや (the shop's name, after its red logo)
-    ((26, 60, 96, 73), 5, 7, 3, 'HAIRO BOOKS'),   # 敗老書店
-]
+# G9 shop signs, per room of the room table 0x14370C (24 bytes: LZ77 palette, tiles, map, map2, 0, u16 w, h; the map
+# is w x h u16 entries). Per sign: the text's rect in room pixels, background (None: each row's commonest colour),
+# ink and shadow indices, English. Drawn through the room's map; only tiles that no map using the tileset places
+# anywhere else may change. The tiles are recompressed past 8 MiB and every room entry using them repointed.
+ROOM_SIGNS = {
+    2: [  # Act 1 town (rooms 0 and 2: tiles 0x0B97F4)
+        ((58, 3, 98, 12), 4, 0xB, 3, 'UEDA BANK'),      # 上田銀行
+        ((696, 3, 728, 14), 5, 6, None, 'TATSUYA'),    # [logo]たつや: over the logo, the next cell's tile is shared
+        ((266, 4, 336, 17), 5, 7, 3, 'HAIRO BOOKS'),   # 敗老書店
+    ],
+    1: [  # street of Acts 1, 2 and 7 (tiles 0x0B6A9C)
+        ((56, 3, 88, 13), 0xF, 0xA, 0xD, 'CHINESE'),   # 中国料理
+        ((96, 3, 128, 13), 5, 0xD, 3, 'HINODE'),       # 日の出口 (the restaurant's name)
+        ((183, 5, 217, 13), 8, 5, 7, 'THELMA'),        # バー テルマ ("BAR THELMA" is 6 px too wide)
+        ((385, 0, 424, 11), None, 5, 0xB, 'TETSUJIN'),  # 哲人の店 (the sign's top is the room's edge)
+        ((623, 2, 633, 12), 8, 0xD, None, 'RU'),       # [octopus]るん: tako-RUN, the gap tile between is shared
+        ((640, 2, 648, 12), 8, 0xD, None, 'N'),
+    ],
+}
+ROOMS, ROOM_COUNT = 0x14370C, 189
 
 
-def signs(orig):
-    import lz77
-    d = bytearray(lz77.decompress(orig, TOWN)[0])
+def put4(d, t, x, y, v):
+    """Set pixel (x, y) of 4bpp tile t in d to v."""
+    i = t * 32 + y * 4 + x // 2
+    d[i] = d[i] & (0xF0 if x & 1 == 0 else 0x0F) | v << (4 * (x & 1))
 
-    def put(x, y, v):
-        i = ((y // 8) * 32 + x // 8) * 32 + (y % 8) * 4 + (x % 8) // 2
-        d[i] = d[i] & (0xF0 if x & 1 == 0 else 0x0F) | v << (4 * (x & 1))
 
-    for (x0, y0, x1, y1), bg, ink, shadow, text in SIGNS:
+def paint(put, get, signs):
+    """Draw each sign: its rect filled with bg (None: the rect row's commonest colour), the text in the tiny
+    font in ink, with a 1 px shadow down-right unless shadow is None."""
+    for (x0, y0, x1, y1), bg, ink, shadow, text in signs:
         for y in range(y0, y1):
+            row = [get(x, y) for x in range(x0, x1)] if bg is None else [bg]
             for x in range(x0, x1):
-                put(x, y, bg)
+                put(x, y, max(set(row), key=row.count))
         _, mask = tiny_image(text, x1 - x0, y1 - y0, (y1 - y0 - 6) // 2 - (1 if shadow else 0))
         m = mask.load()
         for y in range(y1 - y0):
@@ -335,13 +347,40 @@ def signs(orig):
                     if shadow is not None and x + 1 < x1 - x0 and y + 1 < y1 - y0 and not m[x + 1, y + 1]:
                         put(x0 + x + 1, y0 + y + 1, shadow)
                     put(x0 + x, y0 + y, ink)
+
+
+def room_signs(orig, room, signs):
+    import lz77
+    from collections import Counter
+    entry = lambda r: struct.unpack_from('<5I2H', orig, ROOMS + 24 * r)
+    _, tiles_p, map_p, _, _, w, h = entry(room)
+    users = [r for r in range(ROOM_COUNT) if entry(r)[1] == tiles_p]
+    uses = Counter()
+    for m in {(entry(r)[2], entry(r)[5] * entry(r)[6]) for r in users}:
+        uses.update(e & 0x3FF for e in struct.unpack(f'<{m[1]}H', lz77.decompress(orig, m[0] - 0x08000000)[0][:2 * m[1]]))
+    d = bytearray(lz77.decompress(orig, tiles_p - 0x08000000)[0])
+    mp = lz77.decompress(orig, map_p - 0x08000000)[0][:2 * w * h]
+    im = decode(d, mp, w)
+    before, px = im.copy(), im.load()
+    paint(lambda x, y, v: px.__setitem__((x, y), v), lambda x, y: px[x, y], signs)
+    ent = struct.unpack(f'<{w * h}H', mp)
+    for i, e in enumerate(ent):
+        box = (i % w * 8, i // w * 8, i % w * 8 + 8, i // w * 8 + 8)
+        if im.crop(box).tobytes() == before.crop(box).tobytes():
+            continue
+        t = e & 0x3FF
+        assert uses[t] == 1, f'room {room} sign changes tile {t}, placed {uses[t]} times (cell {box[:2]})'
+        for y in range(8):
+            for x in range(8):
+                put4(d, t, x, y, px[box[0] + (7 - x if e & 0x400 else x), box[1] + (7 - y if e & 0x800 else y)])
     blob = lz77.compress(bytes(d))
-    return ('town signs', blob + b'\0' * (-len(blob) % 4), [(p, 0) for p in TOWN_PTRS], [])
+    return (f'room {room} signs', blob + b'\0' * (-len(blob) % 4), [(ROOMS + 24 * r + 4, 0) for r in users], [])
 
 
 def items(orig):
     """[(label, blob, [(pointer offset, delta into blob)], [(offset, bytes) other in-place writes])]."""
-    return cards(orig) + [copyright_line(), title_logo(orig), icons(orig), signs(orig)]
+    return cards(orig) + [copyright_line(), title_logo(orig), icons(orig)] + [
+        room_signs(orig, r, s) for r, s in ROOM_SIGNS.items()]
 
 
 def decode(tiles, mp, w=32):

@@ -6,7 +6,7 @@ except your one verdict file: no edits to the repo, no git, no subagents.
 ## Inputs (in your dispatch)
 - A chunk file: one `id<TAB>path` line per sheet. Read every sheet in it; none may be skipped.
 - Your verdict file: `work/qa/verdicts/<chunk>.tsv`.
-- The original ROM's sheets: same scene folder under `work/qa/tour_jp/` (e.g. `tour/act1/sheet.png` ->
+- The original ROM's sheets: same scene folder under `work/qa/tour_jp/` (e.g. `warp/act1/sheet.png` ->
   `tour_jp/act1/sheet.png`), and `glossary.md`.
 
 ## How to look
@@ -37,6 +37,10 @@ Standing non-bugs, `ok`:
   characters: the original does the same;
 - in battle, list titles and commands keep the Japanese cell spacing; info rows show the game's wide gaps between
   groups ("HP   Status ailment   Full Heal");
+- map signs in the tiny pixel font are the translation (D11): UEDA BANK, TATSUYA, HAIRO BOOKS, CHINESE, HINODE,
+  THELMA, TETSUJIN, and the octopus shop's "RU N" (a shared blank tile sits between the two letter cells);
+- the options battle-speed slider reads "F . . . . . . . . S" with the marker over one dot (F = fast, S = slow,
+  explained in the help line);
 - the field-menu marker-looking ids like `M09C19A` are NOT a non-bug: report them as issues.
 
 ## Verdicts

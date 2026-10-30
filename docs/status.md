@@ -9,8 +9,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
   caller sits in shared battle/minigame code around 08051E98 mode 4, 02012408). Shots: `work/qa/warp/act*`
   f1750, `work/qa/title_en`, `work/qa/intro_en`, `work/qa/warp/ending` f25000 (the end card's first third is
   garbled by walking-sprite tiles in the original too).
-- **Phase 8 next:** G9 map signs (zoomed field shots), element icons `[無]` (font cells 0x507-0x587), game over
-  (not reached), then QA tours over every warp scene -> `qa_gate.py init/todo`, visual-qa agents, `check` exit 0.
+  Element icons G10 (VO TH FI...), map signs G9 (D11): Act 1 town + room 1 street (Acts 1/2/7), drawn through the
+  room map by `gfx.room_signs` (asserts each changed tile is placed once). Game over: none exists (docs/re/debug.md).
+- **Visual QA (round 1):** full tour `warp_all.py` 26/26 exit 0 -> 43 sheets, `work/qa/manifest.tsv`, 4 visual-qa
+  agents: 36 ok, 7 issues, all fixed (battle-speed slider re-laid in pixels, 4 dialogue last-line/grammar fixes,
+  octopus/other street signs). Room-map survey: every room 0-188 rendered (`work/qa/rooms/maps`, gate manifest
+  `work/qa/rooms/manifest.tsv`) for sign text the tours miss.
 - **Done (phase 6):** every script/system/menu string has English (28 batches `work/tl/b001-b028`, reviewed; the
   `.out.tsv` files are the source: `batches.py merge b001 .. b028` reproduces `script/*.json` exactly, and
   `tests/test_english.py::test_text_lint_clean` checks that).
