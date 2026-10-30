@@ -1,0 +1,286 @@
+[
+ {
+  "id": "7ADDB4.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "ＭＡＩ　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "ＭＡＩ　",
+  "jp": "…あなたたちは誰！？",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.5",
+  "kind": "name",
+  "box": 1,
+  "jp": "士度",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.7",
+  "kind": "line",
+  "box": 2,
+  "speaker": "士度",
+  "jp": "アンタがＭＡＩか…　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.9",
+  "kind": "line",
+  "box": 3,
+  "speaker": "士度",
+  "jp": "マドカに頼まれて、　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.10",
+  "kind": "line",
+  "box": 3,
+  "speaker": "士度",
+  "jp": "アンタをここから連れ出しに来たぜ",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.12",
+  "kind": "name",
+  "box": 3,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.14",
+  "kind": "line",
+  "box": 4,
+  "speaker": "銀次",
+  "jp": "パソコンも壊しちゃったし、　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.15",
+  "kind": "line",
+  "box": 4,
+  "speaker": "銀次",
+  "jp": "これでキミも自由になれるよ！",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.17",
+  "kind": "name",
+  "box": 4,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.19",
+  "kind": "line",
+  "box": 5,
+  "speaker": "蛮　",
+  "jp": "聞き分けのねえ社長もボコッといたしな",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.21",
+  "kind": "name",
+  "box": 5,
+  "jp": "ＭＡＩ　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.23",
+  "kind": "line",
+  "box": 6,
+  "speaker": "ＭＡＩ　",
+  "jp": "…なに言ってるの、あなたたち？　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.25",
+  "kind": "line",
+  "box": 7,
+  "speaker": "ＭＡＩ　",
+  "jp": "私がここを出て自由になれる？",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.26",
+  "kind": "line",
+  "box": 7,
+  "speaker": "ＭＡＩ　",
+  "jp": "なに勘違いしてるの？",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.28",
+  "kind": "name",
+  "box": 7,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.30",
+  "kind": "line",
+  "box": 8,
+  "speaker": "銀次",
+  "jp": "…え？　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.32",
+  "kind": "name",
+  "box": 8,
+  "jp": "ＭＡＩ　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.34",
+  "kind": "line",
+  "box": 9,
+  "speaker": "ＭＡＩ　",
+  "jp": "私は弱味を握られてるから",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.35",
+  "kind": "line",
+  "box": 9,
+  "speaker": "ＭＡＩ　",
+  "jp": "ここにいるんじゃないわ　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.37",
+  "kind": "line",
+  "box": 10,
+  "speaker": "ＭＡＩ　",
+  "jp": "自分で望んでここにいるのよ！",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.38",
+  "kind": "line",
+  "box": 10,
+  "speaker": "ＭＡＩ　",
+  "jp": "勝手なことしないで！！　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.40",
+  "kind": "name",
+  "box": 10,
+  "jp": "士度",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.42",
+  "kind": "line",
+  "box": 11,
+  "speaker": "士度",
+  "jp": "………　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.44",
+  "kind": "name",
+  "box": 11,
+  "jp": "ＭＡＩ　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.46",
+  "kind": "line",
+  "box": 12,
+  "speaker": "ＭＡＩ　",
+  "jp": "こんなことして、週刊誌がかぎつけたら",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.47",
+  "kind": "line",
+  "box": 12,
+  "speaker": "ＭＡＩ　",
+  "jp": "どうしてくれるのよ？",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.49",
+  "kind": "line",
+  "box": 13,
+  "speaker": "ＭＡＩ　",
+  "jp": "スキャンダルに巻き込まれたら歌わせて",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.50",
+  "kind": "line",
+  "box": 13,
+  "speaker": "ＭＡＩ　",
+  "jp": "もらえなくなるかも知れないのに…",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.52",
+  "kind": "name",
+  "box": 13,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.54",
+  "kind": "line",
+  "box": 14,
+  "speaker": "蛮　",
+  "jp": "あのつまンねー歌をか？　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.56",
+  "kind": "name",
+  "box": 14,
+  "jp": "ＭＡＩ　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.58",
+  "kind": "line",
+  "box": 15,
+  "speaker": "ＭＡＩ　",
+  "jp": "…なんですって？",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.60",
+  "kind": "name",
+  "box": 15,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.62",
+  "kind": "line",
+  "box": 16,
+  "speaker": "蛮　",
+  "jp": "いや、歌がつまンねーんじゃねえ　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.63",
+  "kind": "line",
+  "box": 16,
+  "speaker": "蛮　",
+  "jp": "アンタがつまらなそうに歌ってんだよ　",
+  "en": ""
+ },
+ {
+  "id": "7ADDB4.65",
+  "kind": "line",
+  "box": 17,
+  "speaker": "蛮　",
+  "jp": "気付いてなかったのかよ？",
+  "en": ""
+ }
+]

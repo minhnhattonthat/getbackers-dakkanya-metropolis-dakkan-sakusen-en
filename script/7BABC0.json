@@ -1,0 +1,40 @@
+[
+ {
+  "id": "7BABC0.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7BABC0.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "蛮ちゃん、またしても違うスイッチが！",
+  "en": ""
+ },
+ {
+  "id": "7BABC0.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "どうしよう？",
+  "en": ""
+ },
+ {
+  "id": "7BABC0.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7BABC0.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "蛮　",
+  "jp": "…ま、押すしかねえだろうな　",
+  "en": ""
+ }
+]

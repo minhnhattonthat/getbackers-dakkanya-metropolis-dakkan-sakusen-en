@@ -1,0 +1,71 @@
+[
+ {
+  "id": "7A0EBC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7A0EBC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "蛮　",
+  "jp": "！　幅寄せだと！？　",
+  "en": ""
+ },
+ {
+  "id": "7A0EBC.5",
+  "kind": "line",
+  "box": 2,
+  "speaker": "蛮　",
+  "jp": "あいつら、一歩間違えば　",
+  "en": ""
+ },
+ {
+  "id": "7A0EBC.6",
+  "kind": "line",
+  "box": 2,
+  "speaker": "蛮　",
+  "jp": "自分らも谷底へ落ちるんだぞ！",
+  "en": ""
+ },
+ {
+  "id": "7A0EBC.8",
+  "kind": "name",
+  "box": 2,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7A0EBC.10",
+  "kind": "line",
+  "box": 3,
+  "speaker": "銀次",
+  "jp": "ヤ、ヤバいよ、蛮ちゃん！",
+  "en": ""
+ },
+ {
+  "id": "7A0EBC.11",
+  "kind": "line",
+  "box": 3,
+  "speaker": "銀次",
+  "jp": "このままじゃ…　",
+  "en": ""
+ },
+ {
+  "id": "7A0EBC.13",
+  "kind": "name",
+  "box": 3,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7A0EBC.15",
+  "kind": "line",
+  "box": 4,
+  "speaker": "蛮　",
+  "jp": "ダメだ！　間に合わねえ！！　",
+  "en": ""
+ }
+]

@@ -6,7 +6,7 @@ unchanged PAC stays where it is, so a build with no edits is byte-identical to t
 
     python -X utf8 tools/build.py [--relocate all|text] [--out PATH] [--writes LOG]
 
---relocate moves unchanged PACs too (all, or the 1617 text PACs), to exercise the pointer writer; --writes logs
+--relocate moves unchanged PACs too (all, or the 1633 text PACs), to exercise the pointer writer; --writes logs
 every write for romdiff.py --writes.
 """
 import argparse

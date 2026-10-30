@@ -1,0 +1,71 @@
+[
+ {
+  "id": "7AB0BC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "マドカ　",
+  "en": ""
+ },
+ {
+  "id": "7AB0BC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "マドカ　",
+  "jp": "大変ですね、奪還屋さんたち…",
+  "en": ""
+ },
+ {
+  "id": "7AB0BC.5",
+  "kind": "name",
+  "box": 1,
+  "jp": "士度",
+  "en": ""
+ },
+ {
+  "id": "7AB0BC.7",
+  "kind": "line",
+  "box": 2,
+  "speaker": "士度",
+  "jp": "アイツらがいると",
+  "en": ""
+ },
+ {
+  "id": "7AB0BC.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "士度",
+  "jp": "ギャーギャーうるせぇからな　",
+  "en": ""
+ },
+ {
+  "id": "7AB0BC.10",
+  "kind": "line",
+  "box": 3,
+  "speaker": "士度",
+  "jp": "いねぇ方が静かでいいさ　",
+  "en": ""
+ },
+ {
+  "id": "7AB0BC.12",
+  "kind": "name",
+  "box": 3,
+  "jp": "波児",
+  "en": ""
+ },
+ {
+  "id": "7AB0BC.14",
+  "kind": "line",
+  "box": 4,
+  "speaker": "波児",
+  "jp": "確かに静かになっちまったな…",
+  "en": ""
+ },
+ {
+  "id": "7AB0BC.15",
+  "kind": "line",
+  "box": 4,
+  "speaker": "波児",
+  "jp": "ラジオでもかけるか　",
+  "en": ""
+ }
+]

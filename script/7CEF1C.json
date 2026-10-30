@@ -1,0 +1,94 @@
+[
+ {
+  "id": "7CEF1C.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "鏡　",
+  "en": ""
+ },
+ {
+  "id": "7CEF1C.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "鏡　",
+  "jp": "追いついたみたいだね？　",
+  "en": ""
+ },
+ {
+  "id": "7CEF1C.5",
+  "kind": "name",
+  "box": 1,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CEF1C.7",
+  "kind": "line",
+  "box": 2,
+  "speaker": "銀次",
+  "jp": "あれ、鏡さん！　",
+  "en": ""
+ },
+ {
+  "id": "7CEF1C.9",
+  "kind": "line",
+  "box": 3,
+  "speaker": "銀次",
+  "jp": "他のみんなは！？",
+  "en": ""
+ },
+ {
+  "id": "7CEF1C.11",
+  "kind": "name",
+  "box": 3,
+  "jp": "鏡　",
+  "en": ""
+ },
+ {
+  "id": "7CEF1C.13",
+  "kind": "line",
+  "box": 4,
+  "speaker": "鏡　",
+  "jp": "さあ…誰とも会わなかったよ　",
+  "en": ""
+ },
+ {
+  "id": "7CEF1C.15",
+  "kind": "line",
+  "box": 5,
+  "speaker": "鏡　",
+  "jp": "もっとも、戦闘中異空間に引き込まれる",
+  "en": ""
+ },
+ {
+  "id": "7CEF1C.16",
+  "kind": "line",
+  "box": 5,
+  "speaker": "鏡　",
+  "jp": "感じがしたからね…　",
+  "en": ""
+ },
+ {
+  "id": "7CEF1C.18",
+  "kind": "line",
+  "box": 6,
+  "speaker": "鏡　",
+  "jp": "会おうとしても会えないと思うけど",
+  "en": ""
+ },
+ {
+  "id": "7CEF1C.20",
+  "kind": "name",
+  "box": 6,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CEF1C.22",
+  "kind": "line",
+  "box": 7,
+  "speaker": "銀次",
+  "jp": "………　",
+  "en": ""
+ }
+]

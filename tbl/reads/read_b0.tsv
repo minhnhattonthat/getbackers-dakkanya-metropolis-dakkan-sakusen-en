@@ -1,0 +1,163 @@
+001	０	h
+003	Ｐ	h
+004	ｅ	h
+005	ｕ	h
+006	ク	h
+007	ネ	h
+008	リ	h
+009	ゾ	h
+00A	ポ	h
+00B	き	h
+00C	ぬ	h
+00D	ら	h
+00E	ぜ	h
+00F	ぽ	h
+011	１	h
+012	Ａ	h
+013	Ｑ	h
+014	ｆ	h	context: Counterforce
+016	ケ	h
+017	ノ	h
+018	ル	h
+019	ダ	h
+01A	ァ	h	small kana
+01B	く	h
+01C	ね	h
+01D	り	h
+01E	ぞ	h
+01F	ぁ	h	small kana
+021	２	h
+022	Ｂ	h
+023	Ｒ	h
+024	ｇ	h
+025	ｗ	h
+026	コ	h
+027	ハ	h
+028	レ	h
+02A	ィ	h	small kana
+02B	け	h
+02C	の	h
+02D	る	h
+02E	だ	h
+02F	ぃ	h	small kana
+031	３	h
+032	Ｃ	h
+033	Ｓ	h
+034	ｈ	h
+036	サ	h
+037	ヒ	h
+038	ロ	h	katakana: フローラル
+039	ヅ	h	context: カヅっちゃん
+03A	ゥ	h	small kana
+03B	こ	h
+03C	は	h
+03D	れ	h
+03F	ぅ	h	small kana
+040	％	h
+041	４	h
+042	Ｄ	h
+043	Ｔ	h
+044	ｉ	h
+046	シ	h
+047	フ	h
+048	ワ	h
+049	デ	h
+04A	ェ	h	small kana: うるせェ
+04B	さ	h
+04C	ひ	h
+04D	ろ	h
+04E	づ	h
+04F	ぇ	h	small kana
+050	＆	h
+051	５	h
+052	Ｅ	h
+053	Ｕ	h
+056	ス	h
+057	ヘ	m	katakana: ヘヴン; 06C is hiragana へ
+058	ヲ	h
+059	ド	h
+05A	ォ	h	small kana
+05B	し	h
+05C	ふ	h
+05D	わ	h
+05E	て	h
+05F	ぉ	h	small kana
+060	♪	h
+061	６	h
+062	Ｆ	h
+063	Ｖ	h
+064	ｋ	h
+065	～	h
+066	セ	h
+067	ホ	h
+068	ン	h
+069	バ	h
+06A	ャ	h	small kana
+06B	す	h
+06C	へ	h	hiragana: まへん, 遠くへ
+06D	を	h
+06E	ど	h
+06F	ゃ	h	small kana
+070	（	h
+071	７	h
+072	Ｇ	h
+073	Ｗ	h
+074	ｌ	h	lowercase L: twinkle
+075	ー	h	long vowel
+076	ソ	h
+077	マ	h
+078	ガ	h
+079	ピ	h
+07A	ュ	h	small kana
+07B	せ	h
+07C	ぼ	h
+07D	ん	h
+07E	ば	h
+07F	ゅ	h	small kana
+080	）	h
+081	８	h
+082	Ｈ	h
+083	Ｘ	h
+085	・	h
+086	タ	h
+087	ミ	h
+088	ギ	h
+089	ブ	h
+08A	ョ	h	small kana
+08B	そ	h
+08C	ま	h
+08D	が	h
+08E	び	h
+08F	ょ	h	small kana
+091	９	h
+092	Ｉ	h
+093	Ｙ	h
+094	ｎ	h
+095	ア	h
+096	チ	h
+097	ム	h
+098	グ	h
+099	ベ	h	katakana: ラベンダー; 0AE is hiragana
+09A	ッ	h	small kana
+09B	た	h
+09C	み	h
+09D	ぎ	h
+09E	ぶ	h
+09F	っ	h	small kana
+0A0	＋	h
+0A1	：	h
+0A2	Ｊ	h
+0A3	Ｚ	h
+0A4	ｏ	h
+0A5	イ	h
+0A6	ツ	h
+0A7	メ	h
+0A8	ゲ	h
+0A9	ボ	h
+0AA	あ	h
+0AB	ち	h
+0AC	む	h
+0AD	ぐ	h
+0AE	べ	h	hiragana: 食べる
+0AF	…	h
+0B0	、	h

@@ -1,0 +1,63 @@
+[
+ {
+  "id": "7BBDBC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7BBDBC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "蛮　",
+  "jp": "よっしゃ！　",
+  "en": ""
+ },
+ {
+  "id": "7BBDBC.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "蛮　",
+  "jp": "ガンガン先に進むとするか！！",
+  "en": ""
+ },
+ {
+  "id": "7BBDBC.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "卑弥呼　",
+  "en": ""
+ },
+ {
+  "id": "7BBDBC.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "卑弥呼　",
+  "jp": "ダメよ、別チームのトビラのスイッチを",
+  "en": ""
+ },
+ {
+  "id": "7BBDBC.9",
+  "kind": "line",
+  "box": 2,
+  "speaker": "卑弥呼　",
+  "jp": "解除するかも知れないし…",
+  "en": ""
+ },
+ {
+  "id": "7BBDBC.11",
+  "kind": "name",
+  "box": 2,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7BBDBC.13",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "しゃあねえな…待ってるとするか　",
+  "en": ""
+ }
+]

@@ -1,0 +1,71 @@
+[
+ {
+  "id": "7BEBD8.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7BEBD8.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "蛮　",
+  "jp": "クソッ！　カギがかかってやがる！",
+  "en": ""
+ },
+ {
+  "id": "7BEBD8.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "蛮　",
+  "jp": "ぶち壊…",
+  "en": ""
+ },
+ {
+  "id": "7BEBD8.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "赤屍",
+  "en": ""
+ },
+ {
+  "id": "7BEBD8.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "赤屍",
+  "jp": "カギでしたら",
+  "en": ""
+ },
+ {
+  "id": "7BEBD8.9",
+  "kind": "line",
+  "box": 2,
+  "speaker": "赤屍",
+  "jp": "先程いただいておきましたよ　",
+  "en": ""
+ },
+ {
+  "id": "7BEBD8.11",
+  "kind": "name",
+  "box": 2,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7BEBD8.13",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "（ったく、味方にしてると",
+  "en": ""
+ },
+ {
+  "id": "7BEBD8.14",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "役に立つんだがな…）",
+  "en": ""
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "7BEFF8.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "士度",
+  "en": ""
+ },
+ {
+  "id": "7BEFF8.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "士度",
+  "jp": "…ここにもなにか仕掛けが",
+  "en": ""
+ },
+ {
+  "id": "7BEFF8.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "士度",
+  "jp": "ありそうな感じだな　",
+  "en": ""
+ },
+ {
+  "id": "7BEFF8.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "笑師",
+  "en": ""
+ },
+ {
+  "id": "7BEFF8.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "笑師",
+  "jp": "ん～、あそこにマネキンありますやん　",
+  "en": ""
+ },
+ {
+  "id": "7BEFF8.9",
+  "kind": "line",
+  "box": 2,
+  "speaker": "笑師",
+  "jp": "それに服着せてみせるんちゃいますか？",
+  "en": ""
+ },
+ {
+  "id": "7BEFF8.11",
+  "kind": "name",
+  "box": 2,
+  "jp": "士度",
+  "en": ""
+ },
+ {
+  "id": "7BEFF8.13",
+  "kind": "line",
+  "box": 3,
+  "speaker": "士度",
+  "jp": "………　",
+  "en": ""
+ },
+ {
+  "id": "7BEFF8.15",
+  "kind": "name",
+  "box": 3,
+  "jp": "笑師",
+  "en": ""
+ },
+ {
+  "id": "7BEFF8.17",
+  "kind": "line",
+  "box": 4,
+  "speaker": "笑師",
+  "jp": "いやいや、変ですて！",
+  "en": ""
+ },
+ {
+  "id": "7BEFF8.18",
+  "kind": "line",
+  "box": 4,
+  "speaker": "笑師",
+  "jp": "一つだけあんなんなっとるのも！！",
+  "en": ""
+ }
+]

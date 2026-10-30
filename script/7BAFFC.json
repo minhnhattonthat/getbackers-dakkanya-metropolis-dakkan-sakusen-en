@@ -1,0 +1,64 @@
+[
+ {
+  "id": "7BAFFC.2",
+  "kind": "line",
+  "box": 1,
+  "speaker": "",
+  "jp": "Ｑ１：５＋７－１０＋１３＋３＝　",
+  "en": ""
+ },
+ {
+  "id": "7BAFFC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "",
+  "jp": "Ｑ２：８＋９－３＋５＝　",
+  "en": ""
+ },
+ {
+  "id": "7BAFFC.5",
+  "kind": "line",
+  "box": 2,
+  "speaker": "",
+  "jp": "Ｑ１→Ｑ２　",
+  "en": ""
+ },
+ {
+  "id": "7BAFFC.7",
+  "kind": "name",
+  "box": 2,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7BAFFC.9",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "ああ？　ここだけ計算になってンぞ",
+  "en": ""
+ },
+ {
+  "id": "7BAFFC.11",
+  "kind": "name",
+  "box": 3,
+  "jp": "卑弥呼　",
+  "en": ""
+ },
+ {
+  "id": "7BAFFC.13",
+  "kind": "line",
+  "box": 4,
+  "speaker": "卑弥呼　",
+  "jp": "…答えの番号のスイッチを",
+  "en": ""
+ },
+ {
+  "id": "7BAFFC.14",
+  "kind": "line",
+  "box": 4,
+  "speaker": "卑弥呼　",
+  "jp": "順番に押せってことかしら？　",
+  "en": ""
+ }
+]

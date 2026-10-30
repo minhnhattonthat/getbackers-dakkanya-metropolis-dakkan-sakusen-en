@@ -1,0 +1,71 @@
+[
+ {
+  "id": "7BC5DC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "夏実",
+  "en": ""
+ },
+ {
+  "id": "7BC5DC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "夏実",
+  "jp": "（…銀次さんてば、　",
+  "en": ""
+ },
+ {
+  "id": "7BC5DC.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "夏実",
+  "jp": "すごく落ち込んでますね）",
+  "en": ""
+ },
+ {
+  "id": "7BC5DC.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "波児",
+  "en": ""
+ },
+ {
+  "id": "7BC5DC.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "波児",
+  "jp": "（ま、アルが急にいなくなったんだ",
+  "en": ""
+ },
+ {
+  "id": "7BC5DC.9",
+  "kind": "line",
+  "box": 2,
+  "speaker": "波児",
+  "jp": "仕方ないさ）",
+  "en": ""
+ },
+ {
+  "id": "7BC5DC.11",
+  "kind": "name",
+  "box": 2,
+  "jp": "ヘヴン　",
+  "en": ""
+ },
+ {
+  "id": "7BC5DC.13",
+  "kind": "line",
+  "box": 3,
+  "speaker": "ヘヴン　",
+  "jp": "（でも銀ちゃんがこの調子じゃ、　",
+  "en": ""
+ },
+ {
+  "id": "7BC5DC.14",
+  "kind": "line",
+  "box": 3,
+  "speaker": "ヘヴン　",
+  "jp": "しばらく仕事は頼めそうにないわね…）",
+  "en": ""
+ }
+]

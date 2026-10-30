@@ -1,0 +1,405 @@
+[
+ {
+  "id": "7AFE0C.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "花月",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "花月",
+  "jp": "すみませんが、　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "花月",
+  "jp": "カギを貸していただけませんか？　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "秘書",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "秘書",
+  "jp": "カギ？　ああ、キーメモリーのこと？　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.9",
+  "kind": "line",
+  "box": 2,
+  "speaker": "秘書",
+  "jp": "持ってるけど…　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.11",
+  "kind": "line",
+  "box": 3,
+  "speaker": "秘書",
+  "jp": "あなた見ない顔ね、新人のコ？",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.13",
+  "kind": "name",
+  "box": 3,
+  "jp": "花月",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.15",
+  "kind": "line",
+  "box": 4,
+  "speaker": "花月",
+  "jp": "ええ、まあ…",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.17",
+  "kind": "name",
+  "box": 4,
+  "jp": "秘書",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.19",
+  "kind": "line",
+  "box": 5,
+  "speaker": "秘書",
+  "jp": "そう、じゃあまだ知らないかも",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.20",
+  "kind": "line",
+  "box": 5,
+  "speaker": "秘書",
+  "jp": "しれないから教えてあげるわね",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.22",
+  "kind": "line",
+  "box": 6,
+  "speaker": "秘書",
+  "jp": "ウチの会社はキーメモリーを使って",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.23",
+  "kind": "line",
+  "box": 6,
+  "speaker": "秘書",
+  "jp": "それぞれのトビラをあけるのよ",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.25",
+  "kind": "line",
+  "box": 7,
+  "speaker": "秘書",
+  "jp": "でも一つのキーメモリーには　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.26",
+  "kind": "line",
+  "box": 7,
+  "speaker": "秘書",
+  "jp": "一つのパスしか入れられないの",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.28",
+  "kind": "name",
+  "box": 7,
+  "jp": "花月",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.30",
+  "kind": "line",
+  "box": 8,
+  "speaker": "花月",
+  "jp": "パス…？",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.31",
+  "kind": "line",
+  "box": 8,
+  "speaker": "花月",
+  "jp": "暗証番号のことですか？　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.33",
+  "kind": "name",
+  "box": 8,
+  "jp": "秘書",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.35",
+  "kind": "line",
+  "box": 9,
+  "speaker": "秘書",
+  "jp": "そう、トビラって色が違うでしょ？",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.36",
+  "kind": "line",
+  "box": 9,
+  "speaker": "秘書",
+  "jp": "色別に違うパスが必要なのよ　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.38",
+  "kind": "line",
+  "box": 10,
+  "speaker": "秘書",
+  "jp": "黄色いトビラを開くには　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.39",
+  "kind": "line",
+  "box": 10,
+  "speaker": "秘書",
+  "jp": "パスコード１が　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.41",
+  "kind": "line",
+  "box": 11,
+  "speaker": "秘書",
+  "jp": "青いトビラを開くには",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.42",
+  "kind": "line",
+  "box": 11,
+  "speaker": "秘書",
+  "jp": "パスコード２が　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.44",
+  "kind": "line",
+  "box": 12,
+  "speaker": "秘書",
+  "jp": "赤いトビラを開くには",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.45",
+  "kind": "line",
+  "box": 12,
+  "speaker": "秘書",
+  "jp": "パスコード３が必要なのよ",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.47",
+  "kind": "name",
+  "box": 12,
+  "jp": "花月",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.49",
+  "kind": "line",
+  "box": 13,
+  "speaker": "花月",
+  "jp": "管理体制が厳しいんですね",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.51",
+  "kind": "name",
+  "box": 13,
+  "jp": "秘書",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.53",
+  "kind": "line",
+  "box": 14,
+  "speaker": "秘書",
+  "jp": "そうね…",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.54",
+  "kind": "line",
+  "box": 14,
+  "speaker": "秘書",
+  "jp": "ちょっとやりすぎだと思うけど",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.56",
+  "kind": "line",
+  "box": 15,
+  "speaker": "秘書",
+  "jp": "そうそう、キーメモリーに記憶された　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.57",
+  "kind": "line",
+  "box": 15,
+  "speaker": "秘書",
+  "jp": "パスは一度使うと消えちゃうわよ　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.59",
+  "kind": "name",
+  "box": 15,
+  "jp": "花月",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.61",
+  "kind": "line",
+  "box": 16,
+  "speaker": "花月",
+  "jp": "そのつど記憶させないと　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.62",
+  "kind": "line",
+  "box": 16,
+  "speaker": "花月",
+  "jp": "ダメということですか？　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.64",
+  "kind": "name",
+  "box": 16,
+  "jp": "秘書",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.66",
+  "kind": "line",
+  "box": 17,
+  "speaker": "秘書",
+  "jp": "そうなの、別の部屋を開けるには　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.67",
+  "kind": "line",
+  "box": 17,
+  "speaker": "秘書",
+  "jp": "新しいパスを登録しないとダメなのよ　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.69",
+  "kind": "line",
+  "box": 18,
+  "speaker": "秘書",
+  "jp": "それじゃガンバってね、　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.70",
+  "kind": "line",
+  "box": 18,
+  "speaker": "秘書",
+  "jp": "新人秘書さん",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.74",
+  "kind": "line",
+  "box": 19,
+  "speaker": "秘書",
+  "jp": "キーメモリーと　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.75",
+  "kind": "line",
+  "box": 19,
+  "speaker": "秘書",
+  "jp": "パスコード１を手に入れた！　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.77",
+  "kind": "name",
+  "box": 19,
+  "jp": "花月",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.79",
+  "kind": "line",
+  "box": 20,
+  "speaker": "花月",
+  "jp": "どうも間違われたようですね…",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.81",
+  "kind": "name",
+  "box": 20,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.83",
+  "kind": "line",
+  "box": 21,
+  "speaker": "銀次",
+  "jp": "でもカギも手に入ったし、",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.84",
+  "kind": "line",
+  "box": 21,
+  "speaker": "銀次",
+  "jp": "良かったよね！　",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.86",
+  "kind": "name",
+  "box": 21,
+  "jp": "花月",
+  "en": ""
+ },
+ {
+  "id": "7AFE0C.88",
+  "kind": "line",
+  "box": 22,
+  "speaker": "花月",
+  "jp": "そうですね…",
+  "en": ""
+ }
+]

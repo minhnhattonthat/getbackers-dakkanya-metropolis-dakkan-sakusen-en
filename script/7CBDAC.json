@@ -1,0 +1,55 @@
+[
+ {
+  "id": "7CBDAC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "波児",
+  "en": ""
+ },
+ {
+  "id": "7CBDAC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "波児",
+  "jp": "………　",
+  "en": ""
+ },
+ {
+  "id": "7CBDAC.5",
+  "kind": "name",
+  "box": 1,
+  "jp": "夏実",
+  "en": ""
+ },
+ {
+  "id": "7CBDAC.7",
+  "kind": "line",
+  "box": 2,
+  "speaker": "夏実",
+  "jp": "………　",
+  "en": ""
+ },
+ {
+  "id": "7CBDAC.12",
+  "kind": "name",
+  "box": 2,
+  "jp": "ＭＡＩ　",
+  "en": ""
+ },
+ {
+  "id": "7CBDAC.14",
+  "kind": "line",
+  "box": 3,
+  "speaker": "ＭＡＩ　",
+  "jp": "みなさん…この声が聞こえますか？",
+  "en": ""
+ },
+ {
+  "id": "7CBDAC.15",
+  "kind": "line",
+  "box": 3,
+  "speaker": "ＭＡＩ　",
+  "jp": "私はＭＡＩ、坂本茉衣です",
+  "en": ""
+ }
+]

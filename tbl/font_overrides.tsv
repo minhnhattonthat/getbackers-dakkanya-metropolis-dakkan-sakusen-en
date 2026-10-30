@@ -1,0 +1,18 @@
+# Controller rulings over work/font/read_b*.tsv (merged last). Element icons = kanji in a dark box (status/battle).
+5C3	　	h	blank cell: line padding and a full-width space mid-line
+507	[無]	h	element icon
+517	[雷]	h	element icon
+527	[火]	h	element icon
+537	[闇]	h	element icon
+547	[水]	h	element icon
+557	[土]	h	element icon
+567	[砂]	h	element icon (石+少, zoom 8)
+577	[風]	h	element icon (zoom 8)
+587	[光]	h	element icon
+000	■	h	solid block: the original's missing glyph (line すぐに■めるのは悪いクセだぜ = 諦)
+5F2	郁	h	有 + ⻏ at zoom 8 (c0 read 都; 385 is 都), credits name 郁奈子
+05E	で	h	glyph has dakuten (b0 read て; 0CB is て)
+079	ビ	h	glyph has dakuten (b0 read ピ; 0D9 is ピ)
+07C	ほ	h	no dakuten (b0 read ぼ; 0BE is ぼ)
+531	『︀	h	second 『 cell (glyph differs by a pixel from 0BF): VS1 keeps codes apart
+541	』︀	h	second 』 cell (vs 0CF): VS1 keeps codes apart

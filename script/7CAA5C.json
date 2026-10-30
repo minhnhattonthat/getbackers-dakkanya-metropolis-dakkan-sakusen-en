@@ -1,0 +1,48 @@
+[
+ {
+  "id": "7CAA5C.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "鏡　",
+  "en": ""
+ },
+ {
+  "id": "7CAA5C.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "鏡　",
+  "jp": "勢ぞろいしたみたいだね…",
+  "en": ""
+ },
+ {
+  "id": "7CAA5C.5",
+  "kind": "line",
+  "box": 2,
+  "speaker": "鏡　",
+  "jp": "さあ、行くんだろう？",
+  "en": ""
+ },
+ {
+  "id": "7CAA5C.7",
+  "kind": "name",
+  "box": 2,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CAA5C.9",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "もちろんだ！",
+  "en": ""
+ },
+ {
+  "id": "7CAA5C.10",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "気合入れてけよ、オメーら！！",
+  "en": ""
+ }
+]

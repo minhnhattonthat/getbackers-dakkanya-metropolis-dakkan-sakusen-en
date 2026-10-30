@@ -1,0 +1,80 @@
+[
+ {
+  "id": "7A0BBC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7A0BBC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "ねえ、蛮ちゃん　",
+  "en": ""
+ },
+ {
+  "id": "7A0BBC.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "ヘヴンさんにガソリン代前借りした時に",
+  "en": ""
+ },
+ {
+  "id": "7A0BBC.6",
+  "kind": "line",
+  "box": 2,
+  "speaker": "銀次",
+  "jp": "後で十倍にして返す　",
+  "en": ""
+ },
+ {
+  "id": "7A0BBC.7",
+  "kind": "line",
+  "box": 2,
+  "speaker": "銀次",
+  "jp": "なんて言っちゃったけど平気なの？",
+  "en": ""
+ },
+ {
+  "id": "7A0BBC.9",
+  "kind": "name",
+  "box": 2,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7A0BBC.11",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "仕方ねえだろ、そうでも言わねえと",
+  "en": ""
+ },
+ {
+  "id": "7A0BBC.12",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "貸してくれねえんだからよ",
+  "en": ""
+ },
+ {
+  "id": "7A0BBC.14",
+  "kind": "line",
+  "box": 4,
+  "speaker": "蛮　",
+  "jp": "それにな、　",
+  "en": ""
+ },
+ {
+  "id": "7A0BBC.15",
+  "kind": "line",
+  "box": 4,
+  "speaker": "蛮　",
+  "jp": "依頼料さえ入ればガソリン代位…　",
+  "en": ""
+ }
+]

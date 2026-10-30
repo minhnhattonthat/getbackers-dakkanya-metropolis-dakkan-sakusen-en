@@ -1,0 +1,63 @@
+[
+ {
+  "id": "7C07CC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7C07CC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "蛮　",
+  "jp": "…電気が戻ったな",
+  "en": ""
+ },
+ {
+  "id": "7C07CC.5",
+  "kind": "name",
+  "box": 1,
+  "jp": "花月",
+  "en": ""
+ },
+ {
+  "id": "7C07CC.7",
+  "kind": "line",
+  "box": 2,
+  "speaker": "花月",
+  "jp": "残る部屋は後一つ",
+  "en": ""
+ },
+ {
+  "id": "7C07CC.9",
+  "kind": "line",
+  "box": 3,
+  "speaker": "花月",
+  "jp": "とすると銀次さんは…",
+  "en": ""
+ },
+ {
+  "id": "7C07CC.11",
+  "kind": "name",
+  "box": 3,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7C07CC.13",
+  "kind": "line",
+  "box": 4,
+  "speaker": "蛮　",
+  "jp": "そこにいるはずだ！　",
+  "en": ""
+ },
+ {
+  "id": "7C07CC.14",
+  "kind": "line",
+  "box": 4,
+  "speaker": "蛮　",
+  "jp": "行くぞ！！　",
+  "en": ""
+ }
+]

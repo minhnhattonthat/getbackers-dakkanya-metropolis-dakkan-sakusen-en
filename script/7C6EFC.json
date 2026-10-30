@@ -1,0 +1,133 @@
+[
+ {
+  "id": "7C6EFC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "…あれ、雪彦くん？　",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "キミが助けてくれたの？　",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "弥勒",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "弥勒",
+  "jp": "ちょっと気になったから来てみたんだ　",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.10",
+  "kind": "line",
+  "box": 3,
+  "speaker": "弥勒",
+  "jp": "そしたら君が空から降ってきて…　",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.11",
+  "kind": "line",
+  "box": 3,
+  "speaker": "弥勒",
+  "jp": "ビックリしたよ　",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.13",
+  "kind": "name",
+  "box": 3,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.15",
+  "kind": "line",
+  "box": 4,
+  "speaker": "銀次",
+  "jp": "ありがとう、雪彦くん",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.17",
+  "kind": "line",
+  "box": 5,
+  "speaker": "銀次",
+  "jp": "………　",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.18",
+  "kind": "line",
+  "box": 5,
+  "speaker": "銀次",
+  "jp": "あれ…アルくんは！？",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.20",
+  "kind": "name",
+  "box": 5,
+  "jp": "弥勒",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.22",
+  "kind": "line",
+  "box": 6,
+  "speaker": "弥勒",
+  "jp": "もう一人の人のこと？",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.24",
+  "kind": "line",
+  "box": 7,
+  "speaker": "弥勒",
+  "jp": "ひどいケガをしてるみたいだけど、",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.25",
+  "kind": "line",
+  "box": 7,
+  "speaker": "弥勒",
+  "jp": "命に別状はなさそうだよ　",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.27",
+  "kind": "name",
+  "box": 7,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7C6EFC.29",
+  "kind": "line",
+  "box": 8,
+  "speaker": "銀次",
+  "jp": "そう…良かった………",
+  "en": ""
+ }
+]

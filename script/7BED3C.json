@@ -1,0 +1,32 @@
+[
+ {
+  "id": "7BED3C.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "士度",
+  "en": ""
+ },
+ {
+  "id": "7BED3C.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "士度",
+  "jp": "動かせそうだな、このベッド　",
+  "en": ""
+ },
+ {
+  "id": "7BED3C.5",
+  "kind": "name",
+  "box": 1,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7BED3C.7",
+  "kind": "line",
+  "box": 2,
+  "speaker": "蛮　",
+  "jp": "よし、動かしてみるか",
+  "en": ""
+ }
+]

@@ -1,0 +1,48 @@
+[
+ {
+  "id": "7BACC0.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7BACC0.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "あれ？　",
+  "en": ""
+ },
+ {
+  "id": "7BACC0.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "押すところが中に入っちゃってるよ",
+  "en": ""
+ },
+ {
+  "id": "7BACC0.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "花月",
+  "en": ""
+ },
+ {
+  "id": "7BACC0.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "花月",
+  "jp": "どうやら一回しか押すことのできない　",
+  "en": ""
+ },
+ {
+  "id": "7BACC0.9",
+  "kind": "line",
+  "box": 2,
+  "speaker": "花月",
+  "jp": "構造になってるみたいですね　",
+  "en": ""
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "id": "7A1FBC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "警備員　",
+  "en": ""
+ },
+ {
+  "id": "7A1FBC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "警備員　",
+  "jp": "お前らか、　",
+  "en": ""
+ },
+ {
+  "id": "7A1FBC.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "警備員　",
+  "jp": "衣装を奪いにきた連中というのは　",
+  "en": ""
+ },
+ {
+  "id": "7A1FBC.6",
+  "kind": "line",
+  "box": 2,
+  "speaker": "警備員　",
+  "jp": "ここから先へ通すわけにはいかんな！　",
+  "en": ""
+ },
+ {
+  "id": "7A1FBC.8",
+  "kind": "name",
+  "box": 2,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7A1FBC.10",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "ハッ、面白ェ！　",
+  "en": ""
+ },
+ {
+  "id": "7A1FBC.11",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "やれるモンならやってみな！！",
+  "en": ""
+ }
+]

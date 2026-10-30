@@ -1,0 +1,102 @@
+[
+ {
+  "id": "7CBBF4.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CBBF4.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "バリアを全て破ったはずなのに…　",
+  "en": ""
+ },
+ {
+  "id": "7CBBF4.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "ダメージを与えることができない！？　",
+  "en": ""
+ },
+ {
+  "id": "7CBBF4.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CBBF4.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "蛮　",
+  "jp": "チッ、どうやら情報がもれたことに",
+  "en": ""
+ },
+ {
+  "id": "7CBBF4.9",
+  "kind": "line",
+  "box": 2,
+  "speaker": "蛮　",
+  "jp": "気付いてたみてえだな…　",
+  "en": ""
+ },
+ {
+  "id": "7CBBF4.11",
+  "kind": "name",
+  "box": 2,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CBBF4.13",
+  "kind": "line",
+  "box": 3,
+  "speaker": "銀次",
+  "jp": "どうしよう、蛮ちゃん？　",
+  "en": ""
+ },
+ {
+  "id": "7CBBF4.14",
+  "kind": "line",
+  "box": 3,
+  "speaker": "銀次",
+  "jp": "このままじゃ…　",
+  "en": ""
+ },
+ {
+  "id": "7CBBF4.16",
+  "kind": "name",
+  "box": 3,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CBBF4.18",
+  "kind": "line",
+  "box": 4,
+  "speaker": "蛮　",
+  "jp": "ンな顔すんじゃねえ！",
+  "en": ""
+ },
+ {
+  "id": "7CBBF4.19",
+  "kind": "line",
+  "box": 4,
+  "speaker": "蛮　",
+  "jp": "俺たちは無敵の奪還屋だ！！　",
+  "en": ""
+ },
+ {
+  "id": "7CBBF4.21",
+  "kind": "line",
+  "box": 5,
+  "speaker": "蛮　",
+  "jp": "こんな所で負けてたまるかってンだ！！",
+  "en": ""
+ }
+]

@@ -1,0 +1,85 @@
+[
+ {
+  "id": "7CE9AC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CE9AC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "まだいるのか…　",
+  "en": ""
+ },
+ {
+  "id": "7CE9AC.5",
+  "kind": "name",
+  "box": 1,
+  "jp": "十兵衛　",
+  "en": ""
+ },
+ {
+  "id": "7CE9AC.7",
+  "kind": "line",
+  "box": 2,
+  "speaker": "十兵衛　",
+  "jp": "雷帝、ここは俺に任せろ　",
+  "en": ""
+ },
+ {
+  "id": "7CE9AC.9",
+  "kind": "name",
+  "box": 2,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CE9AC.11",
+  "kind": "line",
+  "box": 3,
+  "speaker": "銀次",
+  "jp": "………　",
+  "en": ""
+ },
+ {
+  "id": "7CE9AC.13",
+  "kind": "name",
+  "box": 3,
+  "jp": "十兵衛　",
+  "en": ""
+ },
+ {
+  "id": "7CE9AC.15",
+  "kind": "line",
+  "box": 4,
+  "speaker": "十兵衛　",
+  "jp": "どうした、俺の力が信じられんのか？　",
+  "en": ""
+ },
+ {
+  "id": "7CE9AC.17",
+  "kind": "name",
+  "box": 4,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CE9AC.19",
+  "kind": "line",
+  "box": 5,
+  "speaker": "銀次",
+  "jp": "………　",
+  "en": ""
+ },
+ {
+  "id": "7CE9AC.21",
+  "kind": "line",
+  "box": 6,
+  "speaker": "銀次",
+  "jp": "頼むよ、十兵衛！",
+  "en": ""
+ }
+]

@@ -1,0 +1,48 @@
+[
+ {
+  "id": "79DCAC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "79DCAC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "蛮　",
+  "jp": "床下から聞こえてくるみてえだな…",
+  "en": ""
+ },
+ {
+  "id": "79DCAC.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "蛮　",
+  "jp": "銀次、電撃浴びせてみろや",
+  "en": ""
+ },
+ {
+  "id": "79DCAC.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "79DCAC.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "銀次",
+  "jp": "ＯＫ！　",
+  "en": ""
+ },
+ {
+  "id": "79DCAC.9",
+  "kind": "line",
+  "box": 2,
+  "speaker": "銀次",
+  "jp": "二人は離れててよ！　",
+  "en": ""
+ }
+]

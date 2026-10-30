@@ -1,0 +1,71 @@
+[
+ {
+  "id": "7BBECC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "笑師",
+  "en": ""
+ },
+ {
+  "id": "7BBECC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "笑師",
+  "jp": "おお～、ようやっと抜けましたな！",
+  "en": ""
+ },
+ {
+  "id": "7BBECC.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "笑師",
+  "jp": "ほな先行きましょか！",
+  "en": ""
+ },
+ {
+  "id": "7BBECC.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "花月",
+  "en": ""
+ },
+ {
+  "id": "7BBECC.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "花月",
+  "jp": "ダメですよ　",
+  "en": ""
+ },
+ {
+  "id": "7BBECC.10",
+  "kind": "line",
+  "box": 3,
+  "speaker": "花月",
+  "jp": "別チームのトビラのスイッチを",
+  "en": ""
+ },
+ {
+  "id": "7BBECC.11",
+  "kind": "line",
+  "box": 3,
+  "speaker": "花月",
+  "jp": "解除するかも知れませんしね…",
+  "en": ""
+ },
+ {
+  "id": "7BBECC.13",
+  "kind": "name",
+  "box": 3,
+  "jp": "十兵衛　",
+  "en": ""
+ },
+ {
+  "id": "7BBECC.15",
+  "kind": "line",
+  "box": 4,
+  "speaker": "十兵衛　",
+  "jp": "ここで待った方が良さそうだな…　",
+  "en": ""
+ }
+]

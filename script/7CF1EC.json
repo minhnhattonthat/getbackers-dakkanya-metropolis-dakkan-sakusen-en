@@ -1,0 +1,307 @@
+[
+ {
+  "id": "7CF1EC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "あったよ、蛮ちゃん！！　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.5",
+  "kind": "name",
+  "box": 1,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.7",
+  "kind": "line",
+  "box": 2,
+  "speaker": "蛮　",
+  "jp": "銀次…電気帯びた手で",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "蛮　",
+  "jp": "爆弾に触ったりすンじゃねーぞ",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.10",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "起爆装置作動させられちゃ",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.11",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "たまんねーからな",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.13",
+  "kind": "name",
+  "box": 3,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.15",
+  "kind": "line",
+  "box": 4,
+  "speaker": "銀次",
+  "jp": "………　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.17",
+  "kind": "name",
+  "box": 4,
+  "jp": "鏡　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.19",
+  "kind": "line",
+  "box": 5,
+  "speaker": "鏡　",
+  "jp": "…時限式になっているのは",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.20",
+  "kind": "line",
+  "box": 5,
+  "speaker": "鏡　",
+  "jp": "一つだけみたいだね？",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.22",
+  "kind": "name",
+  "box": 5,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.24",
+  "kind": "line",
+  "box": 6,
+  "speaker": "蛮　",
+  "jp": "残りは連鎖させる気か…　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.26",
+  "kind": "name",
+  "box": 6,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.28",
+  "kind": "line",
+  "box": 7,
+  "speaker": "銀次",
+  "jp": "あっ、じゃあこのコード切っちゃえば　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.29",
+  "kind": "line",
+  "box": 7,
+  "speaker": "銀次",
+  "jp": "他のは爆発しないんじゃない？",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.31",
+  "kind": "name",
+  "box": 7,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.33",
+  "kind": "line",
+  "box": 8,
+  "speaker": "蛮　",
+  "jp": "コード切った途端、爆発すンぞ",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.35",
+  "kind": "name",
+  "box": 8,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.37",
+  "kind": "line",
+  "box": 9,
+  "speaker": "銀次",
+  "jp": "………　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.39",
+  "kind": "name",
+  "box": 9,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.41",
+  "kind": "line",
+  "box": 10,
+  "speaker": "蛮　",
+  "jp": "コイツに任せるのが　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.42",
+  "kind": "line",
+  "box": 10,
+  "speaker": "蛮　",
+  "jp": "そもそも間違ってたみてぇだな…　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.44",
+  "kind": "name",
+  "box": 10,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.46",
+  "kind": "line",
+  "box": 11,
+  "speaker": "銀次",
+  "jp": "だ、大丈夫だよ　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.47",
+  "kind": "line",
+  "box": 11,
+  "speaker": "銀次",
+  "jp": "ＭＡＫＵＢＥＸがいるし…",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.49",
+  "kind": "name",
+  "box": 11,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.51",
+  "kind": "line",
+  "box": 12,
+  "speaker": "銀次",
+  "jp": "ダメだ…電波が届かないよ………　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.53",
+  "kind": "line",
+  "box": 13,
+  "speaker": "銀次",
+  "jp": "どうしよう…",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.55",
+  "kind": "name",
+  "box": 13,
+  "jp": "鏡　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.57",
+  "kind": "line",
+  "box": 14,
+  "speaker": "鏡　",
+  "jp": "時間を稼ぐには冷やすしかないだろうね",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.59",
+  "kind": "name",
+  "box": 14,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.61",
+  "kind": "line",
+  "box": 15,
+  "speaker": "蛮　",
+  "jp": "液体窒素か…",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.62",
+  "kind": "line",
+  "box": 15,
+  "speaker": "蛮　",
+  "jp": "あるのかよ、このビルに？",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.64",
+  "kind": "name",
+  "box": 15,
+  "jp": "鏡　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.66",
+  "kind": "line",
+  "box": 16,
+  "speaker": "鏡　",
+  "jp": "このまま解体するのは危険だし、　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.67",
+  "kind": "line",
+  "box": 16,
+  "speaker": "鏡　",
+  "jp": "それしか道はないと思うけど？",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.69",
+  "kind": "name",
+  "box": 16,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CF1EC.71",
+  "kind": "line",
+  "box": 17,
+  "speaker": "蛮　",
+  "jp": "探すしかなさそうだな…　",
+  "en": ""
+ }
+]

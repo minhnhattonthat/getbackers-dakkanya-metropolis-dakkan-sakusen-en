@@ -1,0 +1,55 @@
+[
+ {
+  "id": "7ABDA0.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "社員",
+  "en": ""
+ },
+ {
+  "id": "7ABDA0.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "社員",
+  "jp": "丁重にもてなしてやんな！",
+  "en": ""
+ },
+ {
+  "id": "7ABDA0.5",
+  "kind": "name",
+  "box": 1,
+  "jp": "士度",
+  "en": ""
+ },
+ {
+  "id": "7ABDA0.7",
+  "kind": "line",
+  "box": 2,
+  "speaker": "士度",
+  "jp": "………　",
+  "en": ""
+ },
+ {
+  "id": "7ABDA0.9",
+  "kind": "name",
+  "box": 2,
+  "jp": "？？？　",
+  "en": ""
+ },
+ {
+  "id": "7ABDA0.11",
+  "kind": "line",
+  "box": 3,
+  "speaker": "？？？　",
+  "jp": "士度はーーーーん！　",
+  "en": ""
+ },
+ {
+  "id": "7ABDA0.12",
+  "kind": "line",
+  "box": 3,
+  "speaker": "？？？　",
+  "jp": "助けに来たでーーーーーっ！！",
+  "en": ""
+ }
+]

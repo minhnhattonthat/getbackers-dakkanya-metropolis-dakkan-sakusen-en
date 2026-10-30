@@ -1,0 +1,141 @@
+[
+ {
+  "id": "7ABB6C.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "社員",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "社員",
+  "jp": "…なんだ、お前　",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "社員",
+  "jp": "ウチのプロダクションになにか用か？　",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "士度",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "士度",
+  "jp": "ＭＡＩってヤツに話がある",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.9",
+  "kind": "line",
+  "box": 2,
+  "speaker": "士度",
+  "jp": "そこを通してくんねーか？",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.11",
+  "kind": "name",
+  "box": 2,
+  "jp": "社員",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.13",
+  "kind": "line",
+  "box": 3,
+  "speaker": "社員",
+  "jp": "はいそうですか　",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.15",
+  "kind": "line",
+  "box": 4,
+  "speaker": "社員",
+  "jp": "…って通すヤツが",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.16",
+  "kind": "line",
+  "box": 4,
+  "speaker": "社員",
+  "jp": "いるとでも思ってんのか？",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.18",
+  "kind": "line",
+  "box": 5,
+  "speaker": "社員",
+  "jp": "さてはウチの内情を探りにきたな？",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.20",
+  "kind": "name",
+  "box": 5,
+  "jp": "士度",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.22",
+  "kind": "line",
+  "box": 6,
+  "speaker": "士度",
+  "jp": "俺はそんなことに興味はねえよ",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.23",
+  "kind": "line",
+  "box": 6,
+  "speaker": "士度",
+  "jp": "ただＭＡＩってやつと話したいだけだ　",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.25",
+  "kind": "line",
+  "box": 7,
+  "speaker": "士度",
+  "jp": "事を荒げるつもりもねえ　",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.27",
+  "kind": "name",
+  "box": 7,
+  "jp": "社員",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.29",
+  "kind": "line",
+  "box": 8,
+  "speaker": "社員",
+  "jp": "誰がそんなこと信じるものか　",
+  "en": ""
+ },
+ {
+  "id": "7ABB6C.30",
+  "kind": "line",
+  "box": 8,
+  "speaker": "社員",
+  "jp": "おいテメーら、客だ！",
+  "en": ""
+ }
+]

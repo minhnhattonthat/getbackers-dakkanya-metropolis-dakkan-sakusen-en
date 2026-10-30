@@ -1,0 +1,395 @@
+[
+ {
+  "id": "7CDC1C.2",
+  "kind": "name",
+  "box": 0,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "…あれ、ケータイ鳴ってる？　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.7",
+  "kind": "name",
+  "box": 1,
+  "jp": "マクベス",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.9",
+  "kind": "line",
+  "box": 2,
+  "speaker": "マクベス",
+  "jp": "お久しぶりです、銀次さん",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.11",
+  "kind": "name",
+  "box": 2,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.13",
+  "kind": "line",
+  "box": 3,
+  "speaker": "銀次",
+  "jp": "どうしたの、ＭＡＫＵＢＥＸ？",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.15",
+  "kind": "name",
+  "box": 3,
+  "jp": "マクベス",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.17",
+  "kind": "line",
+  "box": 4,
+  "speaker": "マクベス",
+  "jp": "アルファタワー絡みの裏情報が",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.18",
+  "kind": "line",
+  "box": 4,
+  "speaker": "マクベス",
+  "jp": "あるんですよ",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.20",
+  "kind": "name",
+  "box": 4,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.22",
+  "kind": "line",
+  "box": 5,
+  "speaker": "銀次",
+  "jp": "えっ…それってヤバいこと？　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.24",
+  "kind": "name",
+  "box": 5,
+  "jp": "マクベス",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.26",
+  "kind": "line",
+  "box": 6,
+  "speaker": "マクベス",
+  "jp": "ええ…　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.28",
+  "kind": "line",
+  "box": 7,
+  "speaker": "マクベス",
+  "jp": "そのビル、爆弾が仕掛けられてますよ　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.30",
+  "kind": "name",
+  "box": 7,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.32",
+  "kind": "line",
+  "box": 8,
+  "speaker": "銀次",
+  "jp": "…爆弾！？　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.34",
+  "kind": "line",
+  "box": 9,
+  "speaker": "銀次",
+  "jp": "ど、どういうこと！？",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.36",
+  "kind": "name",
+  "box": 9,
+  "jp": "マクベス",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.38",
+  "kind": "line",
+  "box": 10,
+  "speaker": "マクベス",
+  "jp": "そのビルを占拠した人々を",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.39",
+  "kind": "line",
+  "box": 10,
+  "speaker": "マクベス",
+  "jp": "爆弾で一網打尽にするつもりなんですよ",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.41",
+  "kind": "line",
+  "box": 11,
+  "speaker": "マクベス",
+  "jp": "政府内のある人物が　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.42",
+  "kind": "line",
+  "box": 11,
+  "speaker": "マクベス",
+  "jp": "強攻策をとったようですね…　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.44",
+  "kind": "line",
+  "box": 12,
+  "speaker": "マクベス",
+  "jp": "爆弾は時限式のＲＤＸ爆弾です",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.46",
+  "kind": "name",
+  "box": 12,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.48",
+  "kind": "line",
+  "box": 13,
+  "speaker": "銀次",
+  "jp": "ＲＤＸ？？？",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.50",
+  "kind": "name",
+  "box": 13,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.52",
+  "kind": "line",
+  "box": 14,
+  "speaker": "蛮　",
+  "jp": "威力の高い爆薬のことだ　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.54",
+  "kind": "line",
+  "box": 15,
+  "speaker": "蛮　",
+  "jp": "支柱に仕掛けられているとするなら、　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.55",
+  "kind": "line",
+  "box": 15,
+  "speaker": "蛮　",
+  "jp": "このビルくれェ破壊できんだろうな？　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.57",
+  "kind": "name",
+  "box": 15,
+  "jp": "マクベス",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.59",
+  "kind": "line",
+  "box": 16,
+  "speaker": "マクベス",
+  "jp": "できるでしょうね…簡単に",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.61",
+  "kind": "name",
+  "box": 16,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.63",
+  "kind": "line",
+  "box": 17,
+  "speaker": "銀次",
+  "jp": "そんな…",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.64",
+  "kind": "line",
+  "box": 17,
+  "speaker": "銀次",
+  "jp": "そんなことって間違ってるよ！！　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.66",
+  "kind": "line",
+  "box": 18,
+  "speaker": "銀次",
+  "jp": "阻止しなきゃ！　ね、蛮ちゃん！！",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.68",
+  "kind": "name",
+  "box": 18,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.70",
+  "kind": "line",
+  "box": 19,
+  "speaker": "蛮　",
+  "jp": "当ったり前だ！　俺たちの仕事の　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.71",
+  "kind": "line",
+  "box": 19,
+  "speaker": "蛮　",
+  "jp": "ジャマされてたまるかってんだ！！",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.73",
+  "kind": "name",
+  "box": 19,
+  "jp": "マクベス",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.75",
+  "kind": "line",
+  "box": 20,
+  "speaker": "マクベス",
+  "jp": "…お二人ならそう言うと思ったんです　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.77",
+  "kind": "line",
+  "box": 21,
+  "speaker": "マクベス",
+  "jp": "爆弾はかなり上の階に仕掛けられている",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.78",
+  "kind": "line",
+  "box": 21,
+  "speaker": "マクベス",
+  "jp": "みたいですが、　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.80",
+  "kind": "line",
+  "box": 22,
+  "speaker": "マクベス",
+  "jp": "爆弾にセットされた時間までは",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.81",
+  "kind": "line",
+  "box": 22,
+  "speaker": "マクベス",
+  "jp": "まだ猶予があるはずです　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.83",
+  "kind": "line",
+  "box": 23,
+  "speaker": "マクベス",
+  "jp": "必ず見つけ出して下さい　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.85",
+  "kind": "name",
+  "box": 23,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.87",
+  "kind": "line",
+  "box": 24,
+  "speaker": "銀次",
+  "jp": "うん！　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.88",
+  "kind": "line",
+  "box": 24,
+  "speaker": "銀次",
+  "jp": "ありがとう、ＭＡＫＵＢＥＸ　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.90",
+  "kind": "line",
+  "box": 25,
+  "speaker": "銀次",
+  "jp": "じゃあ、見つけたらまた連絡するから　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.94",
+  "kind": "line",
+  "box": 26,
+  "speaker": "銀次",
+  "jp": "じゃあ、エレベーターで　",
+  "en": ""
+ },
+ {
+  "id": "7CDC1C.95",
+  "kind": "line",
+  "box": 26,
+  "speaker": "銀次",
+  "jp": "上の階へ急ごう！！　",
+  "en": ""
+ }
+]

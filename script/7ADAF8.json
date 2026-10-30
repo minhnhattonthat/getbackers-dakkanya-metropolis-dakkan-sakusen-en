@@ -1,0 +1,40 @@
+[
+ {
+  "id": "7ADAF8.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "山城",
+  "en": ""
+ },
+ {
+  "id": "7ADAF8.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "山城",
+  "jp": "犬のようにかぎ回ったりしなければ",
+  "en": ""
+ },
+ {
+  "id": "7ADAF8.4",
+  "kind": "line",
+  "box": 1,
+  "speaker": "山城",
+  "jp": "長生きできたものを　",
+  "en": ""
+ },
+ {
+  "id": "7ADAF8.6",
+  "kind": "name",
+  "box": 1,
+  "jp": "笑師",
+  "en": ""
+ },
+ {
+  "id": "7ADAF8.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "笑師",
+  "jp": "…アカン！！",
+  "en": ""
+ }
+]

@@ -2,24 +2,25 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 3 (identity build) done; next is phase 4 (extract).
-- **Done (phase 3):** `tools/build.py` unpacks all 1803 PACs, repacks, writes `build/getbackers_en.gba`; with no
-  edits the build is byte-identical to the dump (`tests/test_build.py::test_identity`). Edited PACs (`build(orig,
-  edits={pac_off: [records]})`) go to free space from 0x800000 and their slots are repointed (3283 slots: +0/+8/+12,
-  `docs/re/text.md`); the ROM grows to a whole MiB, max 16 MiB. `--relocate all` moves every PAC: romdiff clean
-  with the write log, smoke ok, warps act1/act5/battle/menu_item/ending show the same screens and text as the original (timing a few frames
-  off; whether warps are frame-deterministic is unchecked). `pac.pack`/
-  `pac.unpack` added. Original warp sheets kept in `work/qa/warp_orig/` (warp_all overwrites `work/qa/warp/`).
-- **Done (phase 2):** `tools/debug/` warps from a cold boot to every scene in `tools/debug/scenes.lua`
-  (`python -X utf8 tools/debug/warp_all.py [scene..]`, notes `docs/re/debug.md`): act cards + openings of `act0`-
-  `act9`, `act3_m301`, `act9_hub`, `field`, field menu `menu_status|party|item|option|save`, `battle`, `battle_02`,
-  `ending` (epilogue + staff roll). Tools: `tools/constcalls.py`, `tools/callargs.py`, `tools/lua/execlog.lua`.
-  Map list `work/recon/maps.txt` (391 maps), battle ids `work/recon/battles.txt`.
-- **Next:** phase 4 extract: decode the 1616 dialogue PACs + system text PAC 0x3D7DE4 + the text records of battle/
-  event PACs (`docs/re/text.md` §Text ranges) into `script/` (JSON per PAC, id = PAC offset + record index), a
-  `tbl/jp.tbl` from the font cells, roundtrip and coverage tests. Insertion = replace records via `build(edits=)`.
-- **Phase 4 must:** read every used font cell (1303 codes) with reviewer sheets + script context before trusting
-  `jp`; confirm which records of non-dialogue PACs are text by hooking draw routine `0805281C`.
+- **Phase:** 4 (extract) in progress: dialogue/system/battle text done; menu text system left.
+- **Done (phase 4 so far):**
+  - `tools/script.py dump` -> `script/<PAC>.json` (1626 script PACs, 10639 lines; fields id/kind name|line/box/
+    speaker/jp/en; `--force` refreshes jp and keeps en, listing changed translated ids). Record split command vs
+    line is structural (`docs/re/text.md` §Script PAC format).
+  - `tbl/jp.tbl`: all 1379 used codes read by eye (`tools/fontread.py`, readings `tbl/reads/`, rulings
+    `tbl/font_overrides.tsv`), then a 6-reader proofreading scan of all 6148 distinct lines found no misread cell.
+    Original-text quirks listed in `docs/re/text.md`.
+  - **Bug fixed** in `tools/pac.py`: a length-0 record ended every PAC, but 17 PACs (system text, 16 battle/event
+    scripts) have empty records mid-PAC; phase 3's relocation copied them short. Now parsed to the next PAC.
+  - System text = 10 counted sections to 0x3DD72C (loader traced, `docs/re/text.md`).
+  - Draw-routine check: everything 0805281C drew on all warp tours is in `script/` (`tests/data/drawn/`).
+  - Tests: `tests/test_script.py` (record kinds, PAC set pinned, table unique, roundtrip + coverage of every line,
+    insertion identity through `build(edits=)`, drawn-text coverage).
+- **Next (rest of phase 4): menu text** (`docs/re/text.md` §Menu text): menus draw font cells to BG tiles from
+  charsets + glyph-slot strings at 0x9B338-0x9FFFF via LoadCharset 0800C8A0 / DrawString 0800C920. Decode: find each
+  LoadCharset call (r0 codes, r1 bytes, r2 first tile) and the strings each function draws (literals + tables
+  0x9F40C/0x9FCB0/0x9FDAC/0x9FE68), confirm with an exec hook on both while warping to menu_* and battle, extract to
+  `script/menu_*.json` with a roundtrip test. Then phase 5 (engine spike, marker build).
 - **Debug gaps (add scenes when phase 8 needs them; non-blocking):** game over (loss not reproduced: demo fight is
   scripted, party battle HP not found; enemy-HP guess 03000F28 unverified), the 13 choice windows (G7) and
   elevator floor select (find their event calls), card/item lists (a warped game has no items: add an item-give

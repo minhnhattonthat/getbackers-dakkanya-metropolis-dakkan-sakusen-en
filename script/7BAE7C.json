@@ -1,0 +1,63 @@
+[
+ {
+  "id": "7BAE7C.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "写真屋　",
+  "en": ""
+ },
+ {
+  "id": "7BAE7C.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "写真屋　",
+  "jp": "旅の記念に写真いかがですカ？",
+  "en": ""
+ },
+ {
+  "id": "7BAE7C.5",
+  "kind": "name",
+  "box": 1,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7BAE7C.7",
+  "kind": "line",
+  "box": 2,
+  "speaker": "銀次",
+  "jp": "写真屋さん、こんなところまで…　",
+  "en": ""
+ },
+ {
+  "id": "7BAE7C.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "銀次",
+  "jp": "大変ですね　",
+  "en": ""
+ },
+ {
+  "id": "7BAE7C.10",
+  "kind": "name",
+  "box": 2,
+  "jp": "写真屋　",
+  "en": ""
+ },
+ {
+  "id": "7BAE7C.12",
+  "kind": "line",
+  "box": 3,
+  "speaker": "写真屋　",
+  "jp": "気にしないで",
+  "en": ""
+ },
+ {
+  "id": "7BAE7C.13",
+  "kind": "line",
+  "box": 3,
+  "speaker": "写真屋　",
+  "jp": "ダイジョブダイジョブ",
+  "en": ""
+ }
+]

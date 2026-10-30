@@ -1,0 +1,588 @@
+[
+ {
+  "id": "7CCFEC.1",
+  "kind": "name",
+  "box": 0,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.3",
+  "kind": "line",
+  "box": 1,
+  "speaker": "銀次",
+  "jp": "アルくん、もう体の方は大丈夫なの？　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.5",
+  "kind": "name",
+  "box": 1,
+  "jp": "アル",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.7",
+  "kind": "line",
+  "box": 2,
+  "speaker": "アル",
+  "jp": "はい、もうすっかり元気！",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.8",
+  "kind": "line",
+  "box": 2,
+  "speaker": "アル",
+  "jp": "みなさんのおかげです",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.10",
+  "kind": "name",
+  "box": 2,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.12",
+  "kind": "line",
+  "box": 3,
+  "speaker": "蛮　",
+  "jp": "そいつぁ良かったな　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.14",
+  "kind": "line",
+  "box": 4,
+  "speaker": "蛮　",
+  "jp": "しっかし、よく考えると今回の事件の　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.15",
+  "kind": "line",
+  "box": 4,
+  "speaker": "蛮　",
+  "jp": "殆どは裏でお前が操ってたんだよな？　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.17",
+  "kind": "line",
+  "box": 5,
+  "speaker": "蛮　",
+  "jp": "アホそうに見えて意外と策士だな　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.19",
+  "kind": "name",
+  "box": 5,
+  "jp": "ジェンド",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.21",
+  "kind": "line",
+  "box": 6,
+  "speaker": "ジェンド",
+  "jp": "なにを言っておるのだ",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.22",
+  "kind": "line",
+  "box": 6,
+  "speaker": "ジェンド",
+  "jp": "アルは我が一族最高の軍師だ　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.24",
+  "kind": "line",
+  "box": 6,
+  "speaker": "ジェンド",
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.25",
+  "kind": "line",
+  "box": 6,
+  "speaker": "ジェンド",
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.27",
+  "kind": "line",
+  "box": 7,
+  "speaker": "ジェンド",
+  "jp": "………はあ？",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.29",
+  "kind": "name",
+  "box": 7,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.31",
+  "kind": "line",
+  "box": 8,
+  "speaker": "銀次",
+  "jp": "…こんなにボーッとしてるのに？　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.33",
+  "kind": "name",
+  "box": 8,
+  "jp": "ジェンド",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.35",
+  "kind": "line",
+  "box": 9,
+  "speaker": "ジェンド",
+  "jp": "そう見えるのは頭の中で　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.36",
+  "kind": "line",
+  "box": 9,
+  "speaker": "ジェンド",
+  "jp": "様々な計算を行っているせいだ",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.38",
+  "kind": "name",
+  "box": 9,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.40",
+  "kind": "line",
+  "box": 10,
+  "speaker": "蛮　",
+  "jp": "…にしちゃあ金勘定できなかったぜ？　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.42",
+  "kind": "name",
+  "box": 10,
+  "jp": "ジェンド",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.44",
+  "kind": "line",
+  "box": 11,
+  "speaker": "ジェンド",
+  "jp": "金銭感覚がズレているのは",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.45",
+  "kind": "line",
+  "box": 11,
+  "speaker": "ジェンド",
+  "jp": "金銭欲というものが全くないせいだ",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.47",
+  "kind": "line",
+  "box": 11,
+  "speaker": "ジェンド",
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.48",
+  "kind": "line",
+  "box": 11,
+  "speaker": "ジェンド",
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.50",
+  "kind": "line",
+  "box": 12,
+  "speaker": "ジェンド",
+  "jp": "………　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.52",
+  "kind": "name",
+  "box": 12,
+  "jp": "アル",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.54",
+  "kind": "line",
+  "box": 13,
+  "speaker": "アル",
+  "jp": "？？？　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.56",
+  "kind": "name",
+  "box": 13,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.58",
+  "kind": "line",
+  "box": 14,
+  "speaker": "銀次",
+  "jp": "（蛮ちゃん…",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.59",
+  "kind": "line",
+  "box": 14,
+  "speaker": "銀次",
+  "jp": "人は見かけによらないものだね…）",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.61",
+  "kind": "name",
+  "box": 14,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.63",
+  "kind": "line",
+  "box": 15,
+  "speaker": "蛮　",
+  "jp": "（…まったく、怖ェ世の中だぜ）　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.65",
+  "kind": "name",
+  "box": 15,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.67",
+  "kind": "line",
+  "box": 16,
+  "speaker": "蛮　",
+  "jp": "ところでアル、　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.68",
+  "kind": "line",
+  "box": 16,
+  "speaker": "蛮　",
+  "jp": "こいつは俺たちからの餞別だ　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.70",
+  "kind": "name",
+  "box": 16,
+  "jp": "アル",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.72",
+  "kind": "line",
+  "box": 17,
+  "speaker": "アル",
+  "jp": "あ…宝玉………　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.74",
+  "kind": "line",
+  "box": 18,
+  "speaker": "アル",
+  "jp": "ありがとございます　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.75",
+  "kind": "line",
+  "box": 18,
+  "speaker": "アル",
+  "jp": "蛮さん、かおコワいけどいい人",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.77",
+  "kind": "name",
+  "box": 18,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.79",
+  "kind": "line",
+  "box": 19,
+  "speaker": "蛮　",
+  "jp": "…まだ言うか",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.81",
+  "kind": "name",
+  "box": 19,
+  "jp": "アル",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.83",
+  "kind": "line",
+  "box": 20,
+  "speaker": "アル",
+  "jp": "銀さんも助けてくれてアリガト",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.85",
+  "kind": "line",
+  "box": 21,
+  "speaker": "アル",
+  "jp": "みんないい人ばっかり…　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.86",
+  "kind": "line",
+  "box": 21,
+  "speaker": "アル",
+  "jp": "ボク、みんなのこと忘れないよ",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.88",
+  "kind": "name",
+  "box": 21,
+  "jp": "銀次",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.90",
+  "kind": "line",
+  "box": 22,
+  "speaker": "銀次",
+  "jp": "さびしくなるよ、",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.91",
+  "kind": "line",
+  "box": 22,
+  "speaker": "銀次",
+  "jp": "アルくんがいなくなると…",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.93",
+  "kind": "line",
+  "box": 23,
+  "speaker": "銀次",
+  "jp": "たまには手紙書いてね、　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.94",
+  "kind": "line",
+  "box": 23,
+  "speaker": "銀次",
+  "jp": "オレも返事を書くからさ　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.96",
+  "kind": "line",
+  "box": 24,
+  "speaker": "銀次",
+  "jp": "ジェンドさんも元気でね　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.98",
+  "kind": "name",
+  "box": 24,
+  "jp": "ジェンド",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.100",
+  "kind": "line",
+  "box": 25,
+  "speaker": "ジェンド",
+  "jp": "………　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.102",
+  "kind": "line",
+  "box": 26,
+  "speaker": "ジェンド",
+  "jp": "余は許されざる罪を犯した…　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.104",
+  "kind": "line",
+  "box": 27,
+  "speaker": "ジェンド",
+  "jp": "その罪を償わずに逃げるなどと…　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.106",
+  "kind": "name",
+  "box": 27,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.108",
+  "kind": "line",
+  "box": 28,
+  "speaker": "蛮　",
+  "jp": "もしアンタが罪の意識を抱いてるなら、",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.109",
+  "kind": "line",
+  "box": 28,
+  "speaker": "蛮　",
+  "jp": "それは一族の者たちに償っていけばいい",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.111",
+  "kind": "line",
+  "box": 29,
+  "speaker": "蛮　",
+  "jp": "そのためにもアンタは",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.112",
+  "kind": "line",
+  "box": 29,
+  "speaker": "蛮　",
+  "jp": "こンなとこで捕まるわけにはいかねえ…",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.114",
+  "kind": "line",
+  "box": 30,
+  "speaker": "蛮　",
+  "jp": "違うかよ？　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.116",
+  "kind": "name",
+  "box": 30,
+  "jp": "ジェンド",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.118",
+  "kind": "line",
+  "box": 31,
+  "speaker": "ジェンド",
+  "jp": "そうだな…その通りだ",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.120",
+  "kind": "name",
+  "box": 31,
+  "jp": "蛮　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.122",
+  "kind": "line",
+  "box": 32,
+  "speaker": "蛮　",
+  "jp": "ま、なンかあったら　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.123",
+  "kind": "line",
+  "box": 32,
+  "speaker": "蛮　",
+  "jp": "そん時ぁ俺たちを呼びな　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.125",
+  "kind": "line",
+  "box": 33,
+  "speaker": "蛮　",
+  "jp": "世界の果てだって駆けつけてやるぜ",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.126",
+  "kind": "line",
+  "box": 33,
+  "speaker": "蛮　",
+  "jp": "無敵のゲットバッカーズがよ！",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.129",
+  "kind": "name",
+  "box": 33,
+  "jp": "ジェンド",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.131",
+  "kind": "line",
+  "box": 34,
+  "speaker": "ジェンド",
+  "jp": "…では、世話になったな　",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.133",
+  "kind": "name",
+  "box": 34,
+  "jp": "アル",
+  "en": ""
+ },
+ {
+  "id": "7CCFEC.135",
+  "kind": "line",
+  "box": 35,
+  "speaker": "アル",
+  "jp": "さよなら！　蛮さん、銀さん！！　",
+  "en": ""
+ }
+]
