@@ -265,9 +265,83 @@ def title_logo(orig):
                                     (LOGO_MAP, struct.pack('<600H', *mp))])
 
 
+# G10 element icons: dialogue-font cells 0x507-0x587 (page 5 at 0x3C7CE8, 16x16 = 4 OBJ tiles TL TR BL BR): a box
+# in the element's colour index, 8x9 interior at x 2-9, y 4-12, ink 6. English: two capitals (glossary
+# element names; flagged abbreviation, D10) in a 3x5 pixel font, written in place.
+ICON_PAGE5 = 0x3C7CE8
+ICONS = ['VO', 'TH', 'FI', 'DK', 'WA', 'EA', 'SA', 'WI', 'LI']  # Void Thunder Fire Dark Water Earth Sand Wind Light
+CAPS = {
+    'A': '.#.|#.#|###|#.#|#.#', 'D': '##.|#.#|#.#|#.#|##.', 'E': '###|#..|##.|#..|###', 'F': '###|#..|##.|#..|#..',
+    'H': '#.#|#.#|###|#.#|#.#', 'I': '###|.#.|.#.|.#.|###', 'K': '#.#|#.#|##.|#.#|#.#', 'L': '#..|#..|#..|#..|###',
+    'O': '.#.|#.#|#.#|#.#|.#.', 'S': '.##|#..|.#.|..#|##.', 'T': '###|.#.|.#.|.#.|.#.', 'V': '#.#|#.#|#.#|.#.|.#.',
+    'W': '#.#|#.#|#.#|###|#.#',
+}
+
+
+def icons(orig):
+    import font
+    out = []
+    for i, word in enumerate(ICONS):
+        code = 0x507 + 16 * i
+        px = font.glyph(orig, code)
+        inner = [(x, y) for y in range(4, 14) for x in range(1, 10)]
+        box = px[8][0]  # the left frame: the element's colour
+        ink = 6
+        for x, y in inner:
+            px[y][x] = box
+        for k, ch in enumerate(word):
+            for y, row in enumerate(CAPS[ch].split('|')):
+                for dx, p in enumerate(row):
+                    if p == '#':
+                        px[6 + y][2 + 4 * k + dx] = ink
+        data = bytearray(0x80)
+        for t, (tx, ty) in enumerate(((0, 0), (8, 0), (0, 8), (8, 8))):
+            for y in range(8):
+                for x in range(0, 8, 2):
+                    data[t * 32 + y * 4 + x // 2] = px[ty + y][tx + x] | px[ty + y][tx + x + 1] << 4
+        out.append((font.glyph_off(code), bytes(data)))
+    return ('element icons', b'', [], out)
+
+
+# G9 shop signs in the Act 1 town tileset: LZ77 block 0x0B97F4 (768 tiles, a 32-tile-wide sheet, VRAM 0x8000; the
+# room table points at it from 0x143710 and 0x143740). Per sign: the text's rect in sheet pixels, background,
+# ink and shadow indices, English. The block is recompressed past 8 MiB and both pointers repointed.
+TOWN = 0x0B97F4
+TOWN_PTRS = (0x143710, 0x143740)
+SIGNS = [
+    ((34, 3, 74, 12), 4, 0xB, 3, 'UEDA BANK'),     # 上田銀行
+    ((183, 3, 214, 14), 5, 6, None, 'TATSUYA'),    # たつや (the shop's name, after its red logo)
+    ((26, 60, 96, 73), 5, 7, 3, 'HAIRO BOOKS'),   # 敗老書店
+]
+
+
+def signs(orig):
+    import lz77
+    d = bytearray(lz77.decompress(orig, TOWN)[0])
+
+    def put(x, y, v):
+        i = ((y // 8) * 32 + x // 8) * 32 + (y % 8) * 4 + (x % 8) // 2
+        d[i] = d[i] & (0xF0 if x & 1 == 0 else 0x0F) | v << (4 * (x & 1))
+
+    for (x0, y0, x1, y1), bg, ink, shadow, text in SIGNS:
+        for y in range(y0, y1):
+            for x in range(x0, x1):
+                put(x, y, bg)
+        _, mask = tiny_image(text, x1 - x0, y1 - y0, (y1 - y0 - 6) // 2 - (1 if shadow else 0))
+        m = mask.load()
+        for y in range(y1 - y0):
+            for x in range(x1 - x0):
+                if m[x, y]:
+                    if shadow is not None and x + 1 < x1 - x0 and y + 1 < y1 - y0 and not m[x + 1, y + 1]:
+                        put(x0 + x + 1, y0 + y + 1, shadow)
+                    put(x0 + x, y0 + y, ink)
+    blob = lz77.compress(bytes(d))
+    return ('town signs', blob + b'\0' * (-len(blob) % 4), [(p, 0) for p in TOWN_PTRS], [])
+
+
 def items(orig):
     """[(label, blob, [(pointer offset, delta into blob)], [(offset, bytes) other in-place writes])]."""
-    return cards(orig) + [copyright_line(), title_logo(orig)]
+    return cards(orig) + [copyright_line(), title_logo(orig), icons(orig), signs(orig)]
 
 
 def decode(tiles, mp, w=32):

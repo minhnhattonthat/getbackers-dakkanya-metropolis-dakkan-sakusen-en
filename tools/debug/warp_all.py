@@ -1,6 +1,7 @@
 """Warp to scenes from a cold boot, in parallel, and save a contact sheet + savestate for each.
 
     python -X utf8 tools/debug/warp_all.py [SCENE ...] [--rom ROM] [--frames N] [--jobs 4] [--mash N] [--script x.lua --var N=v]
+                                           [--out-dir DIR] [--no-state]
 No scene names = every scene in tools/debug/scenes.lua. Output: work/qa/warp/<scene>/ (sheet.png, final.png,
 log.txt), state work/states/<scene>.mss. Boots with a blank flash save (work/saves/blank.sav), so the title
 cursor stays on NEW GAME. Exit 1 if any run failed or its warp hook never ran.
@@ -39,14 +40,15 @@ def blank_sav():
 
 
 def run(scene, opt, a):
-    out = ROOT / "work/qa/warp" / scene
+    out = Path(a.out_dir) / scene
     route = ROOT / "tools/routes" / (opt.get("route", "newgame") + ".txt")
     mash = a.mash if a.mash is not None else int(opt.get("mash", 60))
     cmd = [sys.executable, "-X", "utf8", str(Path(SKILL) / "scripts/emu.py"), str(a.rom), "--out", str(out),
            "--route", str(route), "--sav", str(blank_sav()),
            "--script", str(ROOT / "tools/debug/scenes.lua"), "--script", str(ROOT / "tools/debug/warp.lua"),
-           "--var", f"SCENE='{scene}'", "--shot-every", str(a.shot_every),
-           "--state-out", str(ROOT / "work/states" / f"{scene}.mss"), "--sheet", "--timeout", "900"]
+           "--var", f"SCENE='{scene}'", "--shot-every", str(a.shot_every), "--sheet", "--timeout", "900"]
+    if not a.no_state:
+        cmd += ["--state-out", str(ROOT / "work/states" / f"{scene}.mss")]
     if "route" not in opt:  # a menu route ends where its last press does
         cmd += ["--frames", str(a.frames or int(opt.get("frames", 5000)))]
     if mash:
@@ -77,6 +79,8 @@ def main():
     ap.add_argument("--script", action="append", default=[], help="extra Lua probe for every run (e.g. drawlog.lua)")
     ap.add_argument("--var", action="append", default=[], help="NAME=value for the probes (emu.py --var)")
     ap.add_argument("--jobs", type=int, default=4)
+    ap.add_argument("--out-dir", default=str(ROOT / "work/qa/warp"), help="one folder per scene goes here")
+    ap.add_argument("--no-state", action="store_true", help="keep work/states/ as it is (e.g. an original-ROM tour)")
     a = ap.parse_args()
     known = scenes()
     names = a.scenes or list(known)

@@ -39,7 +39,7 @@ for off, v in pairs(sc.rom32 or {}) do emu.write32(off, v, rom) end
 -- RAM writes right before the new game's map load (08005BB2 runs after the new-game state is cleared).
 L.on_exec(0x08005BB2, 0x08005BB2, function()
   for addr, v in pairs(sc.w16 or {}) do emu.write16(addr, v, mem) end
-  for addr, v in pairs(sc.w8 or {}) do emu.write8(addr, v, mem) end
+  for addr, v in pairs(sc.w8 or {}) do emu.write(addr, v, mem) end
   -- Story flags (GetFlag 080011EC / SetFlag 08001138): u16 at 02000B8E + (id >> 4) * 2, bit 0x8000 >> (id & 15)
   -- (mask table 08075EF0).
   for _, id in ipairs(sc.flags or {}) do
