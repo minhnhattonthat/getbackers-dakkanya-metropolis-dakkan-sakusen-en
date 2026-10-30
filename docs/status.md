@@ -21,6 +21,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `docs/screenshots/phase8_choices.png`. The event-table hook resolves relocated pointers; `choice_05` overrides
   a selector to exercise the otherwise unused Drink/Don't drink window (not proof of story reachability).
   `work/qa/choices/manifest.tsv` awaits independent visual review; tools and captures frozen during review.
+  Reviewer launch was refused by Orca (`nested_worker_depth_exceeded`, depth 2 / max 1); the coordinator was
+  asked to dispatch a sibling visual-qa reviewer for `work/qa/choices/chunks/chunk_000.txt`, writing
+  `work/qa/choices/verdicts/round1.tsv`. The choice gate currently reports 13 missing verdicts; do not mark
+  phase 8 complete or advance to release until those independent verdicts pass.
   Fresh build: 2026-10-30 10:31:41 UTC, SHA-1 `3b47207abe39ad396784390e3795477d296074af`; smoke passes,
   check 42 passed, existing 43-sheet tour and 189-room gates pass. Debug hooks remain emulator-only.
 - **Next (phase 9):** story pass per chapter (`qa_gate.py` on `work/qa/story/manifest.tsv`, skill
