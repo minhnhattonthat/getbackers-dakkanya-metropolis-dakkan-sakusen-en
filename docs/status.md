@@ -2,7 +2,15 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7 (insert, fit, check) done. Next: phase 8 (QA in the emulator).
+- **Phase:** 8 (QA in the emulator) in progress.
+- **Done (phase 8 so far):** graphics text redrawn by `tools/gfx.py` (docs/re/graphics.md §Redraws, D10): act cards
+  Act.0-9, title logo (katakana reading erased, tag "Retrievers", subtitle strip), title/end copyright line, intro
+  banner + 9 name bars, 13 choice windows G7 (built and checked by `gfx.py preview`; not reached in-game: their
+  caller sits in shared battle/minigame code around 08051E98 mode 4, 02012408). Shots: `work/qa/warp/act*`
+  f1750, `work/qa/title_en`, `work/qa/intro_en`, `work/qa/warp/ending` f25000 (the end card's first third is
+  garbled by walking-sprite tiles in the original too).
+- **Phase 8 next:** G9 map signs (zoomed field shots), element icons `[無]` (font cells 0x507-0x587), game over
+  (not reached), then QA tours over every warp scene -> `qa_gate.py init/todo`, visual-qa agents, `check` exit 0.
 - **Done (phase 6):** every script/system/menu string has English (28 batches `work/tl/b001-b028`, reviewed; the
   `.out.tsv` files are the source: `batches.py merge b001 .. b028` reproduces `script/*.json` exactly, and
   `tests/test_english.py::test_text_lint_clean` checks that).
