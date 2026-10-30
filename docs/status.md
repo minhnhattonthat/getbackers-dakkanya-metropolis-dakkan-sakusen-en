@@ -2,19 +2,27 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8 (QA in the emulator) in progress.
-- **Done (phase 8 so far):** graphics text redrawn by `tools/gfx.py` (docs/re/graphics.md §Redraws, D10): act cards
-  Act.0-9, title logo (katakana reading erased, tag "Retrievers", subtitle strip), title/end copyright line, intro
-  banner + 9 name bars, 13 choice windows G7 (built and checked by `gfx.py preview`; not reached in-game: their
-  caller sits in shared battle/minigame code around 08051E98 mode 4, 02012408). Shots: `work/qa/warp/act*`
-  f1750, `work/qa/title_en`, `work/qa/intro_en`, `work/qa/warp/ending` f25000 (the end card's first third is
-  garbled by walking-sprite tiles in the original too).
-  Element icons G10 (VO TH FI...), map signs G9 (D11): Act 1 town + room 1 street (Acts 1/2/7), drawn through the
-  room map by `gfx.room_signs` (asserts each changed tile is placed once). Game over: none exists (docs/re/debug.md).
-- **Visual QA (round 1):** full tour `warp_all.py` 26/26 exit 0 -> 43 sheets, `work/qa/manifest.tsv`, 4 visual-qa
-  agents: 36 ok, 7 issues, all fixed (battle-speed slider re-laid in pixels, 4 dialogue last-line/grammar fixes,
-  octopus/other street signs). Room-map survey: every room 0-188 rendered (`work/qa/rooms/maps`, gate manifest
-  `work/qa/rooms/manifest.tsv`) for sign text the tours miss.
+- **Phase:** 8 (QA in the emulator) done except one gap (G7 below); next is 9 (release).
+- **Done (phase 8):**
+  - Graphics text redrawn by `tools/gfx.py` (docs/re/graphics.md §Redraws, D10, D11): act cards Act.0-9, title
+    logo (katakana reading erased, tag "Retrievers", subtitle strip), title/end copyright line, intro banner + 9
+    name bars, element icons G10 (VO TH FI...), map signs G9 (Act 1 town, room 1 street of Acts 1/2/7, drawn
+    through each room's map by `gfx.room_signs`, which asserts every changed tile is placed once). Shots:
+    `work/qa/warp/act*` f1750, `work/qa/title_en`, `work/qa/intro_en`, `work/qa/warp/ending` f25000 (the end
+    card's first third is garbled by walking-sprite tiles in the original too).
+  - Game over: none exists (docs/re/debug.md: a lost battle continues like a win; song 0x14 plays in the ending).
+  - Visual QA: `warp_all.py` 26/26 exit 0 -> 43 sheets (`work/qa/manifest.tsv`); round 1 found 7 issues, all
+    fixed (battle-speed slider laid out in pixels "F . . . S" + help line, 4 dialogue line breaks/grammar, street
+    signs); rechecks ok. Room-map survey: all 189 rooms rendered (`work/qa/rooms/maps`, gate
+    `work/qa/rooms/manifest.tsv`), only Act 1 town/street had legible sign text (now English).
+    `qa_gate.py check` exits 0 on both manifests (43 tour sheets, 189 rooms); smoke ok; check 42 passed.
+- **Gap (non-blocking):** the 13 choice windows G7 are built (`gfx.py preview`) but no warp shows them: loader
+  08051E98 mode 4 (choice PAC 0877B0F4) is called only from the cutscene/ending task family (080653F4 case code,
+  08065B80). The elevator floor select is one of them.
+- **Next (phase 9):** story pass per chapter (`qa_gate.py` on `work/qa/story/manifest.tsv`, skill
+  references/translation.md §Review), `docs/polish.md` (from the polish ideas below), `tools/release.py` (patch,
+  re-apply, verify, README with base ROM hashes, zip = patch + README; runs `qa_gate.py check` on every manifest),
+  `jp_left.py` on the release build, debug tool off.
 - **Done (phase 6):** every script/system/menu string has English (28 batches `work/tl/b001-b028`, reviewed; the
   `.out.tsv` files are the source: `batches.py merge b001 .. b028` reproduces `script/*.json` exactly, and
   `tests/test_english.py::test_text_lint_clean` checks that).
@@ -28,19 +36,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Checks wired into `tools/check.py` via `tests/test_english.py` (builds its own ROM): text lint, romdiff with
     the write log, writes below 8 MiB only at slots/hooks/menu strings, no branch into a patched span, battle
     sprite totals per skill/item info case, `jp_left.py` (0 runs, 29 known).
-  - Build 21e4c4df smoke ok; warps battle, battle_02, act1, ending, menu_party3 look right.
-- **Next (phase 8):** QA tours with contact sheets for every warp scene + visual-QA verdicts (`qa_gate.py`);
-  graphics-text rows in English in zoomed cold-boot shots (title, act cards, game over, credits end card: the
-  final copyright card is still Japanese graphics, element icons `[無]` etc.). Battle menus need play.py sessions:
-  `warp_all.py battle_02 --frames 1830` saves the command-menu state; `tools/lua/inventory.lua` fills the items.
 - **Guessed budgets left:** いどう location names (2 x 60; drawn at (2,15) in the bottom box, likely 216), save
   warning/error, load title (menu text).
-- **Debug gaps (non-blocking):** game over, the 13 choice windows (G7), elevator floor select, いどう screen, demo
-  notice G8, random encounters, shops.
+- **Debug gaps (non-blocking):** the 13 choice windows (G7), elevator floor select, いどう screen, demo notice G8,
+  random encounters, shops. Battle menus need play.py sessions: `warp_all.py battle_02 --frames 1830` saves the
+  command-menu state; `tools/lua/inventory.lua` fills the items.
 - **Open bugs:** none.
-- **Polish ideas:** deferred review Minors in `work/tl/reports.md`; battle-speed slider "Fast........Slow"
-  (M09E520) squeezes 10 fixed cells under a cursor sprite; element icons `[無]` etc. are graphics text to redraw;
-  the info row shows the game's 12 px group gaps on top of word spaces ("HP   Status ailment   Full Heal").
+- **Polish ideas:** deferred review Minors in `work/tl/reports.md`; the info row shows the game's 12 px group gaps
+  on top of word spaces ("HP   Status ailment   Full Heal"); save screen "ACT" in the small font before a big
+  digit; "BAR THELMA" fits only as "THELMA"; the octopus sign's "RU N" gap.
 - **Waiting on the user:** GUI keyboard input in `tools/mesen/` not checked by hand (headless agent). Non-blocking:
   game-original names chosen by default (ジェンド Jend, tarot enemies in glossary.md Enemies, credits readings
-  3D7DE4.979/1009/1015/1037/1038/1040 guessed); D8/D9 abbreviations and rewordings.
+  3D7DE4.979/1009/1015/1037/1038/1040 guessed); D8/D9 abbreviations and rewordings; D10/D11 graphics wording.

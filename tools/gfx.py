@@ -312,6 +312,9 @@ ROOM_SIGNS = {
         ((58, 3, 98, 12), 4, 0xB, 3, 'UEDA BANK'),      # 上田銀行
         ((696, 3, 728, 14), 5, 6, None, 'TATSUYA'),    # [logo]たつや: over the logo, the next cell's tile is shared
         ((266, 4, 336, 17), 5, 7, 3, 'HAIRO BOOKS'),   # 敗老書店
+        ((698, 26, 728, 34), 3, 0xF, 0xE, 'SOBA'),     # そ[logo]ば: the noren under TATSUYA
+        ((158, 18, 165, 20), 0xC, 0, None, ''),        # 大 of 大SALE on the PATON banner, erased (4 px tall,
+        ((158, 20, 165, 22), 0xD, 0, None, ''),        # two-tone background)
     ],
     1: [  # street of Acts 1, 2 and 7 (tiles 0x0B6A9C)
         ((56, 3, 88, 13), 0xF, 0xA, 0xD, 'CHINESE'),   # 中国料理
