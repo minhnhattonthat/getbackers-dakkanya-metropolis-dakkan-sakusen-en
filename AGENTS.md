@@ -13,7 +13,7 @@ Skill: translate-retro-game; `python tools/skill.py` prints its folder. Read its
 ## Paths
 - Original ROM: `rom/GetBackers Dakkanya - Metropolis Dakkan Sakusen! (Japan).gba` (8 MiB, gitignored; SHA-1 in `rom.sha1`, checked by `tools/check_rom.py`).
 - Emulator: this repo's own MesenCE in `tools/mesen/` (release 2.2.1, https://github.com/nesdev-org/MesenCE/releases/download/2.2.1/Mesen_2.2.1_Windows.zip; gitignored; GBA BIOS in `tools/mesen/Firmware/` via `fetch_emu.py gba-bios`; settings copy in `tools/emu-config/`). Savestates: `work/states/`.
-- Text: `script/` (format TBD in phase 4). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
+- Text: `script/<PAC>.json` (dialogue/system/battle; `tools/script.py dump`) + `script/menu.json` (`tools/menutext.py dump`); never overwrite `en` (dumps refuse or keep it). Table: `tbl/jp.tbl` (rebuild: `tools/fontread.py merge`). Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
 - Copied skill modules the build imports: `tools/tbl.py`, `tools/bps.py`, `tools/romdiff.py`.
 
 ## Rulings

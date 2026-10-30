@@ -1,0 +1,5504 @@
+[
+ {
+  "id": "M09C148",
+  "charset": "09ECF4",
+  "end": false,
+  "jp": "ステータス",
+  "en": ""
+ },
+ {
+  "id": "M09C152",
+  "charset": "09ECF4",
+  "end": false,
+  "jp": "パーティー",
+  "en": ""
+ },
+ {
+  "id": "M09C15C",
+  "charset": "09ECF4",
+  "end": false,
+  "jp": "アイテム",
+  "en": ""
+ },
+ {
+  "id": "M09C164",
+  "charset": "09ECF4",
+  "end": false,
+  "jp": "オプション",
+  "en": ""
+ },
+ {
+  "id": "M09C16E",
+  "charset": "09ECF4",
+  "end": false,
+  "jp": "セーブ",
+  "en": ""
+ },
+ {
+  "id": "M09C174",
+  "charset": "09ECF4",
+  "end": false,
+  "jp": "いどう",
+  "en": ""
+ },
+ {
+  "id": "M09C17A",
+  "charset": "09ED20",
+  "end": false,
+  "jp": "レベル",
+  "en": ""
+ },
+ {
+  "id": "M09C180",
+  "charset": "09ED20",
+  "end": false,
+  "jp": "必殺技",
+  "en": ""
+ },
+ {
+  "id": "M09C186",
+  "charset": "09ED20",
+  "end": false,
+  "jp": "０１２３４５６７８９",
+  "en": ""
+ },
+ {
+  "id": "M09C19A",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "美堂　蛮　　",
+  "en": ""
+ },
+ {
+  "id": "M09C1A8",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "天野　銀次　",
+  "en": ""
+ },
+ {
+  "id": "M09C1B6",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "工藤　卑弥呼",
+  "en": ""
+ },
+ {
+  "id": "M09C1C4",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "赤屍　蔵人　",
+  "en": ""
+ },
+ {
+  "id": "M09C1D2",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "風鳥院　花月",
+  "en": ""
+ },
+ {
+  "id": "M09C1E0",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "冬木　士度　",
+  "en": ""
+ },
+ {
+  "id": "M09C1EE",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "笑師　春樹　",
+  "en": ""
+ },
+ {
+  "id": "M09C1FC",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "筧　十兵衛　",
+  "en": ""
+ },
+ {
+  "id": "M09C20A",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "鏡　形而　　",
+  "en": ""
+ },
+ {
+  "id": "M09C218",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "[無]",
+  "en": ""
+ },
+ {
+  "id": "M09C21C",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "[雷]",
+  "en": ""
+ },
+ {
+  "id": "M09C220",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "[火]",
+  "en": ""
+ },
+ {
+  "id": "M09C224",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "[闇]",
+  "en": ""
+ },
+ {
+  "id": "M09C228",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "[水]",
+  "en": ""
+ },
+ {
+  "id": "M09C22C",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "[土]",
+  "en": ""
+ },
+ {
+  "id": "M09C230",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "[砂]",
+  "en": ""
+ },
+ {
+  "id": "M09C234",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "[風]",
+  "en": ""
+ },
+ {
+  "id": "M09C238",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "[光]",
+  "en": ""
+ },
+ {
+  "id": "M09C23C",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "ベノムファング",
+  "en": ""
+ },
+ {
+  "id": "M09C24C",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "スネークバイト",
+  "en": ""
+ },
+ {
+  "id": "M09C25C",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "サイドワインダー",
+  "en": ""
+ },
+ {
+  "id": "M09C26E",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "蛇遣い座解放",
+  "en": ""
+ },
+ {
+  "id": "M09C27C",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "電撃",
+  "en": ""
+ },
+ {
+  "id": "M09C282",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "イナズマキック",
+  "en": ""
+ },
+ {
+  "id": "M09C292",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "電磁フィールド",
+  "en": ""
+ },
+ {
+  "id": "M09C2A2",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "雷帝降臨",
+  "en": ""
+ },
+ {
+  "id": "M09C2AC",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "解毒香",
+  "en": ""
+ },
+ {
+  "id": "M09C2B4",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "回復香",
+  "en": ""
+ },
+ {
+  "id": "M09C2BC",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "火炎香",
+  "en": ""
+ },
+ {
+  "id": "M09C2C4",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "加速香",
+  "en": ""
+ },
+ {
+  "id": "M09C2CC",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "赤い剣",
+  "en": ""
+ },
+ {
+  "id": "M09C2D4",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "赤い楯",
+  "en": ""
+ },
+ {
+  "id": "M09C2DC",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "赤い十字架",
+  "en": ""
+ },
+ {
+  "id": "M09C2E8",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "赤い暴風",
+  "en": ""
+ },
+ {
+  "id": "M09C2F2",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "繭玉の楯",
+  "en": ""
+ },
+ {
+  "id": "M09C2FC",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "秋雨",
+  "en": ""
+ },
+ {
+  "id": "M09C302",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "絃呪縛",
+  "en": ""
+ },
+ {
+  "id": "M09C30A",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "雫",
+  "en": ""
+ },
+ {
+  "id": "M09C30E",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "猿擬",
+  "en": ""
+ },
+ {
+  "id": "M09C314",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "土竜擬",
+  "en": ""
+ },
+ {
+  "id": "M09C31C",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "虎爪擬",
+  "en": ""
+ },
+ {
+  "id": "M09C324",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "餓狼擬",
+  "en": ""
+ },
+ {
+  "id": "M09C32C",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "メラ・ノ・シオーラ",
+  "en": ""
+ },
+ {
+  "id": "M09C340",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "ロブ・ハ・ラトゥーマ",
+  "en": ""
+ },
+ {
+  "id": "M09C356",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "タジャカ・マ・サーヤ",
+  "en": ""
+ },
+ {
+  "id": "M09C36C",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "カジャ・ノ・ア・マーヤ",
+  "en": ""
+ },
+ {
+  "id": "M09C384",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "毒蛾",
+  "en": ""
+ },
+ {
+  "id": "M09C38A",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "鬼灯",
+  "en": ""
+ },
+ {
+  "id": "M09C390",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "鳳仙花",
+  "en": ""
+ },
+ {
+  "id": "M09C398",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "土蜘蛛",
+  "en": ""
+ },
+ {
+  "id": "M09C3A0",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "鏡像",
+  "en": ""
+ },
+ {
+  "id": "M09C3A6",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "鏡刃",
+  "en": ""
+ },
+ {
+  "id": "M09C3AC",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "鏡光",
+  "en": ""
+ },
+ {
+  "id": "M09C3B2",
+  "charset": "09ED20",
+  "end": true,
+  "jp": "ダイヤモンド・ダスト",
+  "en": ""
+ },
+ {
+  "id": "M09C3C8",
+  "charset": "09EE54",
+  "end": true,
+  "jp": "美堂　蛮　　",
+  "en": ""
+ },
+ {
+  "id": "M09C3D6",
+  "charset": "09EE54",
+  "end": true,
+  "jp": "天野　銀次　",
+  "en": ""
+ },
+ {
+  "id": "M09C3E4",
+  "charset": "09EE54",
+  "end": true,
+  "jp": "工藤　卑弥呼",
+  "en": ""
+ },
+ {
+  "id": "M09C3F2",
+  "charset": "09EE54",
+  "end": true,
+  "jp": "赤屍　蔵人　",
+  "en": ""
+ },
+ {
+  "id": "M09C400",
+  "charset": "09EE54",
+  "end": true,
+  "jp": "風鳥院　花月",
+  "en": ""
+ },
+ {
+  "id": "M09C40E",
+  "charset": "09EE54",
+  "end": true,
+  "jp": "冬木　士度　",
+  "en": ""
+ },
+ {
+  "id": "M09C41C",
+  "charset": "09EE54",
+  "end": true,
+  "jp": "笑師　春樹　",
+  "en": ""
+ },
+ {
+  "id": "M09C42A",
+  "charset": "09EE54",
+  "end": true,
+  "jp": "筧　十兵衛　",
+  "en": ""
+ },
+ {
+  "id": "M09C438",
+  "charset": "09EE54",
+  "end": true,
+  "jp": "鏡　形而　　",
+  "en": ""
+ },
+ {
+  "id": "M09C446",
+  "charset": "09EE54",
+  "end": false,
+  "jp": "美堂　蛮　　",
+  "en": ""
+ },
+ {
+  "id": "M09C452",
+  "charset": "09EE54",
+  "end": false,
+  "jp": "[SEL]ボタン：相性表示",
+  "en": ""
+ },
+ {
+  "id": "M09C464",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "美堂　蛮　　",
+  "en": ""
+ },
+ {
+  "id": "M09C472",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "天野　銀次　",
+  "en": ""
+ },
+ {
+  "id": "M09C480",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "工藤　卑弥呼",
+  "en": ""
+ },
+ {
+  "id": "M09C48E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍　蔵人　",
+  "en": ""
+ },
+ {
+  "id": "M09C49C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "風鳥院　花月",
+  "en": ""
+ },
+ {
+  "id": "M09C4AA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "冬木　士度　",
+  "en": ""
+ },
+ {
+  "id": "M09C4B8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師　春樹　",
+  "en": ""
+ },
+ {
+  "id": "M09C4C6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "筧　十兵衛　",
+  "en": ""
+ },
+ {
+  "id": "M09C4D4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "鏡　形而　　",
+  "en": ""
+ },
+ {
+  "id": "M09C4E2",
+  "charset": "09EEB0",
+  "end": false,
+  "jp": "アイテム",
+  "en": ""
+ },
+ {
+  "id": "M09C4EA",
+  "charset": "09EEB0",
+  "end": false,
+  "jp": "イベント",
+  "en": ""
+ },
+ {
+  "id": "M09C4F2",
+  "charset": "09EEB0",
+  "end": false,
+  "jp": "カード",
+  "en": ""
+ },
+ {
+  "id": "M09C4F8",
+  "charset": "09EEB0",
+  "end": false,
+  "jp": "０１２３４５６７８９",
+  "en": ""
+ },
+ {
+  "id": "M09C50C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "十薬",
+  "en": ""
+ },
+ {
+  "id": "M09C512",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "威霊仙",
+  "en": ""
+ },
+ {
+  "id": "M09C51A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "延命草",
+  "en": ""
+ },
+ {
+  "id": "M09C522",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "霊芝",
+  "en": ""
+ },
+ {
+  "id": "M09C528",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "牛黄",
+  "en": ""
+ },
+ {
+  "id": "M09C52E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "土木香",
+  "en": ""
+ },
+ {
+  "id": "M09C536",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "芍薬",
+  "en": ""
+ },
+ {
+  "id": "M09C53C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "冬虫夏草",
+  "en": ""
+ },
+ {
+  "id": "M09C546",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蓬莱の玉",
+  "en": ""
+ },
+ {
+  "id": "M09C550",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ペンデュＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C55C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ジュノーＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C568",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ラトリスＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C574",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "アムルーＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C580",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ユストスＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C58C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "エルミトＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C598",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "レーフォＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C5A4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ユピテルＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C5B0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ランスＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C5BA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ディラＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C5C4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "リュネＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C5CE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "レイユＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C5D8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "モンドＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C5E2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ゲメンＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C5EC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "シャリオＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C5F8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ディブルＣ",
+  "en": ""
+ },
+ {
+  "id": "M09C604",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "コーヒー券",
+  "en": ""
+ },
+ {
+  "id": "M09C610",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばんぎんのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C61E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばんひみのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C62C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばんばねのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C63A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばんかづのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C648",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばんしどのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C656",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばんえみのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C664",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばんじゅのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C672",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばんかがのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C680",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ひみぎんのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C68E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばねぎんのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C69C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "かづぎんのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C6AA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "しどぎんのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C6B8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "えみぎんのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C6C6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "じゅぎんのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C6D4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "かがぎんのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C6E2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばねひみのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C6F0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "かづひみのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C6FE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "しどひみのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C70C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "えみひみのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C71A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "じゅひみのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C728",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "かがひみのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C736",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばねかづのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C744",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばねしどのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C752",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばねえみのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C760",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばねじゅのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C76E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ばねかがのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C77C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "しどかづのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C78A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "えみかづのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C798",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "じゅかづのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C7A6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "かがかづのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C7B4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "しどえみのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C7C2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "しどじゅのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C7D0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "しどかがのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C7DE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "えみじゅのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C7EC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "えみかがのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C7FA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "じゅかがのＭ",
+  "en": ""
+ },
+ {
+  "id": "M09C808",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "お弁当",
+  "en": ""
+ },
+ {
+  "id": "M09C810",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "体育館のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09C81E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "舞台裏のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09C82C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "社長室のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09C83A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "Ｐの",
+  "en": ""
+ },
+ {
+  "id": "M09C840",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "Ｈの",
+  "en": ""
+ },
+ {
+  "id": "M09C846",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ＤＶＤロム",
+  "en": ""
+ },
+ {
+  "id": "M09C852",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "宝玉（小）",
+  "en": ""
+ },
+ {
+  "id": "M09C85E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "書斎のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09C86A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "宝玉（大）",
+  "en": ""
+ },
+ {
+  "id": "M09C876",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "配電室のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09C884",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カードキー１",
+  "en": ""
+ },
+ {
+  "id": "M09C892",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カードキー２",
+  "en": ""
+ },
+ {
+  "id": "M09C8A0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カードキー３",
+  "en": ""
+ },
+ {
+  "id": "M09C8AE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ゲームソフト",
+  "en": ""
+ },
+ {
+  "id": "M09C8BC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "コーヒー０",
+  "en": ""
+ },
+ {
+  "id": "M09C8C8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "コーヒー１",
+  "en": ""
+ },
+ {
+  "id": "M09C8D4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "コーヒー２",
+  "en": ""
+ },
+ {
+  "id": "M09C8E0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カフェオレ",
+  "en": ""
+ },
+ {
+  "id": "M09C8EC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "オレンジジュース",
+  "en": ""
+ },
+ {
+  "id": "M09C8FE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ウーロン茶",
+  "en": ""
+ },
+ {
+  "id": "M09C90A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "レモンティー",
+  "en": ""
+ },
+ {
+  "id": "M09C918",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ミルクティー",
+  "en": ""
+ },
+ {
+  "id": "M09C926",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "野菜ジュース",
+  "en": ""
+ },
+ {
+  "id": "M09C934",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "チューリップ",
+  "en": ""
+ },
+ {
+  "id": "M09C942",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ひまわり",
+  "en": ""
+ },
+ {
+  "id": "M09C94C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ガーベラ",
+  "en": ""
+ },
+ {
+  "id": "M09C956",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ラベンダー",
+  "en": ""
+ },
+ {
+  "id": "M09C962",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ユリ",
+  "en": ""
+ },
+ {
+  "id": "M09C968",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "バラ",
+  "en": ""
+ },
+ {
+  "id": "M09C96E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ハデな着物",
+  "en": ""
+ },
+ {
+  "id": "M09C97A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "せいそな着物",
+  "en": ""
+ },
+ {
+  "id": "M09C988",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ハカマ",
+  "en": ""
+ },
+ {
+  "id": "M09C990",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ハデなドレス",
+  "en": ""
+ },
+ {
+  "id": "M09C99E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "せいそなドレス",
+  "en": ""
+ },
+ {
+  "id": "M09C9AE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "タキシード",
+  "en": ""
+ },
+ {
+  "id": "M09C9BA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "衣装部屋のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09C9CA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ぼうし",
+  "en": ""
+ },
+ {
+  "id": "M09C9D2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "スカート",
+  "en": ""
+ },
+ {
+  "id": "M09C9DC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "倉庫のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09C9E8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "厨房のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09C9F4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ライター",
+  "en": ""
+ },
+ {
+  "id": "M09C9FE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "本",
+  "en": ""
+ },
+ {
+  "id": "M09CA02",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "キーメモリー",
+  "en": ""
+ },
+ {
+  "id": "M09CA10",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "パスコード１",
+  "en": ""
+ },
+ {
+  "id": "M09CA1E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "パスコード２",
+  "en": ""
+ },
+ {
+  "id": "M09CA2C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "パスコード３",
+  "en": ""
+ },
+ {
+  "id": "M09CA3A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ベッドルームキー",
+  "en": ""
+ },
+ {
+  "id": "M09CA4C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "大広間のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09CA5A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "液体窒素",
+  "en": ""
+ },
+ {
+  "id": "M09CA64",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１",
+  "en": ""
+ },
+ {
+  "id": "M09CA6E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード２",
+  "en": ""
+ },
+ {
+  "id": "M09CA78",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード３",
+  "en": ""
+ },
+ {
+  "id": "M09CA82",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード４",
+  "en": ""
+ },
+ {
+  "id": "M09CA8C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード５",
+  "en": ""
+ },
+ {
+  "id": "M09CA96",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード６",
+  "en": ""
+ },
+ {
+  "id": "M09CAA0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード７",
+  "en": ""
+ },
+ {
+  "id": "M09CAAA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード８",
+  "en": ""
+ },
+ {
+  "id": "M09CAB4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード９",
+  "en": ""
+ },
+ {
+  "id": "M09CABE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１０",
+  "en": ""
+ },
+ {
+  "id": "M09CACA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１１",
+  "en": ""
+ },
+ {
+  "id": "M09CAD6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１２",
+  "en": ""
+ },
+ {
+  "id": "M09CAE2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１３",
+  "en": ""
+ },
+ {
+  "id": "M09CAEE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１４",
+  "en": ""
+ },
+ {
+  "id": "M09CAFA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１５",
+  "en": ""
+ },
+ {
+  "id": "M09CB06",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１６",
+  "en": ""
+ },
+ {
+  "id": "M09CB12",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１７",
+  "en": ""
+ },
+ {
+  "id": "M09CB1E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１８",
+  "en": ""
+ },
+ {
+  "id": "M09CB2A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１９",
+  "en": ""
+ },
+ {
+  "id": "M09CB36",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード２０",
+  "en": ""
+ },
+ {
+  "id": "M09CB42",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード２１",
+  "en": ""
+ },
+ {
+  "id": "M09CB4E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード２２",
+  "en": ""
+ },
+ {
+  "id": "M09CB5A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード２３",
+  "en": ""
+ },
+ {
+  "id": "M09CB66",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード２４",
+  "en": ""
+ },
+ {
+  "id": "M09CB72",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード２５",
+  "en": ""
+ },
+ {
+  "id": "M09CB7E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード２６",
+  "en": ""
+ },
+ {
+  "id": "M09CB8A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード２７",
+  "en": ""
+ },
+ {
+  "id": "M09CB96",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード２８",
+  "en": ""
+ },
+ {
+  "id": "M09CBA2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード２９",
+  "en": ""
+ },
+ {
+  "id": "M09CBAE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード３０",
+  "en": ""
+ },
+ {
+  "id": "M09CBBA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード３１",
+  "en": ""
+ },
+ {
+  "id": "M09CBC6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード３２",
+  "en": ""
+ },
+ {
+  "id": "M09CBD2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード３３",
+  "en": ""
+ },
+ {
+  "id": "M09CBDE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード３４",
+  "en": ""
+ },
+ {
+  "id": "M09CBEA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード３５",
+  "en": ""
+ },
+ {
+  "id": "M09CBF6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード３６",
+  "en": ""
+ },
+ {
+  "id": "M09CC02",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード３７",
+  "en": ""
+ },
+ {
+  "id": "M09CC0E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード３８",
+  "en": ""
+ },
+ {
+  "id": "M09CC1A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード３９",
+  "en": ""
+ },
+ {
+  "id": "M09CC26",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード４０",
+  "en": ""
+ },
+ {
+  "id": "M09CC32",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード４１",
+  "en": ""
+ },
+ {
+  "id": "M09CC3E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード４２",
+  "en": ""
+ },
+ {
+  "id": "M09CC4A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード４３",
+  "en": ""
+ },
+ {
+  "id": "M09CC56",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード４４",
+  "en": ""
+ },
+ {
+  "id": "M09CC62",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード４５",
+  "en": ""
+ },
+ {
+  "id": "M09CC6E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード４６",
+  "en": ""
+ },
+ {
+  "id": "M09CC7A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード４７",
+  "en": ""
+ },
+ {
+  "id": "M09CC86",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード４８",
+  "en": ""
+ },
+ {
+  "id": "M09CC92",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード４９",
+  "en": ""
+ },
+ {
+  "id": "M09CC9E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード５０",
+  "en": ""
+ },
+ {
+  "id": "M09CCAA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード５１",
+  "en": ""
+ },
+ {
+  "id": "M09CCB6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード５２",
+  "en": ""
+ },
+ {
+  "id": "M09CCC2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード５３",
+  "en": ""
+ },
+ {
+  "id": "M09CCCE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード５４",
+  "en": ""
+ },
+ {
+  "id": "M09CCDA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード５５",
+  "en": ""
+ },
+ {
+  "id": "M09CCE6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード５６",
+  "en": ""
+ },
+ {
+  "id": "M09CCF2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード５７",
+  "en": ""
+ },
+ {
+  "id": "M09CCFE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード５８",
+  "en": ""
+ },
+ {
+  "id": "M09CD0A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード５９",
+  "en": ""
+ },
+ {
+  "id": "M09CD16",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード６０",
+  "en": ""
+ },
+ {
+  "id": "M09CD22",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード６１",
+  "en": ""
+ },
+ {
+  "id": "M09CD2E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード６２",
+  "en": ""
+ },
+ {
+  "id": "M09CD3A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード６３",
+  "en": ""
+ },
+ {
+  "id": "M09CD46",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード６４",
+  "en": ""
+ },
+ {
+  "id": "M09CD52",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード６５",
+  "en": ""
+ },
+ {
+  "id": "M09CD5E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード６６",
+  "en": ""
+ },
+ {
+  "id": "M09CD6A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード６７",
+  "en": ""
+ },
+ {
+  "id": "M09CD76",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード６８",
+  "en": ""
+ },
+ {
+  "id": "M09CD82",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード６９",
+  "en": ""
+ },
+ {
+  "id": "M09CD8E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード７０",
+  "en": ""
+ },
+ {
+  "id": "M09CD9A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード７１",
+  "en": ""
+ },
+ {
+  "id": "M09CDA6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード７２",
+  "en": ""
+ },
+ {
+  "id": "M09CDB2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード７３",
+  "en": ""
+ },
+ {
+  "id": "M09CDBE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード７４",
+  "en": ""
+ },
+ {
+  "id": "M09CDCA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード７５",
+  "en": ""
+ },
+ {
+  "id": "M09CDD6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード７６",
+  "en": ""
+ },
+ {
+  "id": "M09CDE2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード７７",
+  "en": ""
+ },
+ {
+  "id": "M09CDEE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード７８",
+  "en": ""
+ },
+ {
+  "id": "M09CDFA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード７９",
+  "en": ""
+ },
+ {
+  "id": "M09CE06",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード８０",
+  "en": ""
+ },
+ {
+  "id": "M09CE12",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード８１",
+  "en": ""
+ },
+ {
+  "id": "M09CE1E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード８２",
+  "en": ""
+ },
+ {
+  "id": "M09CE2A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード８３",
+  "en": ""
+ },
+ {
+  "id": "M09CE36",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード８４",
+  "en": ""
+ },
+ {
+  "id": "M09CE42",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード８５",
+  "en": ""
+ },
+ {
+  "id": "M09CE4E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード８６",
+  "en": ""
+ },
+ {
+  "id": "M09CE5A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード８７",
+  "en": ""
+ },
+ {
+  "id": "M09CE66",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード８８",
+  "en": ""
+ },
+ {
+  "id": "M09CE72",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード８９",
+  "en": ""
+ },
+ {
+  "id": "M09CE7E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード９０",
+  "en": ""
+ },
+ {
+  "id": "M09CE8A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード９１",
+  "en": ""
+ },
+ {
+  "id": "M09CE96",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード９２",
+  "en": ""
+ },
+ {
+  "id": "M09CEA2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード９３",
+  "en": ""
+ },
+ {
+  "id": "M09CEAE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード９４",
+  "en": ""
+ },
+ {
+  "id": "M09CEBA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード９５",
+  "en": ""
+ },
+ {
+  "id": "M09CEC6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード９６",
+  "en": ""
+ },
+ {
+  "id": "M09CED2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード９７",
+  "en": ""
+ },
+ {
+  "id": "M09CEDE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード９８",
+  "en": ""
+ },
+ {
+  "id": "M09CEEA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード９９",
+  "en": ""
+ },
+ {
+  "id": "M09CEF6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１００",
+  "en": ""
+ },
+ {
+  "id": "M09CF04",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１０１",
+  "en": ""
+ },
+ {
+  "id": "M09CF12",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１０２",
+  "en": ""
+ },
+ {
+  "id": "M09CF20",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１０３",
+  "en": ""
+ },
+ {
+  "id": "M09CF2E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１０４",
+  "en": ""
+ },
+ {
+  "id": "M09CF3C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１０５",
+  "en": ""
+ },
+ {
+  "id": "M09CF4A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１０６",
+  "en": ""
+ },
+ {
+  "id": "M09CF58",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１０７",
+  "en": ""
+ },
+ {
+  "id": "M09CF66",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１０８",
+  "en": ""
+ },
+ {
+  "id": "M09CF74",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１０９",
+  "en": ""
+ },
+ {
+  "id": "M09CF82",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１１０",
+  "en": ""
+ },
+ {
+  "id": "M09CF90",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１１１",
+  "en": ""
+ },
+ {
+  "id": "M09CF9E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１１２",
+  "en": ""
+ },
+ {
+  "id": "M09CFAC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１１３",
+  "en": ""
+ },
+ {
+  "id": "M09CFBA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１１４",
+  "en": ""
+ },
+ {
+  "id": "M09CFC8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１１５",
+  "en": ""
+ },
+ {
+  "id": "M09CFD6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１１６",
+  "en": ""
+ },
+ {
+  "id": "M09CFE4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１１７",
+  "en": ""
+ },
+ {
+  "id": "M09CFF2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１１８",
+  "en": ""
+ },
+ {
+  "id": "M09D000",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１１９",
+  "en": ""
+ },
+ {
+  "id": "M09D00E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１２０",
+  "en": ""
+ },
+ {
+  "id": "M09D01C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１２１",
+  "en": ""
+ },
+ {
+  "id": "M09D02A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１２２",
+  "en": ""
+ },
+ {
+  "id": "M09D038",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１２３",
+  "en": ""
+ },
+ {
+  "id": "M09D046",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１２４",
+  "en": ""
+ },
+ {
+  "id": "M09D054",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１２５",
+  "en": ""
+ },
+ {
+  "id": "M09D062",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１２６",
+  "en": ""
+ },
+ {
+  "id": "M09D070",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１２７",
+  "en": ""
+ },
+ {
+  "id": "M09D07E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１２８",
+  "en": ""
+ },
+ {
+  "id": "M09D08C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１２９",
+  "en": ""
+ },
+ {
+  "id": "M09D09A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１３０",
+  "en": ""
+ },
+ {
+  "id": "M09D0A8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１３１",
+  "en": ""
+ },
+ {
+  "id": "M09D0B6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１３２",
+  "en": ""
+ },
+ {
+  "id": "M09D0C4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１３３",
+  "en": ""
+ },
+ {
+  "id": "M09D0D2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１３４",
+  "en": ""
+ },
+ {
+  "id": "M09D0E0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１３５",
+  "en": ""
+ },
+ {
+  "id": "M09D0EE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１３６",
+  "en": ""
+ },
+ {
+  "id": "M09D0FC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１３７",
+  "en": ""
+ },
+ {
+  "id": "M09D10A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１３８",
+  "en": ""
+ },
+ {
+  "id": "M09D118",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１３９",
+  "en": ""
+ },
+ {
+  "id": "M09D126",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１４０",
+  "en": ""
+ },
+ {
+  "id": "M09D134",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１４１",
+  "en": ""
+ },
+ {
+  "id": "M09D142",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１４２",
+  "en": ""
+ },
+ {
+  "id": "M09D150",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１４３",
+  "en": ""
+ },
+ {
+  "id": "M09D15E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１４４",
+  "en": ""
+ },
+ {
+  "id": "M09D16C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１４５",
+  "en": ""
+ },
+ {
+  "id": "M09D17A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１４６",
+  "en": ""
+ },
+ {
+  "id": "M09D188",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１４７",
+  "en": ""
+ },
+ {
+  "id": "M09D196",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１４８",
+  "en": ""
+ },
+ {
+  "id": "M09D1A4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１４９",
+  "en": ""
+ },
+ {
+  "id": "M09D1B2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１５０",
+  "en": ""
+ },
+ {
+  "id": "M09D1C0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１５１",
+  "en": ""
+ },
+ {
+  "id": "M09D1CE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１５２",
+  "en": ""
+ },
+ {
+  "id": "M09D1DC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１５３",
+  "en": ""
+ },
+ {
+  "id": "M09D1EA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１５４",
+  "en": ""
+ },
+ {
+  "id": "M09D1F8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１５５",
+  "en": ""
+ },
+ {
+  "id": "M09D206",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１５６",
+  "en": ""
+ },
+ {
+  "id": "M09D214",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１５７",
+  "en": ""
+ },
+ {
+  "id": "M09D222",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１５８",
+  "en": ""
+ },
+ {
+  "id": "M09D230",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１５９",
+  "en": ""
+ },
+ {
+  "id": "M09D23E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カード１６０",
+  "en": ""
+ },
+ {
+  "id": "M09D24C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ＨＰ回復小（単体）",
+  "en": ""
+ },
+ {
+  "id": "M09D260",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ＨＰ回復大（単体）",
+  "en": ""
+ },
+ {
+  "id": "M09D274",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "戦闘不能回復（単体）",
+  "en": ""
+ },
+ {
+  "id": "M09D28A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "解毒（単体）",
+  "en": ""
+ },
+ {
+  "id": "M09D298",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "マヒ回復（単体）",
+  "en": ""
+ },
+ {
+  "id": "M09D2AA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "混乱回復（単体）",
+  "en": ""
+ },
+ {
+  "id": "M09D2BC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ステータス異常回復（単体）",
+  "en": ""
+ },
+ {
+  "id": "M09D2D8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ＨＰ全回復、\nステータス異常回復（単体）",
+  "en": ""
+ },
+ {
+  "id": "M09D302",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "戦闘不能回復、ＨＰ全回復、\nステータス異常回復（単体）",
+  "en": ""
+ },
+ {
+  "id": "M09D33A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一定時間、回避率アップ（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D35A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ＨＰ回復（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D36C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一定時間、防御力アップ（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D38C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ステータス異常回復（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D3A8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一度だけ土属性攻撃を無効化（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D3CC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一度だけ風属性攻撃を無効化（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D3F0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一度だけ火属性攻撃を無効化（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D414",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一度だけ水属性攻撃を無効化（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D438",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一定時間、素早さアップ（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D458",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一度だけ雷属性攻撃を無効化（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D47C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一度だけ闇属性攻撃を無効化（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D4A0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一度だけ光属性攻撃を無効化（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D4C4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一定時間、攻撃力アップ（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D4E4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一度だけ無属性攻撃を無効化（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D508",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "一度だけ砂属性攻撃を無効化（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D52C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "戦闘不能回復（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D542",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "夏実のコーヒー券\nＨＰ全回復（全体）",
+  "en": ""
+ },
+ {
+  "id": "M09D568",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆銀次の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D582",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆卑弥呼の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D59E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆赤屍の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D5B8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆花月の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D5D2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆士度の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D5EC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆笑師の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D606",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆十兵衛の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D622",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆鏡の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D63A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆卑弥呼の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D658",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆赤屍の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D674",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆花月の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D690",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆士度の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D6AC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆笑師の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D6C8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆十兵衛の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D6E6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆鏡の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D700",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆赤屍の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D71E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆花月の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D73C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆士度の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D75A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆笑師の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D778",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆十兵衛の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D798",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆鏡の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D7B4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆花月の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D7D0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆士度の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D7EC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆笑師の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D808",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆十兵衛の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D826",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆鏡の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D840",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "花月＆士度の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D85C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "花月＆笑師の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D878",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "花月＆十兵衛の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D896",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "花月＆鏡の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D8B0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆笑師の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D8CC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆十兵衛の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D8EA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆鏡の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D904",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師＆十兵衛の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D922",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師＆鏡の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D93C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "十兵衛＆鏡の相性値をアップ",
+  "en": ""
+ },
+ {
+  "id": "M09D958",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "お弁当",
+  "en": ""
+ },
+ {
+  "id": "M09D960",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "体育館のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09D96E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "舞台裏のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09D97C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "社長室のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09D98A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "Ｐの",
+  "en": ""
+ },
+ {
+  "id": "M09D990",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "Ｈの",
+  "en": ""
+ },
+ {
+  "id": "M09D996",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ＤＶＤロム",
+  "en": ""
+ },
+ {
+  "id": "M09D9A2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "アルがくれた謎の石",
+  "en": ""
+ },
+ {
+  "id": "M09D9B6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "書斎のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09D9C2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "大陸の秘宝",
+  "en": ""
+ },
+ {
+  "id": "M09D9CE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "配電室のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09D9DC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "アルファタワー１のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09D9F4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "アルファタワー２のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09DA0C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "アルファタワー３のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09DA24",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ゲームソフト",
+  "en": ""
+ },
+ {
+  "id": "M09DA32",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ブラックコーヒー",
+  "en": ""
+ },
+ {
+  "id": "M09DA44",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "加糖、ミルク入りコーヒー",
+  "en": ""
+ },
+ {
+  "id": "M09DA5E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "無糖、ミルク入りコーヒー",
+  "en": ""
+ },
+ {
+  "id": "M09DA78",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "カフェオレ",
+  "en": ""
+ },
+ {
+  "id": "M09DA84",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "オレンジジュース",
+  "en": ""
+ },
+ {
+  "id": "M09DA96",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ウーロン茶",
+  "en": ""
+ },
+ {
+  "id": "M09DAA2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "レモンティー",
+  "en": ""
+ },
+ {
+  "id": "M09DAB0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ミルクティー",
+  "en": ""
+ },
+ {
+  "id": "M09DABE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "野菜ジュース",
+  "en": ""
+ },
+ {
+  "id": "M09DACC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "チューリップの花かご",
+  "en": ""
+ },
+ {
+  "id": "M09DAE2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ひまわりの花かご",
+  "en": ""
+ },
+ {
+  "id": "M09DAF4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ガーベラの花かご",
+  "en": ""
+ },
+ {
+  "id": "M09DB06",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ラベンダーの花かご",
+  "en": ""
+ },
+ {
+  "id": "M09DB1A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ユリの花かご",
+  "en": ""
+ },
+ {
+  "id": "M09DB28",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "バラの花かご",
+  "en": ""
+ },
+ {
+  "id": "M09DB36",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ステージ衣装",
+  "en": ""
+ },
+ {
+  "id": "M09DB44",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ステージ衣装",
+  "en": ""
+ },
+ {
+  "id": "M09DB52",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ステージ衣装",
+  "en": ""
+ },
+ {
+  "id": "M09DB60",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ステージ衣装",
+  "en": ""
+ },
+ {
+  "id": "M09DB6E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ステージ衣装",
+  "en": ""
+ },
+ {
+  "id": "M09DB7C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ステージ衣装",
+  "en": ""
+ },
+ {
+  "id": "M09DB8A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "衣装部屋のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09DB9A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "お嬢様のぼうし",
+  "en": ""
+ },
+ {
+  "id": "M09DBAA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "お嬢様のスカート",
+  "en": ""
+ },
+ {
+  "id": "M09DBBC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "倉庫のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09DBC8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "厨房のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09DBD4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "オイルライター",
+  "en": ""
+ },
+ {
+  "id": "M09DBE4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "本",
+  "en": ""
+ },
+ {
+  "id": "M09DBE8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "キーメモリー",
+  "en": ""
+ },
+ {
+  "id": "M09DBF6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "パスコード１",
+  "en": ""
+ },
+ {
+  "id": "M09DC04",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "パスコード２",
+  "en": ""
+ },
+ {
+  "id": "M09DC12",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "パスコード３",
+  "en": ""
+ },
+ {
+  "id": "M09DC20",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "ベッドルームのカギ",
+  "en": ""
+ },
+ {
+  "id": "M09DC34",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "大広間のカギ",
+  "en": ""
+ },
+ {
+  "id": "M09DC42",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "液体窒素",
+  "en": ""
+ },
+ {
+  "id": "M09DC4C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆銀次１",
+  "en": ""
+ },
+ {
+  "id": "M09DC58",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆銀次２",
+  "en": ""
+ },
+ {
+  "id": "M09DC64",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆銀次３",
+  "en": ""
+ },
+ {
+  "id": "M09DC70",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆銀次４",
+  "en": ""
+ },
+ {
+  "id": "M09DC7C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆銀次５",
+  "en": ""
+ },
+ {
+  "id": "M09DC88",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆銀次６",
+  "en": ""
+ },
+ {
+  "id": "M09DC94",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆銀次７",
+  "en": ""
+ },
+ {
+  "id": "M09DCA0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆銀次８",
+  "en": ""
+ },
+ {
+  "id": "M09DCAC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆卑弥呼４",
+  "en": ""
+ },
+ {
+  "id": "M09DCBA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆卑弥呼５",
+  "en": ""
+ },
+ {
+  "id": "M09DCC8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆卑弥呼６",
+  "en": ""
+ },
+ {
+  "id": "M09DCD6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆卑弥呼７",
+  "en": ""
+ },
+ {
+  "id": "M09DCE4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆卑弥呼８",
+  "en": ""
+ },
+ {
+  "id": "M09DCF2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆赤屍５",
+  "en": ""
+ },
+ {
+  "id": "M09DCFE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆赤屍７",
+  "en": ""
+ },
+ {
+  "id": "M09DD0A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆赤屍８",
+  "en": ""
+ },
+ {
+  "id": "M09DD16",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆士度１",
+  "en": ""
+ },
+ {
+  "id": "M09DD22",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆士度２",
+  "en": ""
+ },
+ {
+  "id": "M09DD2E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆士度３",
+  "en": ""
+ },
+ {
+  "id": "M09DD3A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆士度４",
+  "en": ""
+ },
+ {
+  "id": "M09DD46",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆士度５",
+  "en": ""
+ },
+ {
+  "id": "M09DD52",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆士度６",
+  "en": ""
+ },
+ {
+  "id": "M09DD5E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆士度７",
+  "en": ""
+ },
+ {
+  "id": "M09DD6A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆士度８",
+  "en": ""
+ },
+ {
+  "id": "M09DD76",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆笑師４",
+  "en": ""
+ },
+ {
+  "id": "M09DD82",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆笑師５",
+  "en": ""
+ },
+ {
+  "id": "M09DD8E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆笑師６",
+  "en": ""
+ },
+ {
+  "id": "M09DD9A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆笑師７",
+  "en": ""
+ },
+ {
+  "id": "M09DDA6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆笑師８",
+  "en": ""
+ },
+ {
+  "id": "M09DDB2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆花月２",
+  "en": ""
+ },
+ {
+  "id": "M09DDBE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆花月３",
+  "en": ""
+ },
+ {
+  "id": "M09DDCA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆花月４",
+  "en": ""
+ },
+ {
+  "id": "M09DDD6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆花月５",
+  "en": ""
+ },
+ {
+  "id": "M09DDE2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆花月７",
+  "en": ""
+ },
+ {
+  "id": "M09DDEE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆花月８",
+  "en": ""
+ },
+ {
+  "id": "M09DDFA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆十兵衛４",
+  "en": ""
+ },
+ {
+  "id": "M09DE08",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆十兵衛５",
+  "en": ""
+ },
+ {
+  "id": "M09DE16",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆十兵衛７",
+  "en": ""
+ },
+ {
+  "id": "M09DE24",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆十兵衛８",
+  "en": ""
+ },
+ {
+  "id": "M09DE32",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆鏡７",
+  "en": ""
+ },
+ {
+  "id": "M09DE3C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "蛮＆鏡８",
+  "en": ""
+ },
+ {
+  "id": "M09DE46",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆卑弥呼４",
+  "en": ""
+ },
+ {
+  "id": "M09DE56",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆卑弥呼５",
+  "en": ""
+ },
+ {
+  "id": "M09DE66",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆卑弥呼７",
+  "en": ""
+ },
+ {
+  "id": "M09DE76",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆卑弥呼８",
+  "en": ""
+ },
+ {
+  "id": "M09DE86",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆赤屍５",
+  "en": ""
+ },
+ {
+  "id": "M09DE94",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆赤屍７",
+  "en": ""
+ },
+ {
+  "id": "M09DEA2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆赤屍８",
+  "en": ""
+ },
+ {
+  "id": "M09DEB0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆士度１",
+  "en": ""
+ },
+ {
+  "id": "M09DEBE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆士度２",
+  "en": ""
+ },
+ {
+  "id": "M09DECC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆士度３",
+  "en": ""
+ },
+ {
+  "id": "M09DEDA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆士度４",
+  "en": ""
+ },
+ {
+  "id": "M09DEE8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆士度５",
+  "en": ""
+ },
+ {
+  "id": "M09DEF6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆士度６",
+  "en": ""
+ },
+ {
+  "id": "M09DF04",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆士度７",
+  "en": ""
+ },
+ {
+  "id": "M09DF12",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆士度８",
+  "en": ""
+ },
+ {
+  "id": "M09DF20",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆笑師４",
+  "en": ""
+ },
+ {
+  "id": "M09DF2E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆笑師５",
+  "en": ""
+ },
+ {
+  "id": "M09DF3C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆笑師６",
+  "en": ""
+ },
+ {
+  "id": "M09DF4A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆笑師７",
+  "en": ""
+ },
+ {
+  "id": "M09DF58",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆笑師８",
+  "en": ""
+ },
+ {
+  "id": "M09DF66",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆花月２",
+  "en": ""
+ },
+ {
+  "id": "M09DF74",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆花月３",
+  "en": ""
+ },
+ {
+  "id": "M09DF82",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆花月４",
+  "en": ""
+ },
+ {
+  "id": "M09DF90",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆花月５",
+  "en": ""
+ },
+ {
+  "id": "M09DF9E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆花月７",
+  "en": ""
+ },
+ {
+  "id": "M09DFAC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆花月８",
+  "en": ""
+ },
+ {
+  "id": "M09DFBA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆十兵衛４",
+  "en": ""
+ },
+ {
+  "id": "M09DFCA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆十兵衛５",
+  "en": ""
+ },
+ {
+  "id": "M09DFDA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆十兵衛７",
+  "en": ""
+ },
+ {
+  "id": "M09DFEA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆十兵衛８",
+  "en": ""
+ },
+ {
+  "id": "M09DFFA",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆鏡７",
+  "en": ""
+ },
+ {
+  "id": "M09E006",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "銀次＆鏡８",
+  "en": ""
+ },
+ {
+  "id": "M09E012",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ１",
+  "en": ""
+ },
+ {
+  "id": "M09E01C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆赤屍５",
+  "en": ""
+ },
+ {
+  "id": "M09E02C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆赤屍７",
+  "en": ""
+ },
+ {
+  "id": "M09E03C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆赤屍８",
+  "en": ""
+ },
+ {
+  "id": "M09E04C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆士度４",
+  "en": ""
+ },
+ {
+  "id": "M09E05C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆士度５",
+  "en": ""
+ },
+ {
+  "id": "M09E06C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆士度７",
+  "en": ""
+ },
+ {
+  "id": "M09E07C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆士度８",
+  "en": ""
+ },
+ {
+  "id": "M09E08C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆笑師４",
+  "en": ""
+ },
+ {
+  "id": "M09E09C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆笑師５",
+  "en": ""
+ },
+ {
+  "id": "M09E0AC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆笑師７",
+  "en": ""
+ },
+ {
+  "id": "M09E0BC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆笑師８",
+  "en": ""
+ },
+ {
+  "id": "M09E0CC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆花月４",
+  "en": ""
+ },
+ {
+  "id": "M09E0DC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆花月５",
+  "en": ""
+ },
+ {
+  "id": "M09E0EC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆花月７",
+  "en": ""
+ },
+ {
+  "id": "M09E0FC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆花月８",
+  "en": ""
+ },
+ {
+  "id": "M09E10C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆十兵衛４",
+  "en": ""
+ },
+ {
+  "id": "M09E11E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆十兵衛５",
+  "en": ""
+ },
+ {
+  "id": "M09E130",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆十兵衛７",
+  "en": ""
+ },
+ {
+  "id": "M09E142",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆十兵衛８",
+  "en": ""
+ },
+ {
+  "id": "M09E154",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆鏡７",
+  "en": ""
+ },
+ {
+  "id": "M09E162",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "卑弥呼＆鏡８",
+  "en": ""
+ },
+ {
+  "id": "M09E170",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆士度５",
+  "en": ""
+ },
+ {
+  "id": "M09E17E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆士度７",
+  "en": ""
+ },
+ {
+  "id": "M09E18C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆士度８",
+  "en": ""
+ },
+ {
+  "id": "M09E19A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆笑師５",
+  "en": ""
+ },
+ {
+  "id": "M09E1A8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆笑師７",
+  "en": ""
+ },
+ {
+  "id": "M09E1B6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆笑師８",
+  "en": ""
+ },
+ {
+  "id": "M09E1C4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆花月５",
+  "en": ""
+ },
+ {
+  "id": "M09E1D2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆花月７",
+  "en": ""
+ },
+ {
+  "id": "M09E1E0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆花月８",
+  "en": ""
+ },
+ {
+  "id": "M09E1EE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆十兵衛５",
+  "en": ""
+ },
+ {
+  "id": "M09E1FE",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆十兵衛７",
+  "en": ""
+ },
+ {
+  "id": "M09E20E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆十兵衛８",
+  "en": ""
+ },
+ {
+  "id": "M09E21E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆鏡７",
+  "en": ""
+ },
+ {
+  "id": "M09E22A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "赤屍＆鏡８",
+  "en": ""
+ },
+ {
+  "id": "M09E236",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆花月２",
+  "en": ""
+ },
+ {
+  "id": "M09E244",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆花月３",
+  "en": ""
+ },
+ {
+  "id": "M09E252",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆花月４",
+  "en": ""
+ },
+ {
+  "id": "M09E260",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆花月５",
+  "en": ""
+ },
+ {
+  "id": "M09E26E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆花月７",
+  "en": ""
+ },
+ {
+  "id": "M09E27C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆花月８",
+  "en": ""
+ },
+ {
+  "id": "M09E28A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆笑師４",
+  "en": ""
+ },
+ {
+  "id": "M09E298",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆笑師５",
+  "en": ""
+ },
+ {
+  "id": "M09E2A6",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆笑師６",
+  "en": ""
+ },
+ {
+  "id": "M09E2B4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆笑師７",
+  "en": ""
+ },
+ {
+  "id": "M09E2C2",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆笑師８",
+  "en": ""
+ },
+ {
+  "id": "M09E2D0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆十兵衛４",
+  "en": ""
+ },
+ {
+  "id": "M09E2E0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆十兵衛５",
+  "en": ""
+ },
+ {
+  "id": "M09E2F0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆十兵衛７",
+  "en": ""
+ },
+ {
+  "id": "M09E300",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆十兵衛８",
+  "en": ""
+ },
+ {
+  "id": "M09E310",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆鏡７",
+  "en": ""
+ },
+ {
+  "id": "M09E31C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "士度＆鏡８",
+  "en": ""
+ },
+ {
+  "id": "M09E328",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師＆花月４",
+  "en": ""
+ },
+ {
+  "id": "M09E336",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師＆花月５",
+  "en": ""
+ },
+ {
+  "id": "M09E344",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師＆花月７",
+  "en": ""
+ },
+ {
+  "id": "M09E352",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師＆花月８",
+  "en": ""
+ },
+ {
+  "id": "M09E360",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師＆十兵衛４",
+  "en": ""
+ },
+ {
+  "id": "M09E370",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師＆十兵衛５",
+  "en": ""
+ },
+ {
+  "id": "M09E380",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師＆十兵衛７",
+  "en": ""
+ },
+ {
+  "id": "M09E390",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師＆十兵衛８",
+  "en": ""
+ },
+ {
+  "id": "M09E3A0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師＆鏡７",
+  "en": ""
+ },
+ {
+  "id": "M09E3AC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "笑師＆鏡８",
+  "en": ""
+ },
+ {
+  "id": "M09E3B8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "花月＆十兵衛４",
+  "en": ""
+ },
+ {
+  "id": "M09E3C8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "花月＆十兵衛５",
+  "en": ""
+ },
+ {
+  "id": "M09E3D8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "花月＆十兵衛６",
+  "en": ""
+ },
+ {
+  "id": "M09E3E8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "花月＆十兵衛７",
+  "en": ""
+ },
+ {
+  "id": "M09E3F8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "花月＆十兵衛８",
+  "en": ""
+ },
+ {
+  "id": "M09E408",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "花月＆鏡７",
+  "en": ""
+ },
+ {
+  "id": "M09E414",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "花月＆鏡８",
+  "en": ""
+ },
+ {
+  "id": "M09E420",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "十兵衛＆鏡７",
+  "en": ""
+ },
+ {
+  "id": "M09E42E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "十兵衛＆鏡８",
+  "en": ""
+ },
+ {
+  "id": "M09E43C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ２",
+  "en": ""
+ },
+ {
+  "id": "M09E446",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ３",
+  "en": ""
+ },
+ {
+  "id": "M09E450",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ４",
+  "en": ""
+ },
+ {
+  "id": "M09E45A",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ５",
+  "en": ""
+ },
+ {
+  "id": "M09E464",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ６",
+  "en": ""
+ },
+ {
+  "id": "M09E46E",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ７",
+  "en": ""
+ },
+ {
+  "id": "M09E478",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ８",
+  "en": ""
+ },
+ {
+  "id": "M09E482",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ９",
+  "en": ""
+ },
+ {
+  "id": "M09E48C",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ１０",
+  "en": ""
+ },
+ {
+  "id": "M09E498",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ１１",
+  "en": ""
+ },
+ {
+  "id": "M09E4A4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ１２",
+  "en": ""
+ },
+ {
+  "id": "M09E4B0",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ１３",
+  "en": ""
+ },
+ {
+  "id": "M09E4BC",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ１４",
+  "en": ""
+ },
+ {
+  "id": "M09E4C8",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ１５",
+  "en": ""
+ },
+ {
+  "id": "M09E4D4",
+  "charset": "09EEB0",
+  "end": true,
+  "jp": "おまけ１６",
+  "en": ""
+ },
+ {
+  "id": "M09E4E0",
+  "charset": "09F0A2",
+  "end": false,
+  "jp": "０１２３４５６７８９",
+  "en": ""
+ },
+ {
+  "id": "M09E4F4",
+  "charset": "09F0A2",
+  "end": false,
+  "jp": "オプション",
+  "en": ""
+ },
+ {
+  "id": "M09E4FE",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "戦闘速度",
+  "en": ""
+ },
+ {
+  "id": "M09E508",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ＢＧＭ",
+  "en": ""
+ },
+ {
+  "id": "M09E510",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ＳＥ　",
+  "en": ""
+ },
+ {
+  "id": "M09E518",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ボイス",
+  "en": ""
+ },
+ {
+  "id": "M09E520",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "速・・・・・・・・遅",
+  "en": ""
+ },
+ {
+  "id": "M09E536",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "戦闘表示速度の設定",
+  "en": ""
+ },
+ {
+  "id": "M09E54A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ＢＧＭ、ＳＥ。左右で変更。\nＡボタンでリクエスト。Ｒボタンで停止",
+  "en": ""
+ },
+ {
+  "id": "M09E58C",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ボイス。左右で変更。\nＡボタンでリクエスト。Ｒボタンで停止",
+  "en": ""
+ },
+ {
+  "id": "M09E5C8",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
+  "en": ""
+ },
+ {
+  "id": "M09E612",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "　　　　　　　　　　　",
+  "en": ""
+ },
+ {
+  "id": "M09E62A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "オープニング",
+  "en": ""
+ },
+ {
+  "id": "M09E638",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "マップ１",
+  "en": ""
+ },
+ {
+  "id": "M09E642",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "マップ２",
+  "en": ""
+ },
+ {
+  "id": "M09E64C",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "マップ３",
+  "en": ""
+ },
+ {
+  "id": "M09E656",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "マップ４",
+  "en": ""
+ },
+ {
+  "id": "M09E660",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "マップ５",
+  "en": ""
+ },
+ {
+  "id": "M09E66A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "さすらい１",
+  "en": ""
+ },
+ {
+  "id": "M09E676",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "さすらい２",
+  "en": ""
+ },
+ {
+  "id": "M09E682",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "イベント１",
+  "en": ""
+ },
+ {
+  "id": "M09E68E",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "イベント２",
+  "en": ""
+ },
+ {
+  "id": "M09E69A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "イベント３",
+  "en": ""
+ },
+ {
+  "id": "M09E6A6",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "イベント４",
+  "en": ""
+ },
+ {
+  "id": "M09E6B2",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "イベント５",
+  "en": ""
+ },
+ {
+  "id": "M09E6BE",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "イベント６",
+  "en": ""
+ },
+ {
+  "id": "M09E6CA",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "戦闘１",
+  "en": ""
+ },
+ {
+  "id": "M09E6D2",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "戦闘２",
+  "en": ""
+ },
+ {
+  "id": "M09E6DA",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "戦闘３",
+  "en": ""
+ },
+ {
+  "id": "M09E6E2",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "戦闘４",
+  "en": ""
+ },
+ {
+  "id": "M09E6EA",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ゲームオーバー",
+  "en": ""
+ },
+ {
+  "id": "M09E6FA",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "エンディング",
+  "en": ""
+ },
+ {
+  "id": "M09E708",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ＡＣＴスタート",
+  "en": ""
+ },
+ {
+  "id": "M09E718",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "オルゴールバージョン",
+  "en": ""
+ },
+ {
+  "id": "M09E72E",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "コント",
+  "en": ""
+ },
+ {
+  "id": "M09E736",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "戦闘勝利",
+  "en": ""
+ },
+ {
+  "id": "M09E740",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "戦闘負け",
+  "en": ""
+ },
+ {
+  "id": "M09E74A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "レベルアップ",
+  "en": ""
+ },
+ {
+  "id": "M09E758",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "おばけピアノ１",
+  "en": ""
+ },
+ {
+  "id": "M09E768",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "おばけピアノ２",
+  "en": ""
+ },
+ {
+  "id": "M09E778",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "おばけピアノ３",
+  "en": ""
+ },
+ {
+  "id": "M09E788",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "機械音ＢＧＭ",
+  "en": ""
+ },
+ {
+  "id": "M09E796",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "合体技成功",
+  "en": ""
+ },
+ {
+  "id": "M09E7A2",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "放電",
+  "en": ""
+ },
+ {
+  "id": "M09E7A8",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "蛇の声",
+  "en": ""
+ },
+ {
+  "id": "M09E7B0",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "点滅",
+  "en": ""
+ },
+ {
+  "id": "M09E7B6",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "発光",
+  "en": ""
+ },
+ {
+  "id": "M09E7BC",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "小打撃",
+  "en": ""
+ },
+ {
+  "id": "M09E7C4",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "風切音",
+  "en": ""
+ },
+ {
+  "id": "M09E7CC",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "雷",
+  "en": ""
+ },
+ {
+  "id": "M09E7D0",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "音波",
+  "en": ""
+ },
+ {
+  "id": "M09E7D6",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "バリア",
+  "en": ""
+ },
+ {
+  "id": "M09E7DE",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ステータスアップ",
+  "en": ""
+ },
+ {
+  "id": "M09E7F0",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "拳銃攻撃",
+  "en": ""
+ },
+ {
+  "id": "M09E7FA",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "毒攻撃",
+  "en": ""
+ },
+ {
+  "id": "M09E802",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "まひ攻撃",
+  "en": ""
+ },
+ {
+  "id": "M09E80C",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "混乱攻撃",
+  "en": ""
+ },
+ {
+  "id": "M09E816",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ヒット１",
+  "en": ""
+ },
+ {
+  "id": "M09E820",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ヒット２",
+  "en": ""
+ },
+ {
+  "id": "M09E82A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ヒット３",
+  "en": ""
+ },
+ {
+  "id": "M09E834",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "絃",
+  "en": ""
+ },
+ {
+  "id": "M09E838",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "鞭",
+  "en": ""
+ },
+ {
+  "id": "M09E83C",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "殺傷攻撃",
+  "en": ""
+ },
+ {
+  "id": "M09E846",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "爆発",
+  "en": ""
+ },
+ {
+  "id": "M09E84C",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ハリケーン",
+  "en": ""
+ },
+ {
+  "id": "M09E858",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "光が収東",
+  "en": ""
+ },
+ {
+  "id": "M09E862",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "振動",
+  "en": ""
+ },
+ {
+  "id": "M09E868",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "狼の声",
+  "en": ""
+ },
+ {
+  "id": "M09E870",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "回復",
+  "en": ""
+ },
+ {
+  "id": "M09E876",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ステータス異常回復",
+  "en": ""
+ },
+ {
+  "id": "M09E88A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ガラスが割れる",
+  "en": ""
+ },
+ {
+  "id": "M09E89A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ガラスにひび",
+  "en": ""
+ },
+ {
+  "id": "M09E8A8",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "確定",
+  "en": ""
+ },
+ {
+  "id": "M09E8AE",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "キャンセル",
+  "en": ""
+ },
+ {
+  "id": "M09E8BA",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "カーソル",
+  "en": ""
+ },
+ {
+  "id": "M09E8C4",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "バトルシンク発生",
+  "en": ""
+ },
+ {
+  "id": "M09E8D6",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "バトルシンク成功",
+  "en": ""
+ },
+ {
+  "id": "M09E8E8",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "バトルシンク失敗",
+  "en": ""
+ },
+ {
+  "id": "M09E8FA",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "アイテムゲット１",
+  "en": ""
+ },
+ {
+  "id": "M09E90C",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "アイテムゲット２",
+  "en": ""
+ },
+ {
+  "id": "M09E91E",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "エラー",
+  "en": ""
+ },
+ {
+  "id": "M09E926",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "機械",
+  "en": ""
+ },
+ {
+  "id": "M09E92C",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "腹の虫",
+  "en": ""
+ },
+ {
+  "id": "M09E934",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "こおりつく",
+  "en": ""
+ },
+ {
+  "id": "M09E940",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ＧＢＡ",
+  "en": ""
+ },
+ {
+  "id": "M09E948",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ドア",
+  "en": ""
+ },
+ {
+  "id": "M09E94E",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "おばけ",
+  "en": ""
+ },
+ {
+  "id": "M09E956",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ピアノ単音",
+  "en": ""
+ },
+ {
+  "id": "M09E962",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "加速１",
+  "en": ""
+ },
+ {
+  "id": "M09E96A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "加速２",
+  "en": ""
+ },
+ {
+  "id": "M09E972",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ブレーキ",
+  "en": ""
+ },
+ {
+  "id": "M09E97C",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ドア２",
+  "en": ""
+ },
+ {
+  "id": "M09E984",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "落下",
+  "en": ""
+ },
+ {
+  "id": "M09E98A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "雷２",
+  "en": ""
+ },
+ {
+  "id": "M09E990",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ぽかっ",
+  "en": ""
+ },
+ {
+  "id": "M09E998",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "カギ",
+  "en": ""
+ },
+ {
+  "id": "M09E99E",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "マリオネット",
+  "en": ""
+ },
+ {
+  "id": "M09E9AC",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "スイッチ",
+  "en": ""
+ },
+ {
+  "id": "M09E9B6",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "エレベーター１",
+  "en": ""
+ },
+ {
+  "id": "M09E9C6",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "エレベーター２",
+  "en": ""
+ },
+ {
+  "id": "M09E9D6",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "エレベータードア",
+  "en": ""
+ },
+ {
+  "id": "M09E9E8",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "船",
+  "en": ""
+ },
+ {
+  "id": "M09E9EC",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "モニター",
+  "en": ""
+ },
+ {
+  "id": "M09E9F6",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "バトルシンクＣ１",
+  "en": ""
+ },
+ {
+  "id": "M09EA08",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "バトルシンクＣ２",
+  "en": ""
+ },
+ {
+  "id": "M09EA1A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ばかうけ",
+  "en": ""
+ },
+ {
+  "id": "M09EA24",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ややうけ",
+  "en": ""
+ },
+ {
+  "id": "M09EA2E",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "どっちらけ",
+  "en": ""
+ },
+ {
+  "id": "M09EA3A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ラジオのスイッチ",
+  "en": ""
+ },
+ {
+  "id": "M09EA4C",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "バリア２",
+  "en": ""
+ },
+ {
+  "id": "M09EA56",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ケイ帯着信音",
+  "en": ""
+ },
+ {
+  "id": "M09EA64",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ケイ帯スイッチ",
+  "en": ""
+ },
+ {
+  "id": "M09EA74",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ホワイトアウト",
+  "en": ""
+ },
+ {
+  "id": "M09EA84",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "波",
+  "en": ""
+ },
+ {
+  "id": "M09EA88",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "うめき声",
+  "en": ""
+ },
+ {
+  "id": "M09EA92",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "美堂蛮",
+  "en": ""
+ },
+ {
+  "id": "M09EA9A",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "天野銀次",
+  "en": ""
+ },
+ {
+  "id": "M09EAA4",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "工藤卑弥呼",
+  "en": ""
+ },
+ {
+  "id": "M09EAB0",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "赤屍蔵人",
+  "en": ""
+ },
+ {
+  "id": "M09EABA",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "風鳥院花月",
+  "en": ""
+ },
+ {
+  "id": "M09EAC6",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "冬木士度",
+  "en": ""
+ },
+ {
+  "id": "M09EAD0",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "笑師春樹",
+  "en": ""
+ },
+ {
+  "id": "M09EADA",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "筧十兵衛",
+  "en": ""
+ },
+ {
+  "id": "M09EAE4",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "鏡形而",
+  "en": ""
+ },
+ {
+  "id": "M09EAEC",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "弥勒雪彦",
+  "en": ""
+ },
+ {
+  "id": "M09EAF6",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "アル・カ・ナ",
+  "en": ""
+ },
+ {
+  "id": "M09EB04",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ジェンド・ロン",
+  "en": ""
+ },
+ {
+  "id": "M09EB14",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "ＴＡＲＥ",
+  "en": ""
+ },
+ {
+  "id": "M09EB1E",
+  "charset": "09F0A2",
+  "end": true,
+  "jp": "水城夏実",
+  "en": ""
+ },
+ {
+  "id": "M09EB28",
+  "charset": "09F262",
+  "end": false,
+  "jp": "いどう",
+  "en": ""
+ },
+ {
+  "id": "M09EB2E",
+  "charset": "09F262",
+  "end": false,
+  "jp": "ＡＣＴ",
+  "en": ""
+ },
+ {
+  "id": "M09EB34",
+  "charset": "09F262",
+  "end": false,
+  "jp": "現在位置：",
+  "en": ""
+ },
+ {
+  "id": "M09EB3E",
+  "charset": "09F262",
+  "end": false,
+  "jp": "移動先：",
+  "en": ""
+ },
+ {
+  "id": "M09EB46",
+  "charset": "09F262",
+  "end": true,
+  "jp": "ホンキー　\n　　トンク",
+  "en": ""
+ },
+ {
+  "id": "M09EB5E",
+  "charset": "09F262",
+  "end": true,
+  "jp": "繁華街　　\n　　　　　",
+  "en": ""
+ },
+ {
+  "id": "M09EB76",
+  "charset": "09F262",
+  "end": true,
+  "jp": "繁華街　　\n　　　　　",
+  "en": ""
+ },
+ {
+  "id": "M09EB8E",
+  "charset": "09F262",
+  "end": true,
+  "jp": "廃校　　　\n　　　　　",
+  "en": ""
+ },
+ {
+  "id": "M09EBA6",
+  "charset": "09F262",
+  "end": true,
+  "jp": "Ｎホール　\n　　　　　",
+  "en": ""
+ },
+ {
+  "id": "M09EBBE",
+  "charset": "09F262",
+  "end": true,
+  "jp": "山城芸能　\n　　　ビル",
+  "en": ""
+ },
+ {
+  "id": "M09EBD6",
+  "charset": "09F262",
+  "end": true,
+  "jp": "地下洞窟　\n　　　　　",
+  "en": ""
+ },
+ {
+  "id": "M09EBEE",
+  "charset": "09F262",
+  "end": true,
+  "jp": "新浜島　　\n　　　　　",
+  "en": ""
+ },
+ {
+  "id": "M09EC06",
+  "charset": "09F262",
+  "end": true,
+  "jp": "アルファ　\n　タワー１",
+  "en": ""
+ },
+ {
+  "id": "M09EC1E",
+  "charset": "09F262",
+  "end": true,
+  "jp": "アルファ　\n　タワー２",
+  "en": ""
+ },
+ {
+  "id": "M09EC36",
+  "charset": "09F262",
+  "end": true,
+  "jp": "アルファ　\n　タワー３",
+  "en": ""
+ },
+ {
+  "id": "M09EC4E",
+  "charset": "09F262",
+  "end": false,
+  "jp": "０１２３４５６７８９",
+  "en": ""
+ },
+ {
+  "id": "M09EC62",
+  "charset": "09F2D0",
+  "end": false,
+  "jp": "０１２３４５６７８９",
+  "en": ""
+ },
+ {
+  "id": "M09EC76",
+  "charset": "09F2D0",
+  "end": false,
+  "jp": "セーブ",
+  "en": ""
+ },
+ {
+  "id": "M09EC7C",
+  "charset": "09F2D0",
+  "end": false,
+  "jp": "ロード",
+  "en": ""
+ },
+ {
+  "id": "M09EC82",
+  "charset": "09F2D0",
+  "end": true,
+  "jp": "番",
+  "en": ""
+ },
+ {
+  "id": "M09EC86",
+  "charset": "09F2D0",
+  "end": true,
+  "jp": "現在",
+  "en": ""
+ },
+ {
+  "id": "M09EC8C",
+  "charset": "09F2D0",
+  "end": true,
+  "jp": "ＡＣＴ",
+  "en": ""
+ },
+ {
+  "id": "M09EC94",
+  "charset": "09F2D0",
+  "end": true,
+  "jp": "ＮＯ　ＤＡＴＡ",
+  "en": ""
+ },
+ {
+  "id": "M09ECA4",
+  "charset": "09F2D0",
+  "end": true,
+  "jp": "警告！Ａボタンで上書きします",
+  "en": ""
+ },
+ {
+  "id": "M09ECC2",
+  "charset": "09F2D0",
+  "end": true,
+  "jp": "書き込みエラーです",
+  "en": ""
+ },
+ {
+  "id": "M09ECD6",
+  "charset": "09F2D0",
+  "end": true,
+  "jp": "　　　　　　　　　　　　　　",
+  "en": ""
+ }
+]

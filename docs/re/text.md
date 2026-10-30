@@ -93,19 +93,28 @@ then a final 0 at 3DD728. Strings are addressed by section + index, so a string'
 - Draw-routine check (verified): `tools/lua/drawlog.lua` on all 21 warp scenes, `tools/drawcheck.py`: every
   string 0805281C drew in act0-act9, battle, battle_02 and the ending is a script line (fixture
   `tests/data/drawn/`, `tests/test_script.py::test_drawn_text_is_extracted`); only lone digits (counters) are not.
-- **Menu text is a second system** (field menus draw nothing through 0805281C): see §Menu text.
+- **Menu text is a second system** (field menus draw nothing through 0805281C): 786 strings, see §Menu text.
+- Phase 1's 571 "raw u16 runs outside PACs" all lie in the menu string area. 0805281C has one caller (0805294A).
+- Text drawn as graphics: `docs/re/graphics.md` (phase 8).
 
-## Menu text (in progress, phase 4)
-Menus (status/party/item/option/save, battle HUD?) draw the same dialogue-font cells into BG tiles (BG0/BG1, char
+## Menu text (verified: exec hook on the menu warps, `tests/test_menutext.py`)
+Field menus (status/party/item/option/save/move) draw the same dialogue-font cells into BG tiles (BG0/BG1, char
 base 0x8000, 2x2 tiles per glyph, 12 px pitch split over two layers; VRAM tile 0x95.. = cell 0x095 ア, state
-`work/qa/ppu_menu/ppu_003000`). Data at 0x9B338-0x9FFFF (code area, no PAC):
-- **Charsets**: arrays of font codes, each code once (e.g. 0x9ECF4 ステータパィアイムオプション…, 0x9EE80 names).
-  `0800C8A0 LoadCharset(r0 = codes, r1 = byte length, r2 = first tile)`: cell k -> tiles first+4k (DMA from the font
-  page table 0200EDA4 to 06008000 + tile*32).
-- **Strings**: u16 glyph-slot numbers, 0xFFFF end, 0xFFFE = new line (guess), drawn by `0800C920 DrawString(r0 =
-  string, r1.., stack)`. Slot v = tile 1+4v (guess from tile 0x95 = ア). Pointer tables: 0x9F40C (544 entries of
-  8 bytes), 0x9FCB0 (54), 0x9FDAC (9), 0x9FE68 (251), and literals in ~30 menu functions 0x094F4-0x0DFCC.
-  Decoding needs the charsets each function loads before drawing.
+`work/qa/ppu_menu/ppu_003000`). Nothing else draws text this way (battle draws through 0805281C). Code area, no PAC:
+- **Charsets** 0x9ECF4-0x9F324, 7 arrays of font codes (each code once): 9ECF4 field menu (22), 9ED20 status
+  (154), 9EE54 party (46), 9EEB0 items/cards (249), 9F0A2 option + sound test (224), 9F262 move (55), 9F2D0 save
+  (42). `0800C8A0 LoadCharset(r0 = codes, r1 = byte length, r2 = first tile = 1)`: cell k -> tiles 1+4k (DMA from the
+  font page table 0200EDA4 to 06008000 + tile*32). 8 call sites, all with literal arguments.
+- **Strings** 0x9C148-0x9ECF4 (786): u16 index into the loaded charset, 0xFFFE new line, 0xFFFF end.
+  `0800C920 DrawString(r0 = string, r1 = byte length, r2 = x, r3 = y)` (19 call sites, fixed-length strings with no
+  0xFFFF) and `0800C9D4(r0 = string, r1 = x, r2 = y, r3 = 0x1000 palette | tile base)` (35 call sites; strings
+  from literals and tables 0x9F40C (8-byte entries: name, description), 0x9FCB0, 0x9FDAC, 0x9FE68, 0xA05DC).
+  Which charset a string indexes = its block in `tools/menutext.py BLOCKS`, set by the function whose literal pool
+  points at it and checked by reading every string; the exec-hook trace (`tests/data/menu/`) agrees for every string
+  the warps draw. `tools/menutext.py dump` -> `script/menu.json` (id M<offset>, charset, end, jp, en).
+- 0x9B338-0x9C147 = window tile maps; 0x9F324-0x9F40B and the tables are structs and pointers (not text).
+- English needs its own charsets: an English charset per menu (or one shared Latin set) and re-encoded strings, or
+  a VWF into BG tiles - phase 5.
 
 ## Tools
 `tools/script.py` (extract, insertion records), `tools/fontread.py` (font-reading packets, merge into jp.tbl),

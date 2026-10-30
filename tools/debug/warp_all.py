@@ -1,6 +1,6 @@
 """Warp to scenes from a cold boot, in parallel, and save a contact sheet + savestate for each.
 
-    python -X utf8 tools/debug/warp_all.py [SCENE ...] [--rom ROM] [--frames N] [--jobs 4] [--mash N] [--script x.lua]
+    python -X utf8 tools/debug/warp_all.py [SCENE ...] [--rom ROM] [--frames N] [--jobs 4] [--mash N] [--script x.lua --var N=v]
 No scene names = every scene in tools/debug/scenes.lua. Output: work/qa/warp/<scene>/ (sheet.png, final.png,
 log.txt), state work/states/<scene>.mss. Boots with a blank flash save (work/saves/blank.sav), so the title
 cursor stays on NEW GAME. Exit 1 if any run failed or its warp hook never ran.
@@ -55,6 +55,8 @@ def run(scene, opt, a):
         cmd += ["--var", "GOD=1"]
     for s in a.script:
         cmd += ["--script", str(Path(s).resolve())]
+    for v in a.var:
+        cmd += ["--var", v]
     p = subprocess.run(cmd, capture_output=True, text=True)
     last = (p.stdout.strip().splitlines() or [""])[-1]
     log = out / "log.txt"
@@ -73,6 +75,7 @@ def main():
     ap.add_argument("--mash", type=int, help="override each scene's mash interval (default 60, 0 = off)")
     ap.add_argument("--god", action="store_true")
     ap.add_argument("--script", action="append", default=[], help="extra Lua probe for every run (e.g. drawlog.lua)")
+    ap.add_argument("--var", action="append", default=[], help="NAME=value for the probes (emu.py --var)")
     ap.add_argument("--jobs", type=int, default=4)
     a = ap.parse_args()
     known = scenes()

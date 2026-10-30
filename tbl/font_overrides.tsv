@@ -11,6 +11,11 @@
 587	[光]	h	element icon
 000	■	h	solid block: the original's missing glyph (line すぐに■めるのは悪いクセだぜ = 諦)
 5F2	郁	h	有 + ⻏ at zoom 8 (c0 read 都; 385 is 都), credits name 郁奈子
+11D	拳	h	menu charset only (zoom 8)
+22C	東	h	menu charset only
+3DE	左	h	menu charset only
+4EE	割	h	menu charset only
+549	[SEL]	h	menu charset only: "SEL" squeezed into one cell (Select button)
 05E	で	h	glyph has dakuten (b0 read て; 0CB is て)
 079	ビ	h	glyph has dakuten (b0 read ピ; 0D9 is ピ)
 07C	ほ	h	no dakuten (b0 read ぼ; 0BE is ぼ)
