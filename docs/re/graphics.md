@@ -27,14 +27,27 @@ hold the rest (chapter-card tiles). No custom compression seen.
 
 | # | Status | How (verified in a cold-boot shot) |
 |---|---|---|
-| G1 | done: katakana reading erased, 奪還屋 tag -> red box "Retrievers" (tiny font) | title BG2 8bpp: tiles 0x7D0EC (308 x 64 B, DMA'd whole), map **30x20 at 0x81DEC holding ROM tile numbers** (game adds 1). Re-encoded in place, ≤ 308 tiles. Shot `work/qa/title_en` |
-| G2 | done: title strip "Operation Metropolis Retrieval!" (STIX 12, dark red on white); intro banner the same words, "Metropolis" red (DejaVu 12, AA on the banner's ramps) | title: as G1; intro: PAC 0x683714 rec 26 tiles / 46 map / 6 palette. Shots `title_en`, `intro_en` f1050 |
-| G3 | done: "<epithet> <name>" per bar, 2 lines when one doesn't fit | PAC 0x683714: **rec k = tiles, k+20 = 32x4 map, k-20 = palette** (k = 27-34, 37; 34 Juubei not caught in a tour yet: the intro picks its order at random). BG2/BG3, map at char base + 0x3000. Shot `intro_en` |
+| G1 | done: katakana reading erased, 奪還屋 tag -> red box "Retrievers" (tiny font) | title BG2 8bpp: tiles 0x7D0EC (308 x 64 B, DMA'd whole), map **30x20 at 0x81DEC holding ROM tile numbers** (game adds 1). Re-encoded in place, ≤ 308 tiles. Current shot `work/qa/intro_final/f004050.png` |
+| G2 | done: title strip "Operation Metropolis Retrieval!" (STIX 12, dark red on white); intro banner the same words, "Metropolis" red (DejaVu 12, AA on the banner's ramps) | title: as G1; intro: PAC 0x683714 rec 26 tiles / 46 map / 6 palette. Current shots `intro_final` f004050 and f001050 |
+| G3 | done: "<epithet> <name>" per bar, 2 lines when one doesn't fit; all nine captured | PAC 0x683714: **rec k = tiles, k+20 = 32x4 map, k-20 = palette** (k = 27-34, 37). BG2/BG3, map at char base + 0x3000. Current-build cold boot `work/qa/intro_final`, overview `docs/screenshots/phase8_intro.png`; Juubei at f001980 (the earlier 50-frame sampling missed his complete bar) |
 | G4 | done: "(C) Yuya Aoki, Rando Ayamine, Kodansha / Team GetBackers" | OBJ tiles 60-119 from title OBJ tile 0 at 0x1456C4 (seven 32x16 + one 16x16 sprite, 1D), ink 1, outline 4; in place |
 | G6 | done: Act.0-3, 5-9 (Act.4 Latin already) | table 0x091C6C, 10 x {tiles, 30x20 map, palette, tile bytes}, raw; **the loader adds 0xE000 to every map entry** (store bank 0). New tiles+map+grey-ramp palette past 8 MiB, table repointed. VRAM 0x4A00-0x7FFF is empty at a card (Act.9 needs 100 tiles vs 86 max before). Shots `work/qa/warp/act*` f1750 |
 | G7 | all 13 rendered in game, including four elevator floor lists | PAC 0x77B0EC window j = recs 6+3j (palette, tiles, 32x32 map); boxes re-sized to the English (VWF font), frame mirrored. Cold-boot warps `choice_00`-`choice_12` run real event commands via relocated pointer slots (docs/re/debug.md); the unused Drink/Don't drink window needs a selector override. Shots `work/qa/choices/choice_*/final.png`, gate `work/qa/choices/manifest.tsv`, overview `docs/screenshots/phase8_choices.png` (row-major 00-12) |
 | G9 | Act 1 town: UEDA BANK, TATSUYA, SOBA, HAIRO BOOKS | `gfx.ROOM_SIGNS` (room pixels): LZ77 tiles 0x0B97F4 (rooms 0 and 2, 768 tiles) redrawn with `fonts/tiny.txt` through the room map, recompressed past 8 MiB, pointers 0x143710/0x143740 repointed. All 189 rooms rendered and reviewed for sign text (`work/qa/rooms`, gate manifest there). Room 1 street (Acts 1/2/7, tiles 0x0B6A9C, map 0x0B8E28 = 120x20 u16): CHINESE, HINODE, THELMA, TETSUJIN, octopus "RU N", drawn through the room map by `street_signs()`, which asserts every changed tile is used once in the map; pointer 0x143728 repointed. Not done: a tiny vertical sign by the shutter and a chalk board (illegible at game scale). The bath 男/女/湯 tiles in 0x0E1DB4 are not placed in the maps of rooms 55-57 (rendered whole: beach, bath, no lettering) |
 | G10 | done: VO TH FI DK WA EA SA WI LI | font PAC cells 0x507+16i drawn as 16x16 glyphs, box colour from the left frame pixel, ink 6; shot `work/qa/warp/menu_status` |
+
+### Reproduce the intro evidence
+
+From the repository root:
+
+```powershell
+python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/getbackers_en.gba --out work/qa/intro_final --frames 4200 --shot-every 10 --timeout 180
+```
+
+The overview uses frames 1050 (banner), 1250 (Ban), 1650 (Ginji), 1800 (Shido), 1980 (Juubei), 2170 (Kazuki),
+2350 (Himiko), 2620 (Emishi), 2800 (Akabane), 3000 (Kagami), and 4050 (title/copyright), row-major.
+Inspect complete bars between their sliding transitions; sampling every 50 frames can miss an entire bar.
+Gate: `work/qa/intro_final/manifest.tsv`, with verdicts in `work/qa/intro_final/verdicts/`.
 
 Not text (checked): Latin HUD/menu fonts 0x0824A0, 0x099D40, 0x0A06A0, 0x39F7E0, 0x3D0820 (digits); battle cut-ins
 PAC 0x5012A4-0x5B1F24 (bracelet pattern 0x533C44 is ornament), battle backgrounds PAC 0x6143F0 (unreadable shop

@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8 (QA in the emulator): G7 now captured; awaiting independent choice-window verdicts to close it.
+- **Phase:** 8 (QA in the emulator): awaiting independent choice-window and fresh intro verdicts to close it.
 - **Done (phase 8):**
   - Graphics text redrawn by `tools/gfx.py` (docs/re/graphics.md §Redraws, D10, D11): act cards Act.0-9, title
     logo (katakana reading erased, tag "Retrievers", subtitle strip), title/end copyright line, intro banner + 9
@@ -27,6 +27,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
   phase 8 complete or advance to release until those independent verdicts pass.
   Fresh build: 2026-10-30 10:31:41 UTC, SHA-1 `3b47207abe39ad396784390e3795477d296074af`; smoke passes,
   check 42 passed, existing 43-sheet tour and 189-room gates pass. Debug hooks remain emulator-only.
+- **Intro follow-up:** current-build cold boot at 10-frame intervals captures all nine complete name bars,
+  including Juubei (f001980), plus the banner and current title/copyright. The older 50-frame sample missed
+  Juubei; no graphics fix was necessary. Overview `docs/screenshots/phase8_intro.png`, captures and gate
+  `work/qa/intro_final/`; reproducible command and frame list in `docs/re/graphics.md`.
+  Requested sibling review through the coordinator for both choice and intro chunks; captures frozen.
+  Revalidated unchanged build: check 42 passed, smoke passed, 43-sheet tour and 189-room gates passed.
 - **Next (phase 9):** story pass per chapter (`qa_gate.py` on `work/qa/story/manifest.tsv`, skill
   references/translation.md §Review), `docs/polish.md` (from the polish ideas below), `tools/release.py` (patch,
   re-apply, verify, README with base ROM hashes, zip = patch + README; runs `qa_gate.py check` on every manifest),
