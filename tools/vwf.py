@@ -67,9 +67,10 @@ NAME_PX = 72   # name tag: 6 cells (sprites 2-7, tiles 792-815; line sprites sta
 
 MESSAGE_PX = 144  # battle message fragment after a name in the 2-line battle box: LINE_PX - NAME_PX (guess)
 # System text (PAC 3D7DE4) record ranges whose strings are box lines rather than fixed list slots
-SYSTEM_LINES = ((8, 31, MESSAGE_PX), (275, 472, LINE_PX), (474, 851, LINE_PX), (1056, 1063, LINE_PX))
-# 935-1054 (song lyrics, staff roll) stay at their Japanese cells: a 216 px marker there was cut short and
-# its sprites landed elsewhere on the credits screen (ending warp, marker build)
+CREDIT_PX = 228  # staff roll line: 19 cells; engine.credits_table fixes its sprites, the hook keeps it on screen
+SYSTEM_LINES = ((8, 31, MESSAGE_PX), (275, 472, LINE_PX), (474, 851, LINE_PX), (935, 944, LINE_PX),
+                (945, 1054, CREDIT_PX), (1056, 1063, LINE_PX))
+# 935-944: song lyrics in the epilogue's dialogue box (sprites 2.., tiles 792.., x 8; ending warp)
 
 
 def budget(e, jp_cells):

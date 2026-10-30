@@ -201,7 +201,9 @@ MEASURED = [
     (0x9C180, 0x9C180, 44),   # 必殺技: move name 48 px further
     (0x9C19A, 0x9C20A, 104),  # status names: レベル 112 px further
     (0x9C23C, 0x9C3C7, 168),  # move names: text at 60, frame at 234
-    (0x9C3C8, 0x9C446, 68),   # party names: list x 8, cursor at 80 (header row has 104)
+    # party header names (2,2): [SEL] hint at x 120, but a redraw clears whole 12 px cells (104 px clipped its S)
+    (0x9C3C8, 0x9C446, 96),   # (9C446: unreferenced copy)
+    (0x9C464, 0x9C4D4, 68, 2),  # party list names (engine.PARTY_NAMES): x 8, cursor at 80, given / family
     (0x9C452, 0x9C452, 104),  # [SEL] hint: x 120, frame at 226
     (0x9C4E2, 0x9C4F2, 48),   # item tabs: 56 px apart
     (0x9E4F4, 0x9E4F4, 216),  # option title
@@ -212,6 +214,11 @@ MEASURED = [
     (0x9EC86, 0x9EC86, 32),   # 現在: portraits 32 px further
     (0x9EC8C, 0x9EC8C, 36),   # ＡＣＴ: act digit right after it
     (0x9EC94, 0x9EC94, 192),  # NO DATA: x 40, frame at 232
+    # item list (warps menu_items/menu_event/menu_card): names at x 16 / 128, item counts' ink at x 93 / 205
+    (0x9C50C, 0x9C7FA, 75),   # item names
+    (0x9C808, 0x9D23E, 100),  # event and card names: right column 128, frame at 232
+    (0x9D24C, 0x9E4D4, 216, 2),  # item/event/card descriptions: x 12, frame at 232, box cleared 4 rows = 2 lines
+    (0x9E62A, 0x9EB1E, 128),  # sound test titles (warp menu_sound): x 100 after the number, eraser 9E612 to 232
 ]
 
 
@@ -219,9 +226,9 @@ def budget(p, vals, end):
     """(px, field cells, lines, measured) for the menu string at p. Unmeasured strings get their Japanese cells:
     a guess until a debug scene shows them (item/card lists, いどう, sound test, save messages)."""
     field, lines = layout(vals, end)
-    for lo, hi, px in MEASURED:
+    for lo, hi, px, *nl in MEASURED:
         if lo <= p <= hi:
-            return px, max(field, -(-px // CELL)), lines, True
+            return px, max(field, -(-px // CELL)), max([lines, *nl]), True
     return field * CELL, field, lines, False
 
 

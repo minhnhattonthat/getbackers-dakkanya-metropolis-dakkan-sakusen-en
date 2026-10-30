@@ -35,6 +35,11 @@ Addresses are file offsets / bus addresses for the `rom.sha1` dump.
 - Game state 02000B68 (saved): +2 act, +0x14, +0x18 map, +0x1A x, +0x1C y, +0x1E dir, +0x26 story flags,
   +0x9A0.. party slots.
 
+- Inventory (verified, warps menu_items/menu_event/menu_card): items 02001964 {u16 id 0-61, u16 count} x62, events
+  02001A5C {u16 id, u16} x50, both FFFF-ended; cards = bitset 02001B24 (160, mask table 080A065A); names and
+  descriptions in table 0809F40C (8-byte {name, description}: items 0-61, events 62-111, cards 112-271). Party
+  02001508: u16 ids into 0809FDAC, FFFF end. 02001504 != 0 (game cleared?) shows the option menu's sound test.
+
 ## Warp mechanism (`tools/debug/warp.lua`)
 Before NEW GAME runs, the start entry at ROM 08082308 is patched in emulated ROM to the scene's map/x/y, so the
 game does its own map load, act change and map script (act card included). Options: story flags / RAM writes
@@ -46,5 +51,5 @@ in emulated memory only; the release ROM is untouched.
 - Game over: battle loss not reproduced (the 0x2F demo fight is scripted; enemy-HP guess 03000F28 unverified;
   party battle HP not found). Try a non-demo fight id (e.g. 0x02) with the party at low HP.
 - The 13 pre-rendered choice windows (G7, PAC 0877B0EC via loader 08051E98 mode table 08051EDC), elevator floor
-  select, card tab contents (no cards in a warped game), item lists (no items), demo notice G8.
+  select, demo notice G8 (item/event/card lists: scenes menu_items/menu_event/menu_card write the inventory).
 - Random encounters (08005172 -> 08056524) and shops (none seen yet).

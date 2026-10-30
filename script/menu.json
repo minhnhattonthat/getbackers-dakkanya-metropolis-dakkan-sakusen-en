@@ -522,63 +522,63 @@
   "charset": "09EEB0",
   "end": true,
   "jp": "美堂　蛮　　",
-  "en": "Ban Mido"
+  "en": "Ban\nMido"
  },
  {
   "id": "M09C472",
   "charset": "09EEB0",
   "end": true,
   "jp": "天野　銀次　",
-  "en": "Ginji Amano"
+  "en": "Ginji\nAmano"
  },
  {
   "id": "M09C480",
   "charset": "09EEB0",
   "end": true,
   "jp": "工藤　卑弥呼",
-  "en": "Himiko Kudo"
+  "en": "Himiko\nKudo"
  },
  {
   "id": "M09C48E",
   "charset": "09EEB0",
   "end": true,
   "jp": "赤屍　蔵人　",
-  "en": "Kurodo Akabane"
+  "en": "Kurodo\nAkabane"
  },
  {
   "id": "M09C49C",
   "charset": "09EEB0",
   "end": true,
   "jp": "風鳥院　花月",
-  "en": "Kazuki Fuchoin"
+  "en": "Kazuki\nFuchoin"
  },
  {
   "id": "M09C4AA",
   "charset": "09EEB0",
   "end": true,
   "jp": "冬木　士度　",
-  "en": "Shido Fuyuki"
+  "en": "Shido\nFuyuki"
  },
  {
   "id": "M09C4B8",
   "charset": "09EEB0",
   "end": true,
   "jp": "笑師　春樹　",
-  "en": "Emishi Haruki"
+  "en": "Emishi\nHaruki"
  },
  {
   "id": "M09C4C6",
   "charset": "09EEB0",
   "end": true,
   "jp": "筧　十兵衛　",
-  "en": "Juubei Kakei"
+  "en": "Juubei\nKakei"
  },
  {
   "id": "M09C4D4",
   "charset": "09EEB0",
   "end": true,
   "jp": "鏡　形而　　",
-  "en": "Kyoji Kagami"
+  "en": "Kyoji\nKagami"
  },
  {
   "id": "M09C4E2",
@@ -795,252 +795,252 @@
   "charset": "09EEB0",
   "end": true,
   "jp": "ばんぎんのＭ",
-  "en": "Ban-Gin Memory"
+  "en": "Ban-Gin M"
  },
  {
   "id": "M09C61E",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばんひみのＭ",
-  "en": "Ban-Himi Memory"
+  "en": "Ban-Himi M"
  },
  {
   "id": "M09C62C",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばんばねのＭ",
-  "en": "Ban-Bane Memory"
+  "en": "Ban-Bane M"
  },
  {
   "id": "M09C63A",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばんかづのＭ",
-  "en": "Ban-Kazu Memory"
+  "en": "Ban-Kazu M"
  },
  {
   "id": "M09C648",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばんしどのＭ",
-  "en": "Ban-Shido Memory"
+  "en": "Ban-Shido M"
  },
  {
   "id": "M09C656",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばんえみのＭ",
-  "en": "Ban-Emi Memory"
+  "en": "Ban-Emi M"
  },
  {
   "id": "M09C664",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばんじゅのＭ",
-  "en": "Ban-Ju Memory"
+  "en": "Ban-Ju M"
  },
  {
   "id": "M09C672",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばんかがのＭ",
-  "en": "Ban-Kaga Memory"
+  "en": "Ban-Kaga M"
  },
  {
   "id": "M09C680",
   "charset": "09EEB0",
   "end": true,
   "jp": "ひみぎんのＭ",
-  "en": "Himi-Gin Memory"
+  "en": "Himi-Gin M"
  },
  {
   "id": "M09C68E",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばねぎんのＭ",
-  "en": "Bane-Gin Memory"
+  "en": "Bane-Gin M"
  },
  {
   "id": "M09C69C",
   "charset": "09EEB0",
   "end": true,
   "jp": "かづぎんのＭ",
-  "en": "Kazu-Gin Memory"
+  "en": "Kazu-Gin M"
  },
  {
   "id": "M09C6AA",
   "charset": "09EEB0",
   "end": true,
   "jp": "しどぎんのＭ",
-  "en": "Shido-Gin Memory"
+  "en": "Shido-Gin M"
  },
  {
   "id": "M09C6B8",
   "charset": "09EEB0",
   "end": true,
   "jp": "えみぎんのＭ",
-  "en": "Emi-Gin Memory"
+  "en": "Emi-Gin M"
  },
  {
   "id": "M09C6C6",
   "charset": "09EEB0",
   "end": true,
   "jp": "じゅぎんのＭ",
-  "en": "Ju-Gin Memory"
+  "en": "Ju-Gin M"
  },
  {
   "id": "M09C6D4",
   "charset": "09EEB0",
   "end": true,
   "jp": "かがぎんのＭ",
-  "en": "Kaga-Gin Memory"
+  "en": "Kaga-Gin M"
  },
  {
   "id": "M09C6E2",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばねひみのＭ",
-  "en": "Bane-Himi Memory"
+  "en": "Bane-Himi M"
  },
  {
   "id": "M09C6F0",
   "charset": "09EEB0",
   "end": true,
   "jp": "かづひみのＭ",
-  "en": "Kazu-Himi Memory"
+  "en": "Kazu-Himi M"
  },
  {
   "id": "M09C6FE",
   "charset": "09EEB0",
   "end": true,
   "jp": "しどひみのＭ",
-  "en": "Shido-Himi Memory"
+  "en": "Shido-Himi M"
  },
  {
   "id": "M09C70C",
   "charset": "09EEB0",
   "end": true,
   "jp": "えみひみのＭ",
-  "en": "Emi-Himi Memory"
+  "en": "Emi-Himi M"
  },
  {
   "id": "M09C71A",
   "charset": "09EEB0",
   "end": true,
   "jp": "じゅひみのＭ",
-  "en": "Ju-Himi Memory"
+  "en": "Ju-Himi M"
  },
  {
   "id": "M09C728",
   "charset": "09EEB0",
   "end": true,
   "jp": "かがひみのＭ",
-  "en": "Kaga-Himi Memory"
+  "en": "Kaga-Himi M"
  },
  {
   "id": "M09C736",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばねかづのＭ",
-  "en": "Bane-Kazu Memory"
+  "en": "Bane-Kazu M"
  },
  {
   "id": "M09C744",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばねしどのＭ",
-  "en": "Bane-Shido Memory"
+  "en": "Bane-Shido M"
  },
  {
   "id": "M09C752",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばねえみのＭ",
-  "en": "Bane-Emi Memory"
+  "en": "Bane-Emi M"
  },
  {
   "id": "M09C760",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばねじゅのＭ",
-  "en": "Bane-Ju Memory"
+  "en": "Bane-Ju M"
  },
  {
   "id": "M09C76E",
   "charset": "09EEB0",
   "end": true,
   "jp": "ばねかがのＭ",
-  "en": "Bane-Kaga Memory"
+  "en": "Bane-Kaga M"
  },
  {
   "id": "M09C77C",
   "charset": "09EEB0",
   "end": true,
   "jp": "しどかづのＭ",
-  "en": "Shido-Kazu Memory"
+  "en": "Shido-Kazu M"
  },
  {
   "id": "M09C78A",
   "charset": "09EEB0",
   "end": true,
   "jp": "えみかづのＭ",
-  "en": "Emi-Kazu Memory"
+  "en": "Emi-Kazu M"
  },
  {
   "id": "M09C798",
   "charset": "09EEB0",
   "end": true,
   "jp": "じゅかづのＭ",
-  "en": "Ju-Kazu Memory"
+  "en": "Ju-Kazu M"
  },
  {
   "id": "M09C7A6",
   "charset": "09EEB0",
   "end": true,
   "jp": "かがかづのＭ",
-  "en": "Kaga-Kazu Memory"
+  "en": "Kaga-Kazu M"
  },
  {
   "id": "M09C7B4",
   "charset": "09EEB0",
   "end": true,
   "jp": "しどえみのＭ",
-  "en": "Shido-Emi Memory"
+  "en": "Shido-Emi M"
  },
  {
   "id": "M09C7C2",
   "charset": "09EEB0",
   "end": true,
   "jp": "しどじゅのＭ",
-  "en": "Shido-Ju Memory"
+  "en": "Shido-Ju M"
  },
  {
   "id": "M09C7D0",
   "charset": "09EEB0",
   "end": true,
   "jp": "しどかがのＭ",
-  "en": "Shido-Kaga Memory"
+  "en": "Shido-Kaga M"
  },
  {
   "id": "M09C7DE",
   "charset": "09EEB0",
   "end": true,
   "jp": "えみじゅのＭ",
-  "en": "Emi-Ju Memory"
+  "en": "Emi-Ju M"
  },
  {
   "id": "M09C7EC",
   "charset": "09EEB0",
   "end": true,
   "jp": "えみかがのＭ",
-  "en": "Emi-Kaga Memory"
+  "en": "Emi-Kaga M"
  },
  {
   "id": "M09C7FA",
   "charset": "09EEB0",
   "end": true,
   "jp": "じゅかがのＭ",
-  "en": "Ju-Kaga Memory"
+  "en": "Ju-Kaga M"
  },
  {
   "id": "M09C808",
@@ -1068,7 +1068,7 @@
   "charset": "09EEB0",
   "end": true,
   "jp": "社長室のカギ",
-  "en": "President's Office Key"
+  "en": "President's Key"
  },
  {
   "id": "M09C83A",
@@ -2692,7 +2692,7 @@
   "charset": "09EEB0",
   "end": true,
   "jp": "夏実のコーヒー券\nＨＰ全回復（全体）",
-  "en": "Natsumi's coffee\nticket. Fully restores HP (all)"
+  "en": "Natsumi's coffee ticket.\nFully restores HP (all)"
  },
  {
   "id": "M09D568",
@@ -5394,7 +5394,7 @@
   "charset": "09F262",
   "end": true,
   "jp": "地下洞窟　\n　　　　　",
-  "en": "Underground\nCave"
+  "en": "Cavern"
  },
  {
   "id": "M09EBEE",

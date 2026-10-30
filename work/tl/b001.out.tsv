@@ -62,15 +62,15 @@ M09C42A	Juubei Kakei
 M09C438	Kyoji Kagami
 M09C446	Ban Mido
 M09C452	SELECT: Affinity
-M09C464	Ban Mido
-M09C472	Ginji Amano
-M09C480	Himiko Kudo
-M09C48E	Kurodo Akabane
-M09C49C	Kazuki Fuchoin
-M09C4AA	Shido Fuyuki
-M09C4B8	Emishi Haruki
-M09C4C6	Juubei Kakei
-M09C4D4	Kyoji Kagami
+M09C464	Ban / Mido
+M09C472	Ginji / Amano
+M09C480	Himiko / Kudo
+M09C48E	Kurodo / Akabane
+M09C49C	Kazuki / Fuchoin
+M09C4AA	Shido / Fuyuki
+M09C4B8	Emishi / Haruki
+M09C4C6	Juubei / Kakei
+M09C4D4	Kyoji / Kagami
 M09C4E2	Items
 M09C4EA	Events
 M09C4F2	Cards
@@ -100,46 +100,46 @@ M09C5E2	Gement Card
 M09C5EC	Chariot Card
 M09C5F8	Diable Card
 M09C604	Coffee Ticket
-M09C610	Ban-Gin Memory
-M09C61E	Ban-Himi Memory
-M09C62C	Ban-Bane Memory
-M09C63A	Ban-Kazu Memory
-M09C648	Ban-Shido Memory
-M09C656	Ban-Emi Memory
-M09C664	Ban-Ju Memory
-M09C672	Ban-Kaga Memory
-M09C680	Himi-Gin Memory
-M09C68E	Bane-Gin Memory
-M09C69C	Kazu-Gin Memory
-M09C6AA	Shido-Gin Memory
-M09C6B8	Emi-Gin Memory
-M09C6C6	Ju-Gin Memory
-M09C6D4	Kaga-Gin Memory
-M09C6E2	Bane-Himi Memory
-M09C6F0	Kazu-Himi Memory
-M09C6FE	Shido-Himi Memory
-M09C70C	Emi-Himi Memory
-M09C71A	Ju-Himi Memory
-M09C728	Kaga-Himi Memory
-M09C736	Bane-Kazu Memory
-M09C744	Bane-Shido Memory
-M09C752	Bane-Emi Memory
-M09C760	Bane-Ju Memory
-M09C76E	Bane-Kaga Memory
-M09C77C	Shido-Kazu Memory
-M09C78A	Emi-Kazu Memory
-M09C798	Ju-Kazu Memory
-M09C7A6	Kaga-Kazu Memory
-M09C7B4	Shido-Emi Memory
-M09C7C2	Shido-Ju Memory
-M09C7D0	Shido-Kaga Memory
-M09C7DE	Emi-Ju Memory
-M09C7EC	Emi-Kaga Memory
-M09C7FA	Ju-Kaga Memory
+M09C610	Ban-Gin M
+M09C61E	Ban-Himi M
+M09C62C	Ban-Bane M
+M09C63A	Ban-Kazu M
+M09C648	Ban-Shido M
+M09C656	Ban-Emi M
+M09C664	Ban-Ju M
+M09C672	Ban-Kaga M
+M09C680	Himi-Gin M
+M09C68E	Bane-Gin M
+M09C69C	Kazu-Gin M
+M09C6AA	Shido-Gin M
+M09C6B8	Emi-Gin M
+M09C6C6	Ju-Gin M
+M09C6D4	Kaga-Gin M
+M09C6E2	Bane-Himi M
+M09C6F0	Kazu-Himi M
+M09C6FE	Shido-Himi M
+M09C70C	Emi-Himi M
+M09C71A	Ju-Himi M
+M09C728	Kaga-Himi M
+M09C736	Bane-Kazu M
+M09C744	Bane-Shido M
+M09C752	Bane-Emi M
+M09C760	Bane-Ju M
+M09C76E	Bane-Kaga M
+M09C77C	Shido-Kazu M
+M09C78A	Emi-Kazu M
+M09C798	Ju-Kazu M
+M09C7A6	Kaga-Kazu M
+M09C7B4	Shido-Emi M
+M09C7C2	Shido-Ju M
+M09C7D0	Shido-Kaga M
+M09C7DE	Emi-Ju M
+M09C7EC	Emi-Kaga M
+M09C7FA	Ju-Kaga M
 M09C808	Bento
 M09C810	Gym Key
 M09C81E	Backstage Key
-M09C82C	President's Office Key
+M09C82C	President's Key
 M09C83A	P Mascot Suit
 M09C840	H Mascot Suit
 M09C846	DVD-ROM

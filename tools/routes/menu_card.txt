@@ -1,0 +1,26 @@
+# Cold boot to NEW GAME: logos + intro, Start to the title, Start for the menu, A on NEW GAME.
+1000 -
+6 start
+240 -
+6 start
+200 -
+6 a
+300 -
+# SCENE=menu_card (map M204, no event): field menu, アイテム, the カード tab, its list.
+900 -
+6 start
+90 -
+6 down
+20 -
+6 down
+30 -
+6 a
+150 -
+6 right
+60 -
+6 right
+60 -
+6 a
+150 -
+6 down
+60 -

@@ -26,6 +26,14 @@ SCENES.list = {
   menu_status = { map = 10, x = 4, y = 5, route = "menu_status", mash = 0 },
   menu_party = { map = 10, x = 4, y = 5, route = "menu_party", mash = 0 },
   menu_item = { map = 10, x = 4, y = 5, route = "menu_item", mash = 0 },
+  -- inventory (docs/re/debug.md): items 02001964 {u16 id, u16 count} x62, events 02001A5C {u16 id, u16 0} x50,
+  -- both FFFF-ended; cards = bitset 02001B24 (160 bits). Longest English names first.
+  menu_items = { map = 10, x = 4, y = 5, route = "menu_item", mash = 0, w16 = { [0x02001964] = 48, [0x02001966] = 99, [0x02001968] = 51, [0x0200196A] = 99, [0x0200196C] = 58, [0x0200196E] = 9, [0x02001970] = 18, [0x02001972] = 1, [0x02001974] = 16, [0x02001976] = 10, [0x02001978] = 0, [0x0200197A] = 5, [0x0200197C] = 0xFFFF } },
+  menu_event = { map = 10, x = 4, y = 5, route = "menu_event", mash = 0, w16 = { [0x02001A5C] = 3, [0x02001A60] = 36, [0x02001A64] = 10, [0x02001A68] = 23, [0x02001A6C] = 9, [0x02001A70] = 16, [0x02001A74] = 0xFFFF } },
+  menu_card = { map = 10, x = 4, y = 5, route = "menu_card", mash = 0, w8 = { [0x02001B24] = 0xFF, [0x02001B25] = 0xFF, [0x02001B2F] = 0xFF, [0x02001B30] = 0xFF } },
+  -- party slots 02001508 (u16 ids into 0809FDAC, FFFF end); 02001504 != 0 shows the option menu's sound test rows
+  menu_party3 = { map = 10, x = 4, y = 5, route = "menu_party", mash = 0, w16 = { [0x02001508] = 3, [0x0200150A] = 4, [0x0200150C] = 0, [0x0200150E] = 1, [0x02001510] = 0xFFFF } },
+  menu_sound = { map = 10, x = 4, y = 5, route = "menu_option", mash = 0, w16 = { [0x02001504] = 1 } },
   menu_option = { map = 10, x = 4, y = 5, route = "menu_option", mash = 0 },
   menu_save = { map = 10, x = 4, y = 5, route = "menu_save", mash = 0 },
   battle = { map = 4, x = 6, y = 3, call = { 0x08008E80, 0x2F } },    -- Battle(0x2F): the act-0 demo fight

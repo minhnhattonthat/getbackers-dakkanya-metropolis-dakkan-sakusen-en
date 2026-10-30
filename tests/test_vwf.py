@@ -101,3 +101,16 @@ def test_japanese_line_uses_glyph_path(run):
     rom = build.ROM.read_bytes()
     want = b"".join(rom[0x39FCD4 + (c & 15) * 0x800 + (c >> 4 & 15) * 0x80:][:0x80] for c in (0xAB, 0x6F, 0x65, 0x7D))
     assert n == 4 and vram == want
+
+
+def test_credits_table():
+    """Japanese lengths give back the game's own first sprites (ending warp motion log); English ones follow on."""
+    import pac
+    rom = build.ROM.read_bytes()
+    jp = pac.unpack(rom, build.SYSTEM_PAC)
+    tab = engine.credits_table(jp, jp)
+    assert (tab[10], tab[11], tab[12], tab[13], tab[14], tab[15]) == (64, 66, 83, 99, 101, 6)
+    assert tab[0] == tab[73] == 0xFF
+    en = list(jp)
+    en[engine.CREDITS_REC + 10] = rec = vwf.encode("Original Work")
+    assert engine.credits_table(jp, en)[11] == 64 + engine.rec_cells(rec) == 72

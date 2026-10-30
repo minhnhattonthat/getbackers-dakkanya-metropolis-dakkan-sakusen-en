@@ -31,15 +31,59 @@ SITES = (
     (0x052930, '70b5021c0e1c002530688542', 'drawline'),
     (0x00C920, 'f0b557464e464546e0b485b0', 'drawstring'),
     (0x00C9D4, 'f0b557464e464546e0b488b0', 'drawstring2'),
+    (0x065394, 'f0b5061c151c9c4600241248', 'credmove'),
 )
 
-ENTRIES = ('drawline', 'drawstring', 'drawstring2')  # jump table at base + 2i
+ENTRIES = ('drawline', 'drawstring', 'drawstring2', 'credmove')  # jump table at base + 2i
+
+# Staff roll: each line slides in by 08065394(r0 = first sprite, r1 = line index in the RAM table 020182FC, x, y).
+# The first sprites are immediates laid out for the Japanese line lengths, while the lines are drawn with
+# sequential sprites (08052F38), so a longer English line moved its neighbours' sprites. The hook takes r0 from
+# a table built from the English lengths (credits_table), and moves a line whose target x leaves its cells past
+# x 240 left to fit (the Japanese x targets put names at 150-160: 80 px). Sprite groups (first index, last index, first sprite,
+# Japanese sprite total), read off the Japanese ROM's motion calls (ending warp, docs/re/vwf.md); index i = system
+# text record CREDITS_REC + i.
+CREDITS_REC = 935
+CREDITS_GROUPS = (
+    (10, 14, 64, 48), (15, 16, 6, 18), (17, 17, 100, 4), (18, 22, 6, 68), (23, 27, 6, 62), (28, 31, 6, 39),
+    (32, 32, 100, 4), (33, 36, 6, 36), (37, 39, 6, 31), (40, 41, 104, 22), (42, 45, 6, 36), (46, 48, 6, 34),
+    (49, 54, 6, 56), (55, 60, 6, 45), (61, 65, 6, 33), (66, 69, 6, 30), (70, 72, 6, 21), (74, 76, 6, 21),
+    (78, 82, 6, 29), (83, 86, 6, 49), (87, 94, 6, 88), (95, 100, 6, 81), (101, 107, 6, 55), (108, 108, 100, 2),
+    (109, 109, 6, 11))
+CREDITS_LINES = 120  # entries in the RAM table 020182FC
+
+
+def rec_cells(rec):
+    """Sprites a text record draws: length / 2, minus one trailing 0x5C3 (08052EB8)."""
+    n = len(rec) // 2
+    return n - 1 if n and struct.unpack_from('<H', rec, len(rec) - 2)[0] == vwf.PAD else n
+
+
+def credits_table(orig_recs, recs):
+    """u8 first sprite per staff-roll line (0xFF = keep the game's value) for the system text records recs."""
+    tab = bytearray(b'\xff' * CREDITS_LINES)
+    for first, last, base, jp_total in CREDITS_GROUPS:
+        assert sum(rec_cells(orig_recs[CREDITS_REC + i]) for i in range(first, last + 1)) == jp_total, first
+        for i in range(first, last + 1):
+            tab[i] = base
+            base += rec_cells(recs[CREDITS_REC + i])
+        # the page titles sit at sprites 100-105 and the cast portraits share the pages: groups from 6 stay below
+        assert base <= (100 if tab[first] == 6 else 128), f'staff roll lines {first}-{last} need sprites to {base}'
+    return bytes(tab)
+
+# Party list (0800D35C, the 3 name rows under the cursor at x 80): English names go on 2 lines (given / family),
+# drawn 2 BG rows higher. The list reads its own name table, pointing at the unreferenced second copy of the
+# names at 0809C464 (9 x 14 bytes); the header rows (literals 9EA8, A744) keep 0809FDAC, one line at 104 px.
+PARTY_NAMES = [0x0809C464 + 14 * i for i in range(9)]
+PARTY_LITS = (0x9F34, 0xA0DC, 0xA1D8, 0xA2BC, 0xA370, 0xA404, 0xA50C, 0xA590, 0xDF64)  # each feeds a bl 0800D35C
+PARTY_Y = (0x00D3A2, '0235', '0035')  # adds r5, #2 -> #0: name row = the sprite row
 
 SRC = """
     b drawline
     b drawstring
     b drawstring2
-drawline:                   @ r0 = first tile, r1 = record {n, ptr}
+    b credmove
+drawline:                  @ r0 = first tile, r1 = record {n, ptr}
     push {r4-r7, lr}
     mov r4, r0
     ldr r7, [r1]
@@ -428,6 +472,41 @@ rc_done:
     pop {r0}
     bx r0
 
+credmove:                   @ 08065394(r0 = first sprite, r1 = line, r2 = x, r3 = y); r4 pushed by the stub
+    cmp r1, #CREDLINES
+    bhs cm_keep
+    ldr r4, L_credtab
+    ldrb r4, [r4, r1]
+    cmp r4, #0xff
+    beq cm_x
+    mov r0, r4
+cm_x:                       @ an on-screen target x whose n cells pass x 240 moves left to 240 - 12n
+    cmp r2, #240
+    bge cm_keep
+    push {r5}
+    ldr r4, L_credram
+    lsls r5, r1, #3
+    ldr r4, [r4, r5]
+    lsls r5, r4, #3
+    lsls r4, r4, #2
+    adds r4, r4, r5
+    movs r5, #240
+    subs r4, r5, r4
+    pop {r5}
+    cmp r2, r4
+    ble cm_keep
+    mov r2, r4
+cm_keep:
+    pop {r4}
+    push {r4-r7, lr}        @ the 12 displaced bytes, then back to 080653A0
+    adds r6, r0, #0
+    adds r5, r2, #0
+    mov ip, r3
+    movs r4, #0
+    ldr r0, L_credram
+    ldr r7, L_cm_back
+    bx r7
+
     .align 2
 L_magic:     .word 0xFEFF
 L_drawglyph: .word 0x0805281D
@@ -443,6 +522,9 @@ L_map1:      .word 0x0300283C
 L_menutab:   .word MENUTAB
 L_ink:       .word INK
 L_font:      .word FONT
+L_credtab:   .word CREDTAB
+L_credram:   .word 0x020182FC
+L_cm_back:   .word 0x080653A1
 """
 
 
@@ -462,23 +544,28 @@ def thumb1_only(code, base):
     assert end == len(code), f'undecodable code at {base + end:08X}'
 
 
-def _src(ink, font, menutab):
+def _src(ink, font, menutab, credtab):
     return (SRC.replace('INK', hex(ink)).replace('FONT', hex(font)).replace('MENUTAB', hex(menutab))
-            .replace('TBASEV', str(TBASE)))
+            .replace('CREDTAB', hex(credtab)).replace('CREDLINES', str(CREDITS_LINES)).replace('TBASEV', str(TBASE)))
 
 
-def assemble(base, menutab=0):
-    """Code + ink table + font, placed at ROM address base (0x08xxxxxx), reading the menu table at menutab.
-    Returns (bytes, {entry label: address})."""
+def assemble(base, menutab=0, credits=b'\xff' * CREDITS_LINES):
+    """Code + ink table + font + party list name table + staff roll sprite table (credits_table), placed at ROM
+    address base (0x08xxxxxx), reading the menu table at menutab. Returns (bytes, {entry label: address})."""
+    assert len(credits) == CREDITS_LINES
     ks = Ks(KS_ARCH_ARM, KS_MODE_THUMB)
-    code_len = len(bytes(ks.asm(_src(0, 0, 0), base)[0]))
+    code_len = len(bytes(ks.asm(_src(0, 0, 0, 0), base)[0]))
     ink = base + ((code_len + 3) & ~3)
     font = ink + 4
-    code = bytes(ks.asm(_src(ink, font, menutab), base)[0])
+    party = (font + len(vwf.blob()) + 3) & ~3
+    credtab = party + 4 * len(PARTY_NAMES)
+    code = bytes(ks.asm(_src(ink, font, menutab, credtab), base)[0])
     assert len(code) == code_len
     thumb1_only(code[:SRC_CODE_END(code)], base)
     labels = {name: base + 2 * i for i, name in enumerate(ENTRIES)}
-    return code.ljust(ink - base, b'\0') + bytes([6, 5, 0xC, 0xD]) + vwf.blob(), labels
+    labels['party_names'] = party
+    blob = (code.ljust(ink - base, b'\0') + bytes([6, 5, 0xC, 0xD]) + vwf.blob()).ljust(party - base, b'\0')
+    return blob + struct.pack(f'<{len(PARTY_NAMES)}I', *PARTY_NAMES) + credits, labels
 
 
 def patches(labels):
@@ -491,6 +578,10 @@ def patches(labels):
     for off, orig, name in SITES:
         stub = bytes.fromhex('014a1047c046c046' if name == 'drawline' else '10b4014c2047c046')
         out.append((off, bytes.fromhex(orig), stub + struct.pack('<I', labels[name] | 1), f'engine {name}'))
+    for off in PARTY_LITS:
+        out.append((off, struct.pack('<I', 0x0809FDAC), struct.pack('<I', labels['party_names']), 'party list names'))
+    off, orig, new = PARTY_Y
+    out.append((off, bytes.fromhex(orig), bytes.fromhex(new), 'party list name y'))
     return out
 
 

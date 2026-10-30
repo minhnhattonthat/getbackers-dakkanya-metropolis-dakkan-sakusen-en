@@ -37,9 +37,6 @@ TL = ROOT / 'work' / 'tl'
 GLOSSARY = ROOT / 'glossary.md'
 BOX1, BOX2 = (struct.pack('<I', b) for b in script.BOX)
 SEP = ' / '
-# Measured slots the full English can't fit without engine work (D4: no abbreviation): reported as ENGINE
-# warnings, fixed in phase 7. Party list: "Kurodo Akabane" 79 px, "Kazuki Fuchoin" 71 px in 68 px (cursor at x 80).
-ENGINE_FIT = {'M09C3F2', 'M09C400'}
 
 
 @lru_cache(None)
@@ -76,7 +73,7 @@ def units():
             i = int(first['id'].split('.')[1])
             if o == int(vwf.SYSTEM_PAC, 16):
                 px = vwf.budget(first, script.cells(recs[i]))
-                form, lines, measured, expand = 'system', 1, px == vwf.LINE_PX, False
+                form, lines, measured, expand = 'system', 1, px in (vwf.LINE_PX, vwf.CREDIT_PX), False
             else:
                 px, form = vwf.LINE_PX, 'dlg'
                 box = recs[i - 1] in (BOX1, BOX2)
@@ -279,11 +276,8 @@ def check(b, us=None, quiet=False):
         if not ok:
             msg = (f"{i}: too long for {limit(u)} -> " +
                    ' | '.join(f'{x} ({vwf.width(x)}px)' for x in lines))
-            if i in ENGINE_FIT:
-                warns.append('ENGINE ' + msg)
-            else:
-                (errs if u['measured'] else warns).append(msg if u['measured'] else 'LONG ' + msg)
-        low = en.lower()
+            (errs if u['measured'] else warns).append(msg if u['measured'] else 'LONG ' + msg)
+        low = en.replace(SEP, ' ').lower()
         for _, jp, alts, avoid, lint in terms:
             if not lint or not has_term(u['jp'], jp):
                 continue

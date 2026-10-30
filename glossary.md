@@ -281,7 +281,8 @@ unless the notes say `no lint`.
 
 ## Decisions from earlier batches
 - controller: pair items 「ばんぎんのＭ」 = "Ban-Gin Memory" (Ginji spells it メ・モ・リー): first syllables of the two
-  names (Ban, Gin, Himi, Bane for Akabane, Kazu, Shido, Emi, Ju, Kaga) + Memory.
+  names (Ban, Gin, Himi, Bane for Akabane, Kazu, Shido, Emi, Ju, Kaga) + Memory. In the item list (75 px) the
+  name is "Ban-Gin M", as the Japanese shortens it (のＭ); dialogue keeps "Memory" (D8).
 - controller: ジェンド = Jend (not Zhend/Gend); 雷帝 = Thunder Emperor; 蛭田 = Hiruta (Ban calls him Hiru-chan).
 - wave 1 rulings: 猿マワシ = monkey trainer; TARE's cry ウキュ～ = Ukyuu; 疫病神 = jinx; キグルミ = mascot suit (キグルミ隊 =
   Mascot Squad); 衣装部屋 = Costume Room; 寝室 = Master Bedroom; ベッドルーム = Bedroom; 配電室 = Switch Room; 電力室 = Power

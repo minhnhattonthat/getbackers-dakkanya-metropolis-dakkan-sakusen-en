@@ -32,11 +32,12 @@ MAX_END = 0x1000000  # 16 MiB: what BPS and the save layout allow (docs/re/rom.m
 MENUTAB = ORIG_END + 0x1000  # English menu table (tools/menutext.py english()); the engine sits below it
 POOL = ORIG_END + 0x4000  # English string pool (tools/vwf.py); relocated PACs above it
 SLOT_DELTAS = (0, 8, 12)  # slots point at the magic, or at record 0's length word / data
+SYSTEM_PAC = 0x3D7DE4
 
 
 def is_text(rom, off):
     """Dialogue PACs (an end record 0x270F) and the system text PAC."""
-    if off == 0x3D7DE4:
+    if off == SYSTEM_PAC:
         return True
     return any(n == 4 and struct.unpack_from('<I', rom, p)[0] == 0x270F for p, n in pac.records(rom, off)[0])
 
@@ -160,7 +161,11 @@ def build(orig, edits=None, relocate=None, engine_on=False, pool=None, menu=None
     free = ORIG_END
     if engine_on:
         mwrites, mtable = menu or ([], b'')
-        code, labels = engine.assemble(0x08000000 + free, 0x08000000 + MENUTAB)
+        sys_orig = pac.unpack(orig, SYSTEM_PAC)
+        sys_recs = edits.get(SYSTEM_PAC, sys_orig)
+        assert len(sys_recs) == len(sys_orig), 'system text records must keep their indices'
+        code, labels = engine.assemble(0x08000000 + free, 0x08000000 + MENUTAB,
+                                       engine.credits_table(sys_orig, sys_recs))
         assert len(code) <= MENUTAB - ORIG_END, 'engine runs into the menu table'
         assert len(mtable) <= POOL - MENUTAB, 'menu table runs into the string pool'
         write(free, code, 'engine')
