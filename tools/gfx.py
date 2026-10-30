@@ -376,9 +376,72 @@ def banner_image(im):
     return im
 
 
+# G7 pre-rendered choice windows: PAC 0x77B0EC, window j = records 6+3j palette, 7+3j tiles, 8+3j 32x32 map. A box
+# at the map's top left: 6 px frame, text from x+18 (cursor room), one line per 16 px, white ink 5 on black 1.
+# Each box is rebuilt at the English width: its left 10 columns, an interior column repeated, the frame mirrored.
+CHOICE_PAC = 0x77B0EC
+CHOICES = [
+    ('Accelerate', 'Hit the brakes', 'Throw something'),
+    ('Steer right', 'Steer left', 'Hit the brakes'),
+    ('Hit the brakes', 'Pray', 'Steer right'),
+    ('Overtake', 'Tail right behind', 'Use nitro boost'),
+    ('Let it slide', 'Straight man', 'Funny man'),
+    ('Drink', "Don't drink"),
+    ('Take it!', 'Not now'),
+    ('Press', "Don't press"),
+    ('Heal me!', 'What are elements?', 'Not now'),
+    ('43F', '74F', '95F', 'Cancel'),
+    ('1F', '74F', '95F', 'Cancel'),
+    ('1F', '43F', '95F', 'Cancel'),
+    ('1F', '43F', '74F', 'Cancel'),
+]
+
+
+def choice_image(im, lines):
+    import vwf
+    px = im.load()
+    w, h = im.size
+    xs = [x for x in range(w) if any(px[x, y] for y in range(h))]
+    ys = [y for y in range(h) if any(px[x, y] for x in range(w))]
+    x0, y0, y1 = xs[0], ys[0], ys[-1]
+    assert y1 - y0 + 1 == 16 * len(lines) + 12, (lines, y1 - y0 + 1)  # as many lines as the Japanese box
+    text_w = max(vwf.width(t) for t in lines)
+    x1 = x0 + 18 + text_w + 6 + 6 - 1
+    assert x1 < w, lines
+    out = Image.new('P', im.size)
+    o = out.load()
+    for y in range(y0, y1 + 1):
+        for x in range(x0, x1 + 1):
+            if x < x0 + 10:
+                o[x, y] = px[x, y]
+            elif x > x1 - 6:
+                o[x, y] = px[x0 + (x1 - x), y]  # the left frame, mirrored
+            else:
+                o[x, y] = px[x0 + 10, y]  # frame rows over a blank interior (the text starts further right)
+    for i, t in enumerate(lines):
+        x = x0 + 18
+        for c in t:
+            cw, rows = vwf.GLYPHS[c]
+            for r, bits in enumerate(rows):
+                for dx in range(cw):
+                    if bits >> dx & 1:
+                        o[x + dx, y0 + 8 + 16 * i + 3 + r] = 5
+            x += cw + 1
+    return out
+
+
 def pac_edits(orig):
     """{PAC offset: records} for graphics kept in PACs (the build relocates and repoints them)."""
     import pac
+    out = {}
+    recs = pac.unpack(orig, CHOICE_PAC)
+    for j, lines in enumerate(CHOICES):
+        mp = recs[8 + 3 * j]
+        bank = mp[1] >> 4
+        tiles, recs[8 + 3 * j] = tiles_and_map(choice_image(decode(recs[7 + 3 * j], mp), lines), bank)
+        assert len(tiles) <= len(recs[7 + 3 * j]) + 0x400, f'choice {j}: {len(tiles) // 32} tiles'
+        recs[7 + 3 * j] = tiles
+    out[CHOICE_PAC] = recs
     recs = pac.unpack(orig, INTRO_PAC)
     mp = recs[46]
     bank = mp[1] >> 4
@@ -392,7 +455,8 @@ def pac_edits(orig):
         tiles, recs[k + 20] = tiles_and_map(bar_image(decode(recs[k], mp), epithet, name, *inks), bank)
         assert len(tiles) <= 0x3000, f'bar {k}: {len(tiles) // 32} tiles'
         recs[k] = tiles
-    return {INTRO_PAC: recs}
+    out[INTRO_PAC] = recs
+    return out
 
 
 def rgb(im, pal, bg=(70, 70, 140)):
@@ -413,7 +477,11 @@ def preview(orig):
     edge, ink = tiny_image(COPYRIGHT, 240, 16, 8)
     shots.append(rgb(Image.composite(Image.new('L', edge.size, 1), edge, ink).convert('P'),
                      struct.pack('<16H', 0, 0x7FFF, 0, 0, 0, *[0] * 11)))
-    recs = pac_edits(orig)[INTRO_PAC]
+    edits = pac_edits(orig)
+    ch = edits[CHOICE_PAC]
+    for j in range(len(CHOICES)):
+        shots.append(rgb(decode(ch[7 + 3 * j], ch[8 + 3 * j]), ch[6 + 3 * j]).crop((0, 0, 256, 16 * len(CHOICES[j]) + 16)))
+    recs = edits[INTRO_PAC]
     shots.append(rgb(decode(recs[26], recs[46]), recs[6]).crop((0, 64, 256, 112)))
     for k in BARS:
         shots.append(rgb(decode(recs[k], recs[k + 20]), recs[k - 20]))
