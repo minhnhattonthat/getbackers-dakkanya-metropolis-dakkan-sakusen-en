@@ -22,9 +22,9 @@ def run():
     from unicorn.arm_const import UC_ARM_REG_R0, UC_ARM_REG_R1, UC_ARM_REG_SP, UC_ARM_REG_LR
 
     rom = bytearray(build.ROM.read_bytes()).ljust(0x900000, b"\xff")
-    blob = engine.assemble(BASE)
+    blob, labels = engine.assemble(BASE)
     rom[0x800000:0x800000 + len(blob)] = blob
-    for off, old, new, _ in engine.patches(BASE):
+    for off, old, new, _ in engine.patches(labels):
         assert rom[off:off + len(old)] == old
         rom[off:off + len(new)] = new
 

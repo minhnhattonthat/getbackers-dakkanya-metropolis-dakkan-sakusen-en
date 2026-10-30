@@ -27,7 +27,7 @@
 Concatenated fragments (`<name>` + `was poisoned!`) start on the next 12 px cell: a gap of up to 11 px after a
 name. Polish later (carry the pixel remainder into the next DrawText) if it reads badly.
 
-## Menus: BG text (not done yet - see docs/status.md)
+## Menus: BG text (verified: marker build, all five field-menu warps)
 Field menus draw charset cells as 2x2 BG tiles at a 12 px pitch, alternating BG0 / BG1 (BG1 scrolled 4 px):
 - `0800C920 DrawString(str, bytelen, x, y, [sp] tilebase|pal, [sp+4] phase)` (fixed length) and
   `0800C9D4(str, x, y, tilebase|pal, [sp] phase)` (FFFF end, FFFE newline, wraps after 18 glyphs) write 2x2
@@ -35,6 +35,24 @@ Field menus draw charset cells as 2x2 BG tiles at a 12 px pitch, alternating BG0
 - BG0/BG1: char base 0x8000 (1024 tiles, used by nothing else; charsets load at tiles 1+4k), maps at VRAM 0x0000
   and 0x0800. Window frames are BG2 (char base 0, tiles 320+), the picture BG3.
 - Capacity problem: the item/card charset holds 249 cells for 557 strings (3605 Japanese glyphs), so static
-  English strips or digraph cells cannot fit. Plan: a BG VWF that renders each English string into
-  position-owned tiles (tile = base + row*30 + col) on BG0 only, clears the string's field on BG0/BG1, and
-  shrinks each charset to the cells still drawn the Japanese way (digits, icons).
+  English strips or digraph cells cannot fit. Hence a BG VWF (`tools/engine.py` docstring): English menu
+  string = u16 0xF800+k [+ FFFF], k indexes the menu table at build.MENUTAB {text ptr, field cells, lines};
+  rendered on BG0 into position-owned tiles TBASE + row*30 + col, BG1 cleared over the field. Hooks: 12-byte
+  jumps at 0800C920 / 0800C9D4; other strings replay the displaced bytes. Each charset is reordered so the cells
+  still drawn the Japanese way come first and its LoadCharset length immediates shrink to them.
+- Kept as glyph indices (`menutext.is_fixed`): digit tables (read by 0800CAFC), element icons `[無]` etc.
+  (graphics text, redraw later), blank strings (box erasers, e.g. 72 '　' over the option description).
+- Pitfall: keystone emits Thumb-2 `strh.w` for `strh rX,[rY,#>62]` (black menu screen); `engine.thumb1_only`
+  asserts every instruction is 16-bit (BL pairs aside).
+
+### Menu budgets - `tools/menutext.py MEASURED` / `budget()`
+Measured on the JP warps (`hooklog.lua` on 0800C920/0800C9D4 gives each string's tile x/y; px = the next thing
+on the row or the inner frame minus the string's x), then checked with markers at that width
+(`work/qa/warp/menu_*/final.png`): field commands 60, status name 104, レベル 36, 必殺技 44, move names 168,
+party names 68 (list row: cursor at x 80), [SEL] hint 104, item tabs 48, option labels 72, option title /
+descriptions 216 (2 lines), save titles 216, 番 16, 現在 32, ACT 36, NO DATA 192. Field cells = ceil(px/12),
+at least the JP cells.
+Guess (Japanese cell count, measure when a debug scene reaches them): item/card/event lists and descriptions,
+いどう location names, sound test titles, save warning/error lines, load title.
+Open: the battle-speed slider `速・・・・・・・・遅` (M09E520) is 10 fixed cells under a cursor sprite: the
+labels get 12 px each (F/S, or arrows) unless the slider is redrawn.

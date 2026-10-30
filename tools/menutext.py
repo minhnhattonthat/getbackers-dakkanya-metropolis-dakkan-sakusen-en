@@ -15,6 +15,8 @@ DrawString 0800C920(r0 = string, r1 = byte length, r2 = x, r3 = y): each u16 = i
 import struct
 import sys
 
+import re
+
 import build
 
 LOAD, DRAW = 0x0800C8A0, 0x0800C920
@@ -158,6 +160,133 @@ def entries(rom, table):
             raise ValueError(f'menu string {p:X} has an index past charset {cs:X}')
         out.append({'id': f'M{p:06X}', 'charset': f'{cs:06X}', 'end': vals[-1] == END, 'jp': jp, 'en': ''})
     return out
+
+
+WRAP = 18  # 0800C9D4 starts a new line after 18 glyphs
+TABLES = {'０１２３４５６７８９'}  # digit lookups read by 0800CAFC: always stay glyph indices
+
+
+def is_fixed(jp):
+    """Strings that stay glyph indices: digit tables, blank strings (the game draws them to erase a box, e.g. 72
+    '　' over the option description), and element icons (kanji-in-a-box cells, text drawn as graphics: redrawn
+    in English in the font, not translated as text)."""
+    return (jp in TABLES or not jp.replace('　', '').replace('\n', '')
+            or re.fullmatch(r'(\[.\])+', jp) is not None)
+
+
+def layout(vals, end):
+    """(field cells, lines) the Japanese string covers: its widest line and its line count (terminated strings
+    wrap every WRAP glyphs; fixed-length DrawString strings are one line)."""
+    lines, cur = [], 0
+    for v in vals:
+        if v == END:
+            break
+        if v == NL:
+            lines.append(cur)
+            cur = 0
+        else:
+            cur += 1
+    lines.append(cur)
+    if end:
+        lines = [min(WRAP, n - WRAP * i) for n in lines for i in range(max(1, -(-n // WRAP)))]
+    return max(lines), len(lines)
+
+
+CELL = 12  # glyph pitch in px: 2x2 tiles every 12 px, BG0/BG1 alternating
+# Measured English budgets (docs/re/vwf.md §Menu budgets; JP shots in work/qa/warp_jp/menu_*): (first id, last
+# id, px) for every string in the range. Px = the next thing drawn on the row (or the frame) minus the string's x.
+MEASURED = [
+    (0x9C148, 0x9C16E, 60),   # field menu commands: text at 11, frame at 74
+    (0x9C17A, 0x9C17A, 36),   # レベル: level digits drawn right after it
+    (0x9C180, 0x9C180, 44),   # 必殺技: move name 48 px further
+    (0x9C19A, 0x9C20A, 104),  # status names: レベル 112 px further
+    (0x9C23C, 0x9C3C7, 168),  # move names: text at 60, frame at 234
+    (0x9C3C8, 0x9C446, 68),   # party names: list x 8, cursor at 80 (header row has 104)
+    (0x9C452, 0x9C452, 104),  # [SEL] hint: x 120, frame at 226
+    (0x9C4E2, 0x9C4F2, 48),   # item tabs: 56 px apart
+    (0x9E4F4, 0x9E4F4, 216),  # option title
+    (0x9E4FE, 0x9E518, 72),   # option labels: x 24, slider at 104
+    (0x9E536, 0x9E5C7, 216),  # option descriptions: 2 lines, frame at 233
+    (0x9EC76, 0x9EC7C, 216),  # save / load titles (load: same box, not shown)
+    (0x9EC82, 0x9EC82, 16),   # 番 after the slot digit, NO DATA 16 px further
+    (0x9EC86, 0x9EC86, 32),   # 現在: portraits 32 px further
+    (0x9EC8C, 0x9EC8C, 36),   # ＡＣＴ: act digit right after it
+    (0x9EC94, 0x9EC94, 192),  # NO DATA: x 40, frame at 232
+]
+
+
+def budget(p, vals, end):
+    """(px, field cells, lines, measured) for the menu string at p. Unmeasured strings get their Japanese cells:
+    a guess until a debug scene shows them (item/card lists, いどう, sound test, save messages)."""
+    field, lines = layout(vals, end)
+    for lo, hi, px in MEASURED:
+        if lo <= p <= hi:
+            return px, max(field, -(-px // CELL)), lines, True
+    return field * CELL, field, lines, False
+
+
+def english(rom, texts, pool, table_base):
+    """English menu strings -> ([(offset, bytes, label)], menu table bytes).
+
+    texts: {id: English text ('\\n' between lines)}. Each English string becomes 0xF800 + k (+ 0xFFFF if
+    terminated) in place; table entry k = {u32 pool text, u8 field cells, u8 lines, u16 0} (tools/engine.py).
+    Each charset with English strings is reordered so the cells still drawn the Japanese way come first, the
+    strings that still use it are re-indexed, and its LoadCharset calls load only those cells, which keeps them
+    below the engine's position-owned tiles (engine.TBASE)."""
+    import engine
+    import vwf
+    calls = thumb_calls(rom)
+    css = charsets(rom, calls)
+    writes, table = [], bytearray()
+    jp_path = {cs: [] for cs in css}
+    for p, n in strings(rom, calls):
+        vals = list(struct.unpack_from(f'<{n // 2}H', rom, p))
+        end = vals[-1] == END
+        t = texts.get(f'M{p:06X}')
+        if t is None:
+            jp_path[block(p)].append((p, vals))
+            continue
+        k = len(table) // 8
+        assert k < 0x7FE, 'menu table full'
+        _, field, lines, _ = budget(p, vals, end)
+        raw = b'\n'.join(bytes(vwf.BYTE[c] for c in ln) for ln in t.split('\n')) + b'\0'
+        table += struct.pack('<IBBH', pool.add(raw), field, lines, 0)
+        rec = struct.pack('<H', 0xF800 + k) + (struct.pack('<H', END) if end else b'')
+        assert len(rec) <= n, f'M{p:06X}: no room for the English record'
+        writes.append((p, rec, f'menu M{p:06X}'))
+    english_cs = {block(p) for p, _, _ in writes}
+    for cs in english_cs:
+        strs = jp_path[cs]
+        used = sorted({v for _, vals in strs for v in vals if v not in (END, NL)})
+        if len(used) > engine.MAX_CELLS:
+            print(f'warning: charset {cs:06X} keeps {len(used)} Japanese cells (> {engine.MAX_CELLS}): its English '
+                  'strings overwrite charset tiles until more of it is translated')
+            continue
+        codes = css[cs]
+        order = used + [i for i in range(len(codes)) if i not in set(used)]
+        new = {old: i for i, old in enumerate(order)}
+        writes.append((cs, struct.pack(f'<{len(codes)}H', *(codes[i] for i in order)), f'charset {cs:06X}'))
+        for p, vals in strs:
+            vv = [v if v in (END, NL) else new[v] for v in vals]
+            if vv != vals:
+                writes.append((p, struct.pack(f'<{len(vv)}H', *vv), f'menu M{p:06X} reindexed'))
+        for a, t, r in calls:  # load only the kept cells: patch the byte-length immediate before each call
+            if t == LOAD and r['r0'] - 0x08000000 == cs:
+                writes.append(length_patch(rom, a - 0x08000000, len(used)))
+    return writes, bytes(table)
+
+
+def length_patch(rom, call, cells):
+    """(offset, bytes, label) setting LoadCharset's r1 = 2 * cells at the call at file offset call: the
+    `movs r1, #imm` (optionally followed by `lsls r1, r1, #1`) just before it."""
+    for a in range(call - 2, call - 12, -2):
+        h = struct.unpack_from('<H', rom, a)[0]
+        if h >> 8 == 0x21:
+            doubled = struct.unpack_from('<H', rom, a + 2)[0] == 0x0049
+            imm = cells if doubled else 2 * cells
+            assert 0 <= imm < 256
+            return a, struct.pack('<H', 0x2100 | imm), f'charset length at {call + 0x08000000:08X}'
+    raise ValueError(f'no movs r1 before LoadCharset call {call:06X}')
 
 
 def main():

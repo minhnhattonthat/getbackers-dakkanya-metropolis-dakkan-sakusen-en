@@ -14,6 +14,7 @@ every write for romdiff.py --writes.
 """
 import argparse
 import json
+import os
 import struct
 import sys
 from pathlib import Path
@@ -28,7 +29,8 @@ ROM = ROOT / 'rom' / 'GetBackers Dakkanya - Metropolis Dakkan Sakusen! (Japan).g
 OUT = ROOT / 'build' / 'getbackers_en.gba'
 ORIG_END = 0x800000
 MAX_END = 0x1000000  # 16 MiB: what BPS and the save layout allow (docs/re/rom.md)
-POOL = ORIG_END + 0x2000  # English string pool (tools/vwf.py); the engine sits below it, PACs above
+MENUTAB = ORIG_END + 0x1000  # English menu table (tools/menutext.py english()); the engine sits below it
+POOL = ORIG_END + 0x4000  # English string pool (tools/vwf.py); relocated PACs above it
 SLOT_DELTAS = (0, 8, 12)  # slots point at the magic, or at record 0's length word / data
 
 
@@ -67,10 +69,12 @@ def marker(e, px):
     return t.rstrip()
 
 
-def text_edits(orig, mode='en'):
+def text_edits(orig, mode='en', qa=None):
     """({pac offset: records}, string pool) from script/*.json: each line's English (mode 'en'; empty en keeps
-    the Japanese) or its marker (mode 'marker'). The pool goes at POOL (build(pool=))."""
+    the Japanese) or its marker (mode 'marker'); qa {id: text} overrides single lines (stress tests). The pool
+    goes at POOL (build(pool=))."""
     import script
+    qa = qa or {}
     edits, pool = {}, vwf.Pool(0x08000000 + POOL)
     for f in sorted(script.SCRIPT.glob('[0-9A-F]*.json')):
         o = int(f.stem, 16)
@@ -80,7 +84,9 @@ def text_edits(orig, mode='en'):
                 recs = pac.unpack(orig, o)
             i = int(e['id'].split('.')[1])
             assert script.is_line(recs[i]), e['id']
-            if mode == 'marker' and recs[i]:
+            if e['id'] in qa:
+                t = qa[e['id']]
+            elif mode == 'marker' and recs[i]:
                 t = marker(e, vwf.budget(e, script.cells(recs[i])))
             else:
                 t = e['en']
@@ -93,11 +99,44 @@ def text_edits(orig, mode='en'):
     return edits, pool
 
 
-def build(orig, edits=None, relocate=None, engine_on=False, pool=None):
+def menu_marker(e, px, lines):
+    """Marker for a menu string: its id, then filler, each line cut to px."""
+    out = []
+    for i in range(lines):
+        t = (e['id'] + ' ' if i == 0 else '') + 'The quick brown fox jumps over the lazy dog'
+        while vwf.width(t) > px and len(t) > 1:
+            t = t[:-1]
+        out.append(t.rstrip())
+    return '\n'.join(out)
+
+
+def menu_edits(orig, pool, mode='en', qa=None):
+    """menutext.english() for script/menu.json: each string's English (empty en keeps the Japanese) or marker;
+    qa {id: text} overrides. Digit tables and element icons (menutext.is_fixed) never change."""
+    import menutext
+    lengths = dict(menutext.strings(orig, menutext.thumb_calls(orig)))
+    texts = {k: v for k, v in (qa or {}).items() if k.startswith('M')}
+    only = os.environ.get('MENU_ONLY')  # debug bisect: comma-separated charsets / ids to convert
+    for e in json.loads(menutext.MENU_JSON.read_text(encoding='utf-8')):
+        if menutext.is_fixed(e['jp']) or e['id'] in texts or (only and e['charset'] not in only and e['id'] not in only):
+            continue
+        p = int(e['id'][1:], 16)
+        vals = struct.unpack_from(f'<{lengths[p] // 2}H', orig, p)
+        px, field, lines, _ = menutext.budget(p, vals, e['end'])
+        if mode == 'marker':
+            if field and lengths[p] >= 4:
+                texts[e['id']] = menu_marker(e, px, lines)
+        elif e['en']:
+            texts[e['id']] = e['en']
+    return menutext.english(orig, texts, pool, 0x08000000 + MENUTAB)
+
+
+def build(orig, edits=None, relocate=None, engine_on=False, pool=None, menu=None):
     """Returns (new rom bytes, writes) with writes = [(offset, orig bytes, new bytes, writer)].
 
     edits: {pac offset: [record bytes]} replacing that PAC's records. relocate: None, 'text' or 'all'.
-    engine_on: install the VWF hook (tools/engine.py) at ORIG_END. pool: vwf.Pool written at POOL."""
+    engine_on: install the text engine (tools/engine.py) at ORIG_END. pool: vwf.Pool written at POOL.
+    menu: menu_edits() result (string/charset writes, menu table at MENUTAB, LoadCharset cap)."""
     edits = edits or {}
     offs = pac.find_all(orig)
     rom = bytearray(orig)
@@ -113,12 +152,18 @@ def build(orig, edits=None, relocate=None, engine_on=False, pool=None):
     slot = slots(orig, offs)
     free = ORIG_END
     if engine_on:
-        code = engine.assemble(0x08000000 + free)
+        mwrites, mtable = menu or ([], b'')
+        code, labels = engine.assemble(0x08000000 + free, 0x08000000 + MENUTAB)
+        assert len(code) <= MENUTAB - ORIG_END, 'engine runs into the menu table'
+        assert len(mtable) <= POOL - MENUTAB, 'menu table runs into the string pool'
         write(free, code, 'engine')
-        for off, old, new, by in engine.patches(0x08000000 + free):
+        for off, old, new, by in engine.patches(labels):
             assert orig[off:off + len(old)] == old, f'{by}: unexpected bytes at {off:06X}'
             write(off, new, by)
-        assert len(code) <= POOL - ORIG_END, 'engine runs into the string pool'
+        if mtable:
+            write(MENUTAB, mtable, 'menu table')
+        for off, data, by in mwrites:
+            write(off, data, by)
         free = POOL
     if pool is not None and pool.data:
         assert pool.base == 0x08000000 + POOL
@@ -152,11 +197,16 @@ def main():
     ap.add_argument('--writes', type=Path)
     ap.add_argument('--marker', action='store_true', help='every script line -> [id] marker text (phase 5)')
     ap.add_argument('--bare', action='store_true', help='no engine, no text: the identity build')
+    ap.add_argument('--qa', action='append', default=[], metavar='ID=TEXT',
+                    help=r'override one line (script id or menu M-id; \n = new line), e.g. a glyph torture line')
     a = ap.parse_args()
     check_rom.check()
     orig = ROM.read_bytes()
-    edits, pool = ({}, None) if a.bare else text_edits(orig, 'marker' if a.marker else 'en')
-    rom, writes = build(orig, edits, relocate=a.relocate, engine_on=not a.bare, pool=pool)
+    mode = 'marker' if a.marker else 'en'
+    qa = dict(q.replace('\\n', '\n').split('=', 1) for q in a.qa)
+    edits, pool = ({}, None) if a.bare else text_edits(orig, mode, qa)
+    menu = None if a.bare else menu_edits(orig, pool, mode, qa)
+    rom, writes = build(orig, edits, relocate=a.relocate, engine_on=not a.bare, pool=pool, menu=menu)
     a.out.parent.mkdir(parents=True, exist_ok=True)
     a.out.write_bytes(rom)
     if a.writes:
