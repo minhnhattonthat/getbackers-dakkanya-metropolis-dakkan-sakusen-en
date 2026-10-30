@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あっ…　",
-  "en": ""
+  "en": "Ah... That's the same stone Al-kun gave us!"
  },
  {
   "id": "7C54B0.5",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "それはアルくんがくれたものと同じ石！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C54B0.7",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "どうしてそれを…？　",
-  "en": ""
+  "en": "How did you get that...?"
  },
  {
   "id": "7C54B0.9",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "鏡　",
   "jp": "ある人にもらったのさ",
-  "en": ""
+  "en": "Someone gave it to me."
  },
  {
   "id": "7C54B0.13",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "まさか…アルくんが？",
-  "en": ""
+  "en": "No way... Al-kun did? But why?!"
  },
  {
   "id": "7C54B0.16",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "どうして！？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C54B0.18",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "さあ？　オレが光の力を　",
-  "en": ""
+  "en": "Who knows? Maybe because I have the"
  },
  {
   "id": "7C54B0.21",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "持ってるからじゃないかな？　",
-  "en": ""
+  "en": "power of light?"
  },
  {
   "id": "7C54B0.23",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "確かに光という字が浮かんでいるな",
-  "en": ""
+  "en": "Yeah, the character for 'light' is showing\non it, all right."
  },
  {
   "id": "7C54B0.27",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "…それで？　",
-  "en": ""
+  "en": "...And?"
  },
  {
   "id": "7C54B0.29",
@@ -127,7 +127,7 @@
   "box": 8,
   "speaker": "鏡　",
   "jp": "この石に浮かぶ文字は全部で九種類…　",
-  "en": ""
+  "en": "The characters that appear on these\nstones come in nine kinds in all..."
  },
  {
   "id": "7C54B0.33",
@@ -135,7 +135,7 @@
   "box": 9,
   "speaker": "鏡　",
   "jp": "無・光・闇・火・水・風・土・砂…",
-  "en": ""
+  "en": "Void, Light, Dark, Fire, Water, Wind, Earth,"
  },
  {
   "id": "7C54B0.34",
@@ -143,7 +143,7 @@
   "box": 9,
   "speaker": "鏡　",
   "jp": "そして雷",
-  "en": ""
+  "en": "Sand... and Thunder."
  },
  {
   "id": "7C54B0.36",
@@ -151,7 +151,7 @@
   "box": 10,
   "speaker": "鏡　",
   "jp": "そのどれか一つが欠けても、　",
-  "en": ""
+  "en": "If even one of them is missing, you can't"
  },
  {
   "id": "7C54B0.37",
@@ -159,7 +159,7 @@
   "box": 10,
   "speaker": "鏡　",
   "jp": "あの王様に勝つことはできない",
-  "en": ""
+  "en": "beat that king."
  },
  {
   "id": "7C54B0.39",
@@ -167,7 +167,7 @@
   "box": 11,
   "speaker": "鏡　",
   "jp": "九つの属性の完全なる調和が勝利の",
-  "en": ""
+  "en": "Perfect harmony of the nine elements is"
  },
  {
   "id": "7C54B0.40",
@@ -175,7 +175,7 @@
   "box": 11,
   "speaker": "鏡　",
   "jp": "絶対条件となる…ということだよ　",
-  "en": ""
+  "en": "the absolute key to victory... You see."
  },
  {
   "id": "7C54B0.42",
@@ -190,7 +190,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "アルがテメーにそう言ったんだな？",
-  "en": ""
+  "en": "Al told you that, didn't he? Why you?"
  },
  {
   "id": "7C54B0.45",
@@ -198,7 +198,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "なぜだ？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C54B0.47",
@@ -213,7 +213,7 @@
   "box": 13,
   "speaker": "鏡　",
   "jp": "多分、キミたちには　",
-  "en": ""
+  "en": "Probably because he couldn't bring himself"
  },
  {
   "id": "7C54B0.50",
@@ -221,7 +221,7 @@
   "box": 13,
   "speaker": "鏡　",
   "jp": "言い出せなかったからじゃないかな？　",
-  "en": ""
+  "en": "to tell you two."
  },
  {
   "id": "7C54B0.52",
@@ -229,7 +229,7 @@
   "box": 14,
   "speaker": "鏡　",
   "jp": "怖かったんだろうね、キミたちとの",
-  "en": ""
+  "en": "He must have been scared... of ruining"
  },
  {
   "id": "7C54B0.53",
@@ -237,7 +237,7 @@
   "box": 14,
   "speaker": "鏡　",
   "jp": "関係が壊れてしまうのが…",
-  "en": ""
+  "en": "what he had with you."
  },
  {
   "id": "7C54B0.55",
@@ -252,7 +252,7 @@
   "box": 15,
   "speaker": "銀次",
   "jp": "アルくん…　",
-  "en": ""
+  "en": "Al-kun..."
  },
  {
   "id": "7C54B0.59",
@@ -267,7 +267,7 @@
   "box": 16,
   "speaker": "鏡　",
   "jp": "さあ、どうするんだい？　",
-  "en": ""
+  "en": "So, what'll it be?"
  },
  {
   "id": "7C54B0.63",
@@ -275,7 +275,7 @@
   "box": 17,
   "speaker": "鏡　",
   "jp": "オレを連れていくのか、それとも　",
-  "en": ""
+  "en": "Will you take me along, or try your luck on"
  },
  {
   "id": "7C54B0.64",
@@ -283,7 +283,7 @@
   "box": 17,
   "speaker": "鏡　",
   "jp": "キミたちだけでがんばってみるのか…　",
-  "en": ""
+  "en": "your own...?"
  },
  {
   "id": "7C54B0.66",
@@ -298,7 +298,7 @@
   "box": 18,
   "speaker": "銀次",
   "jp": "いいでしょ、蛮ちゃん？　",
-  "en": ""
+  "en": "It's okay, right, Ban-chan? It's what"
  },
  {
   "id": "7C54B0.69",
@@ -306,7 +306,7 @@
   "box": 18,
   "speaker": "銀次",
   "jp": "アルくんもそうすることを望んでるし…",
-  "en": ""
+  "en": "Al-kun wants too..."
  },
  {
   "id": "7C54B0.71",
@@ -321,7 +321,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "…勝手にしろ",
-  "en": ""
+  "en": "...Do whatever you want."
  },
  {
   "id": "7C54B0.75",
@@ -336,7 +336,7 @@
   "box": 20,
   "speaker": "銀次",
   "jp": "やったー！　いいって！！",
-  "en": ""
+  "en": "Yaaay! He said it's okay!!"
  },
  {
   "id": "7C54B0.79",
@@ -351,7 +351,7 @@
   "box": 21,
   "speaker": "鏡　",
   "jp": "クス…よろしく、天野銀次クン",
-  "en": ""
+  "en": "Heh... Pleased to work with you, Ginji\nAmano-kun."
  },
  {
   "id": "7C54B0.83",
@@ -366,7 +366,7 @@
   "box": 22,
   "speaker": "銀次",
   "jp": "（ハッ！　今、鏡さんから赤屍さんと　",
-  "en": ""
+  "en": "(Gah! Just now, Kagami-san gave me the"
  },
  {
   "id": "7C54B0.86",
@@ -374,7 +374,7 @@
   "box": 22,
   "speaker": "銀次",
   "jp": "同じような怖さを感じました…",
-  "en": ""
+  "en": "same scary vibe as Akabane-san does..."
  },
  {
   "id": "7C54B0.88",
@@ -382,6 +382,6 @@
   "box": 23,
   "speaker": "銀次",
   "jp": "ナゼでしょうか………）　",
-  "en": ""
+  "en": "Why might that be......)"
  }
 ]

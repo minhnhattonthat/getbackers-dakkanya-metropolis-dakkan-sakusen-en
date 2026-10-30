@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "いいえ、ジェンド様…ボクたちは　",
-  "en": ""
+  "en": "No, Jend-sama... We are not suffering at"
  },
  {
   "id": "7CC7E0.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "ちっとも苦しくなんてないのです　",
-  "en": ""
+  "en": "all."
  },
  {
   "id": "7CC7E0.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "アル",
   "jp": "なぜなら…ジェンド様、　",
-  "en": ""
+  "en": "Because... Jend-sama, you are our nation."
  },
  {
   "id": "7CC7E0.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "アル",
   "jp": "あなたがボクたちの国だからです　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CC7E0.9",
@@ -44,7 +44,7 @@
   "box": 3,
   "speaker": "アル",
   "jp": "あなたが生き続けるかぎり、国は　",
-  "en": ""
+  "en": "As long as you live on, our nation has not"
  },
  {
   "id": "7CC7E0.10",
@@ -52,7 +52,7 @@
   "box": 3,
   "speaker": "アル",
   "jp": "滅びたことにならないのですから…",
-  "en": ""
+  "en": "fallen..."
  },
  {
   "id": "7CC7E0.12",
@@ -67,7 +67,7 @@
   "box": 4,
   "speaker": "ジェンド",
   "jp": "アル…生きていたのか…　",
-  "en": ""
+  "en": "Al... You are alive..."
  },
  {
   "id": "7CC7E0.16",
@@ -75,7 +75,7 @@
   "box": 4,
   "speaker": "ジェンド",
   "jp": "蛮　",
-  "en": ""
+  "en": "Ban"
  },
  {
   "id": "7CC7E0.19",
@@ -83,7 +83,7 @@
   "box": 5,
   "speaker": "ジェンド",
   "jp": "…夢は見れたかよ？　",
-  "en": ""
+  "en": "...Enjoy the dream?"
  },
  {
   "id": "7CC7E0.21",
@@ -98,7 +98,7 @@
   "box": 6,
   "speaker": "ジェンド",
   "jp": "夢…？　そうか、夢か…　",
-  "en": ""
+  "en": "A dream...? I see, a dream... I feel I have"
  },
  {
   "id": "7CC7E0.24",
@@ -106,7 +106,7 @@
   "box": 6,
   "speaker": "ジェンド",
   "jp": "ずっと悪い夢を見ていたような気がする",
-  "en": ""
+  "en": "been in a bad dream all this time."
  },
  {
   "id": "7CC7E0.26",
@@ -114,7 +114,7 @@
   "box": 7,
   "speaker": "ジェンド",
   "jp": "長く、辛い夢を…",
-  "en": ""
+  "en": "A long, painful dream..."
  },
  {
   "id": "7CC7E0.28",
@@ -129,7 +129,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "覚めてよかったですね",
-  "en": ""
+  "en": "I'm glad you woke up."
  },
  {
   "id": "7CC7E0.32",
@@ -144,7 +144,7 @@
   "box": 9,
   "speaker": "ジェンド",
   "jp": "そうだな…どうやら取り返しが",
-  "en": ""
+  "en": "Indeed... It seems I awoke before things"
  },
  {
   "id": "7CC7E0.35",
@@ -152,7 +152,7 @@
   "box": 9,
   "speaker": "ジェンド",
   "jp": "つかなくなる前に目覚められたようだ　",
-  "en": ""
+  "en": "were beyond repair."
  },
  {
   "id": "7CC7E0.37",
@@ -167,7 +167,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "…奪還成功、だね？　",
-  "en": ""
+  "en": "...Retrieval successful, right?"
  },
  {
   "id": "7CC7E0.41",
@@ -182,7 +182,7 @@
   "box": 11,
   "speaker": "蛮　",
   "jp": "だな！　",
-  "en": ""
+  "en": "You bet! Man, that was one hell of a job..."
  },
  {
   "id": "7CC7E0.44",
@@ -190,7 +190,7 @@
   "box": 11,
   "speaker": "蛮　",
   "jp": "しっかし、やっかいな仕事だったぜ…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CC7E0.46",
@@ -205,7 +205,7 @@
   "box": 12,
   "speaker": "銀次",
   "jp": "でも良かったよね、アルくん！",
-  "en": ""
+  "en": "But it all worked out, right, Al-kun!"
  },
  {
   "id": "7CC7E0.50",
@@ -213,6 +213,6 @@
   "box": 13,
   "speaker": "銀次",
   "jp": "…アルくん？",
-  "en": ""
+  "en": "...Al-kun?"
  }
 ]

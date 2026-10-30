@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "士度",
   "jp": "…ん？　なにか聞こえるぜ",
-  "en": ""
+  "en": "...Hm? I hear something. It's coming from"
  },
  {
   "id": "7AC5E4.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "士度",
   "jp": "この部屋の中からだ！",
-  "en": ""
+  "en": "inside this room!"
  },
  {
   "id": "7AC5E4.6",
@@ -28,7 +28,7 @@
   "box": 1,
   "speaker": "士度",
   "jp": "？？？　",
-  "en": ""
+  "en": "???"
  },
  {
   "id": "7AC5E4.9",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "ネコがねころんだ！！",
-  "en": ""
+  "en": "The cat took a cat nap!!"
  },
  {
   "id": "7AC5E4.11",
@@ -44,7 +44,7 @@
   "box": 3,
   "speaker": "士度",
   "jp": "もりそばをモリモリ食べろ！！！　",
-  "en": ""
+  "en": "Eat mori soba, mori and more!!!"
  },
  {
   "id": "7AC5E4.13",
@@ -52,6 +52,6 @@
   "box": 4,
   "speaker": "士度",
   "jp": "ダブルベッドがダブってる！！！　",
-  "en": ""
+  "en": "The double bed is seeing double!!!"
  }
 ]

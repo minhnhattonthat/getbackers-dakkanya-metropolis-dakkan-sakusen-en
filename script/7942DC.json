@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あっ、逃げちゃった…",
-  "en": ""
+  "en": "Aww, it ran away..."
  },
  {
   "id": "7942DC.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "ダメだよ、蛮ちゃん！",
-  "en": ""
+  "en": "That's no good, Ban-chan! You scared it all"
  },
  {
   "id": "7942DC.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "怖い顔でイキナリおどかしたら！　",
-  "en": ""
+  "en": "of a sudden with that scary face!"
  },
  {
   "id": "7942DC.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ナニィ！",
-  "en": ""
+  "en": "Whaaat?! You're saying the great Ban"
  },
  {
   "id": "7942DC.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "俺様の顔がコワイだァ？　",
-  "en": ""
+  "en": "Mido's face is scary?"
  },
  {
   "id": "7942DC.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "アル",
   "jp": "ハイ、怖イデス　",
-  "en": ""
+  "en": "Yes, very scary. Ban-san's head, it look"
  },
  {
   "id": "7942DC.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "アル",
   "jp": "ウニ見エマス、蛮サンノ頭",
-  "en": ""
+  "en": "like sea urchin."
  },
  {
   "id": "7942DC.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7942DC.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "ホラ、蛮ちゃん、落ち込んでないで",
-  "en": ""
+  "en": "C'mon, Ban-chan, don't mope. We have to"
  },
  {
   "id": "7942DC.25",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "早く探しに行かなくちゃ！",
-  "en": ""
+  "en": "go look for it, quick!"
  },
  {
   "id": "7942DC.27",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "蛭田がまだＴＡＲＥを",
-  "en": ""
+  "en": "Hiruta might still be after TARE!"
  },
  {
   "id": "7942DC.28",
@@ -128,6 +128,6 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "狙ってるかも知れないよ！",
-  "en": ""
+  "en": " "
  }
 ]

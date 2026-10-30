@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "やったあ！　依頼品ゲット！！",
-  "en": ""
+  "en": "Yay! We got the goods!!"
  },
  {
   "id": "7C1104.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "よっしゃ！　",
-  "en": ""
+  "en": "Alright! Let's go report to Clayman right"
  },
  {
   "id": "7C1104.8",
@@ -35,6 +35,6 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "早速、クレイマンに報告に行くぞ！！　",
-  "en": ""
+  "en": "away!!"
  }
 ]

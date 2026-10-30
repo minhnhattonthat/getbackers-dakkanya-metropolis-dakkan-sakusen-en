@@ -1,0 +1,362 @@
+>> 78F368.2 | 笑師：ん？ / バカにされとるんか、ワイ？？？
+   Emishi: Hm? Are ya makin' fun of me???
+>> 78F3CC.2 | 笑師：ハリペンズ参上～！ / どうやろな、これ？
+   Emishi: The Hedge-Pens have arrived~! Whaddaya think?
+>> 78F430.3 | 十兵衛：…戯言は聞きたくない！
+   Juubei: ...I will not listen to nonsense!
+>> 78F490.2 | 笑師：な、なんでやね～ん！ / 互いにお笑い目指す同士やんか！！
+   Emishi: Wh-whaddaya mean~?! We're both aimin' for comedy, ain't we?!!
+>> 78F504.2 | 十兵衛：ボケ同士では成り立たん…
+   Juubei: Two funny men cannot make an act...
+>> 78F558.2 | 笑師：どや、ワイとコンビ組まへん？
+   Emishi: So how 'bout it, wanna form a duo with me?
+>> 78F5B0.2 | 鏡：いや、遠慮するよ…
+   Kagami: No, I'll pass...
+>> 78F5FC.2 | 花月：十兵衛… / 色々とがんばってるんだね
+   Kazuki: Juubei... You're really trying hard at all sorts of things.
+>> 78F65C.2 | 十兵衛：自分なりに / 手を尽くしてみたつもりなんだが…
+   Juubei: I believe I have done all I can, in my own way...
+>> 78F6C8.2 | 花月：…どうかしたの？
+   Kazuki: ...What's wrong?
+>> 78F714.2 | 十兵衛：笑いというものが / どうにも見極められなくてな…
+   Juubei: I simply cannot grasp this thing called humor...
+>> 78F780.2 | 花月：そこは見極めなくても / いいんじゃないのかな…
+   Kazuki: I don't think that's something you need to grasp...
+>> 78F7EC.2 | 花月：計りかねますね、 / あなたのことは…
+   Kazuki: I can't quite figure you out...
+>> 78F84C.2 | 鏡：クス………
+   Kagami: Heh......
+>> 78F890.2 | 十兵衛：今までなにをしていた、鏡？
+   Juubei: What have you been doing all this time, Kagami?
+>> 78F8E8.2 | 鏡：まあ色々と…ね
+   Kagami: Oh, this and that...
+>> 78F930.3 | 蛮＆銀次：まいどあり！！
+   Ban & Ginji: Thanks for your business!!
+>> 78F988.3 | 夏実：がんばってね！！
+   Natsumi: Good luck!!
+>> 78F9E0.2 | ヘヴン：あら… / 美女二人ってことかしら、これ？
+   Hevn: Oh my... So this makes us a pair of beauties?
+>> 78FA48.2 | ＭＡＩ：ありがとう、マドカ…
+   MAI: Thank you, Madoka...
+>> 78FA98.2 | 波児：ずいぶんと渋い組み合わせだな、 / こりゃ…
+   Paul: Now that's a mighty low-key combo...
+>> 78FAFC.2 | アル：銀さんたちにお手紙書くって / 言ったけど…住所…ドコですか？？？
+   Al: I say I write letter to Gin-san and all... but address... where is it???
+>> 78FB78.3 | ＴＡＲＥ：ウキュ～！！
+   TARE: Ukyuuu~!!
+>> 78FBD0.2 | ジェンド：苦労をかけたな…アル / すまなかった…
+   Jend: I have put you through much, Al... Forgive me...
+>> 78FC38.2 | 使用人：ぼっちゃん、 / そろそろ大人になって下さい…
+   Servant: Young master, please try to grow up soon...
+>> 78FCA0.2 | 西園寺：花月に / もう一度会うことができて良かった…
+   Saionji: I'm glad I was able to meet Kazuki once more...
+>> 78FD0C.2 | マドカ：士度さん、 / ありがとうございました
+   Madoka: Shido-san, thank you so much.
+>> 78FD70.2 | ツルコ：『︀人生はスパンコール』︀ / みなさん、覚えて歌って下さいね☆
+   Tsuruko: 'Life Is Sequins' -- everyone, learn it and sing along, okay?
+>> 78FDE8.2 | マクベス：色々と / 大変だったみたいですね…銀次さん
+   MakubeX: It sounds like you went through a lot... Ginji-san.
+>> 78FE50.2 | 青樹＆綾峰： / ゲットバッカーズをよろしく！！
+   Aoki & Ayamine: / Please support the GetBackers!!
+>> 78FEB4.2 | 笑師： / ども～、キグルミ隊で～～～す！！
+   Emishi: / Howdy~! We're the Mascot Squad~~~!!
+>> 78FF14.3 | [蛮] おい、波児 / 銀次のヤツ来てねえか？
+   Hey, Paul. Has Ginji shown up?
+>> 78FF14.8 | [波児] いや、今日はまだ来てないぜ / 一緒じゃなかったのか？
+   Nope, he hasn't come by yet today. Weren't you two together?
+>> 78FF14.13 | [蛮] ここで待ち合わせってことに / なってンだけどな…
+   We were supposed to meet up here...
+>> 78FF14.16 | [蛮] どこ行きやがったんだ？　アイツ…
+   Where the hell'd he run off to, that guy...?
+>> 78FF14.20 | [夏実] あ、そういえば銀次さんをさっき外で / 見かけましたよ
+   Oh, come to think of it, I saw Ginji-san outside a little while ago.
+>> 78FF14.23 | [夏実] ね、ヘヴンさん？
+   Right, Hevn-san?
+>> 78FF14.27 | [ヘヴン] そうね、 / なんだか大急ぎで走ってたけど…
+   That's right. He was running off in a big hurry, though...
+>> 78FF14.32 | [蛮] 大急ぎで走ってた？
+   Running in a big hurry?
+>> 78FF14.34 | [蛮] …まあいいわ、銀次探してくるぜ
+   ...Whatever. I'll go find Ginji.
+>> 790180.3 | [蛮] 痛っ…！！
+   Ow...!!
+>> 790180.5 | [蛮] 銀次、テメー…
+   Ginji, you punk...
+>> 790180.9 | [銀次] はっ、蛮ちゃん！ / ちょうど良かった、助けて！
+   Oh, Ban-chan! Perfect timing, help me!
+>> 790180.14 | [蛮] 助けるだァ？
+   Help you?
+>> 790260.3 | [銀次] 蛮ちゃん、ゴメン！ / 説明してるヒマないかも！
+   Sorry, Ban-chan! I might not have time to explain!
+>> 7902C8.3 | [蛮] チッ、腹減ってるせいか、 / やけに手間取っちまったな
+   Tch, guess 'cause I'm starving, that took way too long.
+>> 7902C8.6 | [蛮] 何モンだ、ヤツ等？
+   Who the hell are those guys?
+>> 7902C8.10 | [銀次] あの人たちは某ゲーム会社にやとわれた / 奪い屋さんたちなのです
+   Those people are Snatchers hired by a certain game company, you see.
+>> 7902C8.15 | [蛮] そんなのになんでお前が / 追われてンだよ？
+   And why are guys like that chasing you?
+>> 7902C8.20 | [銀次] 奪い屋さんたちに奪われたゲームソフト / を奪還する仕事を受けたからなのです
+   Because I took a job to retrieve a game that the Snatchers snatched, you see.
+>> 7902C8.25 | [蛮] …で、報酬は？
+   ...And the pay?
+>> 7902C8.29 | [銀次] …ＨＯＮＫＹＴＯＮＫの / コーヒーニ杯分…かな？
+   ...Two cups of coffee at the Honky Tonk... I think?
+>> 7902C8.32 | [銀次] だって依頼人の人、 / なんだか可哀想だったんだもん
+   But the client seemed so pitiful...
+>> 7902C8.37 | [蛮] アホ！
+   Idiot!
+>> 7902C8.39 | [蛮] ンな小銭で安うけ合いしてンじゃねー！ / プライドねーのか、オメー！！
+   Don't go taking jobs for chump change! Got no pride, you?!!
+>> 7902C8.44 | [銀次] え～、前に１０円で仕事受けたことも / あったじゃん！　それよりは高いよ！
+   Aww, but you once took a job for 10 yen! This pays more than that!
+>> 7902C8.49 | [蛮] ありゃ非常事態だから受けただけだ！
+   I only took that one 'cause it was an emergency!
+>> 7902C8.53 | [銀次] でもさ、今もけっこー非常事態だよね / 全財産、３８円しかないんですけど…
+   But this is kind of an emergency too, y'know... Our whole fortune is just 38 yen...
+>> 7902C8.58 | [蛮] …チッ、しゃーねえな！
+   ...Tch, fine, whatever!
+>> 7902C8.60 | [蛮] 要は奪い屋たちからゲームソフト / 奪り還しゃいいんだろ？
+   So basically, we just gotta take the game back from the Snatchers, right?
+>> 7902C8.63 | [蛮] サクッと終わらせてコーヒー / 飲むとしようぜ
+   Let's wrap this up quick and go have some coffee.
+>> 790790.3 | [蛮] …こりゃ別の奪い屋だな
+   ...These are different Snatchers.
+>> 790790.5 | [蛮] しっかし、ウゼえヤツ等だぜ
+   Man, what a bunch of pests.
+>> 790790.7 | [蛮] なんだって俺たちに / 襲いかかってきやがるんだ？
+   Why the hell do they keep jumping us?
+>> 790790.12 | [銀次] それはオレが箱と説明書だけを / 奪還してるからなのです
+   That's because I've only retrieved the box and the manual, you see.
+>> 790790.17 | [蛮] なんつぅ中途半端な… / まあいい、行くぜ銀次！
+   How half-assed is that... Whatever, let's go, Ginji!
+>> 7908F4.3 | [蛮] ヤなヤローどもに会っちまったぜ…
+   Ugh, ran into some nasty jerks...
+>> 7908F4.7 | [笑師] なんや、その言い草 / せっかく会うたのにつれないな
+   What's with that? We finally bump into ya and yer givin' us the cold shoulder?
+>> 7908F4.12 | [銀次] ねえねえ、 / この辺で奪い屋の人たち見なかった？
+   Hey, hey, did you see any Snatchers around here?
+>> 7908F4.17 | [士度] 奪い屋？ / いや、見てねーぜ
+   Snatchers? Nope, haven't seen any.
+>> 7908F4.22 | [笑師] 仕事でっか？ / 今なら格安でお手伝いしまっせ！
+   On a job, are ya? We'll help out real cheap, right now!
+>> 7908F4.27 | [蛮] ざけンなよ、 / 誰がテメーらの助けを借りるかっての
+   Get real. Like I'd ever take help from you guys.
+>> 7908F4.32 | [士度] どうせ手伝う必要もないような / ケチな仕事だろうしな
+   Bet it's some cheap job that doesn't even need help anyway.
+>> 7908F4.37 | [蛮] あ？　なんだ、そりゃ / やンのか、テメー！
+   Huh? What's that supposed to mean? You wanna go, punk?!
+>> 7908F4.42 | [銀次] ちょ、ちょっと蛮ちゃん！ / こんな所でケンカしないでよ！
+   H-hey, Ban-chan! Don't start a fight here!
+>> 7908F4.45 | [銀次] ホラ、奪い屋の人たち / 探しに行こうよ、ネ！
+   C'mon, let's go look for the Snatchers, okay?!
+>> 790C28.3 | [銀次] あっ、カヅっちゃんに十兵衛だ～！
+   Oh, it's Kazu-chan and Juubei~!
+>> 790C28.5 | [銀次] こんなところに二人でいるなんて / 珍しいね
+   It's rare to see you two out in a place like this.
+>> 790C28.10 | [花月] ええ、十兵衛の目に効くという / 薬の原料を買いに来たんです
+   Yes, we came to buy ingredients for a medicine said to help Juubei's eyes.
+>> 790C28.15 | [蛮] で、そのサムライ君はちっとは / ギャグセンスが上がったのかよ？
+   So, has Samurai-kun's sense of humor gotten any better?
+>> 790C28.20 | [十兵衛] ………
+   ...
+>> 790C28.24 | [蛮] …その様子じゃ上がってなさそうだな
+   ...Guess not, judging by the look of him.
+>> 790C28.26 | [蛮] ところでこの辺で奪い屋見なかったか？
+   By the way, seen any Snatchers around here?
+>> 790C28.30 | [花月] いえ、僕たちは見かけていませんよ
+   No, we haven't seen any.
+>> 790C28.34 | [銀次] そっかあ…
+   I see...
+>> 790C28.36 | [銀次] じゃ、オレたち仕事あるからもう行くね / またね！
+   Well, we've got a job to do, so we'll get going. See ya!
+>> 790ED0.3 | [蛮] おい、卑弥呼
+   Hey, Himiko.
+>> 790ED0.5 | [蛮] ジャッカルと一緒ってことは仕事中か？
+   If you're with Jackal, you must be on a job?
+>> 790ED0.9 | [卑弥呼] そうよ / 忙しいんだからジャマしないでよね
+   That's right. I'm busy, so don't get in my way.
+>> 790ED0.14 | [銀次] そ、それってまさかゲームソフトを / 運ぶ仕事ですか、赤屍さん？
+   Y-you don't mean it's a job transporting a game, do you, Akabane-san?
+>> 790ED0.19 | [赤屍] 何かは言えませんが、 / ゲームソフトでないことは確かですよ
+   I cannot say what it is, but it is certainly not a game.
+>> 790ED0.22 | [赤屍] それがどうかしましたか、銀次クン？
+   Is something the matter, Ginji-kun?
+>> 790ED0.26 | [銀次] い、いえ…別に…
+   N-no... nothing...
+>> 790ED0.28 | [銀次] （良かったね、蛮ちゃん！ / あんまり戦いたくないもんね！）
+   (Lucky us, Ban-chan! We really don't wanna fight them!)
+>> 790ED0.33 | [蛮] （そりゃまーな…）
+   (Well, yeah...)
+>> 790ED0.35 | [蛮] ところでこの辺で奪い屋見なかったか？
+   By the way, seen any Snatchers around here?
+>> 790ED0.39 | [卑弥呼] さあ、見てないけど？
+   Hmm, I haven't. Why?
+>> 790ED0.43 | [蛮] フーン…ま、ジャマして悪かったな
+   Huh... Well, sorry to bother you.
+>> 790ED0.45 | [蛮] よし銀次、次行くぜ！
+   All right, Ginji, on to the next!
+>> 790ED0.49 | [赤屍] ところで銀次クン…
+   By the way, Ginji-kun...
+>> 790ED0.53 | [銀次] えっ！　あ、ハイ、 / なんでしょうか、赤屍さん？
+   Huh?! Oh, y-yes, what is it, Akabane-san?
+>> 790ED0.58 | [赤屍] また近いうちに / お会いできるといいですね♥
+   I do hope we meet again soon♥
+>> 790ED0.63 | [銀次] そ、そうですね / 会えるといいですね…
+   Y-yes, I hope we do...
+>> 790ED0.66 | [銀次] ハ、ハハハ…
+   Ha, hahaha...
+>> 790ED0.68 | [銀次] （逃げろ、オレ！）
+   (Run for it, me!)
+>> 79136C.3 | [蛮] …オイ、塔の住人のテメーがなんで / こんなところをウロついてやがんだよ？
+   ...Hey, what's a resident of the Tower like you doing prowling around here?
+>> 79136C.8 | [鏡] 観察…だよ / いけないかな、美堂蛮クン？
+   Observing... Is that a problem, Ban Mido-kun?
+>> 79136C.13 | [蛮] 大方、なんか企んでるんじゃねーの？
+   You're scheming something, ain't you?
+>> 79136C.17 | [鏡] さあ、それはどうかな？
+   Hmm, I wonder?
+>> 79136C.19 | [鏡] ところでキミたち、 / ゲームソフト探してるみたいだね？
+   By the way, it looks like you two are searching for a game?
+>> 79136C.24 | [銀次] えっ、どうして知ってるの？
+   Huh? How'd you know?
+>> 79136C.28 | [鏡] ちょっと観察させてもらって / いたからね…
+   I've been doing a little observing, you see...
+>> 79136C.33 | [銀次] （そ、それってストーカーなのでは…）
+   (Isn't th-that called stalking...?)
+>> 79136C.37 | [鏡] ヒントを言わせてもらうけど、 / キミたちが探している奪い屋は
+   Let me give you a hint. The Snatchers you're looking for
+>> 79136C.40 | [鏡] もうこの辺りにはいないよ
+   aren't anywhere around here anymore.
+>> 79136C.42 | [鏡] でも依頼品は近くにある…分かるかな？
+   But the goods are nearby... Understand?
+>> 79136C.46 | [蛮] どこかに隠してあるとでも / 言いてえのかよ？
+   You saying they've hidden it somewhere?
+>> 79136C.51 | [鏡] さあ…ね / それじゃオレはこの辺で失礼するよ
+   Who knows... Well, I'll take my leave now.
+>> 791720.3 | [銀次] な、なんでしょうか、あの人は？
+   Wh-what's with that guy?
+>> 791720.7 | [蛮] さあな…
+   Beats me...
+>> 791720.9 | [蛮] なんだか知らねーが、 / ごていねいにヒントまでもらったんだ
+   No idea what his deal is, but he was nice enough to give us a hint.
+>> 791720.12 | [蛮] ここいらをくまなく探してみようぜ
+   Let's search every inch of this area.
+>> 791818.3 | [銀次] やったぁ！　ゲームソフト奪還成功～！
+   Yay! Game retrieval successful~!
+>> 791818.5 | [銀次] …って、蛮ちゃん…！
+   ...Wait, Ban-chan...!
+>> 791894.3 | [蛮] …お前ら、俺たちにビビッて依頼品を / 投げ出して逃げたものの、
+   ...You guys got scared of us, dumped the goods and ran, but
+>> 791894.6 | [蛮] やっぱり手ブラじゃ帰れねえっつって / 戻ってきたんじゃねえだろうな？
+   then decided you couldn't go home empty-handed and came back, huh?
+>> 791894.11 | [見知らぬ男] ち、違う！ / それは隠しておいただけだ！
+   Th-that's not it! We just hid it there!
+>> 791894.14 | [見知らぬ男] 大人しくこっちに渡さないと / 痛い目に会うぞ！！
+   Hand it over quietly, or you'll get hurt!!
+>> 791894.19 | [蛮] 痛い目に会うのは果たしてどっちかね？
+   I wonder which of us is really gonna get hurt?
+>> 791894.21 | [蛮] 行くぜ、銀次！
+   Let's go, Ginji!
+>> 791894.25 | [銀次] うん！！
+   Yeah!!
+>> 791A84.3 | [銀次] 今度こそ奪還成功だね！
+   This time the retrieval's a success for real!
+>> 791A84.5 | [銀次] ＨＯＮＫＹＴＯＮＫで依頼人さんが / 待ってるはずだから早く行こうよ！
+   The client should be waiting at the Honky Tonk, so let's hurry!
+>> 791B24.3 | [蛮] ん？　誰もいねえな…
+   Hm? Nobody's here...
+>> 791B24.5 | [蛮] なあ夏実ちゃん、 / あれから誰か入ってこなかったか？
+   Hey, Natsumi-chan, has anybody come in since then?
+>> 791B24.10 | [夏実] いえ、誰も来てませんけど？
+   No, nobody's come in. Why?
+>> 791B24.14 | [銀次] あれ、おかしいなあ… / ここで待っててって言ったんだけどな…
+   Huh, that's weird... I told them to wait here...
+>> 791B24.19 | [蛮] ま、そのうち来るって
+   Eh, they'll show up eventually.
+>> 791B24.21 | [蛮] それより待ってる間に / そのゲームやらしてもらおうぜ
+   More importantly, let's play that game while we wait.
+>> 791B24.26 | [銀次] えっ、そんなことしていいの？
+   Huh? Are we allowed to do that?
+>> 791B24.30 | [蛮] ちょっとだけだって！ / どれ、貸してみな？
+   Just for a bit! C'mon, let me see it.
+>> 791D5C.3 | [蛮] …って俺たちのゲームかよ！！
+   ...Wait, it's OUR game?!!
+>> 791DB0.3 | [蛮] あんま遠くへ行かねえようにしな、銀次
+   Don't wander off too far, Ginji.
+>> 791E08.3 | [銀次] あんまりＨＯＮＫＹＴＯＮＫから / 離れない方がいいよ、蛮ちゃん
+   We'd better not go too far from the Honky Tonk, Ban-chan.
+>> 791E7C.3 | [会社員] 奪い屋？ / 知らないなあ、そんな人たち…
+   Snatchers? Never heard of people like that...
+>> 791EDC.3 | [女子高生] ゲットバッカーズってなに？　奪還屋？ / なにソレ～、ヤバくない？
+   What are GetBackers? Retrievers? What even is that~? Sounds kinda sketchy.
+>> 791F54.3 | [波児] そろそろツケ払ってくれよな
+   Time you paid your tab.
+>> 791FA4.3 | [夏実] お仕事ですか？　ガンバって下さいネ♥
+   On a job? Good luck♥
+>> 791FFC.3 | [ヘヴン] あら、仕事だなんて珍しいわね
+   My, actually working? That's rare.
+>> 792050.2 | あなたの奪われたもの、奪り還します！
+   We'll take back what was taken from you!
+>> 792050.4 | 無敵の奪還屋、ゲットバッカーズに / 用がある方はＨＯＮＫＹＴＯＮＫまで
+   Need the invincible retrievers, the GetBackers? Inquire at the Honky Tonk.
+>> 7920F4.2 | 一身上の都合により閉店致します
+   Closed for personal reasons.
+>> 792140.2 | ネコとカメレオンをもらって下さい！
+   Please adopt a cat and a chameleon!
+>> 792140.6 | [蛮] 日々の食いモンに困ってるのに / ペットなんぞ飼ってられっかよ
+   We can barely feed ourselves day to day. Like we can keep a pet.
+>> 7921EC.2 | ネコとカメレオンをもらって下さい！
+   Please adopt a cat and a chameleon!
+>> 7921EC.6 | [銀次] ネコかあ…いいな、飼いたいな / でもカメレオンってなに食べるんだろ？
+   A kitty... nice, I wanna keep it. But what do chameleons eat, I wonder?
+>> 7922F4.2 | バイト募集中 / 未経験者でも気軽にどうぞ！
+   Part-timers wanted. No experience needed, feel free to apply!
+>> 7922F4.7 | [蛮] ケッ、 / ちまちまバイトなんざしてられっかよ
+   Feh. Like I've got time for some piddly part-time job.
+>> 79239C.2 | バイト募集中 / 未経験者でも気軽にどうぞ！
+   Part-timers wanted. No experience needed, feel free to apply!
+>> 79239C.7 | [銀次] バイトかあ… / こうなったらやるしかないかなあ…
+   A part-time job... Maybe I've got no choice but to do it...
+>> 792498.2 | 話題の新メニュー『裏バーガー』登場！ / 今だけ３９円！！
+   Hot new menu item 'Ura Burger' is here! Only 39 yen for a limited time!!
+>> 792498.7 | [蛮] …ダメだ、一円足りねえ…！
+   ...Damn, I'm one yen short...!
+>> 792538.2 | 話題の新メニュー『裏バーガー』登場！ / 今だけ３９円！！
+   Hot new menu item 'Ura Burger' is here! Only 39 yen for a limited time!!
+>> 792538.7 | [銀次] あ～、お腹すいたなあ… / 食べたいな～裏バーガー…
+   Aww, I'm so hungry... I wanna eat an Ura Burger~...
+>> 792644.2 | 今月の新刊『裏新宿２４時！』 / 絶賛発売中！
+   This month's new release, 'Ura-Shinjuku 24 Hours!' Now on sale to rave reviews!
+>> 792644.7 | [蛮] タイトルからして怪しい本だな / 誰か読むヤツがいんのかよ？
+   Shady-looking book, just from the title. Does anybody even read that?
+>> 7926F8.2 | 今月の新刊『裏新宿２４時！』 / 絶賛発売中！
+   This month's new release, 'Ura-Shinjuku 24 Hours!' Now on sale to rave reviews!
+>> 7926F8.7 | [銀次] うわ！　何が書いてあるんだろ？
+   Whoa! I wonder what's written in it?
+>> 7927E4.3 | [銀次] 蛮ちゃ～ん、いい加減あきらめて、 / ＨＯＮＫＹＴＯＮＫで
+   Ban-chaaan, give it up already. Let's go to the Honky Tonk...
+>> 7927E4.6 | [銀次] なにか食わせてもらおうよ～
+   ...and get them to feed us something~
+>> 7927E4.10 | [蛮] いーから黙って探せ！
+   Just shut up and keep looking!
+>> 7927E4.12 | [蛮] この不景気じゃ、 / 期限切れの弁当だって貴重品だ！
+   In this economy, even an expired boxed lunch is treasure!
+>> 7927E4.17 | [銀次] オレが頭下げるからさぁ… / ３日もゴミあさりじゃミジメだよ～
+   I'll do the begging, okay...? Three days of digging through trash is just sad~
+>> 7927E4.22 | [蛮] 銀次、 / 俺たちゃ無敵の奪還屋（だっかんや）だ
+   Ginji, we're the invincible GetBackers.
+>> 7927E4.25 | [蛮] そのプライド捨ててまで / 人に甘えられるかっつーの！
+   You think I'd throw away that pride and go begging? As if!
+>> 7927E4.30 | [銀次] だいたい蛮ちゃんが大暴れして / お店ン中壊さなかったら、
+   If you hadn't gone on a rampage and trashed the place, Ban-chan,
+>> 7927E4.33 | [銀次] 先週の稼ぎでツケも払えたのに…
+   we could've paid off our tab with last week's pay...
+>> 7927E4.37 | [蛮] テメー、終わった話をクドクドと…
+   Quit harping on old news, you punk...
+>> 7927E4.41 | [蛮] グー…
+   *growl*...
+>> 7927E4.45 | [蛮] ダメだ / もう声も出ねえ…
+   It's no use. I can't even yell anymore...
+>> 7927E4.50 | [銀次] そうだね、蛮ちゃん… / ゴミあさり、ガンバろう…
+   Yeah, Ban-chan... Let's give the trash digging our all...

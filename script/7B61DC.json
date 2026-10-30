@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "西園寺！",
-  "en": ""
+  "en": "Saionji! Why are you in a place like this...?!"
  },
  {
   "id": "7B61DC.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "なぜ君がこんな所に…！？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B61DC.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "西園寺　",
   "jp": "なにって…　",
-  "en": ""
+  "en": "What? I came to audition, of course."
  },
  {
   "id": "7B61DC.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "西園寺　",
   "jp": "オーディションを受けにきたんですよ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B61DC.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "西園寺　",
   "jp": "花月もどうですか、いっしょに",
-  "en": ""
+  "en": "How about you, Kazuki? Join me."
  },
  {
   "id": "7B61DC.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "なんだよ、　",
-  "en": ""
+  "en": "What, you're aiming to be a comedian too?"
  },
  {
   "id": "7B61DC.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "テメーもお笑い芸人目指してンのか？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B61DC.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "西園寺　",
   "jp": "違いますよ、",
-  "en": ""
+  "en": "No, no. I'm here for the idol audition."
  },
  {
   "id": "7B61DC.21",
@@ -97,7 +97,7 @@
   "box": 5,
   "speaker": "西園寺　",
   "jp": "アイドルの方のオーディションです",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B61DC.23",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "…アイドルねえ　",
-  "en": ""
+  "en": "...An idol, huh."
  },
  {
   "id": "7B61DC.27",
@@ -127,7 +127,7 @@
   "box": 7,
   "speaker": "西園寺　",
   "jp": "あっ、でも銀次さんの弟子になるという",
-  "en": ""
+  "en": "Oh, but that doesn't mean I've given up"
  },
  {
   "id": "7B61DC.30",
@@ -135,7 +135,7 @@
   "box": 7,
   "speaker": "西園寺　",
   "jp": "夢を捨てたわけじゃありませんから！　",
-  "en": ""
+  "en": "my dream of becoming Ginji-san's disciple!"
  },
  {
   "id": "7B61DC.32",
@@ -143,7 +143,7 @@
   "box": 8,
   "speaker": "西園寺　",
   "jp": "銀次さん、お願いします！！　",
-  "en": ""
+  "en": "Ginji-san, I beg of you!!"
  },
  {
   "id": "7B61DC.34",
@@ -158,7 +158,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "えっ！　あ、あう…　",
-  "en": ""
+  "en": "Huh?! Uh, umm... S-some day... Some day......"
  },
  {
   "id": "7B61DC.37",
@@ -166,6 +166,6 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "そ、そのうちね…そのうち………　",
-  "en": ""
+  "en": " "
  }
 ]

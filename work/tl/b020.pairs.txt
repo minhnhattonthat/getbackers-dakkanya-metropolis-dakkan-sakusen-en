@@ -1,0 +1,370 @@
+>> 7B72F0.3 | [アル] ………
+   ......
+>> 7B72F0.7 | [銀次] どうしたの、アルくん / 具合でも悪いの？　顔色悪いけど…
+   What's wrong, Al-kun? Are you feeling sick? You look pale...
+>> 7B72F0.12 | [アル] …銀さんにあげた石に、 / ボク、お守りの力入れておきました
+   ...I put the power of a charm into the stone I gave you, Gin-san.
+>> 7B72F0.15 | [アル] それ、ぜったい放さないで下さい
+   Please, never let go of it.
+>> 7B72F0.19 | [銀次] うん、ありがと！
+   Okay, thanks!
+>> 7B72F0.21 | [銀次] じゃ、帰ってきたらなにかおいしいもの / ごちそうするから、楽しみに待っててよ
+   When we get back, I'll treat you to something yummy, so look forward to it!
+>> 7B749C.3 | [アル] ………
+   ......
+>> 7B74DC.3 | [ヘヴン] この穴の先がヤツらのアジトよ
+   Past this hole is their hideout.
+>> 7B74DC.7 | [蛮] おーおー、横取り屋のヤツら、 / バカでかい横穴掘っちまってまあ…
+   Well, well. Those Poachers sure dug themselves one huge-ass tunnel...
+>> 7B74DC.12 | [十兵衛] 油断するな、この先に強い殺気を感じる
+   Stay on guard. I sense strong killing intent ahead.
+>> 7B74DC.16 | [ヘヴン] さっき話した通り、 / ＤＶＤロムの奪還は蛮クンたちが、
+   Like I explained, Ban-kun and the boys will retrieve the DVD-ROM,
+>> 7B74DC.19 | [ヘヴン] 奪り還したＤＶＤロムを / 運ぶのは卑弥呼さんと赤屍さんが…
+   and Himiko-san and Akabane-san will transport the DVD-ROM once it's back...
+>> 7B74DC.22 | [ヘヴン] …ちょっと、これなんの音！？
+   ...Wait, what's that noise?!
+>> 7B74DC.27 | [銀次] ？ / あれ、なんか揺れてる…！？
+   ? Huh, is something shaking...?!
+>> 7B74DC.32 | [蛮] ヤベェな… / 先へ急ぐぞ！！
+   Damn, this is bad... Hurry, move it!!
+>> 7B774C.3 | [士度] …完全に分断されたな / 敵はこっちの動きを察知してたワケだ
+   ...We've been cut off completely. So the enemy saw our moves coming.
+>> 7B774C.8 | [蛮] 分断作戦か…
+   Divide and conquer, huh...
+>> 7B774C.10 | [蛮] ってなんでテメーがここにいんだよ！
+   Wait, why the hell are YOU here?!
+>> 7B774C.14 | [士度] 知らねえよ、 / テメーが勝手についてきたんだろうが
+   How should I know? You're the one who tagged along after me.
+>> 7B774C.19 | [蛮] ンだと、コラ！　やんのか、ああ？
+   What'd you say, punk?! You wanna go, huh?
+>> 7B774C.23 | [卑弥呼] ちょっと、 / こんな所でみにくい争いしないでよね
+   Hey, don't start some ugly squabble in a place like this.
+>> 7B774C.26 | [卑弥呼] 仕事が優先でしょ？
+   Work comes first, right?
+>> 7B774C.30 | [蛮] 相変わらず固いな、お前…
+   Uptight as ever, aren't you...
+>> 7B774C.34 | [卑弥呼] 当たり前でしょ！ / ホラ、先に進むわよ！！
+   Of course! Come on, we're moving on!!
+>> 7B79C0.3 | [横取り屋] ふはははははは！ / よーし、オマエたち！　そこで止まれ！
+   Fwahahahahaha! Alright, you lot! Stop right there!
+>> 7B79C0.6 | [横取り屋] その場所がお前たちの墓場だ！ / ムヒヒヒヒヒヒ！！
+   That spot is gonna be your grave! Muhihihihihihi!!
+>> 7B79C0.11 | [蛮] おいでなすったか…
+   So they finally show up...
+>> 7B79C0.15 | [横取り屋] グフフフフフ… / ジゴクに落ちるがいいぃぃいいぃぃ！！
+   Gufufufufufu... Go straight to Heeeeeeeell!!
+>> 7B7B04.3 | [士度] フン…口ほどにもねえ連中だな
+   Hmph... All talk, these guys.
+>> 7B7B04.7 | [卑弥呼] こんなんじゃ物足りないわね…
+   That wasn't nearly enough for me...
+>> 7B7B04.11 | [蛮] ま、ザコの相手はこれぐれェにして / 先を急ぐぞ！
+   Well, that's enough playing with small fry. Let's hurry on!
+>> 7B7BF0.3 | [花月] …くっ！！
+   ...Ngh!!
+>> 7B7BF0.7 | [十兵衛] 大丈夫か、花月？
+   Are you alright, Kazuki?
+>> 7B7BF0.11 | [花月] ああ、すまない、十兵衛…
+   Yes. I'm sorry, Juubei...
+>> 7B7BF0.15 | [笑師] アカン！　この状況ではワイ一人が / のけ者ちゃいますのん？
+   Oh no! In this setup, ain't I the only one left out?
+>> 7B7BF0.18 | [笑師] ワイの相方、士度はんはどこに！？ / 士度はーーーーん！！
+   Where's my partner, Shido-han?! Shido-haaaaan!!
+>> 7B7BF0.23 | [十兵衛] 騒ぐな、笑師 / これから探しに行く
+   Quiet, Emishi. We're going to look for him now.
+>> 7B7BF0.28 | [笑師] せ、せやな！
+   R-right!
+>> 7B7BF0.30 | [笑師] （そないゆうたかて、早よ合流せんと！ / のけ者はイヤや～！）
+   (Even so, I gotta meet up with him quick! I hate bein' left out~!)
+>> 7B7E0C.3 | [十兵衛] …！！
+   ...!!
+>> 7B7E0C.7 | [横取り屋] ふしゅしゅしゅるる…
+   Fshushushururu...
+>> 7B7E0C.9 | [横取り屋] なかなか逃げるのがウマい / ウサギたちじゃないかッ！！
+   Well, aren't you some slippery little rabbits!!
+>> 7B7E0C.14 | [花月] 不意打ちとは卑怯なヤツ…
+   An ambush... how cowardly...
+>> 7B7E0C.16 | [花月] 大人しく道をあけ渡さないのであれば、 / この絃の花月が死を以って断ずる！
+   If you will not step aside quietly, Kazuki of the Strings shall judge you with death!
+>> 7B7E0C.21 | [横取り屋] …クソなまいきなウサギが / 一匹紛れこんでいるようだなッ！
+   ...Looks like one damn cheeky rabbit got mixed in with the rest!
+>> 7B7E0C.24 | [横取り屋] 狩りはヤメて料理に変更だ… / たちまちミンチにしてくれるワ～ッ！！
+   Forget the hunt, it's cooking time... I'll make mincemeat of you in no time!!
+>> 7B800C.3 | [笑師] しかし、あっけない連中やったな～
+   Man, those guys went down easy, huh~
+>> 7B800C.7 | [十兵衛] 花月、今の戦いでケガをしたようだな、 / 見せてみろ
+   Kazuki, it seems you were hurt in that fight. Let me see.
+>> 7B800C.12 | [花月] 大したことはないが… / すまないな、十兵衛
+   It's nothing serious, but... thank you, Juubei.
+>> 7B8110.3 | [笑師] （アカン！　やっぱワイだけのけ者や！ / ワイもケガしとるっちゅーの！
+   (Oh no! I really am the only one left out! I'm hurt too, y'know!
+>> 7B8110.6 | [笑師] …こんな状況、ホンマいやや～！！）
+   ...I seriously hate this setup~!!)
+>> 7B81BC.3 | [銀次] …はれ？　蛮ちゃ～ん！　みんな～！！
+   ...Huh? Ban-chaaan! Everyone~!!
+>> 7B81BC.5 | [銀次] …誰もいない…はぐれちゃったのかな？ / なんか心細いなぁ…
+   ...Nobody's here... Did we get separated? I feel kinda lonely...
+>> 7B81BC.10 | [赤屍] クス…ケガがなくてなによりですよ、 / 銀次クン
+   Heh... I am glad to see you unhurt, Ginji-kun.
+>> 7B81BC.15 | [銀次] はうっ？　あ、赤屍さん！？ / え、えーと、なにがあったんでしょう？
+   Hweh? A-Akabane-san?! U-um, what happened, exactly?
+>> 7B81BC.20 | [赤屍] どうも敵の謀略にはまり、 / 分断させられたようですね
+   It seems we fell for the enemy's scheme and were split up.
+>> 7B81BC.23 | [赤屍] 辺りには誰もいませんでしたよ
+   There was no one else around.
+>> 7B81BC.27 | [銀次] えっ、二人っきり…ですか？
+   Huh? So it's... just the two of us?
+>> 7B81BC.31 | [赤屍] はい♥
+   Yes♥
+>> 7B81BC.35 | [銀次] ……………………………………………… / ………………………………………………
+   ......
+>> 7B81BC.38 | [銀次] ……………………………………………… / ……………………………………………う
+   ......Uh
+>> 7B81BC.41 | [銀次] ……………………………………………… / ………………………………………あ、う
+   ......Uh, uh
+>> 7B81BC.44 | [銀次] 赤屍
+   Akabane
+>> 7B81BC.47 | [銀次] 楽しい仕事になりそうですね♥
+   This should be a fun job♥
+>> 7B81BC.51 | [銀次] ハハ…そ、そうですね…
+   Ha ha... Y-yes, it should...
+>> 7B8598.3 | [銀次] ！？ / アルくんにもらった石が光ってる…
+   ?! The stone Al-kun gave me is glowing...
+>> 7B8598.6 | [銀次] これって闇…だよね / ハハ…赤屍さんらしいかも…
+   This is Dark... right? Ha ha... That kinda suits Akabane-san...
+>> 7B8598.11 | [赤屍] どうかしましたか、銀次クン？
+   Is something the matter, Ginji-kun?
+>> 7B8598.15 | [銀次] い、いえ、なんでもありません… / ハハハ…
+   N-no, nothing at all... Ha ha ha...
+>> 7B86C4.3 | [赤屍] …銀次クン
+   ...Ginji-kun.
+>> 7B86C4.7 | [銀次] ハ、ハイ！　なんでしょうか？
+   Y-yes! What is it?
+>> 7B86C4.11 | [赤屍] 気付きませんか？ / ようやくお出ましのようですよ
+   Have you not noticed? It seems they have finally decided to show themselves.
+>> 7B86C4.17 | [横取り屋] ゲヘッ、ゲヘゲヘゲヘッ！！
+   Geheh, gehe-gehe-geheh!!
+>> 7B86C4.19 | [横取り屋] オレたちがいることに気付くとは… / なかなか鋭いじゃねェか！！
+   So you noticed we were here... Pretty sharp, ain't ya!!
+>> 7B86C4.24 | [赤屍] あれだけ分かりやすい殺気を / 放っていれば誰にでも分かりますよ
+   With killing intent that obvious, anyone would notice.
+>> 7B86C4.27 | [赤屍] そうですよね、銀次クン？
+   Is that not right, Ginji-kun?
+>> 7B86C4.31 | [銀次] …も、もちろん！
+   ...O-of course!
+>> 7B86C4.33 | [銀次] （分かりませんでしたが…）
+   (I didn't notice at all...)
+>> 7B86C4.38 | [横取り屋] キ、キサマら～！
+   Wh-why, you~!
+>> 7B86C4.40 | [横取り屋] そのナマイキな口を / 永遠にふさいでやる～ッ！！
+   I'll shut those cheeky mouths of yours forever~!!
+>> 7B8990.3 | [銀次] 気絶しちゃったみたい…かな？
+   Looks like he passed out... maybe?
+>> 7B89E4.3 | [銀次] ！　ドクタージャッカル！！
+   ! Dr. Jackal!!
+>> 7B8A38.3 | [銀次] なにも気絶してる相手にトドメを / 刺さなくてもいいだろ！！
+   You don't have to finish off someone who's already out cold!!
+>> 7B8A38.8 | [赤屍] …甘いですね、銀次クン
+   ...How naive, Ginji-kun.
+>> 7B8A38.10 | [赤屍] この人は気絶などしていませんよ、 / そうですよね？
+   This man is not unconscious at all. Is that not so?
+>> 7B8A38.16 | [横取り屋] ひ、ひェ～～～～ッ！！
+   Eeeeeeeek!!
+>> 7B8B70.3 | [銀次] あの人にはもう戦う気なんてないんだ！
+   He doesn't want to fight anymore!
+>> 7B8B70.5 | [銀次] どうしてもヤル気なら、 / オレが相手になるよ！！
+   If you're that set on fighting, then I'll take you on!!
+>> 7B8B70.10 | [赤屍] …面白い
+   ...Interesting.
+>> 7B8B70.14 | [銀次] （…うっ、 / イキオイで相手になるとかいっちゃった
+   (...Ugh, I got carried away and said I'd take him on...
+>> 7B8B70.17 | [銀次] ヤバ………）
+   I'm in trouble......)
+>> 7B8B70.21 | [赤屍] いけない、いけない…
+   No, no, I must not...
+>> 7B8B70.23 | [赤屍] 今のあなたは仕事のパートナーでしたね / くくく、残念だ…実に、ね
+   For now, you are my partner on this job, are you not? Heh heh heh... A pity. Truly.
+>> 7B8B70.26 | [赤屍] さあ、先を急ぎましょうか
+   Now then, shall we hurry on?
+>> 7B8B70.30 | [銀次] （はあ～、良かった～～～…）
+   (Phew~, thank goodness~...)
+>> 7B8D8C.3 | [花月] 銀次さん！
+   Ginji-san!
+>> 7B8D8C.7 | [銀次] カヅっちゃ～ん、十兵衛、笑師！！ / みんな無事だったんだね～！！
+   Kazu-chaaan, Juubei, Emishi!! You're all okay~!!
+>> 7B8E34.3 | [蛮] よォ、銀次！　元気そうだな！！
+   Yo, Ginji! Looks like you're doing fine!!
+>> 7B8E34.7 | [銀次] ば、蛮ちゃ～ん！　生きて会えたー！ / 怖かったよ～、寂しかったよ～！！
+   B-Ban-chaaan! We both made it out alive! I was so scared~, so lonely~!!
+>> 7B8E34.12 | [蛮] …ったく、大げさなヤローだぜ
+   ...Jeez, what a drama queen.
+>> 7B8E34.16 | [笑師] し、士度はーーーん！ / めっちゃ寂しかったで～！
+   Sh-Shido-haaaan! I was so lonely~!
+>> 7B8E34.19 | [笑師] もうワイを離さんといてや！！
+   Don't you ever leave me again!!
+>> 7B8E34.23 | [士度] うるせェな…離れろよ、笑師
+   Shut up... Get off me, Emishi.
+>> 7B8E34.27 | [赤屍] …再会を喜ぶのも結構ですが、 / 戦いはまだまだこれからですよ
+   ...Rejoice in your reunion all you like, but the fighting has only just begun.
+>> 7B8E34.32 | [卑弥呼] そうね…さっさと敵のアジトを見つけて / 依頼を片付けましょう
+   Right... Let's find their hideout fast and wrap up this job.
+>> 7B90B8.3 | [蛮] どうやらここがヤツらの / アジトみてェだな
+   Looks like this here's their hideout.
+>> 7B90B8.8 | [銀次] ねえねえ、ヘヴンさんが言ってた / 人間じゃない敵って出てこないね
+   Hey, hey, those not-human enemies Hevn-san talked about aren't showing up.
+>> 7B90B8.11 | [銀次] どうしちゃったのかな？
+   What happened to them, I wonder?
+>> 7B90B8.15 | [蛮] …さあな、 / 俺たちにビビって逃げ出したのかもな
+   ...Who knows? Maybe they got scared of us and ran off.
+>> 7B90B8.18 | [蛮] ともかく、前進あるのみだぜ！
+   Anyway, the only way is forward!
+>> 7B9224.3 | [花月] ！！　あれは一体…！？
+   !! What on earth is that...?!
+>> 7B9224.7 | [蛮] こういう時は先手必勝だぜ！ / 喰らいやがれ、スネークバイト！！
+   At times like this, you strike first! Eat this, Snake Bite!!
+>> 7B92D8.3 | [蛮] ！　この手応え… / やっぱ人間じゃねえって感じだな
+   ! The way that felt... Yeah, that thing ain't human.
+>> 7B92D8.8 | [十兵衛] 確かに、あの物体からは / 生命のようなものが感じられん
+   Indeed. I sense nothing like life coming from that thing.
+>> 7B92D8.13 | [銀次] 人間じゃないとしたらなんだろう？ / ロボットとかなのかな！？
+   If they're not human, what are they? Robots or something?!
+>> 7B92D8.18 | [蛮] 知らねえな… / ま、倒してみりゃ分かるってモンだぜ！
+   Beats me... Well, we'll find out once we beat 'em!
+>> 7B945C.3 | [銀次] やった！　終わった…の！？
+   We did it! Is it... over?!
+>> 7B945C.7 | [蛮] なんだったんだ、ありゃあ… / ロボットでもねえ…まるで人形！？
+   What the hell was that thing... Not a robot either... More like a doll?!
+>> 7B945C.13 | [？？？] なるほど、なかなか面白い連中だ…
+   I see. A rather interesting bunch...
+>> 7B9568.3 | [銀次] ！？　誰だ！！
+   ?! Who's there?!
+>> 7B9568.7 | [？？？] 貴様が雷の力を持つ者だな？
+   You are the one who holds the power of thunder, are you not?
+>> 7B9568.9 | [？？？] …その力、覚醒しつつあるとは危険だな / ここで始末しておいた方がよさそうだ
+   ...That power is awakening. Dangerous. Best that I dispose of you here.
+>> 7B964C.3 | [銀次] な、なんだ？ / うっ！！　かはっ…グググ………
+   Wh-what? Ugh!! Hkk... Ngggh......
+>> 7B964C.8 | [蛮] 銀次ィ！！
+   Ginjiii!!
+>> 7B964C.10 | [蛮] ！？ / …なんだ、体が動かねえ！！
+   ?! ...What the-- I can't move!!
+>> 7B964C.13 | [蛮] クソッ！　このままじゃ…
+   Damn it! At this rate...
+>> 7B9738.3 | [？？？] 防がれただと？
+   It was blocked?
+>> 7B9738.5 | [？？？] ………
+   ......
+>> 7B9738.7 | [？？？] …あれの仕業か / まあいい、今回のところは見逃してやる
+   ...So that thing is behind this. Very well. I shall let you go, for now.
+>> 7B9738.10 | [？？？] さらばだ、また会おう
+   Farewell. We shall meet again.
+>> 7B97FC.3 | [銀次] ハア、ハア、ハア……… / なんだったんだ、今のは…！？
+   Hah, hah, hah...... What was that just now...?!
+>> 7B97FC.8 | [蛮] 銀次、平気かよ？
+   Ginji, you okay?
+>> 7B97FC.12 | [銀次] う、うん、なんとか…
+   Y-yeah, somehow...
+>> 7B97FC.14 | [銀次] あれ？ / アルくんにもらった石が壊れてる…
+   Huh? The stone Al-kun gave me is broken...
+>> 7B97FC.17 | [銀次] …なんだろう、イヤな予感がする
+   ...I don't know why, but I've got a bad feeling.
+>> 7B97FC.21 | [蛮] …で、ＤＶＤロムはあったのか？
+   ...So, was the DVD-ROM there?
+>> 7B97FC.25 | [花月] ええ、ありましたよ
+   Yes, we found it.
+>> 7B97FC.29 | [蛮] よっしゃ、奪還成功だな！ / 戻るとするか！！
+   Alright, retrieval complete! Let's head back!!
+>> 7B9A04.3 | [銀次] たっだいまー！
+   We're baaack!
+>> 7B9A04.7 | [夏実] ………
+   ......
+>> 7B9A04.11 | [波児] …おう、お前らか
+   ...Oh, it's you two.
+>> 7B9A04.15 | [蛮] なんだなんだ、場が暗ェぞ！
+   What's this, what's this? Why's it so gloomy in here?!
+>> 7B9A04.17 | [蛮] おい、ヘヴン！　これが依頼の品だ / さっそくクライアントに会わせてくれや
+   Hey, Hevn! Here's the goods. Hurry up and take us to the client.
+>> 7B9A04.22 | [ヘヴン] …それが / クライアントと連絡が取れないのよ
+   ...About that. I can't get in touch with the client.
+>> 7B9A04.27 | [蛮] 連絡が取れないだァ！？
+   You can't get in touch?!
+>> 7B9A04.31 | [銀次] ヘヴンさん、それってどういうこと？
+   Hevn-san, what do you mean?
+>> 7B9A04.35 | [ヘヴン] それがよくわからないのよ / 突然、連絡が途絶えて…それっきりよ
+   I don't really know myself. Contact just suddenly cut off... and that was it.
+>> 7B9A04.40 | [銀次] ええ～？
+   Whaaat?
+>> 7B9A04.42 | [銀次] あれ、そういえばアルくんは？
+   Huh, come to think of it, where's Al-kun?
+>> 7B9A04.46 | [夏実] 急にいなくなっちゃったんです / この置き手紙を残して…
+   He suddenly disappeared. He left this note behind...
+>> 7B9A04.51 | [銀次] 手紙…？
+   A note...?
+>> 7B9A04.53 | [銀次] 『︀みなさん、 / いままでおせわになりました
+   'Everyone, thank you for everything you have done for me.
+>> 7B9A04.56 | [銀次] ボク、もういかなくちゃならない / ごめんなさい、さよなら』︀
+   I have to go now. I am sorry. Goodbye.'
+>> 7B9A04.59 | [銀次] …これって…
+   ...This is...
+>> 7B9A04.63 | [ヘヴン] もう、なにがなんだかサッパリ…
+   Honestly, I haven't got a clue what's going on...
+>> 7B9A04.67 | [蛮] サ、サッパリじゃねえ！ / テメー、それでも仲介人かよ！
+   D-don't give me "haven't got a clue"! You call yourself a broker?!
+>> 7B9A04.70 | [蛮] 俺たちの２００万は / どうなっちまうんだ！？
+   What happens to our 2 million?!
+>> 7B9A04.75 | [ヘヴン] お・あ・ず・けって / ことになるのかしらネ♥
+   I guess it's... o-n h-o-l-d♥
+>> 7B9A04.80 | [蛮] グガッ…ぐぐぐ… / お・あ・ず・けじゃねェ～！！
+   Gwah... grrr... Don't "o-n h-o-l-d" me~!!
+>> 7B9A04.85 | [銀次] …アルくん………
+   ...Al-kun......
+>> 7B9FA8.2 | セレクトボタンで / パーティを切り替えることができます
+   Press SELECT to switch parties.
+>> 7BA00C.3 | [卑弥呼] なにかしら、これ？ / カベになにか書いてあるわ…
+   What's this? Something's written on the wall...
+>> 7BA00C.8 | [蛮] …どれどれ？
+   ...Lemme see?
+>> 7BA00C.10 | [蛮] ＡＢＣＤＥＦＧＨＩＪＫＬＭＮ / ＯＰＱＲＳＴＵＶＷＸＹＺ…
+   ABCDEFGHIJKLMN OPQRSTUVWXYZ...
+>> 7BA00C.13 | [蛮] …ってアルファベットじゃねえかよ！ / なんだ、こりゃ？
+   ...That's just the alphabet! What the hell is this?
+>> 7BA00C.16 | [蛮] まだ続いてるな… / 赤：ＲＥＤ、青：ＢＬＵＥ
+   There's more... Red: RED, Blue: BLUE
+>> 7BA00C.19 | [蛮] 黄：ＹＥＬＬＯＷ、緑：ＧＲＥＥＮ / 白：ＷＨＩＴＥ、銀：ＳＩＬＶＥＲ
+   Yellow: YELLOW, Green: GREEN, White: WHITE, Silver: SILVER
+>> 7BA00C.22 | [蛮] 紫：ＰＵＲＰＬＥ / オレンジ：ＯＲＡＮＧＥ…
+   Purple: PURPLE, Orange: ORANGE...
+>> 7BA00C.25 | [蛮] 注意：スイッチを押すにはまず / トビラを調べること…
+   Note: Before pressing a switch, first examine the door...
+>> 7BA00C.30 | [士度] …なんかありそーだな
+   ...Smells like there's something to this.
+>> 7BA270.3 | [卑弥呼] なにかしら、これ？ / カベになにか書いてあるわ…
+   What's this? Something's written on the wall...
+>> 7BA270.8 | [蛮] …どれどれ？
+   ...Lemme see?
+>> 7BA270.10 | [蛮] ＡＢＣＤＥＦＧＨＩＪＫＬＭＮ / ＯＰＱＲＳＴＵＶＷＸＹＺ…
+   ABCDEFGHIJKLMN OPQRSTUVWXYZ...
+>> 7BA270.13 | [蛮] …ってアルファベットじゃねえかよ！ / なんだ、こりゃ？
+   ...That's just the alphabet! What the hell is this?
+>> 7BA270.16 | [蛮] まだ続いてるな… / 赤：ＲＥＤ、青：ＢＬＵＥ
+   There's more... Red: RED, Blue: BLUE
+>> 7BA270.19 | [蛮] 黄：ＹＥＬＬＯＷ、緑：ＧＲＥＥＮ / 白：ＷＨＩＴＥ、銀：ＳＩＬＶＥＲ
+   Yellow: YELLOW, Green: GREEN, White: WHITE, Silver: SILVER
+>> 7BA270.22 | [蛮] 紫：ＰＵＲＰＬＥ / オレンジ：ＯＲＡＮＧＥ…
+   Purple: PURPLE, Orange: ORANGE...
+>> 7BA270.25 | [蛮] 注意：スイッチを押すにはまず / トビラを調べること…
+   Note: Before pressing a switch, first examine the door...
+>> 7BA270.28 | [蛮] トビラを調べていない場合は無効
+   Invalid if the door has not been examined.
+>> 7BA270.32 | [士度] トビラに数字が書いてあるってことは / それと数字が関係してるんだろうな？
+   There are numbers on the doors. Guess the numbers tie in with that?
+>> 7BA270.37 | [卑弥呼] …スイッチに色がついてるわよね？
+   ...The switches are colored, aren't they?
+>> 7BA270.41 | [蛮] まあ、そこにあるのは黄色だな？
+   Well, the one over there's yellow, right?
+>> 7BA270.45 | [卑弥呼] ということはＹＥＬＬＯＷ… / Ｙは何番目のアルファベット？
+   So that makes it YELLOW... What number letter of the alphabet is Y?
+>> 7BA270.50 | [蛮] ２５番目だな
+   It's number 25.
+>> 7BA270.54 | [卑弥呼] そういうことじゃないのかしら？
+   Isn't that the idea?

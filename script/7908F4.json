@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ヤなヤローどもに会っちまったぜ…",
-  "en": ""
+  "en": "Ugh, ran into some nasty jerks..."
  },
  {
   "id": "7908F4.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "なんや、その言い草　",
-  "en": ""
+  "en": "What's with that? We finally bump into ya"
  },
  {
   "id": "7908F4.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "せっかく会うたのにつれないな",
-  "en": ""
+  "en": "and yer givin' us the cold shoulder?"
  },
  {
   "id": "7908F4.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ねえねえ、　",
-  "en": ""
+  "en": "Hey, hey, did you see any Snatchers"
  },
  {
   "id": "7908F4.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "この辺で奪い屋の人たち見なかった？　",
-  "en": ""
+  "en": "around here?"
  },
  {
   "id": "7908F4.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "士度",
   "jp": "奪い屋？　　",
-  "en": ""
+  "en": "Snatchers? Nope, haven't seen any."
  },
  {
   "id": "7908F4.18",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "士度",
   "jp": "いや、見てねーぜ",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7908F4.20",
@@ -96,7 +96,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "仕事でっか？",
-  "en": ""
+  "en": "On a job, are ya? We'll help out real cheap,"
  },
  {
   "id": "7908F4.23",
@@ -104,7 +104,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "今なら格安でお手伝いしまっせ！　",
-  "en": ""
+  "en": "right now!"
  },
  {
   "id": "7908F4.25",
@@ -119,7 +119,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "ざけンなよ、",
-  "en": ""
+  "en": "Get real. Like I'd ever take help from you"
  },
  {
   "id": "7908F4.28",
@@ -127,7 +127,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "誰がテメーらの助けを借りるかっての　",
-  "en": ""
+  "en": "guys."
  },
  {
   "id": "7908F4.30",
@@ -142,7 +142,7 @@
   "box": 7,
   "speaker": "士度",
   "jp": "どうせ手伝う必要もないような",
-  "en": ""
+  "en": "Bet it's some cheap job that doesn't even"
  },
  {
   "id": "7908F4.33",
@@ -150,7 +150,7 @@
   "box": 7,
   "speaker": "士度",
   "jp": "ケチな仕事だろうしな",
-  "en": ""
+  "en": "need help anyway."
  },
  {
   "id": "7908F4.35",
@@ -165,7 +165,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "あ？　なんだ、そりゃ",
-  "en": ""
+  "en": "Huh? What's that supposed to mean? You"
  },
  {
   "id": "7908F4.38",
@@ -173,7 +173,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "やンのか、テメー！　",
-  "en": ""
+  "en": "wanna go, punk?!"
  },
  {
   "id": "7908F4.40",
@@ -188,7 +188,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "ちょ、ちょっと蛮ちゃん！",
-  "en": ""
+  "en": "H-hey, Ban-chan! Don't start a fight here!"
  },
  {
   "id": "7908F4.43",
@@ -196,7 +196,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "こんな所でケンカしないでよ！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7908F4.45",
@@ -204,7 +204,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "ホラ、奪い屋の人たち",
-  "en": ""
+  "en": "C'mon, let's go look for the Snatchers,"
  },
  {
   "id": "7908F4.46",
@@ -212,6 +212,6 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "探しに行こうよ、ネ！",
-  "en": ""
+  "en": "okay?!"
  }
 ]

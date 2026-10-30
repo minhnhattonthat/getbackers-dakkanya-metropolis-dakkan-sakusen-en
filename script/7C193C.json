@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "弥勒",
   "jp": "僕たちはやはりあなたを　",
-  "en": ""
+  "en": "We still cannot forgive you..."
  },
  {
   "id": "7C193C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "弥勒",
   "jp": "許すことはできない…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C193C.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "弥勒",
   "jp": "もし次に出会うことがあれば、",
-  "en": ""
+  "en": "If we should ever meet again, then......"
  },
  {
   "id": "7C193C.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "弥勒",
   "jp": "その時は………　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C193C.9",
@@ -51,6 +51,6 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "…勝手にしな",
-  "en": ""
+  "en": "...Suit yourself."
  }
 ]

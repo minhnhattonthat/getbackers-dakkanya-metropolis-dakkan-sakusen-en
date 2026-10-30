@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "富豪",
   "jp": "今日のオークションには珍しい品物が　",
-  "en": ""
+  "en": "I hear some rare items are up for auction"
  },
  {
   "id": "7C1A4C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "富豪",
   "jp": "出品されるらしいな…",
-  "en": ""
+  "en": "today..."
  },
  {
   "id": "7C1A4C.6",
@@ -28,6 +28,6 @@
   "box": 2,
   "speaker": "富豪",
   "jp": "楽しみだ…　",
-  "en": ""
+  "en": "I can't wait..."
  }
 ]

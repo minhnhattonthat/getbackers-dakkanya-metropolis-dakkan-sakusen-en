@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…銀次、最初の部屋は覚えてるか？",
-  "en": ""
+  "en": "...Ginji, you remember the first room?"
  },
  {
   "id": "7A31C0.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "え、えーと…覚えてません………　",
-  "en": ""
+  "en": "Uh, um... I don't remember......"
  },
  {
   "id": "7A31C0.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "フフ、銀次さんらしいですね　",
-  "en": ""
+  "en": "Heh, that's just like you, Ginji-san."
  },
  {
   "id": "7A31C0.13",
@@ -57,7 +57,7 @@
   "box": 4,
   "speaker": "士度",
   "jp": "確かにな",
-  "en": ""
+  "en": "Sure is."
  },
  {
   "id": "7A31C0.17",
@@ -72,6 +72,6 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "（…笑い事じゃねえ！）　",
-  "en": ""
+  "en": "(...This is no laughing matter!)"
  }
 ]

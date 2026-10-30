@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "夢は見れたかよ？",
-  "en": ""
+  "en": "Enjoy the dream?"
  },
  {
   "id": "7AE26C.6",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "ＭＡＩ　",
   "jp": "！！",
-  "en": ""
+  "en": "!!"
  },
  {
   "id": "7AE26C.10",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "今のがアンタの本心だったハズだ　",
-  "en": ""
+  "en": "That's what you really feel. Not MAI -- Mai"
  },
  {
   "id": "7AE26C.13",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ＭＡＩじゃなく、坂本茉衣のな",
-  "en": ""
+  "en": "Sakamoto."
  },
  {
   "id": "7AE26C.15",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "ＭＡＩ　",
   "jp": "…たとえそれが本心だったとしても、　",
-  "en": ""
+  "en": "...Even if that's how I really feel, right now"
  },
  {
   "id": "7AE26C.18",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "ＭＡＩ　",
   "jp": "今の私はここにいるしかないのよ！",
-  "en": ""
+  "en": "I have no choice but to stay here!"
  },
  {
   "id": "7AE26C.20",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "ＭＡＩ　",
   "jp": "私の作った歌は誰にも",
-  "en": ""
+  "en": "Nobody ever accepted the songs I wrote..."
  },
  {
   "id": "7AE26C.21",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "ＭＡＩ　",
   "jp": "認められなかったわ…だから…",
-  "en": ""
+  "en": "So..."
  },
  {
   "id": "7AE26C.23",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "だからって自分が好きでもねえ曲を有名",
-  "en": ""
+  "en": "So you'll sing songs you don't like just"
  },
  {
   "id": "7AE26C.26",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "な先生が作ったからって歌うってのか？",
-  "en": ""
+  "en": "'cause a famous composer wrote 'em?"
  },
  {
   "id": "7AE26C.28",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "なンか違うんじゃねえか、ソレ？　",
-  "en": ""
+  "en": "Doesn't that seem kinda off to you?"
  },
  {
   "id": "7AE26C.30",
@@ -135,6 +135,6 @@
   "box": 8,
   "speaker": "ＭＡＩ　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  }
 ]

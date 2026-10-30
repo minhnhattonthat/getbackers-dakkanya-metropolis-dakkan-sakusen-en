@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "女子社員",
   "jp": "あら…迷子になっちゃったの、ボク？　",
-  "en": ""
+  "en": "Oh my... did you get lost, little boy?"
  },
  {
   "id": "7B1934.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "えっと、パスを探してるんですけど…　",
-  "en": ""
+  "en": "Um, I'm looking for a pass..."
  },
  {
   "id": "7B1934.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "女子社員",
   "jp": "ボーヤみたいな子に　",
-  "en": ""
+  "en": "A little boy like you doesn't need a pass,"
  },
  {
   "id": "7B1934.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "女子社員",
   "jp": "パスは必要ないでしょ？　",
-  "en": ""
+  "en": "does he?"
  },
  {
   "id": "7B1934.14",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "女子社員",
   "jp": "十年経ってからいらっしゃいね♥　",
-  "en": ""
+  "en": "Come back in ten years♥"
  },
  {
   "id": "7B1934.16",
@@ -73,6 +73,6 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "…蛮ちゃん、失敗です………　",
-  "en": ""
+  "en": "...Ban-chan, I failed........."
  }
 ]

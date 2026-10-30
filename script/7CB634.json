@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ジェンド",
   "jp": "よくぞここまで　",
-  "en": ""
+  "en": "So you have crawled all the way up here."
  },
  {
   "id": "7CB634.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "ジェンド",
   "jp": "這い上がってきたものだな",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CB634.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "まったくだぜ",
-  "en": ""
+  "en": "You said it."
  },
  {
   "id": "7CB634.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ったく、メンドくせー真似させやがって",
-  "en": ""
+  "en": "Putting us through all this damn trouble..."
  },
  {
   "id": "7CB634.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "…テメーはただじゃあ済まさねえ！！　",
-  "en": ""
+  "en": "You're not getting off easy!!"
  },
  {
   "id": "7CB634.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ジェンドさん、　",
-  "en": ""
+  "en": "Jend-san, wake up already!"
  },
  {
   "id": "7CB634.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "いい加減に目を覚ましてよ！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CB634.18",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "アルくんも心配してたよ！",
-  "en": ""
+  "en": "Al-kun was worried about you too!"
  },
  {
   "id": "7CB634.20",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "ジェンド",
   "jp": "アル…？",
-  "en": ""
+  "en": "Al...? So that traitor still lives."
  },
  {
   "id": "7CB634.23",
@@ -105,7 +105,7 @@
   "box": 6,
   "speaker": "ジェンド",
   "jp": "まだ生きていたのか、あの裏切り者が　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CB634.25",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "！！　そんな言い方はヤメろ！",
-  "en": ""
+  "en": "!! Don't talk about him like that!"
  },
  {
   "id": "7CB634.29",
@@ -128,7 +128,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "アルくんは命を投げ出してまで",
-  "en": ""
+  "en": "Al-kun was ready to throw his life away"
  },
  {
   "id": "7CB634.30",
@@ -136,7 +136,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "アンタの正気を奪り還そうとしたんだ！",
-  "en": ""
+  "en": "to take back your sanity!"
  },
  {
   "id": "7CB634.32",
@@ -151,7 +151,7 @@
   "box": 9,
   "speaker": "ジェンド",
   "jp": "正気を奪り還すだと？",
-  "en": ""
+  "en": "Take back my sanity, you say? I am"
  },
  {
   "id": "7CB634.35",
@@ -159,7 +159,7 @@
   "box": 9,
   "speaker": "ジェンド",
   "jp": "余はいたって冷静だ　",
-  "en": ""
+  "en": "perfectly calm."
  },
  {
   "id": "7CB634.37",
@@ -167,7 +167,7 @@
   "box": 10,
   "speaker": "ジェンド",
   "jp": "まず手始めにこの新宿をいただき、",
-  "en": ""
+  "en": "First I shall take this Shinjuku, and in time,"
  },
  {
   "id": "7CB634.38",
@@ -175,7 +175,7 @@
   "box": 10,
   "speaker": "ジェンド",
   "jp": "いずれ日本そのものを乗っ取るつもりだ",
-  "en": ""
+  "en": "seize Japan itself."
  },
  {
   "id": "7CB634.40",
@@ -190,7 +190,7 @@
   "box": 11,
   "speaker": "蛮　",
   "jp": "どうやらアンタ、",
-  "en": ""
+  "en": "Looks like you've gone rotten right down"
  },
  {
   "id": "7CB634.43",
@@ -198,7 +198,7 @@
   "box": 11,
   "speaker": "蛮　",
   "jp": "その性根まで狂っちまったみてえだな？",
-  "en": ""
+  "en": "to the core, huh?"
  },
  {
   "id": "7CB634.45",
@@ -206,7 +206,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "自分にとってなにが本当に大切なのか…",
-  "en": ""
+  "en": "You can't even tell what really matters to"
  },
  {
   "id": "7CB634.46",
@@ -214,7 +214,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "それが分からないときてやがる",
-  "en": ""
+  "en": "you."
  },
  {
   "id": "7CB634.48",
@@ -222,7 +222,7 @@
   "box": 13,
   "speaker": "蛮　",
   "jp": "王失格だな　",
-  "en": ""
+  "en": "You're a failure as a king."
  },
  {
   "id": "7CB634.50",
@@ -237,7 +237,7 @@
   "box": 14,
   "speaker": "ジェンド",
   "jp": "…貴様らになにが分かるというのだ？　",
-  "en": ""
+  "en": "...What could the likes of you understand?"
  },
  {
   "id": "7CB634.54",
@@ -245,7 +245,7 @@
   "box": 15,
   "speaker": "ジェンド",
   "jp": "国もないままさすらう我らの気持ちが　",
-  "en": ""
+  "en": "How could you understand how we feel,"
  },
  {
   "id": "7CB634.55",
@@ -253,7 +253,7 @@
   "box": 15,
   "speaker": "ジェンド",
   "jp": "分かってたまるものか！　",
-  "en": ""
+  "en": "wandering with no country?!"
  },
  {
   "id": "7CB634.57",
@@ -268,7 +268,7 @@
   "box": 16,
   "speaker": "蛮　",
   "jp": "分かりたくねえよ、ンなモン　",
-  "en": ""
+  "en": "I don't wanna understand crap like that..."
  },
  {
   "id": "7CB634.60",
@@ -276,7 +276,7 @@
   "box": 16,
   "speaker": "蛮　",
   "jp": "…けどな、これだけは俺にも分かるぜ　",
-  "en": ""
+  "en": "But there's one thing even I know."
  },
  {
   "id": "7CB634.62",
@@ -284,7 +284,7 @@
   "box": 17,
   "speaker": "蛮　",
   "jp": "たとえ新宿を乗っ取ったとしても、",
-  "en": ""
+  "en": "Even if you take over Shinjuku, you people"
  },
  {
   "id": "7CB634.63",
@@ -292,7 +292,7 @@
   "box": 17,
   "speaker": "蛮　",
   "jp": "お前らは幸せになんかなれねえ…　",
-  "en": ""
+  "en": "will never be happy..."
  },
  {
   "id": "7CB634.65",
@@ -300,7 +300,7 @@
   "box": 18,
   "speaker": "蛮　",
   "jp": "ここはお前らの国じゃねえんだよ！！　",
-  "en": ""
+  "en": "This isn't your country!!"
  },
  {
   "id": "7CB634.67",
@@ -315,7 +315,7 @@
   "box": 19,
   "speaker": "ジェンド",
   "jp": "黙れ！　貴様らを倒し、この土地を",
-  "en": ""
+  "en": "Silence! I shall defeat you and make this"
  },
  {
   "id": "7CB634.70",
@@ -323,7 +323,7 @@
   "box": 19,
   "speaker": "ジェンド",
   "jp": "我が一族のものに変えてみせる！　",
-  "en": ""
+  "en": "land our clan's own!"
  },
  {
   "id": "7CB634.72",
@@ -331,6 +331,6 @@
   "box": 20,
   "speaker": "ジェンド",
   "jp": "それが王としての務めだ！！　",
-  "en": ""
+  "en": "That is my duty as king!!"
  }
 ]

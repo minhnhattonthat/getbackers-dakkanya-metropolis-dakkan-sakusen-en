@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "悪夢は見れたかよ？　",
-  "en": ""
+  "en": "Enjoy the nightmare?"
  },
  {
   "id": "7A11D4.6",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "じゃ、邪眼！？　あの一瞬で？",
-  "en": ""
+  "en": "Th-the Evil Eye?! In that split second?"
  },
  {
   "id": "7A11D4.10",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "悪いけど、　",
-  "en": ""
+  "en": "Sorry, but we've taken back the costume!!"
  },
  {
   "id": "7A11D4.13",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "衣装は奪り還させてもらったよ！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7A11D4.15",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "ついでに全タイヤを　",
-  "en": ""
+  "en": "And while I was at it, I popped all your"
  },
  {
   "id": "7A11D4.18",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "パンクさせといてやったぜ",
-  "en": ""
+  "en": "tires."
  },
  {
   "id": "7A11D4.20",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "これでいくらミスターノーブレーキでも",
-  "en": ""
+  "en": "Now even Mr. No-Brake can't do a damn"
  },
  {
   "id": "7A11D4.21",
@@ -89,14 +89,14 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "手も足も出ねえだろ？",
-  "en": ""
+  "en": "thing, right?"
  },
  {
   "id": "7A11D4.23",
   "kind": "name",
   "box": 5,
   "jp": "馬車",
-  "en": "Carriage"
+  "en": "Driver"
  },
  {
   "id": "7A11D4.25",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "馬車",
   "jp": "ぐうッ…",
-  "en": ""
+  "en": "Grrgh..."
  },
  {
   "id": "7A11D4.27",
@@ -119,7 +119,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "じゃあな、三人でのんびりと　",
-  "en": ""
+  "en": "See ya. You three enjoy a nice, leisurely"
  },
  {
   "id": "7A11D4.30",
@@ -127,6 +127,6 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "ドライブでも楽しんでくれや！",
-  "en": ""
+  "en": "drive!"
  }
 ]

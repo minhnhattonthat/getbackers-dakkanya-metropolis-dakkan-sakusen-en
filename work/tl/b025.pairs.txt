@@ -1,0 +1,376 @@
+>> 7C875C.3 | [笑師] アタタ… / 今のでドジってもうたな
+   Ow ow ow... Screwed up there, didn't I.
+>> 7C875C.8 | [十兵衛] ケガをしたのか？ / 見せてみろ
+   Are you hurt? Let me see.
+>> 7C875C.13 | [笑師] 十兵衛はん…アンタ、エエ人やな
+   Juubei-han... You're a real good guy, ya know.
+>> 7C875C.15 | [笑師] どや、ワイとお笑いコンビ組まへんか？
+   How 'bout it? Wanna form a comedy duo with me?
+>> 7C875C.19 | [十兵衛] いや、お前とは組まん！
+   No. I will not team up with you!
+>> 7C875C.23 | [笑師] 即答かいな！！
+   Didn't even think about it, huh?!!
+>> 7C88E8.3 | [花月] これでこの辺りの電力は安定したはず… / さあ、１階へ戻ろうか
+   That should stabilize the power around here... Now, let's go back to 1F.
+>> 7C88E8.8 | [笑師] 案外早かったなあ～ / ワイら、一番乗りちゃう？
+   That was quicker'n I thought~ Bet we're the first ones back, eh?
+>> 7C88E8.13 | [花月] そうかも知れないね
+   Could be.
+>> 7C88E8.17 | [笑師] ええチームやっちゅうことやな！ / どや、三人でトリオ組まへん？
+   Means we're a great team! How 'bout it, the three of us form a trio?
+>> 7C88E8.22 | [花月] ………
+   ...
+>> 7C88E8.26 | [十兵衛] ………
+   ...
+>> 7C88E8.30 | [笑師] なんかしゃべって～な！！
+   C'mon, say somethin'!!
+>> 7C8AE0.3 | [卑弥呼] さ、これであとは / スイッチさえ入れれば終了ってとこね
+   There. Now all that's left is to flip the switch and we're done.
+>> 7C8B54.3 | [蛮] 卑弥呼！！
+   Himiko!!
+>> 7C8B98.3 | [蛮] ったく、心配かけさせやがって
+   Geez, making me worry like that.
+>> 7C8B98.7 | [卑弥呼] なによ、あたしは別に助けてなんて…
+   What? It's not like I needed you to save me or anything...
+>> 7C8B98.11 | [蛮] そうか？　お前の目は助けてくれって / 言ってたけどな
+   Yeah? Your eyes were sure saying 'help me.'
+>> 7C8B98.16 | [卑弥呼] 言ってないってば！！
+   No, they weren't!!
+>> 7C8B98.20 | [蛮] ………
+   ...
+>> 7C8B98.22 | [蛮] ま、お前は弱いんだから / ムリすんじゃねーよ
+   Well, you're weak, so don't push yourself.
+>> 7C8B98.25 | [蛮] なんかあった時は / 無敵の美堂蛮様が助けてやるしな
+   If anything happens, the invincible Ban Mido-sama will come save you.
+>> 7C8B98.30 | [卑弥呼] ………
+   ...
+>> 7C8B98.32 | [卑弥呼] ………バカ！
+   ......Idiot!
+>> 7C8DBC.3 | [士度] これで電力が安定するだろう
+   That should stabilize the power.
+>> 7C8DBC.7 | [蛮] よっしゃ！　１階に戻るぞ！！
+   All right! Back to 1F!!
+>> 7C8E50.3 | [銀次] はっ、またしても停電に…
+   Wha-, another blackout...
+>> 7C8E50.5 | [銀次] これじゃ電力室に入れないよ～…
+   Now we can't get into the power room~...
+>> 7C8E50.9 | [鏡] またすぐに点くから大丈夫だよ
+   It'll come back on soon, so don't worry.
+>> 7C8E50.11 | [鏡] ところで天野銀次クン？
+   By the way, Ginji Amano-kun?
+>> 7C8E50.15 | [銀次] ハ、ハイ…なんでしょう？
+   Y-yes... What is it?
+>> 7C8E50.19 | [鏡] キミ、こうして電気が消えてる時と / 点いてる時で攻撃力に差が出るのかな？
+   Is your attack power different with the lights out like this than with them on?
+>> 7C8E50.22 | [鏡] つまり通電してる時としてない時で
+   In other words, between when the current's flowing and when it isn't.
+>> 7C8E50.26 | [銀次] ………わ、分かりません
+   ......I-I don't know.
+>> 7C8E50.30 | [鏡] 試してみたいんだけどな？
+   I'd love to test it, though?
+>> 7C8E50.34 | [赤屍] そういうことでしたら、是非私も…
+   In that case, I would very much like to join in as well...
+>> 7C8E50.38 | [銀次] …………………………………………
+   ...............
+>> 7C8E50.40 | [銀次] ……………………………………………
+   ..................
+>> 7C8E50.42 | [銀次] ………………………………………………
+   .....................
+>> 7C8E50.46 | [鏡] クス…冗談だよ
+   Heh... Just kidding.
+>> 7C8E50.50 | [銀次] （それにしては… / すごい殺気がありましたが！？）
+   (Then why... was there so much killing intent?!)
+>> 7C91E8.3 | [銀次] わーい、電力回復～！！
+   Yaaay, the power's back~!!
+>> 7C91E8.5 | [銀次] じゃ、１階に戻ろう！！
+   Okay, back to 1F!!
+>> 7C925C.3 | [蛮] よし、揃ったな…
+   Right, everyone's here...
+>> 7C925C.5 | [蛮] 行くぜ、最上階に！！
+   Let's go! To the top floor!!
+>> 7C92C4.3 | [銀次] ねえねえ蛮ちゃん、 / 押せる階が限られてるみたいだよ、これ
+   Hey hey, Ban-chan, looks like you can only press certain floors on this thing.
+>> 7C92C4.6 | [銀次] 上は９５階が限界みたい
+   Looks like 95 is as high as it goes.
+>> 7C92C4.10 | [蛮] ま、１階から階段で行くよりはマシか…
+   Well, beats taking the stairs up from 1F...
+>> 7C93A4.3 | [蛮] 開かねえな…
+   Won't open...
+>> 7C93E8.3 | [花月] 開かないね…
+   It won't open...
+>> 7C942C.3 | [銀次] あ～、開かないや…
+   Aww, it won't open...
+>> 7C9478.2 | 非常階段のロックを解除した
+   Unlocked the emergency stairs.
+>> 7C94C0.2 | 休息場所がある…
+   There's a place to rest...
+>> 7C94C0.5 | 体力が回復した！！
+   HP restored!!
+>> 7C9528.4 | 階数を選択して下さい
+   Please select a floor.
+>> 7C9578.4 | 階数を選択して下さい
+   Please select a floor.
+>> 7C95C8.4 | 階数を選択して下さい
+   Please select a floor.
+>> 7C9618.4 | 階数を選択して下さい
+   Please select a floor.
+>> 7C9668.3 | [鏡] …ちょっとがっかりしたよ
+   ...I'm a little disappointed.
+>> 7C9668.7 | [蛮] クソッ…テメー、 / 一体なに企んでやがる？
+   Damn it... What the hell are you plotting?
+>> 7C9668.13 | [鏡] 言ったろ？　観察だって…
+   Didn't I tell you? Observation...
+>> 7C9668.17 | [蛮] ………
+   ...
+>> 7C9668.21 | [鏡] でも、それだけでもないよ？
+   But that's not all of it, you know?
+>> 7C9668.23 | [鏡] オレを仲間にしないと / あの王様に勝つことはできない…
+   Unless I join you, you'll never beat that king...
+>> 7C9668.28 | [蛮] …なんだと？
+   ...What?
+>> 7C982C.3 | [夏実] いらっしゃ… / きゃっ！　銀次さん、アルくん！？
+   Welco... Eek! Ginji-san, Al-kun?!
+>> 7C982C.6 | [夏実] どうしたんですか…一体！？
+   What on earth happened to you?!
+>> 7C982C.10 | [銀次] …はは…ちょっと…コンセント借りるよ
+   ...Haha... Just... lemme borrow an outlet.
+>> 7C9904.3 | [銀次] お…おおおおおッ！　復ッ活～！！
+   Oh... Ohhhhh! I'm baaack~!!
+>> 7C9904.7 | [蛮] …たく、相変わらず / デタラメな体してンな、オメーは
+   ...Geez. Your body's as ridiculous as ever.
+>> 7C9904.12 | [アル] うっ…うう………
+   Ugh... Uhh......
+>> 7C9904.16 | [銀次] アルくん、大丈夫！？
+   Al-kun, are you okay?!
+>> 7C9904.18 | [銀次] …あっ、そうだ！ / これ、奪り還してきたんだよ！！
+   ...Oh, right! Look, we took this back!!
+>> 7C9A64.3 | [アル] そ、それは…
+   Th-that is...
+>> 7C9A64.5 | [アル] 銀さん、それ…光にかざしてみて下さい
+   Gin-san, that... please hold it up to the light.
+>> 7C9A64.9 | [銀次] これを？
+   This?
+>> 7C9A64.11 | [銀次] …わっ！　球の中に街が見える…！！
+   ...Whoa! I can see a city inside the ball...!!
+>> 7C9A64.16 | [蛮] …これがお前たちの街だったってワケか / 高度な文明が栄えてたらしいな
+   ...So this was your city, huh. Looks like an advanced civilization flourished there.
+>> 7C9A64.21 | [アル] ボクたちの祖先、人形をあやつって / たかい塔、いっぱい作ってた…
+   Our ancestors, they control dolls... and build many tall towers...
+>> 7C9A64.26 | [銀次] 確かにこれだったら / 新宿の高層ビルに見えなくもないね
+   Yeah, with this, it kinda does look like Shinjuku's skyscrapers.
+>> 7C9A64.31 | [アル] それでジェンド様はこの街を見たとたん / おかしくなってしまって…
+   And the moment Jend-sama saw this city, he became strange...
+>> 7C9A64.36 | [蛮] で、お前はそれを止めようと / 暗躍してたってワケか
+   And you've been working behind the scenes to stop him, huh?
+>> 7C9A64.39 | [蛮] ＤＶＤロム奪還も財宝奪還も / お前が仕組んだことだ…そうだろ？
+   Retrieving the DVD-ROM, retrieving the treasure... You set both up, didn't you?
+>> 7C9A64.44 | [アル] …ゴメンなさい、 / ボク…アナタたちのこと利用してた
+   ...I am sorry. I... I was using you.
+>> 7C9A64.47 | [アル] アナタたちならジェンド様を止められる / …そう思ったんです
+   I thought you could stop Jend-sama... That is what I thought.
+>> 7C9A64.52 | [蛮] それにはまず属性の力を / 全て集める必要があった…
+   And for that, first you needed to gather the power of every element...
+>> 7C9A64.55 | [蛮] 九つの属性が全て揃わねえと / アイツを倒せねーんだったよな？
+   We can't beat that guy unless all nine elements are together, right?
+>> 7C9A64.60 | [アル] そうです…ジェンド様は / 全ての属性のバリア持ってる…
+   Yes... Jend-sama has barriers of all elements...
+>> 7C9A64.63 | [アル] まずはそれを壊さなくてはなりません
+   First, those must be broken.
+>> 7C9A64.65 | [アル] 今は九つ全部そろいましたから / バリアを破ることできるはずです…
+   Now all nine are gathered, so you should be able to break the barriers...
+>> 7C9A64.70 | [蛮] そして、最後にお前は俺たちの力を / 試すために自ら戦ったんだな？
+   And at the end, you fought us yourself to test our strength, didn't you?
+>> 7C9A64.73 | [蛮] 自分に負けるようでは / あの王様に勝つことはできない…てな
+   'If they lose to me, they can't beat that king'... Something like that.
+>> 7C9A64.78 | [銀次] そうだったんだ…
+   So that's what it was...
+>> 7C9A64.82 | [アル] …おねがいです、ジェンド様のこころ… / 奪り還してください！
+   ...Please, Jend-sama's heart... take it back!
+>> 7C9A64.85 | [アル] ジェンド様はただつかれて / きずついてるだけなんです…
+   Jend-sama is only tired... and hurt...
+>> 7C9A64.88 | [アル] おねがいです…！
+   Please...!
+>> 7C9A64.92 | [蛮] それにはまず依頼料をもらわねえとな / 今までの分も含めて…だ
+   For that, I'll need my fee first. Including everything up to now.
+>> 7C9A64.97 | [アル] …ＤＶＤロムの中に『︀失われた大陸』︀の / 位置が記されてるはずです
+   ...In the DVD-ROM, the location of the 'Lost Continent' should be written.
+>> 7C9A64.100 | [アル] そこにたくさんの財宝ねむってる…
+   Much treasure is sleeping there...
+>> 7C9A64.102 | [アル] おねがいです… / それでジェンド様を…ジェンド様を…
+   Please... With that, Jend-sama... Jend-sama...
+>> 7C9A64.107 | [銀次] 大丈夫だよ、アルくん / ね、蛮ちゃん
+   It's okay, Al-kun. Right, Ban-chan?
+>> 7C9A64.112 | [蛮] ヘヴン、ＤＶＤロム持ってるか？
+   Hevn, you got the DVD-ROM?
+>> 7C9A64.116 | [ヘヴン] …持ってるわよ、はい
+   ...I've got it. Here.
+>> 7C9A64.121 | [蛮] ゲットバッカーズ！ / この依頼、確かに引き受けた！！
+   GetBackers! This job... consider it done!!
+>> 7C9A64.126 | [銀次] 待っててね、アルくん！
+   Wait for us, Al-kun!
+>> 7C9A64.128 | [銀次] あの王様の本当の心、 / オレたちが必ず奪り還すから！
+   We'll take back that king's true heart, for sure!
+>> 7CA3F8.3 | [蛮] …波児、アルのこと頼むぜ
+   ...Paul, take care of Al.
+>> 7CA3F8.7 | [波児] ああ、こっちのことは任せとけ
+   Yeah, leave things here to me.
+>> 7CA3F8.11 | [銀次] じゃあ、行ってくるね！！
+   Well, we're off!!
+>> 7CA3F8.15 | [夏実] …はい、気をつけて下さいね！
+   ...Okay, please be careful!
+>> 7CA3F8.19 | [ヘヴン] あんたたち、私にまだ貸しがあるん / だから、ちゃんと帰ってきなさいよ！
+   You two still owe me, so you'd better come back, you hear?!
+>> 7CA3F8.24 | [蛮] 分かってるって、じゃあな！
+   Yeah, yeah, I know. See ya!
+>> 7CA5B4.3 | [笑師] なんや、 / 二人とも表情が固うなっとりまっせ！
+   Whoa there, you two look all stiff!
+>> 7CA5B4.6 | [笑師] こういう時こそ笑わなアカンて！
+   Times like this, ya gotta laugh!
+>> 7CA5B4.10 | [蛮] …テメーがいると / 緊張感が一気に失せるな
+   ...With you around, all the tension drains right outta the room.
+>> 7CA5B4.15 | [銀次] 士度、笑師… / オレたちと一緒に行ってくれるの？
+   Shido, Emishi... You're coming with us?
+>> 7CA5B4.20 | [士度] ああ、新宿をこのままにしとくワケにも / いかねーからな
+   Yeah. Can't just leave Shinjuku like this.
+>> 7CA748.3 | [花月] 銀次さん、僕たちも行きますよ
+   Ginji-san, we're coming too.
+>> 7CA748.5 | [花月] 今回の事件、 / その行く末が少々気になりますからね
+   I'm rather curious to see how this incident will turn out.
+>> 7CA748.10 | [十兵衛] これはＭＡＫＵＢＥＸの命でもある / 助太刀致そう
+   This is also MakubeX's order. We shall lend you our aid.
+>> 7CA748.15 | [銀次] カヅっちゃん、十兵衛…
+   Kazu-chan, Juubei...
+>> 7CA870.3 | [卑弥呼] ちょっと、あたしたちを / 置いてく気じゃないでしょうね？
+   Hey, you're not planning to leave us behind, are you?
+>> 7CA870.6 | [卑弥呼] ここまで巻き込んでおきながら、 / それはないんじゃない？
+   After dragging us in this far, that'd be pretty low, don't you think?
+>> 7CA870.11 | [蛮] …卑弥呼！
+   ...Himiko!
+>> 7CA870.15 | [銀次] あ、赤屍さんも一緒に / 行ってくれるんですか？
+   Ah, A-Akabane-san, you're coming with us too?
+>> 7CA870.20 | [赤屍] ええ…楽しい仕事になりそうですからね
+   Yes... This looks to be an enjoyable job.
+>> 7CA870.22 | [赤屍] そうですよね、銀次クン？
+   Is it not, Ginji-kun?
+>> 7CA870.26 | [銀次] そ、そうですね…ハハハ………
+   Y-yeah, it sure is... Hahaha......
+>> 7CAA5C.3 | [鏡] 勢ぞろいしたみたいだね…
+   Looks like everyone's here...
+>> 7CAA5C.5 | [鏡] さあ、行くんだろう？
+   Well? We're going, aren't we?
+>> 7CAA5C.9 | [蛮] もちろんだ！ / 気合入れてけよ、オメーら！！
+   Damn right! Get fired up, you guys!!
+>> 7CAB1C.3 | [アル] …ううっ………
+   ...Ugh......
+>> 7CAB1C.7 | [ヘヴン] ダメよ、動こうとしちゃ… / どうしたの？
+   No, don't try to move... What is it?
+>> 7CAB1C.12 | [アル] ＭＡＩさんのうた… / ジェンド様に聞かせたいです
+   MAI-san's song... I want Jend-sama to hear it.
+>> 7CAB1C.15 | [アル] あれ聞いたら…ジェンド様も…
+   If he hears that... Jend-sama too...
+>> 7CAB1C.19 | [ヘヴン] 分かったわ、そういうことが / できそうな人に心当たりがあるから…
+   Got it. I know someone who might be able to pull that off...
+>> 7CAB1C.22 | [ヘヴン] 任せておいて♥
+   Leave it to me♥
+>> 7CAB1C.26 | [波児] ヘヴンちゃん、ＭＡＫＵＢＥＸの / ところに行くつもりかい？
+   Hevn-chan, you planning to go see MakubeX?
+>> 7CAB1C.31 | [夏実] 無限城へ？ / ヘヴンさん、外は敵がいっぱいです！
+   To the Infinity Fortress? Hevn-san, there are enemies all over out there!
+>> 7CAB1C.34 | [夏実] 危険ですよ！！
+   It's dangerous!!
+>> 7CAB1C.38 | [ヘヴン] 大丈夫よ、私もプロの仲介屋なんだから / なんとかしてみせるわ…じゃあね♥
+   Don't worry, I'm a pro broker too. I'll manage somehow... Bye now♥
+>> 7CADF8.3 | [夏実] ヘヴンさん…
+   Hevn-san...
+>> 7CAE3C.3 | [蛭田] ここはボクの街だぞ！
+   This is MY town!
+>> 7CAE3C.5 | [蛭田] あんな人形みたいなのに / デカい顔されてたまるか！！
+   I won't let those doll-looking things act like they own the place!!
+>> 7CAE3C.10 | [使用人] ぼっちゃん、危険です！ / お屋敷にお戻り下さい！！
+   Young master, it's dangerous! Please return to the mansion!!
+>> 7CAE3C.15 | [蛭田] うるさいな！
+   Shut up!
+>> 7CAE3C.17 | [蛭田] そんなこと言ってるヒマがあったら、 / お前たちもボクと一緒に戦え！！
+   If you've got time to say stuff like that, then fight alongside me!!
+>> 7CAFA8.3 | [Ｃメンバー] リーダー！ / どこもあの変なヤツらでいっぱいです！
+   Leader! Those weird guys are everywhere!
+>> 7CAFA8.8 | [西園寺] …全員集合しているな？ / 総力をあげてぶつかるぞ！！
+   ...Is everyone assembled? We strike with everything we've got!!
+>> 7CAFA8.11 | [西園寺] （花月…銀次さん… / 私はここでがんばります
+   (Kazuki... Ginji-san... I will do my best here.
+>> 7CAFA8.14 | [西園寺] あなたたちも / どうか気をつけて下さい…！）
+   Please, both of you, take care as well...!)
+>> 7CB0EC.3 | [ツルコ] みなさん、落ち着いて！ / まだたくさんの人が入れますから！！
+   Everyone, please stay calm! There's still plenty of room inside!!
+>> 7CB0EC.6 | [ツルコ] （…あの子たち、 / 今ごろどこかで戦っているのかしら？
+   (...I wonder if those kids are fighting somewhere right about now?
+>> 7CB0EC.9 | [ツルコ] もしそうだとしたら、きっと大丈夫ね
+   If they are, I'm sure it'll be fine.
+>> 7CB0EC.11 | [ツルコ] あの子たちなら、なんとか / してくれるような気がするから…）
+   Somehow I have a feeling those kids will pull it off...)
+>> 7CB224.3 | [マドカ] …士度さん、ゲットバッカーズの / みなさん…どうか無事で…
+   ...Shido-san, everyone of the GetBackers... please be safe...
+>> 7CB29C.3 | [クレイマン] さすらいの民が / 安住の地を手に入れるのか、
+   Will the Wandering People win a land to settle,
+>> 7CB29C.6 | [クレイマン] それともゲットバッカーズが / 奪り還すのか…
+   or will the GetBackers take it back...
+>> 7CB29C.9 | [クレイマン] どっちになるんだろうね？
+   Which way will it go, I wonder?
+>> 7CB36C.3 | [ヘヴン] さすが、ミスターノーブレーキね！ / 予想到着時刻よりも２０分も早いわ！！
+   That's Mr. No-Brake for you! 20 minutes ahead of the estimated arrival time!!
+>> 7CB36C.8 | [馬車] ワシにできるのはここまでだきに、 / 後のことは頼むぜよ！
+   This here's as far as I can take ya, so I'm countin' on ya for the rest!
+>> 7CB36C.13 | [ヘヴン] ありがとう！ / さ、ＭＡＩさん、急ぎましょう！！
+   Thank you! Now, MAI-san, let's hurry!!
+>> 7CB36C.18 | [ＭＡＩ] はい！！
+   Yes!!
+>> 7CB4D0.3 | [夏実] アルくん、そんな体で…ムチャだよ！ / 戻ってきて！！
+   Al-kun, in that condition... That's crazy! Come back!!
+>> 7CB4D0.8 | [波児] 夏実ちゃん、アルは決着をつけるために / 行ったんだ
+   Natsumi-chan, Al went to settle things.
+>> 7CB4D0.11 | [波児] 黙って見送ってやろう
+   Let's just see him off quietly.
+>> 7CB4D0.15 | [夏実] でも…でも………
+   But... but......
+>> 7CB4D0.17 | [夏実] （蛮さん、銀次さん、アルくん… / みんな無事で戻ってきて！）
+   (Ban-san, Ginji-san, Al-kun... Everyone, please come back safe!)
+>> 7CB634.3 | [ジェンド] よくぞここまで / 這い上がってきたものだな
+   So you have crawled all the way up here.
+>> 7CB634.8 | [蛮] まったくだぜ
+   You said it.
+>> 7CB634.10 | [蛮] ったく、メンドくせー真似させやがって / …テメーはただじゃあ済まさねえ！！
+   Putting us through all this damn trouble... You're not getting off easy!!
+>> 7CB634.15 | [銀次] ジェンドさん、 / いい加減に目を覚ましてよ！
+   Jend-san, wake up already!
+>> 7CB634.18 | [銀次] アルくんも心配してたよ！
+   Al-kun was worried about you too!
+>> 7CB634.22 | [ジェンド] アル…？ / まだ生きていたのか、あの裏切り者が
+   Al...? So that traitor still lives.
+>> 7CB634.27 | [銀次] ！！　そんな言い方はヤメろ！
+   !! Don't talk about him like that!
+>> 7CB634.29 | [銀次] アルくんは命を投げ出してまで / アンタの正気を奪り還そうとしたんだ！
+   Al-kun was ready to throw his life away to take back your sanity!
+>> 7CB634.34 | [ジェンド] 正気を奪り還すだと？ / 余はいたって冷静だ
+   Take back my sanity, you say? I am perfectly calm.
+>> 7CB634.37 | [ジェンド] まず手始めにこの新宿をいただき、 / いずれ日本そのものを乗っ取るつもりだ
+   First I shall take this Shinjuku, and in time, seize Japan itself.
+>> 7CB634.42 | [蛮] どうやらアンタ、 / その性根まで狂っちまったみてえだな？
+   Looks like you've gone rotten right down to the core, huh?
+>> 7CB634.45 | [蛮] 自分にとってなにが本当に大切なのか… / それが分からないときてやがる
+   You can't even tell what really matters to you.
+>> 7CB634.48 | [蛮] 王失格だな
+   You're a failure as a king.
+>> 7CB634.52 | [ジェンド] …貴様らになにが分かるというのだ？
+   ...What could the likes of you understand?
+>> 7CB634.54 | [ジェンド] 国もないままさすらう我らの気持ちが / 分かってたまるものか！
+   How could you understand how we feel, wandering with no country?!
+>> 7CB634.59 | [蛮] 分かりたくねえよ、ンなモン / …けどな、これだけは俺にも分かるぜ
+   I don't wanna understand crap like that... But there's one thing even I know.
+>> 7CB634.62 | [蛮] たとえ新宿を乗っ取ったとしても、 / お前らは幸せになんかなれねえ…
+   Even if you take over Shinjuku, you people will never be happy...
+>> 7CB634.65 | [蛮] ここはお前らの国じゃねえんだよ！！
+   This isn't your country!!
+>> 7CB634.69 | [ジェンド] 黙れ！　貴様らを倒し、この土地を / 我が一族のものに変えてみせる！
+   Silence! I shall defeat you and make this land our clan's own!
+>> 7CB634.72 | [ジェンド] それが王としての務めだ！！
+   That is my duty as king!!

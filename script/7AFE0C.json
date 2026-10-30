@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "すみませんが、　",
-  "en": ""
+  "en": "Excuse me, but might I borrow the key?"
  },
  {
   "id": "7AFE0C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "カギを貸していただけませんか？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AFE0C.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "秘書",
   "jp": "カギ？　ああ、キーメモリーのこと？　",
-  "en": ""
+  "en": "A key? Oh, you mean the Key Memory? I"
  },
  {
   "id": "7AFE0C.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "秘書",
   "jp": "持ってるけど…　",
-  "en": ""
+  "en": "have it, but..."
  },
  {
   "id": "7AFE0C.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "秘書",
   "jp": "あなた見ない顔ね、新人のコ？",
-  "en": ""
+  "en": "I haven't seen your face before. Are you\nnew?"
  },
  {
   "id": "7AFE0C.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "花月",
   "jp": "ええ、まあ…",
-  "en": ""
+  "en": "Yes, well..."
  },
  {
   "id": "7AFE0C.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "秘書",
   "jp": "そう、じゃあまだ知らないかも",
-  "en": ""
+  "en": "Oh, then you might not know yet, so I'll fill"
  },
  {
   "id": "7AFE0C.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "秘書",
   "jp": "しれないから教えてあげるわね",
-  "en": ""
+  "en": "you in."
  },
  {
   "id": "7AFE0C.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "秘書",
   "jp": "ウチの会社はキーメモリーを使って",
-  "en": ""
+  "en": "Our company uses Key Memories to open"
  },
  {
   "id": "7AFE0C.23",
@@ -105,7 +105,7 @@
   "box": 6,
   "speaker": "秘書",
   "jp": "それぞれのトビラをあけるのよ",
-  "en": ""
+  "en": "each door."
  },
  {
   "id": "7AFE0C.25",
@@ -113,7 +113,7 @@
   "box": 7,
   "speaker": "秘書",
   "jp": "でも一つのキーメモリーには　",
-  "en": ""
+  "en": "But one Key Memory can only hold one"
  },
  {
   "id": "7AFE0C.26",
@@ -121,7 +121,7 @@
   "box": 7,
   "speaker": "秘書",
   "jp": "一つのパスしか入れられないの",
-  "en": ""
+  "en": "pass."
  },
  {
   "id": "7AFE0C.28",
@@ -136,7 +136,7 @@
   "box": 8,
   "speaker": "花月",
   "jp": "パス…？",
-  "en": ""
+  "en": "A pass...? You mean a PIN?"
  },
  {
   "id": "7AFE0C.31",
@@ -144,7 +144,7 @@
   "box": 8,
   "speaker": "花月",
   "jp": "暗証番号のことですか？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AFE0C.33",
@@ -159,7 +159,7 @@
   "box": 9,
   "speaker": "秘書",
   "jp": "そう、トビラって色が違うでしょ？",
-  "en": ""
+  "en": "Right. The doors are different colors,"
  },
  {
   "id": "7AFE0C.36",
@@ -167,7 +167,7 @@
   "box": 9,
   "speaker": "秘書",
   "jp": "色別に違うパスが必要なのよ　",
-  "en": ""
+  "en": "see? Each color needs a different pass."
  },
  {
   "id": "7AFE0C.38",
@@ -175,7 +175,7 @@
   "box": 10,
   "speaker": "秘書",
   "jp": "黄色いトビラを開くには　",
-  "en": ""
+  "en": "To open the yellow doors, you need"
  },
  {
   "id": "7AFE0C.39",
@@ -183,7 +183,7 @@
   "box": 10,
   "speaker": "秘書",
   "jp": "パスコード１が　",
-  "en": ""
+  "en": "Passcode 1,"
  },
  {
   "id": "7AFE0C.41",
@@ -191,7 +191,7 @@
   "box": 11,
   "speaker": "秘書",
   "jp": "青いトビラを開くには",
-  "en": ""
+  "en": "to open the blue doors, you need"
  },
  {
   "id": "7AFE0C.42",
@@ -199,7 +199,7 @@
   "box": 11,
   "speaker": "秘書",
   "jp": "パスコード２が　",
-  "en": ""
+  "en": "Passcode 2,"
  },
  {
   "id": "7AFE0C.44",
@@ -207,7 +207,7 @@
   "box": 12,
   "speaker": "秘書",
   "jp": "赤いトビラを開くには",
-  "en": ""
+  "en": "and to open the red doors, you need"
  },
  {
   "id": "7AFE0C.45",
@@ -215,7 +215,7 @@
   "box": 12,
   "speaker": "秘書",
   "jp": "パスコード３が必要なのよ",
-  "en": ""
+  "en": "Passcode 3."
  },
  {
   "id": "7AFE0C.47",
@@ -230,7 +230,7 @@
   "box": 13,
   "speaker": "花月",
   "jp": "管理体制が厳しいんですね",
-  "en": ""
+  "en": "Your security is quite strict, I see."
  },
  {
   "id": "7AFE0C.51",
@@ -245,7 +245,7 @@
   "box": 14,
   "speaker": "秘書",
   "jp": "そうね…",
-  "en": ""
+  "en": "I know... I think it's a bit much."
  },
  {
   "id": "7AFE0C.54",
@@ -253,7 +253,7 @@
   "box": 14,
   "speaker": "秘書",
   "jp": "ちょっとやりすぎだと思うけど",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AFE0C.56",
@@ -261,7 +261,7 @@
   "box": 15,
   "speaker": "秘書",
   "jp": "そうそう、キーメモリーに記憶された　",
-  "en": ""
+  "en": "Oh, right -- a pass stored in a Key"
  },
  {
   "id": "7AFE0C.57",
@@ -269,7 +269,7 @@
   "box": 15,
   "speaker": "秘書",
   "jp": "パスは一度使うと消えちゃうわよ　",
-  "en": ""
+  "en": "Memory gets erased once you use it."
  },
  {
   "id": "7AFE0C.59",
@@ -284,7 +284,7 @@
   "box": 16,
   "speaker": "花月",
   "jp": "そのつど記憶させないと　",
-  "en": ""
+  "en": "So it has to be stored again each time?"
  },
  {
   "id": "7AFE0C.62",
@@ -292,7 +292,7 @@
   "box": 16,
   "speaker": "花月",
   "jp": "ダメということですか？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AFE0C.64",
@@ -307,7 +307,7 @@
   "box": 17,
   "speaker": "秘書",
   "jp": "そうなの、別の部屋を開けるには　",
-  "en": ""
+  "en": "That's right. To open another room, you"
  },
  {
   "id": "7AFE0C.67",
@@ -315,7 +315,7 @@
   "box": 17,
   "speaker": "秘書",
   "jp": "新しいパスを登録しないとダメなのよ　",
-  "en": ""
+  "en": "have to register a new pass."
  },
  {
   "id": "7AFE0C.69",
@@ -323,7 +323,7 @@
   "box": 18,
   "speaker": "秘書",
   "jp": "それじゃガンバってね、　",
-  "en": ""
+  "en": "Well, good luck, new secretary."
  },
  {
   "id": "7AFE0C.70",
@@ -331,7 +331,7 @@
   "box": 18,
   "speaker": "秘書",
   "jp": "新人秘書さん",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AFE0C.74",
@@ -339,7 +339,7 @@
   "box": 19,
   "speaker": "秘書",
   "jp": "キーメモリーと　",
-  "en": ""
+  "en": "Got the Key Memory and Passcode 1!"
  },
  {
   "id": "7AFE0C.75",
@@ -347,7 +347,7 @@
   "box": 19,
   "speaker": "秘書",
   "jp": "パスコード１を手に入れた！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AFE0C.77",
@@ -362,7 +362,7 @@
   "box": 20,
   "speaker": "花月",
   "jp": "どうも間違われたようですね…",
-  "en": ""
+  "en": "It seems I've been mistaken for a\nsecretary..."
  },
  {
   "id": "7AFE0C.81",
@@ -377,7 +377,7 @@
   "box": 21,
   "speaker": "銀次",
   "jp": "でもカギも手に入ったし、",
-  "en": ""
+  "en": "But we got the key, so that's good!"
  },
  {
   "id": "7AFE0C.84",
@@ -385,7 +385,7 @@
   "box": 21,
   "speaker": "銀次",
   "jp": "良かったよね！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AFE0C.86",
@@ -400,6 +400,6 @@
   "box": 22,
   "speaker": "花月",
   "jp": "そうですね…",
-  "en": ""
+  "en": "I suppose so..."
  }
 ]

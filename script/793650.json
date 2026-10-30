@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ああ？　",
-  "en": ""
+  "en": "Huh? ...What the hell?!"
  },
  {
   "id": "793650.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…なんだってんだ！？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "793650.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "アル",
   "jp": "アナタタチ、トテモ強イ力持ッテル",
-  "en": ""
+  "en": "You have very strong power. This stone,"
  },
  {
   "id": "793650.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "アル",
   "jp": "コノ石ガ教エテクレテマス…　",
-  "en": ""
+  "en": "it tells me..."
  },
  {
   "id": "793650.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "アル",
   "jp": "蛮サンハ無ノ力ヲ…　",
-  "en": ""
+  "en": "Ban-san, the power of Void..."
  },
  {
   "id": "793650.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "…無の力？　",
-  "en": ""
+  "en": "...The power of Void?"
  },
  {
   "id": "793650.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "アル",
   "jp": "銀サンハ雷ノ力ヲ持ッテル",
-  "en": ""
+  "en": "Gin-san, he has the power of Thunder."
  },
  {
   "id": "793650.21",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "雷なら確かに出せるけど…",
-  "en": ""
+  "en": "Well, I can make thunder, sure..."
  },
  {
   "id": "793650.25",
@@ -111,7 +111,7 @@
   "box": 7,
   "speaker": "アル",
   "jp": "アナタタチ、",
-  "en": ""
+  "en": "You, if you draw out this power, you"
  },
  {
   "id": "793650.28",
@@ -119,7 +119,7 @@
   "box": 7,
   "speaker": "アル",
   "jp": "ソノ力引キ出セバ、モット強クナル",
-  "en": ""
+  "en": "become more strong."
  },
  {
   "id": "793650.30",
@@ -127,7 +127,7 @@
   "box": 8,
   "speaker": "アル",
   "jp": "コノ石ハオ守リデス…持ッテテ下サイ　",
-  "en": ""
+  "en": "This stone is a charm... Please keep it."
  },
  {
   "id": "793650.32",
@@ -142,7 +142,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "あ、ありがとう…",
-  "en": ""
+  "en": "Th-thanks..."
  },
  {
   "id": "793650.36",
@@ -157,7 +157,7 @@
   "box": 10,
   "speaker": "アル",
   "jp": "ボク、アナタタチニ会エタハ　",
-  "en": ""
+  "en": "Me meeting you... maybe it is fate..."
  },
  {
   "id": "793650.39",
@@ -165,6 +165,6 @@
   "box": 10,
   "speaker": "アル",
   "jp": "運命カモ知レナイ…　",
-  "en": ""
+  "en": " "
  }
 ]

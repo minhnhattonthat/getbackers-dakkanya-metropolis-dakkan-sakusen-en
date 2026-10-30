@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あっ、カヅっちゃんに十兵衛だ～！",
-  "en": ""
+  "en": "Oh, it's Kazu-chan and Juubei~!"
  },
  {
   "id": "790C28.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "こんなところに二人でいるなんて　",
-  "en": ""
+  "en": "It's rare to see you two out in a place like"
  },
  {
   "id": "790C28.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "珍しいね",
-  "en": ""
+  "en": "this."
  },
  {
   "id": "790C28.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "ええ、十兵衛の目に効くという",
-  "en": ""
+  "en": "Yes, we came to buy ingredients for a"
  },
  {
   "id": "790C28.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "薬の原料を買いに来たんです　",
-  "en": ""
+  "en": "medicine said to help Juubei's eyes."
  },
  {
   "id": "790C28.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "で、そのサムライ君はちっとは",
-  "en": ""
+  "en": "So, has Samurai-kun's sense of humor"
  },
  {
   "id": "790C28.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "ギャグセンスが上がったのかよ？　",
-  "en": ""
+  "en": "gotten any better?"
  },
  {
   "id": "790C28.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "十兵衛　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "790C28.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "…その様子じゃ上がってなさそうだな　",
-  "en": ""
+  "en": "...Guess not, judging by the look of him."
  },
  {
   "id": "790C28.26",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "ところでこの辺で奪い屋見なかったか？",
-  "en": ""
+  "en": "By the way, seen any Snatchers around\nhere?"
  },
  {
   "id": "790C28.28",
@@ -127,7 +127,7 @@
   "box": 8,
   "speaker": "花月",
   "jp": "いえ、僕たちは見かけていませんよ",
-  "en": ""
+  "en": "No, we haven't seen any."
  },
  {
   "id": "790C28.32",
@@ -142,7 +142,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "そっかあ…　",
-  "en": ""
+  "en": "I see..."
  },
  {
   "id": "790C28.36",
@@ -150,7 +150,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "じゃ、オレたち仕事あるからもう行くね",
-  "en": ""
+  "en": "Well, we've got a job to do, so we'll get"
  },
  {
   "id": "790C28.37",
@@ -158,6 +158,6 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "またね！",
-  "en": ""
+  "en": "going. See ya!"
  }
 ]

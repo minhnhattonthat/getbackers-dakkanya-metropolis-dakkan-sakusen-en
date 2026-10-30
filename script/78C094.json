@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "この後のセーブ画面で",
-  "en": ""
+  "en": "If you overwrite your data on the save"
  },
  {
   "id": "78C094.3",
@@ -13,7 +13,7 @@
   "box": 1,
   "speaker": "",
   "jp": "データを上書きすると、　",
-  "en": ""
+  "en": "screen that follows,"
  },
  {
   "id": "78C094.5",
@@ -21,7 +21,7 @@
   "box": 2,
   "speaker": "",
   "jp": "ＡＣＴ８を再びプレイすることが　",
-  "en": ""
+  "en": "you will no longer be able to play ACT 8"
  },
  {
   "id": "78C094.6",
@@ -29,7 +29,7 @@
   "box": 2,
   "speaker": "",
   "jp": "できなくなってしまいます",
-  "en": ""
+  "en": "again."
  },
  {
   "id": "78C094.8",
@@ -37,6 +37,6 @@
   "box": 3,
   "speaker": "",
   "jp": "上書きする場合は注意して下さい　",
-  "en": ""
+  "en": "Please be careful if you choose to\noverwrite."
  }
 ]

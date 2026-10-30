@@ -1,0 +1,392 @@
+>> 7C1814.3 | [おばさん] ごめんね、お風呂掃除中なのよ / もうちょっとしてから来てもらえる？
+   Sorry, I'm cleaning the bath right now. Could you come back a little later?
+>> 7C1814.8 | [笑師] ん～、前にもこんなんがあったような / ないような…
+   Hmm~, I feel like somethin' like this happened before... or maybe not...
+>> 7C18E8.3 | [笑師] ほな服でも探してみましょか！
+   Right then, let's go hunt for some clothes!
+>> 7C193C.3 | [弥勒] 僕たちはやはりあなたを / 許すことはできない…
+   We still cannot forgive you...
+>> 7C193C.6 | [弥勒] もし次に出会うことがあれば、 / その時は………
+   If we should ever meet again, then......
+>> 7C193C.11 | [蛮] …勝手にしな
+   ...Suit yourself.
+>> 7C1A10.3 | [弥勒] ………
+   ...
+>> 7C1A4C.3 | [富豪] 今日のオークションには珍しい品物が / 出品されるらしいな…
+   I hear some rare items are up for auction today...
+>> 7C1A4C.6 | [富豪] 楽しみだ…
+   I can't wait...
+>> 7C1AD4.3 | [富豪] 一夜にして海中に没した帝国… / 実在するのだろうかね？
+   An empire that sank into the sea in a single night... I wonder if it really existed?
+>> 7C1B40.3 | [富豪] 失われた大陸にはかつて帝国があり、 / 優れた文明を有していたということだ
+   They say the Lost Continent once had an empire with an advanced civilization.
+>> 7C1B40.6 | [富豪] その大陸の住人が今でも / 生き残っているというウワサがあるが…
+   There are rumors that people from that continent survive even now...
+>> 7C1C0C.3 | [富豪] 大陸の住人たちの中には / 不思議な力を持つ者がいたらしい
+   Apparently some of the continent's people had mysterious powers.
+>> 7C1C0C.6 | [富豪] なんでも人形に魂を吹き込み、 / 自在に操っていたとか…
+   They say they could breathe souls into dolls and control them at will...
+>> 7C1CC0.2 | 体力が回復した！！
+   HP restored!!
+>> 7C1D00.3 | [蛮] 抽象画か…こういうのは分かんねーな
+   Abstract art, huh... I don't get this kinda stuff.
+>> 7C1D58.3 | [銀次] えっ、これってなんの絵なの？
+   Huh? What's this a picture of?
+>> 7C1DA8.3 | [卑弥呼] フーン…抽象画か
+   Hmm... Abstract art, huh.
+>> 7C1DF0.3 | [赤屍] ………
+   ...
+>> 7C1E2C.3 | [花月] 抽象画は解釈が難しいですね
+   Abstract art is difficult to interpret, isn't it?
+>> 7C1E7C.3 | [士度] こういうのはちょっと、な
+   This kind of thing isn't really for me.
+>> 7C1EC8.3 | [笑師] なんや、けったいな画やなあ～ / これならワイが描いた方がうまいで！
+   What's this, a weird-lookin' picture~ I could paint better'n this!
+>> 7C1F40.3 | [十兵衛] …難解な画だな
+   ...An inscrutable painting.
+>> 7C1F88.3 | [鏡] ………
+   ...
+>> 7C1FC4.2 | のぞき厳禁！！
+   No peeking!!
+>> 7C2000.3 | [卑弥呼] さてと、あとはスカートね…
+   Now then, just the skirt left...
+>> 7C2058.3 | [卑弥呼] じゃ、次はこれね
+   Okay, this one next.
+>> 7C20A4.3 | [蛮] これでちったあ明るくなんだろ…
+   That oughta brighten things up a little...
+>> 7C20FC.3 | [蛮] 暗くてよく見えねえな…
+   Too damn dark to see anything...
+>> 7C214C.3 | [蛮] ただの風景画ってのも面白みに欠けるな
+   Just a plain landscape painting? Kinda lacks any fun.
+>> 7C21A4.3 | [銀次] こういう画だったら分かるんだけどな～
+   Now, a picture like this I can understand~
+>> 7C21FC.3 | [卑弥呼] ただ風景を描いただけじゃ / つまらないわね
+   A painting of plain scenery is just boring.
+>> 7C2260.3 | [赤屍] ………
+   ...
+>> 7C229C.3 | [花月] 風景画ですか…いいですね
+   A landscape painting... How lovely.
+>> 7C22E8.3 | [士度] 俺はこういう絵の方が好みだな
+   I prefer pictures like this.
+>> 7C2338.3 | [笑師] なんや、オモロない画やな～ / ひねりがないっちゅうねん！！
+   What, a borin' picture~ There ain't no twist to it at all!!
+>> 7C23A8.3 | [十兵衛] 西洋の風景画よりは日本画の方が好みだ
+   I prefer Japanese painting to Western landscapes.
+>> 7C2404.3 | [鏡] ………
+   ...
+>> 7C2440.3 | [蛮] おっ、なかなかの美人じゃねえかよ
+   Whoa, she's quite the looker.
+>> 7C2494.3 | [銀次] わ～、キレイな女の人だ～～～ / いいなー、コレ！
+   Wow, what a pretty lady~~~ I really like this one!
+>> 7C24F8.3 | [卑弥呼] フーン、肖像画か…
+   Hmm, a portrait...
+>> 7C2544.3 | [赤屍] ………
+   ...
+>> 7C2580.3 | [花月] 肖像画ですか、なかなかですね
+   A portrait... Quite a fine one, isn't it?
+>> 7C25D0.3 | [士度] …誰だ、こいつ？
+   ...Who's this?
+>> 7C2614.3 | [笑師] おおっ、なかなかのべっぴんさんやん！ / 嫁に来てくれへんかいな？
+   Whoa, what a beauty! Wanna come be my bride?
+>> 7C2688.3 | [十兵衛] …こういう画は好かん
+   ...I do not care for this kind of painting.
+>> 7C26D4.3 | [鏡] ………
+   ...
+>> 7C2710.3 | [蛮] …こういうの一つ位もらえねえかな？
+   ...Think they'd let me have one of these?
+>> 7C2768.3 | [銀次] なんだろ、これ？　高いのかな？？
+   What is this? Is it expensive??
+>> 7C27BC.3 | [卑弥呼] お金のかかってそうな美術品ね…
+   Art that looks like it cost a fortune...
+>> 7C2814.3 | [赤屍] ………
+   ...
+>> 7C2850.3 | [花月] どれも高そうなものばかりですね
+   Everything here looks expensive.
+>> 7C28A4.3 | [士度] こういうのは / マドカの屋敷にもあったな…
+   Madoka's mansion had stuff like this too...
+>> 7C2904.3 | [笑師] おおっ、高級そうなモンばっかりやん
+   Whoa, it's all fancy high-class stuff!
+>> 7C2904.5 | [笑師] …一つくれへんかな？
+   ...Think they'd give me one?
+>> 7C297C.3 | [十兵衛] …なかなかの一品だ
+   ...A fine piece.
+>> 7C29C8.3 | [鏡] ………
+   ...
+>> 7C2A04.2 | 『︀物置』︀と書かれている
+   It says 'Storeroom.'
+>> 7C2A48.2 | 『︀書斎』︀と書かれている
+   It says 'Study.'
+>> 7C2A8C.2 | 『︀大広間』︀と書かれている
+   It says 'Great Hall.'
+>> 7C2AD0.2 | 『︀厨房』︀と書かれている
+   It says 'Kitchen.'
+>> 7C2B14.2 | 『︀寝室』︀と書かれている
+   It says 'Master Bedroom.'
+>> 7C2B58.2 | 『︀衣装部屋』︀と書かれている
+   It says 'Wardrobe Room.'
+>> 7C2BA0.2 | 『︀ベッドルーム』︀と書かれている
+   It says 'Bedroom.'
+>> 7C2BEC.2 | 『︀バスルーム』︀と書かれている
+   It says 'Bathroom.'
+>> 7C2C34.2 | 『︀ゲストルーム』︀と書かれている
+   It says 'Guest Room.'
+>> 7C2C80.3 | [蛮] しっかし、水着ギャルにも / 浴衣ギャルにも会えなかったな…
+   Man, we didn't meet a single swimsuit babe or yukata babe...
+>> 7C2C80.6 | [蛮] なんのためにあの島に行ったんだか…
+   What'd we even go to that island for...
+>> 7C2C80.10 | [銀次] ねえ、蛮ちゃん / アルくんはどこに行っちゃったのかな？
+   Hey, Ban-chan... Where do you think Al-kun went?
+>> 7C2C80.15 | [蛮] さあな…
+   Who knows...
+>> 7C2C80.17 | [蛮] ところで銀次、この街はいつから / アレがのさばるようになったんだ？
+   Anyway, Ginji, since when have those things been running loose in this town?
+>> 7C2C80.22 | [銀次] えっ！？
+   Huh?!
+>> 7C2E28.3 | [銀次] あれは…地下洞窟にいたヤツらだ！ / どうしてこんな街中に！？
+   Those are the guys from the underground cave! Why are they in the middle of town?!
+>> 7C2E28.8 | [蛮] …どうもその辺の説明を / これからしてくれるみてェだぜ
+   ...Looks like somebody's about to explain all that for us.
+>> 7C2E28.11 | [蛮] 銀次、そこの大型ビジョン見てみな
+   Ginji, take a look at that big screen over there.
+>> 7C2E28.18 | [？？？] 親愛なる日本の諸君に告ぐ…
+   Hear me, my dear citizens of Japan...
+>> 7C2E28.22 | [銀次] あの人、この前の…
+   That guy, he's the one from before...
+>> 7C2E28.26 | [ジェンド] 我が名はジェンド… / 『︀さすらいの民』︀一族を統べる王である
+   My name is Jend... King who rules the clan of the 'Wandering People.'
+>> 7C2E28.29 | [ジェンド] 我々は一夜にして海中に没した / 『︀失われた大陸』︀の住人だった…
+   We once lived on the 'Lost Continent,' which sank into the sea in a single night...
+>> 7C2E28.34 | [銀次] 失われた大陸って… / クレイマンさんが言ってた…
+   The Lost Continent... That's what Clayman-san was talking about...
+>> 7C2E28.39 | [ジェンド] 故郷を失いし日より、我らは安住の地を / 求めて旅を続けてきた
+   Since losing our homeland, we have journeyed on in search of a land to settle.
+>> 7C2E28.42 | [ジェンド] だが、我々を受け入れてくれる土地は / どこにもなかった
+   But nowhere was there a land that would accept us.
+>> 7C2E28.47 | [蛮] ………
+   ...
+>> 7C2E28.51 | [ジェンド] 長きに渡る放浪の末、 / ようやく我らはこの結論に至った
+   After long years of wandering, we have at last reached this conclusion.
+>> 7C2E28.54 | [ジェンド] 居場所がないのであれば / あるところから奪えばいい
+   If we have no place of our own, we shall take one from those who do.
+>> 7C2E28.57 | [ジェンド] 強者が弱者からものを奪うのは / 当然の行為だという結論に！
+   That it is only natural for the strong to take from the weak!
+>> 7C2E28.62 | [銀次] だからって、こんな…
+   But that doesn't mean you can do something like this...
+>> 7C2E28.66 | [ジェンド] 今、この時より新宿は / 我らさすらいの民一族の国となる
+   From this moment on, Shinjuku is the nation of our clan, the Wandering People.
+>> 7C2E28.69 | [ジェンド] かつて日本という国の民だった者共よ
+   You who were once the people of a nation called Japan,
+>> 7C2E28.71 | [ジェンド] 我が前にひざまずき、 / 新しい国家の誕生を祝福するがいい！！
+   kneel before me, and bless the birth of a new nation!!
+>> 7C2E28.78 | [蛮] フザけたことぬかしやがって！ / 寝言は寝てから言えってンだ！！
+   Quit screwin' around! Save the sleep-talk for when you're asleep!!
+>> 7C2E28.83 | [銀次] 蛮ちゃん！ / 今、アイツの後ろにアルくんの姿が…
+   Ban-chan! Just now, I saw Al-kun behind that guy...
+>> 7C2E28.90 | [？？？] キャーーーーーーーッ！！
+   Kyaaaaaaaah!!
+>> 7C2E28.94 | [蛮] ！？　なんだ？
+   ?! What was that?
+>> 7C2E28.98 | [銀次] 近くで聞こえたよ！ / 行ってみようよ！！
+   It came from nearby! Let's go see!!
+>> 7C3530.3 | [銀次] 女の子が襲われてるよ！ / 助けなきゃ！！
+   A girl's being attacked! We've gotta help her!!
+>> 7C3530.8 | [蛮] よし！　行くぜ、銀次！！
+   Right! Let's go, Ginji!!
+>> 7C35D0.3 | [蛮] ムシャクシャしてたから / ちょうど良かったぜ…
+   I was in a foul mood anyway, so that hit the spot...
+>> 7C35D0.8 | [銀次] あれ、君はこないだの… / 確か、みっちゃん！
+   Huh, you're the girl from the other day... Mitchan, right?
+>> 7C35D0.13 | [みっちゃん] うわ～ん、コワかったよー！！
+   Waaah, I was so scared!!
+>> 7C35D0.17 | [蛮] 髪どめをなくしたガキかよ / タダ働きのイヤな思い出が蘇るぜ…
+   The brat who lost her hairpin, huh. Brings back bad memories of working for free...
+>> 7C35D0.22 | [銀次] みっちゃん、 / 一人でこんなところにいたら危ないよ！
+   Mitchan, it's dangerous to be out here all by yourself!
+>> 7C35D0.25 | [銀次] 早くお母さんのところに行かなくちゃ！
+   We've gotta get you back to your mom, quick!
+>> 7C35D0.29 | [みっちゃん] だって、お母さんとこうえんで / 会おうってきめてたのに…
+   But me and Mommy promised to meet at the park...
+>> 7C35D0.32 | [みっちゃん] こわい人たちがいっぱいいて…
+   and there were lots of scary people...
+>> 7C35D0.36 | [銀次] そうなんだ…アイツらが…
+   I see... So those guys...
+>> 7C35D0.40 | [みっちゃん] もうお母さんに会えないの？ / もうこうえんに行っちゃいけないの？
+   Can't I ever see Mommy again? Can't I ever go to the park again?
+>> 7C35D0.43 | [みっちゃん] ヤダよー、お母さ～ん！！
+   Nooo, Mommyyy!!
+>> 7C35D0.47 | [銀次] 泣かないで、公園なら / オレたちが奪り還してあげるから！
+   Don't cry. If it's the park, we'll take it back for you!
+>> 7C35D0.52 | [蛮] おい、銀次！ / 何回言わせりゃ気が済むんだよ！
+   Hey, Ginji! How many times do I have to tell you?!
+>> 7C35D0.55 | [蛮] 俺たちは金にならねえ仕事は…
+   We don't do jobs that don't pay...
+>> 7C35D0.59 | [みっちゃん] おかね？　…あっ、そうだ！ / みっちゃん、おかねもってるよ！！
+   Pay? ...Oh, I know! Mitchan has money!!
+>> 7C35D0.64 | [蛮] なんだ、こりゃ…外国のコインか？
+   What's this...? A foreign coin?
+>> 7C35D0.68 | [みっちゃん] このおかねね、 / アルお兄ちゃんがくれたんだよ！
+   This money, Big Brother Al gave it to me!
+>> 7C35D0.71 | [みっちゃん] これでお兄ちゃんたちに / おねがいごとすればかなえてくれるって
+   He said if I asked you big brothers with this, you'd make my wish come true.
+>> 7C35D0.76 | [蛮] …あのな、 / 俺たちはランプの精じゃねえんだよ
+   ...Listen, kid. We're not some genie in a lamp.
+>> 7C35D0.82 | [銀次] でも蛮ちゃん、これ…銅のお金だよ！ / アルくんの国の一番高いお金…
+   But Ban-chan, this... it's bronze money! The most valuable money in Al-kun's country...
+>> 7C35D0.87 | [蛮] ………
+   ...
+>> 7C35D0.91 | [銀次] …蛮ちゃん
+   ...Ban-chan.
+>> 7C35D0.95 | [蛮] …ま、これは頭金として預かっておくぜ
+   ...Fine. I'll hang on to this as a down payment.
+>> 7C35D0.97 | [蛮] その代わり、残りの金の方は / きっちりアルに払ってもらうからな
+   But in exchange, Al's gonna pay us the rest of the money in full.
+>> 7C35D0.102 | [銀次] 蛮ちゃん、それって…
+   Ban-chan, does that mean...
+>> 7C35D0.108 | [蛮] ゲットバッカーズ！ / この依頼、確かに引き受けた！！
+   GetBackers! This job... consider it done!!
+>> 7C35D0.113 | [銀次] 待っててね、みっちゃん！ / この街はオレたちが必ず奪り還すから！
+   Wait for us, Mitchan! We'll take this town back for sure!
+>> 7C3DF8.3 | [夏実] あ、蛮さんに銀次さん！ / おかえりなさい！！
+   Oh, Ban-san and Ginji-san! Welcome back!!
+>> 7C3DF8.8 | [ヘヴン] ちょっと、アンタたちがいない間に / 大変なことが起こったんだから！
+   Listen, something terrible happened while you two were gone!
+>> 7C3DF8.13 | [蛮] ああ、知ってンぜ
+   Yeah, we know.
+>> 7C3DF8.15 | [蛮] 波児、表の連中の親玉が / どこにいるか知らねえか？
+   Paul, you know where the boss of those creeps outside is holed up?
+>> 7C3DF8.20 | [波児] アルファタワーだよ
+   Alpha Tower.
+>> 7C3DF8.24 | [銀次] アルファタワーって、超高層の？ / でも、あれってまだ建設中じゃ…
+   Alpha Tower, the skyscraper? But isn't that still under construction...?
+>> 7C3DF8.29 | [波児] 建設中で警備がうすいからこそ / 簡単に奪われちまったってワケだ
+   Under construction means thin security. That's exactly why they took it so easily.
+>> 7C3DF8.34 | [蛮] …よし、 / 場所も分かったことだし行くとするか
+   ...Right. Now that we know where it is, let's get going.
+>> 7C4094.3 | [波児] おい、お前ら…
+   Hey, you two...
+>> 7C4094.7 | [蛮] あン？
+   Huh?
+>> 7C4094.11 | [波児] ちゃんとツケ払えよな
+   Make sure you pay your tab.
+>> 7C4094.15 | [蛮] 心配いらねーよ、ちゃんと帰ってくるさ
+   Don't worry, we'll be back.
+>> 7C4094.17 | [蛮] …たぶんな
+   ...Probably.
+>> 7C4094.21 | [銀次] じゃ、行ってきまーす！！
+   Well, we're off!!
+>> 7C41D8.3 | [夏実] 蛮さんも銀次さんも / 無事に戻ってきますよね？
+   Ban-san and Ginji-san will come back safe, won't they?
+>> 7C41D8.8 | [ヘヴン] 当たり前よ、二人とも殺しても / 死なないような連中なんだから…
+   Of course. Those two are the kind you couldn't kill if you tried...
+>> 7C42A8.3 | [蛮] ここがアルファタワーか…
+   So this is Alpha Tower...
+>> 7C42A8.7 | [銀次] ねえ、蛮ちゃん… / この上にアルくんもいるのかな？
+   Hey, Ban-chan... Do you think Al-kun's up there too?
+>> 7C42A8.12 | [蛮] ま、いるだろうな
+   Yeah, probably.
+>> 7C42A8.14 | [蛮] アイツには色々と世話ンなったしな… / タダじゃ済まさねえ
+   That kid did a whole lot for us... He's not getting off easy.
+>> 7C42A8.19 | [銀次] ………
+   ...
+>> 7C42A8.23 | [蛮] だから、とっとと捕まえて / バカなこと止めさせねえとな
+   So we gotta catch him fast and make him quit this stupid stuff.
+>> 7C42A8.26 | [蛮] 気合入れてけよ、銀次ィ！
+   Get fired up, Ginjiii!
+>> 7C42A8.30 | [銀次] うん、そうだね！ / ガンバろう、蛮ちゃん！！
+   Yeah, you're right! Let's give it our all, Ban-chan!!
+>> 7C44C4.3 | [蛮] にしてもバカみてーに / 高ェビル作りやがって…
+   Still, building something this stupidly tall...
+>> 7C44C4.6 | [蛮] 昇る方の身にもなれってンだ
+   Think about the guys who have to climb it.
+>> 7C44C4.8 | [蛮] で、そっちはどうなんだよ / 動きそうなのか？
+   So how's it look over there? Think it'll run?
+>> 7C44C4.13 | [銀次] う～ん、ダメみたい / 動かないよ～…
+   Hmm, no good. It won't move~...
+>> 7C44C4.18 | [蛮] ダメだぁ？
+   No good?
+>> 7C44C4.20 | [蛮] ここが何階あンのか知ってるか？ / ９９階だぞ！
+   You know how many floors this place has? 99!
+>> 7C44C4.25 | [銀次] まさか…９９階まで歩いて昇るとか…？
+   No way... We're not walking all the way up to floor 99, are we...?
+>> 7C44C4.29 | [蛮] …いや、 / 見た感じ電気が通ってないだけだ
+   ...Nah. From the looks of it, the power's just off.
+>> 7C44C4.32 | [蛮] 配電室で電気さえ入れりゃあ / なんとかなんだろ
+   If we just turn the power on in the switch room, it oughta work.
+>> 7C44C4.37 | [銀次] さっすが、蛮ちゃん！！
+   That's Ban-chan for you!!
+>> 7C44C4.39 | [銀次] でも、配電室なんて / どこにあるんだろう？
+   But where would a switch room even be?
+>> 7C44C4.44 | [蛮] それをこれから探すンだよ！
+   That's what we're gonna go find out!
+>> 7C44C4.48 | [銀次] …あ、やっぱりね
+   ...Ah, figured.
+>> 7C47FC.3 | [銀次] 配電室みーっけ！ / 銀次、入りまーす！！
+   Found the switch room! Ginji, coming in!!
+>> 7C485C.3 | [銀次] カギが…カギがかかってる！ / おわぁー！　やっぱり階段で…！？
+   It's locked... It's locked! Waaah! So it's the stairs after all...?!
+>> 7C485C.8 | [蛮] しゃーねえな、 / こうなったら俺様が力づくでだな…
+   Can't be helped. Guess the great Ban Mido'll just have to force it open...
+>> 7C485C.13 | [銀次] ダ、ダメだよ！　蛮ちゃんがやったら / 中の機械まで壊れちゃうよ！
+   N-no way! If you do it, Ban-chan, you'll break the machines inside too!
+>> 7C485C.16 | [銀次] カギを探そうよ！！
+   Let's look for the key!!
+>> 7C485C.20 | [蛮] …チッ、メンドくせーな
+   ...Tch, what a pain.
+>> 7C485C.24 | [銀次] 仕方ないって、蛮ちゃん！
+   It can't be helped, Ban-chan!
+>> 7C485C.26 | [銀次] （ああ、危なかった～…）
+   (Phew, that was close~...)
+>> 7C4A4C.3 | [銀次] ねえねえ蛮ちゃん、このまま歩いて / ９９階まで上がってみない？
+   Hey hey, Ban-chan, why don't we just walk up to floor 99 like this?
+>> 7C4A4C.6 | [銀次] なんか楽しくなってきちゃった、オレ！
+   I'm kinda starting to have fun!
+>> 7C4A4C.10 | [蛮] おい銀次、 / あんまチョロチョロすんじゃねえぞ
+   Hey, Ginji, quit scampering around.
+>> 7C4A4C.13 | [蛮] ここは建設中なんだから、いつ足場が / 崩れたっておかしくねーんだからな
+   This place is under construction. The scaffolding could give way at any moment.
+>> 7C4B9C.3 | [蛮] なんだ？ / 化け物にでも会ったのか？
+   What? You run into a monster or something?
+>> 7C4BF8.3 | [鏡] やあ…久しぶりだね
+   Hey... Long time no see.
+>> 7C4BF8.7 | [銀次] 鏡形而（かがみきょうじ）さん…！
+   Kyoji Kagami-san...!
+>> 7C4BF8.11 | [蛮] こいつは驚いたぜ… / 本当に化け物が出てきやがった
+   Well, I'll be... A real monster showed up.
+>> 7C4BF8.14 | [蛮] …塔の住人がこんなところで / なにしてやがる？
+   ...What's a resident of the Tower doing in a place like this?
+>> 7C4BF8.19 | [鏡] 下界が面白いことになってる / みたいだったからね…
+   Things down in the world below looked like they were getting interesting...
+>> 7C4BF8.22 | [鏡] 観察しに来たのさ
+   So I came to observe.
+>> 7C4BF8.26 | [蛮] ケッ、 / 相変わらず気に食わねぇヤローだぜ
+   Tch. Still as irritating as ever, you bastard.
+>> 7C4BF8.31 | [鏡] だったらオレを倒してみるかい？
+   Then why not try beating me?
+>> 7C4BF8.33 | [鏡] キミたちが本気を出せば、 / 倒せるかも知れないよ？
+   If you two get serious, you might just be able to beat me, you know?
+>> 7C4BF8.36 | [鏡] 運が良ければの話だけど…ね
+   If you're lucky, that is... hm?
+>> 7C4BF8.40 | [蛮] 面白ェ！ / やってやろうじゃねえかよ！！
+   Interesting! Bring it on!!
+>> 7C4BF8.46 | [鏡] では、始めるとしよう
+   Then let us begin.
+>> 7C4F14.3 | [鏡] やあ、待っていたよ
+   Hey, I've been waiting for you.
+>> 7C4F14.7 | [蛮] テメー…ここで会うってことは、 / アレの観察してるみてぇだな？
+   You... If you're here, you must be observing those things, huh?
+>> 7C4F14.12 | [鏡] そう…『︀さすらいの民』︀の、ね
+   That's right... The 'Wandering People,' that is.
+>> 7C4F14.14 | [鏡] キミたちもようやくそのことに / 気付いてくれたみたいだね？
+   Looks like you two have finally noticed them too, hm?
+>> 7C4F14.19 | [蛮] チッ、いつもながらムカつくヤローだぜ
+   Tch. Pisses me off every damn time, you bastard.
+>> 7C4F14.23 | [鏡] だったらオレを倒してみるかい？
+   Then why not try beating me?
+>> 7C4F14.25 | [鏡] キミたちが本気を出せば、 / 倒せるかも知れないよ？
+   If you two get serious, you might just be able to beat me, you know?
+>> 7C4F14.28 | [鏡] 運が良ければの話だけど…ね
+   If you're lucky, that is... hm?
+>> 7C4F14.32 | [蛮] 面白ェ！ / やってやろうじゃねえかよ！！
+   Interesting! Bring it on!!
+>> 7C4F14.38 | [鏡] では、始めるとしよう
+   Then let us begin.

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "79D488.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "…どう見ても人間だったな、ありゃあ　",
-  "en": ""
+  "en": "...That was a human, any way you look at\nit."
  },
  {
   "id": "79D488.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "やっぱユーレイじゃなかったんだね！　",
-  "en": ""
+  "en": "So it wasn't a ghost after all! Phew, what"
  },
  {
   "id": "79D488.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "あ～良かった…　",
-  "en": ""
+  "en": "a relief..."
  },
  {
   "id": "79D488.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "ヤツら、",
-  "en": ""
+  "en": "What are those guys sneaking around"
  },
  {
   "id": "79D488.17",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "コソコソとなに企んでやがんだ？　",
-  "en": ""
+  "en": "plotting?"
  },
  {
   "id": "79D488.19",
@@ -88,7 +88,7 @@
   "box": 5,
   "speaker": "士度",
   "jp": "…さあな、　",
-  "en": ""
+  "en": "...Who knows. Looks like we'll have to"
  },
  {
   "id": "79D488.22",
@@ -96,6 +96,6 @@
   "box": 5,
   "speaker": "士度",
   "jp": "そいつは追い詰めて聞くしかなさそうだ",
-  "en": ""
+  "en": "corner one and ask."
  }
 ]

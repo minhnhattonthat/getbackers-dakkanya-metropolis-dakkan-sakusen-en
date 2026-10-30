@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "いた！　ＴＡＲＥだ！",
-  "en": ""
+  "en": "There! It's TARE!"
  },
  {
   "id": "7944CC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "よし、銀次　",
-  "en": ""
+  "en": "Okay, Ginji. Sneak up on it, and don't yell."
  },
  {
   "id": "7944CC.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "大声出さねえように近付くんだぞ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7944CC.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "蛮ちゃんじゃないんだから大丈夫だよ　",
-  "en": ""
+  "en": "I'm not you, Ban-chan, so I'll be fine."
  },
  {
   "id": "7944CC.14",
@@ -58,6 +58,6 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ＴＡＲＥ、迎えに来たよ…",
-  "en": ""
+  "en": "TARE, I've come to get you..."
  }
 ]

@@ -6,18 +6,19 @@
 ジャッカル	Jackal
 レディ・ポイズン	Lady Poison
 蛮ちゃん	Ban-chan
-蛮	Ban
-銀次	Ginji
-卑弥呼	Himiko
-赤屍	Akabane
-ヘヴン	Hevn
-ツルコ	Tsuruko
-ハカマ	Hakama
-馬車	Carriage
-シズク	Shizuku
-ナミヲ	Namio
-ロクロー	Rokuro
-警備員	Guard
+Ｎホール	N Hall
 奪還屋	GetBackers ; retriever ; retrieval	avoid: Dakkanya
 ゲットバッカーズ	GetBackers	avoid: Get Backers
 邪眼	Evil Eye	avoid: Jagan
+ミスターノーブレーキ	Mr. No-Brake
+退化香	Regression Perfume
+悪夢は見れたかよ	Enjoy the nightmare?
+蛮	Ban	(name tag)
+銀次	Ginji	(name tag)
+士度	Shido	(name tag)
+花月	Kazuki	(name tag)
+卑弥呼	Himiko	(name tag)
+赤屍	Akabane	(name tag)
+スタッフ	Staff	(name tag)
+馬車	Driver	(name tag)
+警備員	Guard	(name tag)

@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "話題の新メニュー『裏バーガー』登場！",
-  "en": ""
+  "en": "Hot new menu item 'Ura Burger' is here!"
  },
  {
   "id": "792538.3",
@@ -13,7 +13,7 @@
   "box": 1,
   "speaker": "",
   "jp": "今だけ３９円！！",
-  "en": ""
+  "en": "Only 39 yen for a limited time!!"
  },
  {
   "id": "792538.5",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "あ～、お腹すいたなあ…　",
-  "en": ""
+  "en": "Aww, I'm so hungry... I wanna eat an Ura"
  },
  {
   "id": "792538.8",
@@ -36,6 +36,6 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "食べたいな～裏バーガー…",
-  "en": ""
+  "en": "Burger~..."
  }
 ]

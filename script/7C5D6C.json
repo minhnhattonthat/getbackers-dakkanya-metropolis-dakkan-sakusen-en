@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "エレベーターの電力は…どこだ？　",
-  "en": ""
+  "en": "Where's the power for the elevator...?"
  },
  {
   "id": "7C5D6C.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "えっと…あ、ここじゃない？　",
-  "en": ""
+  "en": "Umm... Oh, isn't it this one? Switch on!!"
  },
  {
   "id": "7C5D6C.8",
@@ -35,6 +35,6 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "スイッチ・オン！！　",
-  "en": ""
+  "en": " "
  }
 ]

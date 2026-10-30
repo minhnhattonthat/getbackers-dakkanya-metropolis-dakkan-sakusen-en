@@ -12,14 +12,14 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あの、倉庫のカギ持ってません？　",
-  "en": ""
+  "en": "Um, do you have the warehouse key?"
  },
  {
   "id": "7D028C.5",
   "kind": "name",
   "box": 1,
   "jp": "民Ｃ",
-  "en": "Local C"
+  "en": "Wanderer C"
  },
  {
   "id": "7D028C.7",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "民Ｃ",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7D028C.9",
@@ -42,14 +42,14 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "安心しろ、俺らはアルの知り合いだ",
-  "en": ""
+  "en": "Relax, we're friends of Al's."
  },
  {
   "id": "7D028C.13",
   "kind": "name",
   "box": 3,
   "jp": "民Ｃ",
-  "en": "Local C"
+  "en": "Wanderer C"
  },
  {
   "id": "7D028C.15",
@@ -57,7 +57,7 @@
   "box": 4,
   "speaker": "民Ｃ",
   "jp": "…ソウデスカ",
-  "en": ""
+  "en": "...I see."
  },
  {
   "id": "7D028C.17",
@@ -65,7 +65,7 @@
   "box": 5,
   "speaker": "民Ｃ",
   "jp": "デモ、私ハカギ持ッテマセン　",
-  "en": ""
+  "en": "But I do not have key."
  },
  {
   "id": "7D028C.19",
@@ -73,7 +73,7 @@
   "box": 6,
   "speaker": "民Ｃ",
   "jp": "カギ持ッテル者、モット下ニ行キマシタ",
-  "en": ""
+  "en": "The one with key, he went further down."
  },
  {
   "id": "7D028C.21",
@@ -81,7 +81,7 @@
   "box": 7,
   "speaker": "民Ｃ",
   "jp": "７０階辺リニイルト思イマスガ…　",
-  "en": ""
+  "en": "I think he is around floor 70..."
  },
  {
   "id": "7D028C.23",
@@ -96,6 +96,6 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "そっかあ…どうもありがと！　",
-  "en": ""
+  "en": "Aww, okay... Thanks anyway!"
  }
 ]

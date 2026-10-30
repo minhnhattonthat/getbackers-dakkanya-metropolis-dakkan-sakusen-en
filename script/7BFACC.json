@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "弥勒",
   "jp": "…！？　",
-  "en": ""
+  "en": "...?!"
  },
  {
   "id": "7BFACC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "Ｓサービス　",
   "jp": "屋敷内に何者かが侵入したようだ　",
-  "en": ""
+  "en": "Looks like someone's broken into the"
  },
  {
   "id": "7BFACC.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "Ｓサービス　",
   "jp": "弥勒、お前はそいつらを始末するんだ　",
-  "en": ""
+  "en": "mansion. Miroku, take care of them."
  },
  {
   "id": "7BFACC.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "弥勒",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7BFACC.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ダメだよ、雪彦くん！",
-  "en": ""
+  "en": "Don't, Yukihiko-kun! These guys are gonna..."
  },
  {
   "id": "7BFACC.17",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "この人たちは後でキミを…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BFACC.19",
@@ -88,7 +88,7 @@
   "box": 5,
   "speaker": "弥勒",
   "jp": "始末するつもりでいる…　",
-  "en": ""
+  "en": "...get rid of me afterward. I knew that"
  },
  {
   "id": "7BFACC.22",
@@ -96,7 +96,7 @@
   "box": 5,
   "speaker": "弥勒",
   "jp": "知っていたよ、そんなこと",
-  "en": ""
+  "en": "already."
  },
  {
   "id": "7BFACC.24",
@@ -111,7 +111,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "だったら…　",
-  "en": ""
+  "en": "Then why..."
  },
  {
   "id": "7BFACC.28",
@@ -126,7 +126,7 @@
   "box": 7,
   "speaker": "弥勒",
   "jp": "僕にも護り屋としての",
-  "en": ""
+  "en": "I have my pride as a protector, too..."
  },
  {
   "id": "7BFACC.31",
@@ -134,7 +134,7 @@
   "box": 7,
   "speaker": "弥勒",
   "jp": "プライドがあるからね…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BFACC.33",
@@ -142,6 +142,6 @@
   "box": 8,
   "speaker": "弥勒",
   "jp": "仕事はきちんとしたいんだ",
-  "en": ""
+  "en": "I want to do my job properly."
  }
 ]

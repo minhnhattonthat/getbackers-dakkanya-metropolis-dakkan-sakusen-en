@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "にしてもバカみてーに",
-  "en": ""
+  "en": "Still, building something this stupidly tall..."
  },
  {
   "id": "7C44C4.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "高ェビル作りやがって…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C44C4.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "昇る方の身にもなれってンだ　",
-  "en": ""
+  "en": "Think about the guys who have to climb it."
  },
  {
   "id": "7C44C4.8",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "で、そっちはどうなんだよ",
-  "en": ""
+  "en": "So how's it look over there? Think it'll run?"
  },
  {
   "id": "7C44C4.9",
@@ -44,7 +44,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "動きそうなのか？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C44C4.11",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "う～ん、ダメみたい　",
-  "en": ""
+  "en": "Hmm, no good. It won't move~..."
  },
  {
   "id": "7C44C4.14",
@@ -67,7 +67,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "動かないよ～…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C44C4.16",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ダメだぁ？　",
-  "en": ""
+  "en": "No good?"
  },
  {
   "id": "7C44C4.20",
@@ -90,7 +90,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "ここが何階あンのか知ってるか？　",
-  "en": ""
+  "en": "You know how many floors this place has?"
  },
  {
   "id": "7C44C4.21",
@@ -98,7 +98,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "９９階だぞ！",
-  "en": ""
+  "en": "99!"
  },
  {
   "id": "7C44C4.23",
@@ -113,7 +113,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "まさか…９９階まで歩いて昇るとか…？",
-  "en": ""
+  "en": "No way... We're not walking all the way up\nto floor 99, are we...?"
  },
  {
   "id": "7C44C4.27",
@@ -128,7 +128,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "…いや、",
-  "en": ""
+  "en": "...Nah. From the looks of it, the power's"
  },
  {
   "id": "7C44C4.30",
@@ -136,7 +136,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "見た感じ電気が通ってないだけだ　",
-  "en": ""
+  "en": "just off."
  },
  {
   "id": "7C44C4.32",
@@ -144,7 +144,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "配電室で電気さえ入れりゃあ　",
-  "en": ""
+  "en": "If we just turn the power on in the"
  },
  {
   "id": "7C44C4.33",
@@ -152,7 +152,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "なんとかなんだろ",
-  "en": ""
+  "en": "switch room, it oughta work."
  },
  {
   "id": "7C44C4.35",
@@ -167,7 +167,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "さっすが、蛮ちゃん！！　",
-  "en": ""
+  "en": "That's Ban-chan for you!!"
  },
  {
   "id": "7C44C4.39",
@@ -175,7 +175,7 @@
   "box": 11,
   "speaker": "銀次",
   "jp": "でも、配電室なんて　",
-  "en": ""
+  "en": "But where would a switch room even be?"
  },
  {
   "id": "7C44C4.40",
@@ -183,7 +183,7 @@
   "box": 11,
   "speaker": "銀次",
   "jp": "どこにあるんだろう？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C44C4.42",
@@ -198,7 +198,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "それをこれから探すンだよ！　",
-  "en": ""
+  "en": "That's what we're gonna go find out!"
  },
  {
   "id": "7C44C4.46",
@@ -213,6 +213,6 @@
   "box": 13,
   "speaker": "銀次",
   "jp": "…あ、やっぱりね",
-  "en": ""
+  "en": "...Ah, figured."
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "ねえねえ蛮ちゃん、このまま歩いて",
-  "en": ""
+  "en": "Hey hey, Ban-chan, why don't we just walk"
  },
  {
   "id": "7C4A4C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "９９階まで上がってみない？　",
-  "en": ""
+  "en": "up to floor 99 like this?"
  },
  {
   "id": "7C4A4C.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "なんか楽しくなってきちゃった、オレ！",
-  "en": ""
+  "en": "I'm kinda starting to have fun!"
  },
  {
   "id": "7C4A4C.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "おい銀次、　",
-  "en": ""
+  "en": "Hey, Ginji, quit scampering around."
  },
  {
   "id": "7C4A4C.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "あんまチョロチョロすんじゃねえぞ",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C4A4C.13",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "ここは建設中なんだから、いつ足場が　",
-  "en": ""
+  "en": "This place is under construction. The"
  },
  {
   "id": "7C4A4C.14",
@@ -67,6 +67,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "崩れたっておかしくねーんだからな",
-  "en": ""
+  "en": "scaffolding could give way at any moment."
  }
 ]

@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "Ｑ１：５＋７－１０＋１３＋３＝　",
-  "en": ""
+  "en": "Q1: 5 + 7 - 10 + 13 + 3 ="
  },
  {
   "id": "7BAFFC.3",
@@ -13,7 +13,7 @@
   "box": 1,
   "speaker": "",
   "jp": "Ｑ２：８＋９－３＋５＝　",
-  "en": ""
+  "en": "Q2: 8 + 9 - 3 + 5 ="
  },
  {
   "id": "7BAFFC.5",
@@ -21,7 +21,7 @@
   "box": 2,
   "speaker": "",
   "jp": "Ｑ１→Ｑ２　",
-  "en": ""
+  "en": "Q1 -> Q2"
  },
  {
   "id": "7BAFFC.7",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ああ？　ここだけ計算になってンぞ",
-  "en": ""
+  "en": "Huh? This one's all math."
  },
  {
   "id": "7BAFFC.11",
@@ -51,7 +51,7 @@
   "box": 4,
   "speaker": "卑弥呼　",
   "jp": "…答えの番号のスイッチを",
-  "en": ""
+  "en": "...Maybe it means press the switches with"
  },
  {
   "id": "7BAFFC.14",
@@ -59,6 +59,6 @@
   "box": 4,
   "speaker": "卑弥呼　",
   "jp": "順番に押せってことかしら？　",
-  "en": ""
+  "en": "the answers' numbers, in order?"
  }
 ]

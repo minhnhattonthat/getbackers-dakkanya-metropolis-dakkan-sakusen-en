@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "笑師",
   "jp": "ああっ、アンタは…　",
-  "en": ""
+  "en": "Ahh, you're... Juubei-han, ain't ya!"
  },
  {
   "id": "7AC7A8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "笑師",
   "jp": "十兵衛（じゅうべえ）はんやないかー！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AC7A8.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "くっ、見るな！　",
-  "en": ""
+  "en": "Ngh, don't look!"
  },
  {
   "id": "7AC7A8.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "笑師",
   "jp": "十兵衛はん…ＭＡＫＵＢＥＸ　",
-  "en": ""
+  "en": "Juubei-han... What MakubeX-han said to"
  },
  {
   "id": "7AC7A8.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "笑師",
   "jp": "（マクベス）はんに言われたこと、",
-  "en": ""
+  "en": "you..."
  },
  {
   "id": "7AC7A8.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "まだ気にしてたんかいな　",
-  "en": ""
+  "en": "You're still hung up on it?"
  },
  {
   "id": "7AC7A8.17",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "こないなオーディションまで　",
-  "en": ""
+  "en": "Comin' all the way out to an audition like"
  },
  {
   "id": "7AC7A8.18",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "受けにくるなんてなぁ…　",
-  "en": ""
+  "en": "this..."
  },
  {
   "id": "7AC7A8.20",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "士度",
   "jp": "案外、根に持つタイプだな…　",
-  "en": ""
+  "en": "Turns out he's the type to hold a grudge..."
  },
  {
   "id": "7AC7A8.24",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "笑師",
   "jp": "せや！　",
-  "en": ""
+  "en": "I know! Juubei-han, why don't ya come"
  },
  {
   "id": "7AC7A8.27",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "笑師",
   "jp": "十兵衛はんも一緒に行かへんか？　",
-  "en": ""
+  "en": "along with us?"
  },
  {
   "id": "7AC7A8.29",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "十兵衛　",
   "jp": "俺に構うな！",
-  "en": ""
+  "en": "Leave me alone!"
  },
  {
   "id": "7AC7A8.33",
@@ -150,7 +150,7 @@
   "box": 9,
   "speaker": "士度",
   "jp": "ほっといてやれよ、ヤツにも　",
-  "en": ""
+  "en": "Leave him be. Even he's got his pride..."
  },
  {
   "id": "7AC7A8.36",
@@ -158,7 +158,7 @@
   "box": 9,
   "speaker": "士度",
   "jp": "プライドってモンがあるだろう…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AC7A8.38",
@@ -173,6 +173,6 @@
   "box": 10,
   "speaker": "笑師",
   "jp": "なんや、残念やな…　",
-  "en": ""
+  "en": "Aw, what a shame..."
  }
 ]

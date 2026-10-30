@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "十兵衛　",
   "jp": "…まるでカラクリ屋敷だな",
-  "en": ""
+  "en": "...This mansion is full of trick mechanisms."
  },
  {
   "id": "7BEF08.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "普段はなにかを隠すために",
-  "en": ""
+  "en": "It seems like it's normally used to hide"
  },
  {
   "id": "7BEF08.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "使用されているって感じだね　",
-  "en": ""
+  "en": "something."
  },
  {
   "id": "7BEF08.12",
@@ -43,6 +43,6 @@
   "box": 3,
   "speaker": "花月",
   "jp": "衣装部屋のカギを手に入れた！",
-  "en": ""
+  "en": "Got the Costume Room Key!"
  }
 ]

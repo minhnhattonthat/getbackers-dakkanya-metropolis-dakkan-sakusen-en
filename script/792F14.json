@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "？？？　",
   "jp": "ＴＡＲＥ！　",
-  "en": ""
+  "en": "TARE!"
  },
  {
   "id": "792F14.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "あン？　テアだぁ！？",
-  "en": ""
+  "en": "Huh? 'Tare'?! What's a tare?!"
  },
  {
   "id": "792F14.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "？？？　",
   "jp": "ＴＡＲＥ！　探シマシタデスヨ！　",
-  "en": ""
+  "en": "TARE! I looked and looked for you! I am so"
  },
  {
   "id": "792F14.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "？？？　",
   "jp": "無事デ良カッタ…",
-  "en": ""
+  "en": "glad you are safe..."
  },
  {
   "id": "792F14.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "あの～…",
-  "en": ""
+  "en": "Ummm..."
  },
  {
   "id": "792F14.18",
@@ -80,7 +80,7 @@
   "box": 5,
   "speaker": "？？？　",
   "jp": "ハッ！　",
-  "en": ""
+  "en": "Huh! You are not TARE, are you?"
  },
  {
   "id": "792F14.21",
@@ -88,7 +88,7 @@
   "box": 5,
   "speaker": "？？？　",
   "jp": "アナタ、ＴＡＲＥジャアリマセンネ？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "792F14.23",
@@ -103,7 +103,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "そうです",
-  "en": ""
+  "en": "That's right."
  },
  {
   "id": "792F14.27",
@@ -111,7 +111,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "ＴＡＲＥじゃなくて、",
-  "en": ""
+  "en": "I'm not TARE, I'm Ginji Amano."
  },
  {
   "id": "792F14.28",
@@ -119,7 +119,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "天野銀次（あまのぎんじ）です",
-  "en": ""
+  "en": " "
  },
  {
   "id": "792F14.30",
@@ -134,7 +134,7 @@
   "box": 8,
   "speaker": "？？？　",
   "jp": "スミマセン…",
-  "en": ""
+  "en": "I am sorry..."
  },
  {
   "id": "792F14.36",
@@ -149,7 +149,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "いい加減にしろ！！　",
-  "en": ""
+  "en": "Knock it off!!"
  },
  {
   "id": "792F14.40",
@@ -157,7 +157,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "そっちのヤツも　",
-  "en": ""
+  "en": "And what's your deal, popping up out of"
  },
  {
   "id": "792F14.41",
@@ -165,7 +165,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "いきなりなんだってンだよ！　",
-  "en": ""
+  "en": "nowhere?!"
  },
  {
   "id": "792F14.43",
@@ -180,7 +180,7 @@
   "box": 11,
   "speaker": "？？？　",
   "jp": "ボク、ＴＡＲＥ探シテル　",
-  "en": ""
+  "en": "I look for TARE. TARE look very much like"
  },
  {
   "id": "792F14.46",
@@ -188,7 +188,7 @@
   "box": 11,
   "speaker": "？？？　",
   "jp": "ＴＡＲＥ、コノ人ニトテモヨク似テル　",
-  "en": ""
+  "en": "this man."
  },
  {
   "id": "792F14.48",
@@ -196,7 +196,7 @@
   "box": 12,
   "speaker": "？？？　",
   "jp": "デモ違イマシタ…",
-  "en": ""
+  "en": "But I was wrong..."
  },
  {
   "id": "792F14.50",
@@ -211,7 +211,7 @@
   "box": 13,
   "speaker": "銀次",
   "jp": "そのＴＡＲＥって",
-  "en": ""
+  "en": "Is this TARE your friend or something?"
  },
  {
   "id": "792F14.53",
@@ -219,7 +219,7 @@
   "box": 13,
   "speaker": "銀次",
   "jp": "キミの友達かなにかなの？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "792F14.55",
@@ -227,7 +227,7 @@
   "box": 14,
   "speaker": "銀次",
   "jp": "えーと…",
-  "en": ""
+  "en": "Umm..."
  },
  {
   "id": "792F14.57",
@@ -242,7 +242,7 @@
   "box": 15,
   "speaker": "アル",
   "jp": "ボク、名前アル言イマス　",
-  "en": ""
+  "en": "Me, my name is Al."
  },
  {
   "id": "792F14.61",
@@ -250,7 +250,7 @@
   "box": 16,
   "speaker": "アル",
   "jp": "ＴＡＲＥハボクノ大切ナペット！　",
-  "en": ""
+  "en": "TARE is my precious pet! But friends of"
  },
  {
   "id": "792F14.62",
@@ -258,7 +258,7 @@
   "box": 16,
   "speaker": "アル",
   "jp": "デモアノ人ノ仲間ニサラワレタ…　",
-  "en": ""
+  "en": "that man, they take it away..."
  },
  {
   "id": "792F14.64",
@@ -273,7 +273,7 @@
   "box": 17,
   "speaker": "銀次",
   "jp": "蛮ちゃん、オレたちがそのＴＡＲＥを　",
-  "en": ""
+  "en": "Ban-chan, let's take TARE back for him!"
  },
  {
   "id": "792F14.67",
@@ -281,7 +281,7 @@
   "box": 17,
   "speaker": "銀次",
   "jp": "奪り還してあげようよ！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "792F14.69",
@@ -296,7 +296,7 @@
   "box": 18,
   "speaker": "蛮　",
   "jp": "ンな一銭の得にもならねェような仕事、",
-  "en": ""
+  "en": "Who'd take a job that won't earn us a"
  },
  {
   "id": "792F14.72",
@@ -304,7 +304,7 @@
   "box": 18,
   "speaker": "蛮　",
   "jp": "誰が引き受けるかってんだよ！",
-  "en": ""
+  "en": "single yen?!"
  },
  {
   "id": "792F14.74",
@@ -312,7 +312,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "ただでさえ腹が減って…　",
-  "en": ""
+  "en": "We're starving as it is..."
  },
  {
   "id": "792F14.76",
@@ -327,7 +327,7 @@
   "box": 20,
   "speaker": "アル",
   "jp": "オ金、イッパイアル！",
-  "en": ""
+  "en": "Money, I have lots! Please! Take back TARE!"
  },
  {
   "id": "792F14.79",
@@ -335,7 +335,7 @@
   "box": 20,
   "speaker": "アル",
   "jp": "オ願イデス！　ＴＡＲＥ奪リ還シテ！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "792F14.81",
@@ -343,7 +343,7 @@
   "box": 21,
   "speaker": "アル",
   "jp": "ボク、コノ街ノコトヨク分カラナイ…　",
-  "en": ""
+  "en": "Me, I do not know this town well..."
  },
  {
   "id": "792F14.83",
@@ -358,7 +358,7 @@
   "box": 22,
   "speaker": "蛮　",
   "jp": "それを早く言えってんだよ！　",
-  "en": ""
+  "en": "Shoulda said that sooner! If there's a fee,"
  },
  {
   "id": "792F14.86",
@@ -366,7 +366,7 @@
   "box": 22,
   "speaker": "蛮　",
   "jp": "依頼料が出るなら話は別だ！！",
-  "en": ""
+  "en": "that's a different story!!"
  },
  {
   "id": "792F14.89",
@@ -374,7 +374,7 @@
   "box": 23,
   "speaker": "蛮　",
   "jp": "ゲットバッカーズ！　",
-  "en": ""
+  "en": "GetBackers! This job... consider it done!!"
  },
  {
   "id": "792F14.90",
@@ -382,7 +382,7 @@
   "box": 23,
   "speaker": "蛮　",
   "jp": "この依頼、確かに引き受けた！！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "792F14.92",
@@ -397,7 +397,7 @@
   "box": 24,
   "speaker": "アル",
   "jp": "ゲット…？？？　",
-  "en": ""
+  "en": "Get...???"
  },
  {
   "id": "792F14.96",
@@ -412,7 +412,7 @@
   "box": 25,
   "speaker": "銀次",
   "jp": "そう、オレたちは",
-  "en": ""
+  "en": "Yep, we're the retrievers with a nearly"
  },
  {
   "id": "792F14.99",
@@ -420,7 +420,7 @@
   "box": 25,
   "speaker": "銀次",
   "jp": "成功率ほぼ１００％の奪還屋…",
-  "en": ""
+  "en": "100% success rate..."
  },
  {
   "id": "792F14.101",
@@ -428,7 +428,7 @@
   "box": 26,
   "speaker": "銀次",
   "jp": "ＧｅｔＢａｃｋｅｒｓ",
-  "en": ""
+  "en": "The GetBackers!"
  },
  {
   "id": "792F14.102",
@@ -436,7 +436,7 @@
   "box": 26,
   "speaker": "銀次",
   "jp": "（ゲットバッカーズ）！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "792F14.104",
@@ -451,7 +451,7 @@
   "box": 27,
   "speaker": "蛮　",
   "jp": "俺は美堂蛮（みどうばん）だ　",
-  "en": ""
+  "en": "I'm Ban Mido. Nice to meet ya, Mr. Sponsor."
  },
  {
   "id": "792F14.107",
@@ -459,6 +459,6 @@
   "box": 27,
   "speaker": "蛮　",
   "jp": "よろしくな、スポンサーさんよ",
-  "en": ""
+  "en": " "
  }
 ]

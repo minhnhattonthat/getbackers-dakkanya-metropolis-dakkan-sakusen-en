@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "卑弥呼　",
   "jp": "馬車サン、後ろからうるさいのが　",
-  "en": ""
+  "en": "Driver-san, looks like some noisy pests"
  },
  {
   "id": "6E6628.24",
@@ -20,14 +20,14 @@
   "box": 1,
   "speaker": "卑弥呼　",
   "jp": "追いかけて来たみたいよ　",
-  "en": ""
+  "en": "are chasing us from behind."
  },
  {
   "id": "6E6628.26",
   "kind": "name",
   "box": 1,
   "jp": "馬車",
-  "en": "Carriage"
+  "en": "Driver"
  },
  {
   "id": "6E6628.28",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "馬車",
   "jp": "ナメてもらっては困るきに、　",
-  "en": ""
+  "en": "Don't you underestimate me. I won't let"
  },
  {
   "id": "6E6628.29",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "馬車",
   "jp": "あんなポンコツには追いつかせんぜよ　",
-  "en": ""
+  "en": "that heap of junk catch up!"
  },
  {
   "id": "6E6628.31",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "ジャッカル、あなたはあいつらと　",
-  "en": ""
+  "en": "Jackal, I know you'd love to fight them,"
  },
  {
   "id": "6E6628.34",
@@ -66,7 +66,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "戦いたいでしょうけど、　",
-  "en": ""
+  "en": "but..."
  },
  {
   "id": "6E6628.36",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "卑弥呼　",
   "jp": "ここで追いつかれるわけには行かないわ",
-  "en": ""
+  "en": "we can't let them catch us here. Let's"
  },
  {
   "id": "6E6628.37",
@@ -82,7 +82,7 @@
   "box": 4,
   "speaker": "卑弥呼　",
   "jp": "一気に突き放すわよ　",
-  "en": ""
+  "en": "leave them in the dust."
  },
  {
   "id": "6E6628.39",
@@ -97,7 +97,7 @@
   "box": 5,
   "speaker": "赤屍",
   "jp": "ここはあなたにお任せしますよ、　",
-  "en": ""
+  "en": "I will leave this to you, Lady Poison..."
  },
  {
   "id": "6E6628.42",
@@ -105,14 +105,14 @@
   "box": 5,
   "speaker": "赤屍",
   "jp": "レディ・ポイズン…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "6E6628.44",
   "kind": "name",
   "box": 5,
   "jp": "馬車",
-  "en": "Carriage"
+  "en": "Driver"
  },
  {
   "id": "6E6628.46",
@@ -120,6 +120,6 @@
   "box": 6,
   "speaker": "馬車",
   "jp": "消えろ！　奪還屋！！",
-  "en": ""
+  "en": "Get lost, GetBackers!!"
  }
 ]

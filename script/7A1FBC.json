@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "警備員　",
   "jp": "お前らか、　",
-  "en": ""
+  "en": "So you're the ones who came to steal the"
  },
  {
   "id": "7A1FBC.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "警備員　",
   "jp": "衣装を奪いにきた連中というのは　",
-  "en": ""
+  "en": "costume."
  },
  {
   "id": "7A1FBC.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "警備員　",
   "jp": "ここから先へ通すわけにはいかんな！　",
-  "en": ""
+  "en": "We can't let you go any further!"
  },
  {
   "id": "7A1FBC.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ハッ、面白ェ！　",
-  "en": ""
+  "en": "Hah, this oughta be fun! Try it if you think"
  },
  {
   "id": "7A1FBC.11",
@@ -51,6 +51,6 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "やれるモンならやってみな！！",
-  "en": ""
+  "en": "you can!!"
  }
 ]

@@ -1,0 +1,414 @@
+>> 7CF68C.3 | [銀次] なにアレ、ＴＡＲＥを培養してる…？
+   What's that? Are they growing TARE...?
+>> 7CF68C.7 | [蛮] ここなら液体窒素あるんじゃねーか？
+   Bet there's liquid nitrogen in here, huh?
+>> 7CF68C.12 | [民Ａ] …何者ダ！？
+   ...Who goes there?!
+>> 7CF768.3 | [民Ａ] 侵入者カ…コノ場デ消シテヤル
+   Intruders... I erase you here and now.
+>> 7CF768.7 | [銀次] 待って、話を聞いてよ！！
+   Wait, just hear us out!!
+>> 7CF768.11 | [民Ａ] 侵入者ガナニ言ウカ！
+   Intruders, what you say?!
+>> 7CF768.16 | [民Ｂ] 待テ！　ソノ人タチ…あるノ知リ合イダ
+   Wait! Those people... they are Al's friends.
+>> 7CF768.18 | [民Ｂ] …話、聞コウ
+   ...We listen.
+>> 7CF768.22 | [蛮] やれやれ、 / 話の分かるヤツがいて良かったぜ…
+   Sheesh. Glad there's somebody here who's reasonable...
+>> 7CF768.25 | [蛮] で、アンタは / どこまで俺たちのこと知ってンだ？
+   So how much do you know about us?
+>> 7CF768.30 | [民Ｂ] ダイタイノ事、あるカラ聞イテル
+   Most things, we hear from Al.
+>> 7CF768.32 | [民Ｂ] 我々ハあるノ考エニ賛同シテルカラナ
+   We agree with Al's thinking, after all.
+>> 7CF768.36 | [蛮] なら俺たちに協力してくんねーか？
+   Then how about helping us out?
+>> 7CF768.40 | [民Ｂ] イイダロウ…ナニガ望ミダ？
+   Very well... What you want?
+>> 7CF768.44 | [蛮] 液体窒素が欲しい
+   I want liquid nitrogen.
+>> 7CF768.46 | [蛮] このビルには爆弾が / 仕掛けられているからな…
+   There's a bomb planted in this building...
+>> 7CF768.49 | [蛮] そいつを黙らせるのに必要だ
+   We need it to shut that thing up.
+>> 7CF768.53 | [民Ｂ] 液体窒素カ…
+   Liquid nitrogen...
+>> 7CF768.57 | [銀次] ない…とか？
+   You... don't have any?
+>> 7CF768.61 | [民Ｂ] イヤ、倉庫ノ中ニ入ッテルガ… / ソノカギ持ッテル者ノ姿ガ見エナイ
+   No, it is in warehouse... But the one with the key, I do not see him.
+>> 7CF768.66 | [銀次] えっ、どこかに行っちゃったの？
+   Huh? Did he go somewhere?
+>> 7CF768.70 | [民Ｂ] 下ニ様子見ニ行ッタキリ / 戻ッテコナイノダ
+   He go down to look around, and he not come back.
+>> 7CF768.75 | [銀次] どうする、蛮ちゃん？
+   What do we do, Ban-chan?
+>> 7CF768.79 | [蛮] 探しにいくしかなさそうだな…
+   Looks like we've got no choice but to go find him...
+>> 7CFC5C.3 | [民Ａ] カギ持ッテル者ハ下ノ階ニイルハズダ
+   The one with key, he should be on lower floor.
+>> 7CFC5C.5 | [民Ａ] 多分、８０階付近ニイルダロウ…
+   Maybe he is around floor 80...
+>> 7CFCE0.3 | [銀次] これってＴＡＲＥを培養してるの？
+   Are they growing TARE here?
+>> 7CFCE0.7 | [民Ｂ] ソウダ
+   Yes.
+>> 7CFCE0.9 | [民Ｂ] タダ正確ニハ『︀Ｔ・Ａ』︀培養シテル / ＴＡＲＥハあるノ『︀Ｔ・Ａ』︀ノ名前ダ
+   But to be exact, we grow 'T.A.' TARE is Al's name for 'T.A.'
+>> 7CFCE0.12 | [民Ｂ] 人工生命体『︀Ｔ・Ａ』︀…
+   Artificial life form 'T.A.'...
+>> 7CFCE0.16 | [銀次] アルくんはＴＡＲＥのこと / 母国の生き物だって言ってたけど…
+   But Al-kun said TARE was a creature from his homeland...
+>> 7CFCE0.21 | [民Ｂ] あるハ小サイ頃カラＴＡＲＥト / 一緒ダッタカラ、ソウ思イ込ンデル
+   Al is with TARE since he was small, so he believes so.
+>> 7CFCE0.26 | [蛮] で…なんなんだ、コイツは？
+   So... what the heck is this thing?
+>> 7CFCE0.30 | [民Ｂ] 『︀Ｔ・Ａ』︀ハまりおねっとノ素体ダ
+   'T.A.' is base body of marionette.
+>> 7CFCE0.34 | [銀次] マリオネット？
+   Marionette?
+>> 7CFCE0.38 | [民Ｂ] 我ガ国ノ兵士ダ
+   Soldiers of our nation.
+>> 7CFCE0.40 | [民Ｂ] 戦ッタコト、アルダロウ？
+   You fight them before, yes?
+>> 7CFCE0.44 | [銀次] そっか…いつも戦ってるやつって / 元はＴＡＲＥみたいなんだ…
+   Oh, I get it... So those guys we keep fighting were originally like TARE...
+>> 7CFCE0.49 | [民Ｂ] 『︀Ｔ・Ａ』︀ニ人形遣イト呼バレル者ガ / 念送リ込ムトまりおねっとデキル
+   When one called puppeteer sends will into 'T.A.', it becomes marionette.
+>> 7CFCE0.54 | [蛮] アルは人形遣いってコトか
+   So Al's a puppeteer.
+>> 7CFCE0.56 | [蛮] でもって、あの王様も…
+   And so's that king of yours...
+>> 7CFCE0.60 | [民Ｂ] ソウダ
+   Yes.
+>> 7CFCE0.62 | [民Ｂ] 王様ハ強イ…油断スルナヨ
+   The king is strong... Do not let guard down.
+>> 7D0110.3 | [銀次] カヅっちゃん、士度、十兵衛！ / みんな無事で良かったよ～！！
+   Kazu-chan, Shido, Juubei! I'm so glad you're all okay~!!
+>> 7D0110.8 | [花月] フフ…あれ位の修羅場は無限城の頃に / 嫌というほどくぐっていますからね…
+   Heh... We had more than our fill of scrapes like that in the Infinity Fortress...
+>> 7D0110.11 | [花月] それで、爆弾はどうなりました？
+   So, what happened with the bomb?
+>> 7D0110.15 | [銀次] う～ん、それが色々大変で…
+   Hmmm, well, it's been kind of a big mess...
+>> 7D0110.17 | [銀次] 時間ないから歩きながら説明するね
+   We're out of time, so I'll explain while we walk.
+>> 7D028C.3 | [銀次] あの、倉庫のカギ持ってません？
+   Um, do you have the warehouse key?
+>> 7D028C.7 | [民Ｃ] ………
+   ......
+>> 7D028C.11 | [蛮] 安心しろ、俺らはアルの知り合いだ
+   Relax, we're friends of Al's.
+>> 7D028C.15 | [民Ｃ] …ソウデスカ
+   ...I see.
+>> 7D028C.17 | [民Ｃ] デモ、私ハカギ持ッテマセン
+   But I do not have key.
+>> 7D028C.19 | [民Ｃ] カギ持ッテル者、モット下ニ行キマシタ
+   The one with key, he went further down.
+>> 7D028C.21 | [民Ｃ] ７０階辺リニイルト思イマスガ…
+   I think he is around floor 70...
+>> 7D028C.25 | [銀次] そっかあ…どうもありがと！
+   Aww, okay... Thanks anyway!
+>> 7D0440.3 | [民Ｃ] 王様ノコトオ願イシマス
+   Please, take care of the king.
+>> 7D0440.5 | [民Ｃ] モウ我々ニハ止メルコトデキナイ…
+   We cannot stop him anymore...
+>> 7D04B8.3 | [蛮] おう、卑弥呼 / 今回は泣かされなかったみてえだな？
+   Hey, Himiko. Looks like nobody made you cry this time, huh?
+>> 7D04B8.8 | [卑弥呼] なによ、それ？　あたしが敵に負けて / 泣いてるとでも思ったわけ？
+   Meaning what? You thought I lost to some enemy and was crying?
+>> 7D04B8.11 | [卑弥呼] それで…爆弾の方は解決したわけ？
+   So... did you take care of the bomb?
+>> 7D04B8.15 | [蛮] いや…
+   Nope...
+>> 7D04B8.17 | [蛮] ま、歩きながら説明するわ
+   Well, I'll explain while we walk.
+>> 7D060C.3 | [蛮] よォ、倉庫のカギ持ってねえか？
+   Yo, you got the warehouse key?
+>> 7D060C.7 | [民Ｄ] ………
+   ......
+>> 7D060C.11 | [銀次] 安心して、 / オレたちはアルくんの友達ですよ
+   Don't worry, we're Al-kun's friends.
+>> 7D060C.16 | [民Ｄ] アア…話ハ聞イテマス
+   Ah... I hear about you.
+>> 7D060C.18 | [民Ｄ] デモ、カギヲ持ッテルノ私デハナイ
+   But the one with key is not me.
+>> 7D060C.20 | [民Ｄ] ソノ者、モット下ニ行キマシタ
+   That one, he went further down.
+>> 7D060C.22 | [民Ｄ] ６０階辺リニイルハズデス
+   He should be around floor 60.
+>> 7D060C.26 | [銀次] もっと下かあ… / ありがと、探してみます！
+   Even further down, huh... Thanks, we'll go look!
+>> 7D07D8.3 | [民Ｄ] あるノ願イハ我々ノ願イデモアリマス
+   Al's wish is our wish, too.
+>> 7D07D8.5 | [民Ｄ] 王様ノコト、頼ミマス
+   Please, the king, we leave to you.
+>> 7D0850.3 | [蛮] おい、倉庫のカギ持ってねえか？
+   Hey, you got the warehouse key?
+>> 7D0850.7 | [民Ｅ] 持ッテマスガ…アナタガタハ？
+   I have it, but... who are you?
+>> 7D0850.11 | [銀次] オレたちはアルくんの友達です
+   We're Al-kun's friends.
+>> 7D0850.15 | [民Ｅ] ソウデスカ…アナタタチガ…
+   I see... So you are the ones...
+>> 7D0850.17 | [民Ｅ] かぎガ必要ナンデスネ？
+   You need key, yes?
+>> 7D0850.19 | [民Ｅ] オ渡シシマショウ
+   I give it to you.
+>> 7D0850.23 | [民Ｅ] 倉庫のカギを手に入れた！
+   Got the Warehouse Key!
+>> 7D0850.27 | [銀次] ありがと！
+   Thanks!
+>> 7D0A08.3 | [民Ｅ] 王様トあるノコト、オ願イシマス
+   Please, the king and Al, we leave to you.
+>> 7D0A5C.3 | [蛮] ギリギリだったな…
+   That was cutting it close...
+>> 7D0A5C.5 | [蛮] ま、これで時間稼ぎはできるはずだ
+   Well, this oughta buy us some time.
+>> 7D0A5C.10 | [銀次] あっ、ＭＡＫＵＢＥＸからだ
+   Oh, it's MakubeX!
+>> 7D0A5C.15 | [マクベス] 銀次さん、爆弾は見つかりましたか？
+   Ginji-san, did you find the bomb?
+>> 7D0A5C.19 | [銀次] あ、うん / 爆弾は見つけて凍らせたんだけど…
+   Ah, yeah. We found the bomb and froze it, but...
+>> 7D0A5C.24 | [マクベス] それで十分ですよ / 後の事は僕たちに任せて下さい
+   That's good enough. Leave the rest to us.
+>> 7D0A5C.29 | [銀次] いいの？
+   Is that okay?
+>> 7D0A5C.33 | [マクベス] ええ、爆弾の解体には / 専門知識が要求されますからね…
+   Yes. Defusing a bomb calls for expert knowledge, after all...
+>> 7D0A5C.36 | [マクベス] 今、専門家をそちらに / 向わせていますので大丈夫ですよ
+   I'm sending a specialist your way now, so it'll be fine.
+>> 7D0A5C.41 | [銀次] ありがと、ＭＡＫＵＢＥＸ
+   Thanks, MakubeX.
+>> 7D0A5C.45 | [マクベス] 僕にできるのはこれ位ですからね…
+   This is about all I can do, after all...
+>> 7D0A5C.47 | [マクベス] では銀次さん、気をつけて
+   Take care, Ginji-san.
+>> 7D0D8C.3 | [民Ａ] …行クンダナ？
+   ...You go now?
+>> 7D0D8C.7 | [蛮] ああ…そろそろ決着をつけねーとな
+   Yeah... Time we settled this.
+>> 7D0D8C.11 | [民Ａ] ソウカ… / ナラバコレヲ持ッテイケ
+   I see... Then take this with you.
+>> 7D0D8C.16 | [民Ａ] 蓬莱の玉を手に入れた！
+   Got a Horai Jewel!
+>> 7D0D8C.20 | [銀次] ありがと！ / じゃ…行ってくるね！！
+   Thanks! Well... we're off!!
+>> 7D0EE0.3 | [民Ａ] 王様ハ九ツノばりあ持ッテル / ソノばりあハ属性ノ力デシカ破レナイ…
+   The king has nine barriers. Those barriers break only with power of elements...
+>> 7D0EE0.6 | [民Ａ] 気ヲ付ケロヨ
+   Be careful.
+>> 7D0F70.3 | [銀次] あ、あれ…止まっちゃった？
+   Wh-What...? Did it stop?
+>> 7D0F70.7 | [蛮] 後は自分の足で昇ってこいってことか…
+   So he wants us to climb up the rest on our own two feet...
+>> 7D0F70.9 | [蛮] 上等じゃねえかよ、昇ってやらあ！
+   Bring it on! I'll climb all the way up!
+>> 7D1038.3 | [民Ｂ] 頼ンダゾ、異国ノ戦士タチ…
+   We count on you, warriors from foreign land...
+>> 7D1088.3 | [蛮] ＴＡＲＥを培養してンのかよ…
+   They're growing TARE, huh...
+>> 7D10D8.3 | [銀次] ＴＡＲＥってこうやって作ってるんだ…
+   So this is how they make TARE...
+>> 7D1130.3 | [卑弥呼] 人工生命体だったってわけね
+   So it was an artificial life form.
+>> 7D1184.3 | [赤屍] ………
+   ......
+>> 7D11C0.3 | [花月] 見慣れない生き物だと思いましたが、 / やはり造られたものだったんですね
+   I thought it was an unfamiliar creature... so it was made after all.
+>> 7D123C.3 | [士度] …あいつ、造られたものだったのか
+   ...So that thing was made, huh.
+>> 7D123C.5 | [士度] まあでも生き物には変わりねえか
+   Well, it's still a living thing either way.
+>> 7D12BC.3 | [笑師] んん？　培養しとるやん、ＴＡＲＥ
+   Hmm? They're growin' 'em, huh? TARE.
+>> 7D12BC.5 | [笑師] ぎょうさん造ってんなあ、これ
+   They're churnin' out a whole bunch of these, ain't they?
+>> 7D1338.3 | [十兵衛] ………
+   ......
+>> 7D1378.3 | [鏡] 人工生命体、か…
+   Artificial life, huh...
+>> 7D13BC.3 | [民Ａ] スマンガ爆弾ヲ頼ムゾ…
+   Sorry, but the bomb, we leave to you...
+>> 7D1408.3 | [民Ｂ] 任セテバカリデスマンナ…
+   Sorry we leave everything to you...
+>> 7D1454.3 | [銀次] たっだいま～！
+   We're ho~me!
+>> 7D1454.5 | [銀次] ねえねえ、ヘヴンさん聞いてよ！
+   Hey, hey, Hevn-san, listen to this!
+>> 7D1454.7 | [銀次] 蛮ちゃんたら、アルくんと / 別れる時に泣いちゃってさ～
+   When Ban-chan said goodbye to Al-kun, he went and cried~
+>> 7D1454.12 | [蛮] そりゃテメーじゃねえかよ！ / ったく、ホラ吹いてンじゃねーよ
+   That was you, dammit! Quit spouting nonsense!
+>> 7D1454.17 | [ヘヴン] アラ、鬼の目にも涙ね
+   My, even the devil sheds tears, huh?
+>> 7D1454.21 | [蛮] …オイ、俺の話聞いてんのかよ？
+   ...Hey, are you even listening to me?
+>> 7D1454.25 | [銀次] でも、寂しくなっちゃうよね～ / 昨日までここにアルくんがいたのにさ…
+   But it's gonna get lonely, huh~? Al-kun was here till just yesterday...
+>> 7D1454.30 | [夏実] そのアルくんから手紙が届いてますよ
+   Actually, a letter came from that very Al-kun.
+>> 7D1454.32 | [夏実] 蛮 / 銀次
+   Ban / Ginji
+>> 7D1454.35 | [夏実] は、早っ！！
+   Th-That was fast!!
+>> 7D1454.39 | [蛮] ヤツとは / ついさっき別れたばかりなんだぜ！？
+   We only just said goodbye to the guy a minute ago!
+>> 7D1454.44 | [夏実] 二人がここに来るちょっと前に / ハトみたいなのが運んできましたよ？
+   Something like a pigeon brought it just a little before you two got here.
+>> 7D1454.49 | [蛮] （…ハトみたいなの！？）
+   (...Something LIKE a pigeon?!)
+>> 7D1454.53 | [銀次] ねえ蛮ちゃん、読んでみてよ
+   Hey, Ban-chan, read it out!
+>> 7D1454.57 | [蛮] まあ待ってろって…なになに？
+   Hold your horses... Let's see here?
+>> 7D1454.59 | [蛮] 『︀ボクうっかりしてて / ＴＡＲＥ置いてきちゃった
+   'I was careless, and I left TARE behind.
+>> 7D1454.62 | [蛮] お願いです、ＴＡＲＥ見つけて下さい！
+   Please, find TARE for me!
+>> 7D1454.64 | [蛮] ほっといたらＴＡＲＥなにするか / 分からない…あぶないヨ！
+   If you leave TARE alone, nobody knows what TARE will do... It is dangerous!
+>> 7D1454.67 | [蛮] アルより』︀
+   From Al'
+>> 7D1454.69 | [蛮] ………
+   ......
+>> 7D1454.73 | [銀次] ＴＡＲＥってそんなに危険なのかな？
+   Is TARE really that dangerous?
+>> 7D1454.75 | [銀次] どうする、蛮ちゃん？
+   What do we do, Ban-chan?
+>> 7D1454.79 | [蛮] じょーだんじゃねえっつーの、 / 俺たちは便利屋じゃねんだよ
+   Gimme a break, we ain't errand boys!
+>> 7D1454.85 | [銀次] …あれ、ケータイ鳴ってる？
+   ...Huh, is my cell ringing?
+>> 7D1454.90 | [マクベス] 銀次さん、無事でなによりです
+   Ginji-san, I'm glad you're safe.
+>> 7D1454.94 | [銀次] うん、ありがと…で、どしたの？
+   Yeah, thanks... So, what's up?
+>> 7D1454.98 | [マクベス] ええ…この前の電波ジャックのこと / 覚えてますか？
+   Well... Do you remember the broadcast hijack the other day?
+>> 7D1454.103 | [銀次] ああ、あれってＭＡＫＵＢＥＸが / やってくれたの？
+   Oh, so that was you, MakubeX?
+>> 7D1454.108 | [マクベス] そうなんですけど… / ちょっとその時に手違いがありましてね
+   It was, but... there was a little mishap at the time.
+>> 7D1454.113 | [銀次] 手違い…？？？
+   A mishap...???
+>> 7D1454.117 | [マクベス] タワーのシステムにウィルスがあって、 / あなたたちのＶＲがコピーされたんです
+   There was a virus in the tower's system, and your VR data got copied.
+>> 7D1454.122 | [銀次] ええっ！？
+   Whaaat?!
+>> 7D1454.126 | [マクベス] 今は僕の方でデータ流出を / 抑えられたんですけど…
+   I've managed to stop the data leak on my end for now, but...
+>> 7D1454.129 | [マクベス] 実体化しちゃったものは物理的に / 取り除かないといけないんです
+   anything that's already materialized has to be removed physically.
+>> 7D1454.134 | [銀次] ………あう
+   ......Uhh.
+>> 7D1454.138 | [マクベス] …というわけで、 / お二人に仕事を依頼したいと思いまして
+   ...So, I'd like to hire you two for a job.
+>> 7D1454.141 | [マクベス] そうですね…アルファタワーの平和を / 奪還するということでどうですか？
+   Let's see... How about you retrieve the peace of Alpha Tower?
+>> 7D1454.144 | [マクベス] 依頼料はこの前の電波ジャックの / 仕事料をチャラにするってことで…
+   As for your fee, I'll wipe out what you owe me for that broadcast hijack...
+>> 7D1454.147 | [マクベス] では、お願いします
+   Well then, I'm counting on you.
+>> 7D1454.153 | [銀次] …ってことなんだけど、蛮ちゃん………
+   ...So that's the deal, Ban-chan......
+>> 7D1454.157 | [蛮] 冗談じゃねえってンだよ！！
+   Gimme a break, dammit!!
+>> 7D1454.159 | [蛮] だいたい電波ジャックのことなんざ、 / 俺たちは知らねえぞ！！
+   And we don't know a damn thing about any broadcast hijack!!
+>> 7D1454.164 | [ヘヴン] あっ、それね… / 私がＭＡＫＵＢＥＸクンにお願いしたの
+   Oh, about that... I'm the one who asked MakubeX-kun to do it.
+>> 7D1454.167 | [ヘヴン] 依頼料はあんたたちから出るからって♥
+   I told him you two would pay the fee♥
+>> 7D1454.171 | [蛮] …なンだ、そりゃ？
+   ...The hell?
+>> 7D1454.175 | [ヘヴン] あんたたち、アルくんの国のすっごい / お宝が手に入るはずだったじゃない？
+   Weren't you boys supposed to get some super treasure from Al-kun's country?
+>> 7D1454.178 | [ヘヴン] それ位お手のものかなーと思って
+   So I figured that'd be a piece of cake for you.
+>> 7D1454.182 | [夏実] そういえばどうしたんですか、お宝？
+   Come to think of it, what happened to the treasure?
+>> 7D1454.184 | [夏実] 蛮 / 銀次
+   Ban / Ginji
+>> 7D1454.187 | [夏実] ………………
+   ..........
+>> 7D1454.191 | [蛮] …拾いに行くぞ、銀次！
+   ...We're going to go fish it out, Ginji!
+>> 7D1454.193 | [蛮] ＤＶＤロムってのは / 水にぬれたくれェで死にゃしねえ！！
+   A DVD-ROM won't die just from getting a little wet!!
+>> 7D1454.198 | [銀次] ム…ムリだよ、蛮ちゃん！ / あきらめてアルファタワーに行こうよ！
+   N-No way, Ban-chan! Give it up and let's go to Alpha Tower!
+>> 7D1454.203 | [蛮] クソッ！　なんで俺たちがこんな目に…
+   Damn it! Why do we always get stuck with this?!
+>> 7D1454.207 | [波児] ま、近頃騒がしいのは / アルファタワーＴＨＲＥＥの方だ
+   Well, the place that's been noisy lately is Alpha Tower THREE.
+>> 7D1454.210 | [波児] ＴＡＲＥもＶＲもそこにいるだろうよ
+   I bet both TARE and the VRs are there.
+>> 7D1454.214 | [蛮] あのヤロー、やっぱ疫病神だったな…
+   That brat really was a jinx after all...
+>> 7D2364.3 | [蛮] ったく、二度とここにゃ昇らねえと / 思ってたんだけどな…
+   Man, I thought I'd never climb this place again...
+>> 7D2364.8 | [銀次] 蛮ちゃん…１階から昇るの？
+   Ban-chan... are we climbing from the 1st floor?
+>> 7D2364.12 | [蛮] ま、ここは８０階から下は / 殆ど出来てねえって話だからな…
+   Well, word is everything below the 80th floor is barely built here...
+>> 7D2364.15 | [蛮] とりあえず８０階まで行くとするか
+   Let's head up to the 80th floor for now.
+>> 7D249C.3 | [銀次] わっ！ / 向こうからカヅっちゃんと十兵衛が！
+   Whoa! Kazu-chan and Juubei are coming from over there!
+>> 7D249C.6 | [銀次] こっちにもカヅっちゃんと十兵衛が！ / どうなってんの？？？
+   And there's Kazu-chan and Juubei over here, too! What's going on???
+>> 7D249C.11 | [蛮] アホ！　ＭＡＫＵＢＥＸの作り出した / ＶＲだろうが！
+   Idiot! They're VR copies made by MakubeX!
+>> 7D249C.16 | [銀次] …だって！ / カヅっちゃん、十兵衛、どうする？
+   ...He says! Kazu-chan, Juubei, what do we do?
+>> 7D249C.21 | [花月] 偽者ですか…許せませんね
+   Impostors, are they...? Unforgivable.
+>> 7D249C.23 | [花月] この世に風鳥院花月は / 一人いればいいのです
+   One Kazuki Fuchoin in this world is quite enough.
+>> 7D249C.28 | [十兵衛] 同感だ / 本物は世界に一つあればそれでいい！
+   Agreed. The genuine article need exist only once in this world!
+>> 7D26C8.3 | [花月] 所詮は偽者… / 本物には遠く及ばないと見える
+   Mere impostors after all... It seems they fall far short of the real thing.
+>> 7D26C8.8 | [十兵衛] 全くだな
+   Quite so.
+>> 7D275C.3 | [笑師] おっ、お次はワイらのＶＲかいな！ / しっかしよう似とりますなあ～
+   Oh, next up is our VR, huh? Man, they look just like us~
+>> 7D275C.6 | [笑師] これで漫才コンビできんかいな？
+   Think we could make a comedy duo outta this?
+>> 7D275C.10 | [士度] 良かったな、お似合いの相方ができて
+   Good for you. You found yourself a partner that suits you.
+>> 7D275C.14 | [笑師] なんや、士度はんってば / ちぃとさみしぃ思たんちゃいまっか～？
+   What's this, Shido-han? Feelin' a little lonely, ain'tcha~?
+>> 7D275C.19 | [士度] 思ってねえよ！ / ホッとしてんだろうが！！
+   Like hell I am! I'm relieved, dammit!!
+>> 7D275C.24 | [笑師] またまたぁ～、 / ムリせんでエエ言うとりますやんか！
+   Aw, c'mon~, I'm tellin' ya, you don't gotta force it!
+>> 7D275C.27 | [笑師] ワイとお笑いコンビ組みたいなら、 / いつでも言うたってや！
+   If ya wanna form a comedy duo with me, just say the word anytime!
+>> 7D275C.32 | [士度] だから思ってねえっつーの！！
+   I told you, I'm not lonely!!
+>> 7D275C.36 | [蛮] テメーらな…漫才はそれ位にしとけ / 向こうも呆れてンぞ？
+   You two... that's enough of the comedy act. Even they look fed up, y'know?
+>> 7D275C.39 | [蛮] 笑師 / 士度
+   Emishi / Shido
+>> 7D275C.42 | [蛮] …あっ！！
+   ...Ah!!
+>> 7D2A68.3 | [笑師] ま、ニセモノとは / コンビなんぞ組まれへんちゅーことやな
+   Well, guess ya just can't form a duo with a fake, huh?
+>> 7D2A68.6 | [笑師] ほな士度はん、 / これからもよろしゅう頼んまっせ！
+   So, Shido-han, I'm countin' on ya from here on out!
+>> 7D2A68.11 | [士度] …もう勝手にしやがれ
+   ...Do whatever you want.
+>> 7D2B50.3 | [蛮] …なんつーメンツだ、ありゃあ？
+   ...What the hell kind of lineup is that?
+>> 7D2B50.7 | [赤屍] クス…時には自分と / 戦ってみるというのも悪くないですよ
+   Heh... Fighting oneself every now and then is not so bad.
+>> 7D2B50.12 | [銀次] そ、そんなことを思うのは / 赤屍さんだけだと思いますが！？
+   Y-You're the only one who'd think that, Akabane-san!
+>> 7D2B50.17 | [鏡] そうかな？ / オレもなかなか楽しいと思うけど？
+   You think so? I'm finding it pretty fun too, though?
+>> 7D2B50.22 | [銀次] （…赤屍さんと鏡さんは / ちょっとおかしいと思います…）
+   (...I think Akabane-san and Kagami-san are a little weird...)

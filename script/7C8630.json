@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "士度",
   "jp": "ここが電力室なんだがな…",
-  "en": ""
+  "en": "This is the power room, but..."
  },
  {
   "id": "7C8630.5",
@@ -27,6 +27,6 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "停電してると開かねえ、か…　",
-  "en": ""
+  "en": "Won't open in a blackout, huh..."
  }
 ]

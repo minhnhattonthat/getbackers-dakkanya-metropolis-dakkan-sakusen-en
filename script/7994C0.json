@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "モウ１回聞カセテンカー、",
-  "en": ""
+  "en": "Tell me yer story one more time, missy..."
  },
  {
   "id": "7994C0.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "アンサンノ話…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7994C0.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "（…いつからアイツは怪しい関西弁を　",
-  "en": ""
+  "en": "(...Since when does he talk in that dodgy"
  },
  {
   "id": "7994C0.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "しゃべるようになったんだ？）",
-  "en": ""
+  "en": "Kansai dialect?)"
  },
  {
   "id": "7994C0.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "（そういえばこの前、",
-  "en": ""
+  "en": "(Come to think of it, the other day"
  },
  {
   "id": "7994C0.14",
@@ -66,7 +66,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "波児さんが日本語の勉強になるからって",
-  "en": ""
+  "en": "Paul-san said it'd help him learn Japanese,"
  },
  {
   "id": "7994C0.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "関西のお笑いビデオ見せてたよ？）",
-  "en": ""
+  "en": "and showed him some Kansai comedy\nvideos.)"
  },
  {
   "id": "7994C0.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "（なるか、ンなモン）",
-  "en": ""
+  "en": "(Like that'd help.)"
  },
  {
   "id": "7994C0.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "みっちゃん　",
   "jp": "あのね、みっちゃんの髪どめが",
-  "en": ""
+  "en": "Um, Mitchan's hair clip went missing..."
  },
  {
   "id": "7994C0.25",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "みっちゃん　",
   "jp": "なくなっちゃったの…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7994C0.27",
@@ -127,7 +127,7 @@
   "box": 7,
   "speaker": "アル",
   "jp": "紙ガナクナッタンカ？　ソリャ大変ヤ！",
-  "en": ""
+  "en": "Yer paper's gone? That's terrible! Ya can't"
  },
  {
   "id": "7994C0.30",
@@ -135,7 +135,7 @@
   "box": 7,
   "speaker": "アル",
   "jp": "ケツ、フケヘンヤンカ！　",
-  "en": ""
+  "en": "wipe yer butt!"
  },
  {
   "id": "7994C0.32",
@@ -150,7 +150,7 @@
   "box": 8,
   "speaker": "みっちゃん　",
   "jp": "ちがうよ、　",
-  "en": ""
+  "en": "No! The HAIR clip Mama gave me went"
  },
  {
   "id": "7994C0.35",
@@ -158,7 +158,7 @@
   "box": 8,
   "speaker": "みっちゃん　",
   "jp": "ママにもらった髪どめがなくなったの！",
-  "en": ""
+  "en": "missing!"
  },
  {
   "id": "7994C0.37",
@@ -173,7 +173,7 @@
   "box": 9,
   "speaker": "アル",
   "jp": "ソウヤッタンカ　",
-  "en": ""
+  "en": "Oh, is that it? So yer ma's hair went"
  },
  {
   "id": "7994C0.40",
@@ -181,7 +181,7 @@
   "box": 9,
   "speaker": "アル",
   "jp": "オカンノ髪ガナクナッタンカ　",
-  "en": ""
+  "en": "missin'."
  },
  {
   "id": "7994C0.42",
@@ -189,7 +189,7 @@
   "box": 10,
   "speaker": "アル",
   "jp": "オカンモ災難ヤナァ～",
-  "en": ""
+  "en": "Yer ma's had it rough too, huh~ Goin' bald"
  },
  {
   "id": "7994C0.43",
@@ -197,7 +197,7 @@
   "box": 10,
   "speaker": "アル",
   "jp": "ハゲテシモテ…　",
-  "en": ""
+  "en": "like that..."
  },
  {
   "id": "7994C0.45",
@@ -212,7 +212,7 @@
   "box": 11,
   "speaker": "みっちゃん　",
   "jp": "もー、ちがうの、ちがうの！　",
-  "en": ""
+  "en": "Nooo, that's not it, that's not it! It's not"
  },
  {
   "id": "7994C0.48",
@@ -220,7 +220,7 @@
   "box": 11,
   "speaker": "みっちゃん　",
   "jp": "ちがうんだったらぁー！　",
-  "en": ""
+  "en": "like thaaat!"
  },
  {
   "id": "7994C0.50",
@@ -235,7 +235,7 @@
   "box": 12,
   "speaker": "アル",
   "jp": "アァ～、ナカントイテ、ナカントイテ！",
-  "en": ""
+  "en": "Aaah, don't cry, don't cry! I'm sorry, okay..."
  },
  {
   "id": "7994C0.53",
@@ -243,7 +243,7 @@
   "box": 12,
   "speaker": "アル",
   "jp": "カンニンヤデ…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7994C0.55",
@@ -251,6 +251,6 @@
   "box": 13,
   "speaker": "アル",
   "jp": "ド、ドナイシタラエエンヤロ？",
-  "en": ""
+  "en": "Wh-what am I s'posed to do?"
  }
 ]

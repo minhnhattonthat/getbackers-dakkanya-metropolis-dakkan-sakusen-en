@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…電気が戻ったな",
-  "en": ""
+  "en": "...The power's back."
  },
  {
   "id": "7C07CC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "残る部屋は後一つ",
-  "en": ""
+  "en": "Only one room left."
  },
  {
   "id": "7C07CC.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "とすると銀次さんは…",
-  "en": ""
+  "en": "Which means Ginji-san is..."
  },
  {
   "id": "7C07CC.11",
@@ -50,7 +50,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "そこにいるはずだ！　",
-  "en": ""
+  "en": "He's gotta be in there! Let's go!!"
  },
  {
   "id": "7C07CC.14",
@@ -58,6 +58,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "行くぞ！！　",
-  "en": ""
+  "en": " "
  }
 ]

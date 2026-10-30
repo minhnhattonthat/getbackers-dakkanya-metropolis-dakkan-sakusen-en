@@ -1,0 +1,302 @@
+>> 7A0BBC.3 | [銀次] ねえ、蛮ちゃん / ヘヴンさんにガソリン代前借りした時に
+   Hey, Ban-chan, when we borrowed gas money from Hevn-san in advance,
+>> 7A0BBC.6 | [銀次] 後で十倍にして返す / なんて言っちゃったけど平気なの？
+   you said we'd pay her back ten times over... Is that really okay?
+>> 7A0BBC.11 | [蛮] 仕方ねえだろ、そうでも言わねえと / 貸してくれねえんだからよ
+   Couldn't be helped. She wouldn't have lent it to us otherwise.
+>> 7A0BBC.14 | [蛮] それにな、 / 依頼料さえ入ればガソリン代位…
+   Besides, once the fee comes in, gas money's nothing...
+>> 7A0D0C.3 | [蛮] あのムチャクチャな走り…
+   That insane driving...
+>> 7A0D0C.5 | [蛮] 馬車（まぐるま）のオッサンが / 運転してるのは確実だな
+   That's gotta be old man Maguruma behind the wheel.
+>> 7A0D0C.10 | [銀次] 卑弥呼（ひみこ）ちゃんと / 赤屍（あかばね）さんもいるのかな？
+   Do you think Himiko-chan and Akabane-san are there too?
+>> 7A0D0C.15 | [蛮] そいつをこれから確かめる / 行くぜ、銀次！
+   That's what we're about to find out. Let's go, Ginji!
+>> 7A0E54.3 | [蛮] よっしゃあ、捕まえたぜ！
+   All right, gotcha!
+>> 7A0EBC.3 | [蛮] ！　幅寄せだと！？
+   ! They're running us off the road?!
+>> 7A0EBC.5 | [蛮] あいつら、一歩間違えば / 自分らも谷底へ落ちるんだぞ！
+   One wrong move and they'll go over into the gorge too!
+>> 7A0EBC.10 | [銀次] ヤ、ヤバいよ、蛮ちゃん！ / このままじゃ…
+   Th-this is bad, Ban-chan! At this rate...
+>> 7A0EBC.15 | [蛮] ダメだ！　間に合わねえ！！
+   No good! We won't make it!!
+>> 7A0FD8.3 | [卑弥呼] …意外とあっけなかったわね
+   ...That was easier than I expected.
+>> 7A0FD8.7 | [馬車] うはははははは！！
+   Wahahahahaha!!
+>> 7A0FD8.11 | [赤屍] ………
+   ...
+>> 7A0FD8.15 | [馬車] うははは…！？ / しまった、今のショックでハンドルが…
+   Wahaha...?! Blast, that jolt did somethin' to the steering...
+>> 7A0FD8.20 | [卑弥呼] マズいわよ！　このままじゃ / ガソリンスタンドに突っ込むわ！
+   This is bad! At this rate we'll crash into the gas station!
+>> 7A0FD8.25 | [馬車] ダメだ！ / コントロールできないきに！！
+   No good! I can't control it, I tell ya!!
+>> 7A0FD8.30 | [卑弥呼] きゃああああっ！！
+   Kyaaaaah!!
+>> 7A11D4.4 | [蛮] 悪夢は見れたかよ？
+   Enjoy the nightmare?
+>> 7A11D4.8 | [卑弥呼] じゃ、邪眼！？　あの一瞬で？
+   Th-the Evil Eye?! In that split second?
+>> 7A11D4.12 | [銀次] 悪いけど、 / 衣装は奪り還させてもらったよ！！
+   Sorry, but we've taken back the costume!!
+>> 7A11D4.17 | [蛮] ついでに全タイヤを / パンクさせといてやったぜ
+   And while I was at it, I popped all your tires.
+>> 7A11D4.20 | [蛮] これでいくらミスターノーブレーキでも / 手も足も出ねえだろ？
+   Now even Mr. No-Brake can't do a damn thing, right?
+>> 7A11D4.25 | [馬車] ぐうッ…
+   Grrgh...
+>> 7A11D4.29 | [蛮] じゃあな、三人でのんびりと / ドライブでも楽しんでくれや！
+   See ya. You three enjoy a nice, leisurely drive!
+>> 7A13E8.3 | [馬車] 奪還屋たちが逃ぐゆうぞ！
+   The GetBackers are gettin' away!
+>> 7A13E8.7 | [赤屍] クス…時には臆病さも武器ですよ / そうですよね、レディ・ポイズン？
+   Heh... At times, cowardice is a weapon too. Isn't that right, Lady Poison?
+>> 7A13E8.12 | [卑弥呼] そう…あいつらが持っていったのは、 / あたしがすり替えたニセモノなのよ
+   Right... What they took is a fake I swapped in.
+>> 7A13E8.15 | [卑弥呼] 後はあいつらが気付く前に / Ｎホールに辿り着ければ…
+   Now if we can just reach N Hall before they notice...
+>> 7A13E8.20 | [馬車] それなら近道があるきに
+   Then I know a shortcut, I tell ya.
+>> 7A13E8.24 | [卑弥呼] えっ、パンクしたままでこの峠を…？ / ちょ、ちょっと、馬車サン！
+   Huh? Over this pass with flat tires...? H-hey, wait, Maguruma-san!
+>> 7A15F4.3 | [蛮] クソッ！ / ニセモノをつかませるとはな！！
+   Dammit! She stuck us with a fake!!
+>> 7A15F4.8 | [銀次] ゴメンね、蛮ちゃん / オレが確認しなかったばっかりに…
+   Sorry, Ban-chan. It's all because I didn't check...
+>> 7A15F4.13 | [蛮] ウダウダ言ってても仕方ねえ、 / とにかくアイツらを捕まえねえとな
+   No use whining about it. We've gotta catch them, period.
+>> 7A15F4.16 | [蛮] Ｎホールまでの道は車両規制されてて / あの大型トラックじゃ入れねぇはずだ
+   The roads to N Hall are closed to traffic. That big truck shouldn't be able to get in.
+>> 7A15F4.19 | [蛮] となると…
+   Which means...
+>> 7A15F4.23 | [銀次] いたよ！　蛮ちゃん！！
+   There they are, Ban-chan!!
+>> 7A17C4.3 | [赤屍] クス、またお会いしましたね / ゲットバッカーズのお二人さん
+   Heh, we meet again, you two GetBackers.
+>> 7A17C4.8 | [蛮] ハッ、出来れば / 一生会いたくなかったが仕方ねえ
+   Hah, I was hoping never to see you again as long as I live, but whatever.
+>> 7A17C4.11 | [蛮] かかって来いよ、ジャッカル！！
+   Bring it on, Jackal!!
+>> 7A17C4.15 | [赤屍] お二人と戦いたいところですが、 / レディ・ポイズンの指示でしてね…
+   I would love to fight you both, but Lady Poison has given me orders...
+>> 7A17C4.18 | [赤屍] 残念ですが、今は失礼します
+   Regrettably, I must take my leave for now.
+>> 7A17C4.22 | [蛮] テメー、逃げる気かよ！
+   You're running away, punk?!
+>> 7A17C4.24 | [蛮] クソッ、Ｎホールに着くまでに / アイツらに追いつくぞ、銀次！！
+   Dammit, we're catching them before they reach N Hall, Ginji!!
+>> 7A19CC.3 | [蛮] 追い詰めたぜ！
+   Got you cornered!
+>> 7A19CC.5 | [蛮] 大人しく渡せ…なんて言葉、 / テメーらに通用するわけねえよな！
+   "Hand it over quietly"... Like that'd ever work on you lot!
+>> 7A19CC.8 | [蛮] 腹ァくくれよ、銀次！
+   Brace yourself, Ginji!
+>> 7A19CC.12 | [銀次] うん、任せてよ！　蛮ちゃん！！
+   Yeah, leave it to me, Ban-chan!!
+>> 7A19CC.16 | [卑弥呼] ここで依頼品を渡すわけにはいかないわ
+   I can't let you have the cargo here.
+>> 7A19CC.20 | [蛮] この匂い…退化香（たいかこう）か！ / 銀次、吸い込むんじゃ…
+   This smell... Regression Perfume! Ginji, don't breathe it...
+>> 7A19CC.25 | [銀次] ウキ？　ウキキー！
+   Ook? Ook-ook!
+>> 7A19CC.29 | [蛮] こりもせず何度も同じ手を / 食らいやがって…って待てよ、コラ！
+   Falling for the same trick again and again, never learning... Hey, wait, dammit!
+>> 7A1C10.3 | [蛮] テメー、いい加減目ェ覚ませ！ / アイツらに逃げられンじゃねえかよ！
+   Wake up already, dammit! They're getting away!
+>> 7A1C10.9 | [銀次] はっ、どうしたことでしょうか？ / そして手の中にはなぜかこんなものが…
+   Oh! Whatever has happened here? And for some reason, I have these in my hand...
+>> 7A1C10.14 | [銀次] ばんばねのＭ、ばねぎんのＭを / 手に入れた！
+   Got the Ban-Bane Memory and the Bane-Gin Memory!
+>> 7A1C10.19 | [銀次] 蛮ちゃん…なんだろう、コレ？ / Ｍってメ・モ・リー…？？
+   Ban-chan... what are these? "Memory"... Like, Me-mo-ry...??
+>> 7A1C10.24 | [蛮] 知らねえよ！ / それより早く追い掛けるぞ！！
+   How should I know?! Never mind that, we gotta chase 'em!!
+>> 7A1DFC.3 | [蛮] チッ、もう中に入っちまったようだな / 追い掛けるぜ！
+   Tch, looks like they already got inside. After 'em!
+>> 7A1E6C.3 | [銀次] あれ、どこ行っちゃったんだろう？ / 姿が見えないね
+   Huh, where'd they go? I don't see them anywhere.
+>> 7A1E6C.8 | [蛮] 今の時間、 / 一般入場口は封鎖しているはずだ
+   At this hour, the public entrance should be closed.
+>> 7A1E6C.11 | [蛮] 出入りできるのはこの関係者通路のみ / とすれば、まだヤツらは中にいるはずだ
+   The only way in or out is this staff passage, so they've gotta still be inside.
+>> 7A1E6C.16 | [銀次] 分かった、探してみよう！
+   Got it, let's look for them!
+>> 7A1FBC.3 | [警備員] お前らか、 / 衣装を奪いにきた連中というのは
+   So you're the ones who came to steal the costume.
+>> 7A1FBC.6 | [警備員] ここから先へ通すわけにはいかんな！
+   We can't let you go any further!
+>> 7A1FBC.10 | [蛮] ハッ、面白ェ！ / やれるモンならやってみな！！
+   Hah, this oughta be fun! Try it if you think you can!!
+>> 7A20A8.3 | [蛮] …ヤツら、ハカマとかいうのに / 金で雇われてるみてえだな
+   ...Looks like these guys were paid off by this Hakama, or whatever her name is.
+>> 7A20A8.6 | [蛮] ま、なんにせよ、 / 降りかかる火の粉は振り払うのみだ
+   Well, whatever. If sparks fly my way, I just brush 'em off.
+>> 7A2158.3 | [スタッフ] キミたち！　遅いじゃないか！
+   You there! You're late!
+>> 7A2158.7 | [蛮] ？　なンだ？
+   ? Huh?
+>> 7A2158.11 | [スタッフ] アルバイトなのに遅刻してくるなんて / ダメじゃないか
+   You're just part-timers, and you show up late? That won't do.
+>> 7A2158.14 | [スタッフ] 全く、こっちは仕事が / 詰まってるっていうのに…
+   Honestly, and we've got so much work piled up...
+>> 7A2158.19 | [銀次] …人ちが…
+   ...You've got the wrong...
+>> 7A2158.23 | [蛮] （シッ、黙って聞いてろ！ / これで怪しまれずに侵入できんだろが）
+   (Shh, just shut up and listen! This way we can sneak in without looking suspicious.)
+>> 7A2158.29 | [スタッフ] さっそく、働いてもらうからね / まずは飲み物を各控え室に配る仕事だよ
+   You're starting right away. First job: taking drinks to each dressing room.
+>> 7A2158.32 | [スタッフ] 控え室は右からツルコさん、 / キキョウさん、シズクさん、ナミヲさん
+   The rooms from the right: Tsuruko-san, Kikyo-san, Shizuku-san, Namio-san,
+>> 7A2158.35 | [スタッフ] ココロさん、ロクローさん、 / ハカマさんとなっているわけだ…
+   Kokoro-san, Rokuro-san, and Hakama-san...
+>> 7A2158.38 | [スタッフ] ここまではいいかな？
+   Got all that so far?
+>> 7A2158.42 | [銀次] （…蛮ちゃん、 / オレもう分かんないんだけど…）
+   (...Ban-chan, I'm already lost...)
+>> 7A2158.47 | [蛮] （人の名前くれぇ覚えなくても、 / なんとかなンだろ…）
+   (We'll manage without remembering a bunch of names...)
+>> 7A2158.53 | [スタッフ] じゃ、順番を言うからね / まず最初の部屋のツルコさんはコーヒー
+   Okay, I'll go in order. First, Tsuruko-san in the first room gets coffee...
+>> 7A2158.56 | [スタッフ] …が飲めないから、ミルクティー
+   ...no, she can't drink coffee. Milk tea.
+>> 7A2158.58 | [スタッフ] 次の部屋のキキョウさんは / 健康に気をつかってるから野菜ジュース
+   Kikyo-san in the next room watches her health, so vegetable juice.
+>> 7A2158.61 | [スタッフ] 次の部屋のシズクさんは / 砂糖とミルクの入ってるコーヒー
+   Shizuku-san in the next room gets coffee with sugar and milk.
+>> 7A2158.64 | [スタッフ] 次の部屋のナミヲさんは砂糖入りだけど / ミルクの入ってないコーヒー
+   Namio-san in the next room gets coffee with sugar but no milk.
+>> 7A2158.67 | [スタッフ] …いや、待てよそれ逆だったな / ミルクあり、砂糖なしね
+   ...No, wait, that's backwards. Milk, no sugar.
+>> 7A2158.70 | [スタッフ] で、次の部屋のココロさんは / オレンジジュース
+   Then Kokoro-san in the next room gets orange juice.
+>> 7A2158.73 | [スタッフ] 次の部屋のロクローさんは / レモン…あれ、違ったな
+   Rokuro-san in the next room gets lemon... Huh, that's not right.
+>> 7A2158.76 | [スタッフ] ツルコさんがレモンティーで、 / ロクローさんがミルクティーだ
+   Tsuruko-san gets lemon tea, and Rokuro-san gets milk tea.
+>> 7A2158.79 | [スタッフ] で、最後のハカマさんがウーロン茶
+   And last, Hakama-san gets oolong tea.
+>> 7A2158.81 | [スタッフ] ジュースはイベントアイテムの中に / 入れておくよ
+   I'll put the drinks in with your event items.
+>> 7A2158.84 | [スタッフ] アイテムは机の手前からじゃないと / 置けないから気をつけてね
+   Careful, you can only set items down from in front of the table.
+>> 7A2158.89 | [スタッフ] 缶ジュース類を手に入れた！
+   Got the canned drinks!
+>> 7A2864.3 | [銀次] …ば、蛮ちゃん…オレ…オレ………
+   ...B-Ban-chan... I... I......
+>> 7A2864.7 | [蛮] 誰もお前の記憶力あてにしてねーから / 安心しな…
+   Relax, nobody's counting on your memory...
+>> 7A2864.12 | [花月] でもこれで堂々と探索できそうですね？
+   But now we can search out in the open, can't we?
+>> 7A2864.16 | [士度] さっきの警備員たちは / 追ってきそうな気配だがな…
+   Though those guards from before look like they'll come after us...
+>> 7A29B4.3 | [スタッフ] 忘れちゃったの？ / 仕方ないな、もう一度説明するよ
+   You forgot? Oh well, I'll explain it one more time.
+>> 7A29B4.6 | [スタッフ] じゃ、順番を言うからね / まず最初の部屋のツルコさんはコーヒー
+   Okay, I'll go in order. First, Tsuruko-san in the first room gets coffee...
+>> 7A29B4.9 | [スタッフ] …が飲めないから、ミルクティー
+   ...no, she can't drink coffee. Milk tea.
+>> 7A29B4.11 | [スタッフ] 次の部屋のキキョウさんは / 健康に気をつかってるから野菜ジュース
+   Kikyo-san in the next room watches her health, so vegetable juice.
+>> 7A29B4.14 | [スタッフ] 次の部屋のシズクさんは / 砂糖とミルクの入ってるコーヒー
+   Shizuku-san in the next room gets coffee with sugar and milk.
+>> 7A29B4.17 | [スタッフ] 次の部屋のナミヲさんは砂糖入りだけど / ミルクの入ってないコーヒー
+   Namio-san in the next room gets coffee with sugar but no milk.
+>> 7A29B4.20 | [スタッフ] …いや、待てよそれ逆だったな / ミルクあり、砂糖なしね
+   ...No, wait, that's backwards. Milk, no sugar.
+>> 7A29B4.23 | [スタッフ] で、次の部屋のココロさんは / オレンジジュース
+   Then Kokoro-san in the next room gets orange juice.
+>> 7A29B4.26 | [スタッフ] 次の部屋のロクローさんは / レモン…あれ、違ったな
+   Rokuro-san in the next room gets lemon... Huh, that's not right.
+>> 7A29B4.29 | [スタッフ] ツルコさんがレモンティーで、 / ロクローさんがミルクティーだ
+   Tsuruko-san gets lemon tea, and Rokuro-san gets milk tea.
+>> 7A29B4.32 | [スタッフ] で、最後のハカマさんがウーロン茶
+   And last, Hakama-san gets oolong tea.
+>> 7A29B4.34 | [スタッフ] ジュースはイベントアイテムの中に / 入れておくよ
+   I'll put the drinks in with your event items.
+>> 7A29B4.37 | [スタッフ] アイテムは机の手前からじゃないと / 置けないから気をつけてね
+   Careful, you can only set items down from in front of the table.
+>> 7A2D34.3 | [スタッフ] 終わった？　それじゃ、次の仕事ね
+   Done? Then here's your next job.
+>> 7A2D34.5 | [スタッフ] 次は花を各部屋に / ２つずつ置いてきてもらいたいんだ
+   Next, I want you to put two flowers in each room.
+>> 7A2D34.8 | [スタッフ] で、まず始めのツルコさんはバラが / 大好きだからバラと…あとはユリね
+   So first, Tsuruko-san loves roses, so a rose and... a lily.
+>> 7A2D34.11 | [スタッフ] 次のキキョウさんは元気がいいから / チューリップとひまわり
+   Next, Kikyo-san's full of pep, so a tulip and a sunflower.
+>> 7A2D34.14 | [スタッフ] 次のシズクさんは可愛らしく / ガーベラとチューリップ
+   Next, Shizuku-san is cute, so a gerbera and a tulip.
+>> 7A2D34.17 | [スタッフ] …いや、ラベンダーにしておこうかな
+   ...No, maybe I'll make that lavender.
+>> 7A2D34.19 | [スタッフ] 次のナミヲさんはなんでもいいんだけど / 一応ひまわりとチューリップで
+   Next, Namio-san's fine with anything, but let's go with a sunflower and a tulip.
+>> 7A2D34.22 | [スタッフ] 次のココロさんはラベンダーと / …もう一つはなににしようかな？
+   Next, Kokoro-san gets lavender and... what should the other one be?
+>> 7A2D34.25 | [スタッフ] うーん、そうだな、バラにしておこうか
+   Hmm, let's see... let's go with a rose.
+>> 7A2D34.27 | [スタッフ] 次のロクローさんはひまわりと / チューリップね
+   Next, Rokuro-san gets a sunflower and a tulip.
+>> 7A2D34.30 | [スタッフ] で、最後のハカマさんが… / あれ？　バラもう残ってなかったっけ？
+   And last, Hakama-san gets... Huh? Don't we have any roses left?
+>> 7A2D34.33 | [スタッフ] …だったら、ココロさんのバラをやめて / ユリにしておいて
+   ...Then drop Kokoro-san's rose and give her a lily.
+>> 7A2D34.36 | [スタッフ] それでハカマさんがバラとチューリップ / あの人、バラがないと怒るからね
+   So Hakama-san gets a rose and a tulip. She gets mad if there's no rose.
+>> 7A2D34.39 | [スタッフ] 花はイベントアイテムの中に / 入れておくよ
+   I'll put the flowers in with your event items.
+>> 7A2D34.42 | [スタッフ] アイテムは机の手前からじゃないと / 置けないから気をつけてね
+   Careful, you can only set items down from in front of the table.
+>> 7A2D34.45 | [スタッフ] あと花は重ねて置けないからね
+   Oh, and you can't stack flowers on top of each other.
+>> 7A2D34.47 | [スタッフ] じゃ、ヨロシク
+   Okay, I'm counting on you.
+>> 7A2D34.51 | [スタッフ] 花類を手に入れた！
+   Got the flowers!
+>> 7A31C0.3 | [蛮] …銀次、最初の部屋は覚えてるか？
+   ...Ginji, you remember the first room?
+>> 7A31C0.7 | [銀次] え、えーと…覚えてません………
+   Uh, um... I don't remember......
+>> 7A31C0.11 | [花月] フフ、銀次さんらしいですね
+   Heh, that's just like you, Ginji-san.
+>> 7A31C0.15 | [士度] 確かにな
+   Sure is.
+>> 7A31C0.19 | [蛮] （…笑い事じゃねえ！）
+   (...This is no laughing matter!)
+>> 7A3304.3 | [スタッフ] 忘れちゃったの？ / じゃ、もう１回説明するね。いい？
+   You forgot? Okay, I'll explain it once more. Ready?
+>> 7A3304.6 | [スタッフ] 次は花を各部屋に / ２つずつ置いてきてもらいたいんだ
+   Next, I want you to put two flowers in each room.
+>> 7A3304.9 | [スタッフ] で、まず始めのツルコさんはバラが / 大好きだからバラと…あとはユリね
+   So first, Tsuruko-san loves roses, so a rose and... a lily.
+>> 7A3304.12 | [スタッフ] 次のキキョウさんは元気がいいから / チューリップとひまわり
+   Next, Kikyo-san's full of pep, so a tulip and a sunflower.
+>> 7A3304.15 | [スタッフ] 次のシズクさんは可愛らしく / ガーベラとチューリップ
+   Next, Shizuku-san is cute, so a gerbera and a tulip.
+>> 7A3304.18 | [スタッフ] …いや、ラベンダーにしておこうかな
+   ...No, maybe I'll make that lavender.
+>> 7A3304.20 | [スタッフ] 次のナミヲさんはなんでもいいんだけど / 一応ひまわりとチューリップで
+   Next, Namio-san's fine with anything, but let's go with a sunflower and a tulip.
+>> 7A3304.23 | [スタッフ] 次のココロさんはラベンダーと / …もう一つはなににしようかな？
+   Next, Kokoro-san gets lavender and... what should the other one be?
+>> 7A3304.26 | [スタッフ] うーん、そうだな、バラにしておこうか
+   Hmm, let's see... let's go with a rose.
+>> 7A3304.28 | [スタッフ] 次のロクローさんはひまわりと / チューリップね
+   Next, Rokuro-san gets a sunflower and a tulip.
+>> 7A3304.31 | [スタッフ] で、最後のハカマさんが… / あれ？　バラもう残ってなかったっけ？
+   And last, Hakama-san gets... Huh? Don't we have any roses left?
+>> 7A3304.34 | [スタッフ] …だったら、ココロさんのバラをやめて / ユリにしておいて
+   ...Then drop Kokoro-san's rose and give her a lily.
+>> 7A3304.37 | [スタッフ] それでハカマさんがバラとチューリップ / あの人、バラがないと怒るからね
+   So Hakama-san gets a rose and a tulip. She gets mad if there's no rose.
+>> 7A3304.40 | [スタッフ] 花はイベントアイテムの中に / 入れておくよ
+   I'll put the flowers in with your event items.
+>> 7A3304.43 | [スタッフ] アイテムは机の手前からじゃないと / 置けないから気をつけてね
+   Careful, you can only set items down from in front of the table.
+>> 7A3304.46 | [スタッフ] あと花は重ねて置けないからね
+   Oh, and you can't stack flowers on top of each other.
+>> 7A3304.48 | [スタッフ] じゃ、ヨロシク
+   Okay, I'm counting on you.

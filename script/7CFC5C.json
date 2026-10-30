@@ -4,7 +4,7 @@
   "kind": "name",
   "box": 0,
   "jp": "民Ａ",
-  "en": "Local A"
+  "en": "Wanderer A"
  },
  {
   "id": "7CFC5C.3",
@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "民Ａ",
   "jp": "カギ持ッテル者ハ下ノ階ニイルハズダ　",
-  "en": ""
+  "en": "The one with key, he should be on lower\nfloor."
  },
  {
   "id": "7CFC5C.5",
@@ -20,6 +20,6 @@
   "box": 2,
   "speaker": "民Ａ",
   "jp": "多分、８０階付近ニイルダロウ…　",
-  "en": ""
+  "en": "Maybe he is around floor 80..."
  }
 ]

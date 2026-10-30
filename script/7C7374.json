@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…テメー、覚悟はできてンだろうな",
-  "en": ""
+  "en": "...You ready for this, punk? Huh?"
  },
  {
   "id": "7C7374.5",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ああン？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C7374.7",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "美堂クン、あの王様…本体じゃない",
-  "en": ""
+  "en": "Mido-kun, that king... doesn't seem to be"
  },
  {
   "id": "7C7374.10",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "みたいだけど、いいのかな？　",
-  "en": ""
+  "en": "his real body. Is that okay?"
  },
  {
   "id": "7C7374.12",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "知ってるさ…だがなあ、こうでも　",
-  "en": ""
+  "en": "I know... But if I don't do this, I'll never"
  },
  {
   "id": "7C7374.15",
@@ -66,7 +66,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "しねえと怒りが収まらねえんだよ！",
-  "en": ""
+  "en": "cool off!"
  },
  {
   "id": "7C7374.17",
@@ -74,6 +74,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "喰らえ、スネークバイト！！　",
-  "en": ""
+  "en": "Take this! Snake Bite!!"
  }
 ]

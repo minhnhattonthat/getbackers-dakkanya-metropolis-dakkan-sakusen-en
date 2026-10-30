@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "Ｃメンバー　",
   "jp": "！！　気付かれたか…",
-  "en": ""
+  "en": "!! They spotted me... Then I'll drive you out"
  },
  {
   "id": "79D830.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "Ｃメンバー　",
   "jp": "こうなったら力づくで追い返してやる！",
-  "en": ""
+  "en": "by force!"
  },
  {
   "id": "79D830.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "ケッ！　テメーなんぞに追い返されて　",
-  "en": ""
+  "en": "Hah! Like I'd let a punk like you drive me"
  },
  {
   "id": "79D830.9",
@@ -43,6 +43,6 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "たまるかってンだよ！",
-  "en": ""
+  "en": "out!"
  }
 ]

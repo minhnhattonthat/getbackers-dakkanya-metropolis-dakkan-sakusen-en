@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…なに言ってンだ、アイツ…　",
-  "en": ""
+  "en": "...What's he babbling about..."
  },
  {
   "id": "7B2998.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "ねえねえ、　",
-  "en": ""
+  "en": "Hey, hey, that guy dropped this."
  },
  {
   "id": "7B2998.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "あの人こんなの落としていったよ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B2998.12",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ばんじゅのＭ、じゅぎんのＭを",
-  "en": ""
+  "en": "Got the Ban-Ju Memory and Ju-Gin"
  },
  {
   "id": "7B2998.13",
@@ -51,6 +51,6 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "手に入れた！",
-  "en": ""
+  "en": "Memory!"
  }
 ]

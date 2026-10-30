@@ -1,0 +1,414 @@
+>> 7BDE38.3 | [蛮] …銀次、お前はここにいろ
+   ...Ginji, you stay here.
+>> 7BDE38.7 | [銀次] …蛮ちゃん、 / まさか一人で弥勒と戦うつもりなの？
+   ...Ban-chan, you're not planning to fight Miroku alone, are you?
+>> 7BDE38.10 | [銀次] ねえ、蛮ちゃん！！
+   Hey, Ban-chan!!
+>> 7BDE38.14 | [蛮] いいか、ここを離れるんじゃねえぞ！
+   Listen up. Don't you move from this spot!
+>> 7BDF44.3 | [赤屍] これはこれは… / 待っていたかいがあるというものです
+   Well, well... It seems the wait was worth it.
+>> 7BDF44.6 | [赤屍] ねえ、弥勒雪彦クン？
+   Is that not right, Yukihiko Miroku-kun?
+>> 7BDF44.10 | [弥勒] ………
+   ......
+>> 7BE000.3 | [赤屍] この手ごたえのなさ… / あなたはニセモノですね？
+   This lack of resistance... You are a fake, are you not?
+>> 7BE000.6 | [赤屍] 本物は…すでに島内に侵入しましたか
+   So the real one... has already slipped onto the island.
+>> 7BE098.3 | [弥勒] …お久しぶりです、赤屍さん
+   ...It's been a while, Akabane-san.
+>> 7BE098.7 | [Ｓサービス] こいつは俺たちに任せろ！ / お前は荷物を屋敷に！！
+   Leave this guy to us! You get the cargo to the mansion!!
+>> 7BE148.3 | [赤屍] …まあいいでしょう / 楽しみは後にとっておくものですからね
+   ...Very well. One should save the fun for later, after all.
+>> 7BE148.6 | [赤屍] ククク…
+   Heh heh heh...
+>> 7BE1D0.3 | [花月] 十兵衛、君の目のためにここに来たんだ / 君が入らないと意味がなくなるよ
+   Juubei, we came here for your eyes. It's pointless if you don't get in.
+>> 7BE1D0.8 | [十兵衛] 俺の目のことはどうでもいい / 俺はお前を守る
+   Never mind my eyes. I will protect you.
+>> 7BE1D0.13 | [花月] ？ / 守るって、今は仕事中でもないし…
+   ? Protect me? We're not even on a job right now...
+>> 7BE1D0.18 | [十兵衛] いや、何者かが近付いてきている！ / 花月、そこから離れるんだ！！
+   No, someone is approaching! Kazuki, get away from there!!
+>> 7BE354.3 | [花月] 十兵衛！！
+   Juubei!!
+>> 7BE354.7 | [十兵衛] 逃げるんだ、花月！ / ここは俺が食い止める！！
+   Run, Kazuki! I will hold him off here!!
+>> 7BE3F0.3 | [弥勒] …行きますよ
+   ...Here I come.
+>> 7BE3F0.7 | [十兵衛] （何者だ、コイツ… / 気配がつかみ辛い…だが！！）
+   (Who is this... His presence is hard to read... But even so!!)
+>> 7BE3F0.10 | [十兵衛] 弥勒
+   Miroku
+>> 7BE3F0.13 | [十兵衛] 我ら弥勒に敗北は許されぬ！！
+   We of the Miroku are not permitted defeat!!
+>> 7BE4D8.3 | [十兵衛] 待て！ / 勝負はまだついておらんぞ！！
+   Wait! This fight is not over yet!!
+>> 7BE4D8.8 | [弥勒] すみませんが、あまり時間がないんです / ここで失礼させていただきますよ
+   I'm sorry, but I don't have much time. I'll be taking my leave here.
+>> 7BE5A8.3 | [花月] 十兵衛、無事で良かった…
+   Juubei, thank goodness you're safe...
+>> 7BE5A8.7 | [十兵衛] 言っただろう、 / 俺はお前を守るために生まれてきたと…
+   I told you, did I not? I was born to protect you...
+>> 7BE5A8.10 | [十兵衛] たとえ何が起ころうとも、 / その気持ちに変わりはない
+   Whatever may happen, that feeling will never change.
+>> 7BE5A8.14 | [十兵衛] 貴様のことは / この俺が絶対に守ってやる
+   I will protect you, no matter what.
+>> 7BE5A8.19 | [花月] あの頃とちっとも変わらないんだね… / 君は
+   You haven't changed one bit since those days... have you?
+>> 7BE5A8.23 | [花月] …頼むぞ、十兵衛
+   ...I'm counting on you, Juubei.
+>> 7BE5A8.27 | [花月] じゅかづのＭを手に入れた！
+   Got the Ju-Kazu Memory!
+>> 7BE78C.3 | [十兵衛] …くっ！
+   ...Ngh!
+>> 7BE78C.7 | [弥勒] トドメを刺すべきかも / 知れませんが、僕に時間がない…
+   Perhaps I should finish you off, but I have no time...
+>> 7BE78C.10 | [弥勒] これで失礼させていただきますよ
+   I'll be taking my leave now.
+>> 7BE858.3 | [花月] 十兵衛、無事だったんだね
+   Juubei, you're safe.
+>> 7BE858.7 | [十兵衛] すまん、花月… / これではお前を守ることなど…
+   Forgive me, Kazuki... Like this, I can hardly protect you...
+>> 7BE858.12 | [花月] いいんだ、十兵衛 / 君が無事で良かった…
+   It's alright, Juubei. I'm just glad you're safe...
+>> 7BE948.3 | [蛮] ジャッカル、弥勒のヤローはどこだ！
+   Jackal, where's that Miroku bastard?!
+>> 7BE948.7 | [赤屍] オークション会場となる / 屋敷に向われたようですよ
+   It seems he headed for the mansion where the auction is to be held.
+>> 7BE948.12 | [蛮] …クソッ！
+   ...Damn it!
+>> 7BEA28.3 | [蛮] …オイ、銀次はどうした？
+   ...Hey, where's Ginji?
+>> 7BEA28.7 | [笑師] それが…はぐれてしもたんですわ
+   Well, see... we got separated.
+>> 7BEA28.11 | [蛮] なに！？　…あのバカ！
+   What?! ...That idiot!
+>> 7BEA28.13 | [蛮] 銀次を追うぞ！！
+   We're going after Ginji!!
+>> 7BEA28.17 | [笑師] せや！　あそこの温泉は / 疲労回復に効果あるそうでっせ！
+   Oh yeah! They say that hot spring over there's good for gettin' over fatigue!
+>> 7BEA28.20 | [笑師] 疲れたら一休みするのもエエかもな
+   Might not be a bad idea to take a breather if you get tired.
+>> 7BEA28.24 | [蛮] ンなこたいいから、急ぐぞ！！
+   Forget that, just hurry up!!
+>> 7BEBD8.3 | [蛮] クソッ！　カギがかかってやがる！ / ぶち壊…
+   Damn it! It's locked! I'll smash it...
+>> 7BEBD8.8 | [赤屍] カギでしたら / 先程いただいておきましたよ
+   If it is the key you want, I helped myself to it a moment ago.
+>> 7BEBD8.13 | [蛮] （ったく、味方にしてると / 役に立つんだがな…）
+   (Jeez, he's handy to have when he's on your side...)
+>> 7BECE0.3 | [花月] 床にひきずったような跡がありますね…
+   There are drag marks on the floor...
+>> 7BED3C.3 | [士度] 動かせそうだな、このベッド
+   Looks like this bed can be moved.
+>> 7BED3C.7 | [蛮] よし、動かしてみるか
+   Alright, let's try moving it.
+>> 7BEDC8.3 | [笑師] おっ、なんぞ怪しい階段が！ / 降りてみましょか？
+   Ooh, some fishy-lookin' stairs! Shall we head down?
+>> 7BEE34.3 | [卑弥呼] …この物置、 / どこかおかしい気がするわ
+   ...Something about this storeroom feels off.
+>> 7BEE98.3 | [赤屍] これだけ向きがおかしいようですね / 動かしてみますか？
+   Only this one seems to be facing the wrong way. Shall we try moving it?
+>> 7BEF08.3 | [十兵衛] …まるでカラクリ屋敷だな
+   ...It is like a house of trick mechanisms.
+>> 7BEF08.7 | [花月] 普段はなにかを隠すために / 使用されているって感じだね
+   It seems like it's normally used to hide something.
+>> 7BEF08.12 | [花月] 衣装部屋のカギを手に入れた！
+   Got the Costume Room Key!
+>> 7BEFF8.3 | [士度] …ここにもなにか仕掛けが / ありそうな感じだな
+   ...Looks like there's some kind of trick here too.
+>> 7BEFF8.8 | [笑師] ん～、あそこにマネキンありますやん / それに服着せてみせるんちゃいますか？
+   Hmm, there's a mannequin over there. Maybe we gotta dress it up?
+>> 7BEFF8.13 | [士度] ………
+   ......
+>> 7BEFF8.17 | [笑師] いやいや、変ですて！ / 一つだけあんなんなっとるのも！！
+   No, no, it IS weird! Only that one's left like that!!
+>> 7BF150.3 | [卑弥呼] とりあえずこれだけはかせてみたけど… / 他のものはここにはなさそうね
+   I put these on it for now... but nothing else seems to be here.
+>> 7BF150.8 | [蛮] 残りは別の部屋ってことか…
+   So the rest is in another room...
+>> 7BF210.3 | [赤屍] クローゼットが開いたみたいですね…
+   It seems the closet has opened...
+>> 7BF26C.3 | 厨房のカギを手に入れた！
+   Got the Kitchen Key!
+>> 7BF2BC.3 | [蛮] …またテメーかよ / なにしてンだ、こんなとこで？
+   ...You again? What're you doing in a place like this?
+>> 7BF2BC.8 | [蛭田] なにって、 / 今夜のメインディッシュの確認をだな…
+   What? I'm checking on tonight's main dish, of course...
+>> 7BF2BC.11 | [蛭田] って、またしてもお前らか！ / ボクに付きまとうのはヤメろ！！
+   Wait, it's you lot again! Quit following me around!!
+>> 7BF2BC.16 | [蛮] 誰がお前なんぞに付きまとうか…
+   Who'd follow a guy like you around...
+>> 7BF2BC.20 | [蛭田] ここで会ったからには / 今度こそ思い知らせてやるからな！
+   Now that we've met here, this time I'll teach you a lesson for sure!
+>> 7BF2BC.23 | [蛭田] どこからでもかかってこい！！
+   Come at me from any direction!!
+>> 7BF48C.3 | [蛭田] や、や、や、やめろーーー！！
+   S-s-s-stop iiit!!
+>> 7BF48C.5 | [蛭田] かかってこいって言われて、 / いっぺんにかかってくるんじゃない！
+   When I say "come at me," you don't all come at me at once!
+>> 7BF48C.8 | [蛭田] まったく非常識なヤツらめ…
+   Honestly, you people have no common sense...
+>> 7BF48C.12 | [蛮] どっちかっつーと、 / 非常識なのはテメーだろ？
+   If anything, you're the one with no common sense.
+>> 7BF48C.17 | [蛭田] うるさいな！ / 今度こそ、正々堂々と勝負だ！！
+   Shut up! This time, we fight fair and square!!
+>> 7BF5FC.3 | [蛭田] …お前らに負けたからって、人生に / 負けたことにはならないんだからな～！
+   ...Just 'cause I lost to you doesn't mean I lost at life, you know~!
+>> 7BF67C.3 | [蛮] なにがムカつくって、 / あんなんでも金持ちだってことだよな…
+   What really pisses me off is that a guy like that is still rich...
+>> 7BF67C.8 | [卑弥呼] ねえ、 / なんか落としていったわよ、あの人
+   Hey, that guy dropped something.
+>> 7BF67C.13 | [卑弥呼] 書斎のカギを手に入れた！
+   Got the Study Key!
+>> 7BF780.3 | [銀次] …あ、あれ？　ここどこなんだろう？ / しかも腕が…動かないんですけど
+   ...H-huh? Where am I? And my arms... won't move.
+>> 7BF780.8 | [銀次] ………
+   ...
+>> 7BF780.10 | [銀次] …………
+   ......
+>> 7BF780.12 | [銀次] ……………
+   ......
+>> 7BF780.14 | [銀次] ………………
+   ......
+>> 7BF780.16 | [銀次] …………………
+   ......
+>> 7BF780.18 | [銀次] ……………………
+   ......
+>> 7BF780.20 | [銀次] ………………………
+   ......
+>> 7BF780.22 | [銀次] …………………………
+   ......
+>> 7BF780.26 | [銀次] あっ、そうだ！　蛮ちゃんを / 探してる途中で雪彦くんに会って…
+   Oh, right! I was looking for Ban-chan when I ran into Yukihiko-kun...
+>> 7BF780.29 | [銀次] 戦うかどうか迷ってるうちに / 気絶させられたんだっけ！
+   and while I was trying to decide whether to fight, he knocked me out!
+>> 7BF780.32 | [銀次] …ということは、また雪彦くんに / 関節外されちゃったのかな？
+   ...So that means Yukihiko-kun dislocated my joints again?
+>> 7BF780.37 | [弥勒] そうだよ
+   That's right.
+>> 7BFA08.3 | [弥勒] 君は相変わらず優しいんだね
+   You're as kind as ever.
+>> 7BFA08.5 | [弥勒] 兄たちが相手だったら / やられているところだったよ？
+   If it had been my brothers, you'd have been finished, you know?
+>> 7BFA08.10 | [銀次] 雪彦くん…
+   Yukihiko-kun...
+>> 7BFACC.3 | [弥勒] …！？
+   ...?!
+>> 7BFACC.7 | [Ｓサービス] 屋敷内に何者かが侵入したようだ / 弥勒、お前はそいつらを始末するんだ
+   Looks like someone's broken into the mansion. Miroku, take care of them.
+>> 7BFACC.12 | [弥勒] ………
+   ......
+>> 7BFACC.16 | [銀次] ダメだよ、雪彦くん！ / この人たちは後でキミを…
+   Don't, Yukihiko-kun! These guys are gonna...
+>> 7BFACC.21 | [弥勒] 始末するつもりでいる… / 知っていたよ、そんなこと
+   ...get rid of me afterward. I knew that already.
+>> 7BFACC.26 | [銀次] だったら…
+   Then why...
+>> 7BFACC.30 | [弥勒] 僕にも護り屋としての / プライドがあるからね…
+   I have my pride as a protector, too...
+>> 7BFACC.33 | [弥勒] 仕事はきちんとしたいんだ
+   I want to do my job properly.
+>> 7BFCEC.3 | [Ｓサービス] まずはコイツから始末してやる
+   First, we'll get rid of this one.
+>> 7BFD44.3 | [弥勒] その人は関係ない！
+   He has nothing to do with this!
+>> 7BFD44.5 | [弥勒] それに両腕の関節も外してあるし、 / なにもできないはずです！
+   Besides, I dislocated both his arms. He can't do a thing!
+>> 7BFD44.8 | [弥勒] 手は出さないで下さい！！
+   Please don't lay a hand on him!!
+>> 7BFD44.12 | [Ｓサービス] 知り合い…か？　なるほどな
+   A friend of yours...? I see.
+>> 7BFD44.14 | [Ｓサービス] 護り屋として一流の腕を持つお前を / 後でどう始末しようか悩んでいたが
+   We were wondering how to get rid of a first-rate protector like you later on,
+>> 7BFD44.17 | [Ｓサービス] 思わぬところで弱点を / みつけられたようだな…
+   but it looks like we've found your weak spot in an unexpected place...
+>> 7BFECC.3 | [Ｓサービス] 一歩でも動くとコイツの頭を撃ち抜くぞ
+   Move one step and I'll blow his head off.
+>> 7BFECC.7 | [銀次] （クソッ！ / 腕さえ動けばこんなヤツら…）
+   (Damn it! If only my arms worked, these guys would be...)
+>> 7BFECC.10 | [銀次] 逃げるんだ、雪彦くん！！
+   Run, Yukihiko-kun!!
+>> 7BFECC.14 | [弥勒] 君を置いていくことなんてできないよ
+   I can't just leave you behind.
+>> 7BFECC.17 | [弥勒] ごめんね、銀次君
+   I'm sorry, Ginji-kun.
+>> 7BFECC.22 | [Ｓサービス] 別れのあいさつは済んだのか？
+   Done with your goodbyes?
+>> 7BFECC.24 | [Ｓサービス] では弥勒、まずはお前から / あの世に送ってやろう！
+   Then, Miroku, you go to the next world first!
+>> 7BFECC.29 | [銀次] …やめろ
+   ...Stop.
+>> 7BFECC.31 | [銀次] やめろ！
+   Stop it!
+>> 7BFECC.33 | [銀次] やめろ！！
+   Stop it!!
+>> 7BFECC.35 | [銀次] やめるんだーーーーーーーーーッ！！
+   I said STOOOOOOOOP!!
+>> 7C0128.3 | [蛮] これは…まさか！？
+   This is... It can't be?!
+>> 7C0128.7 | [赤屍] …どうやら雷帝降臨のようですね / 美堂クン？
+   ...It seems the Thunder Emperor Descends. Would you not agree, Mido-kun?
+>> 7C0128.12 | [蛮] （あのバカ、 / まさか雷帝のままで弥勒と…！？
+   (That idiot... Don't tell me he's taking on Miroku as the Thunder Emperor...?!
+>> 7C0128.15 | [蛮] 早まるんじゃねえぞ、銀次！！）
+   Don't do anything rash, Ginji!!)
+>> 7C0248.3 | [花月] こう暗くてはなにも見えませんね…
+   It's too dark in here to see anything...
+>> 7C0248.7 | [士度] どこかで灯りを探した方がいいかもな
+   Maybe we should look for a light somewhere.
+>> 7C02E8.3 | [卑弥呼] …なにか落ちてない？
+   ...Isn't something on the floor?
+>> 7C0338.3 | [蛮] ん？　こりゃオイルライターだな…
+   Hm? This is an oil lighter...
+>> 7C0338.7 | [卑弥呼] それで灯りを灯せそうね
+   Looks like we can light something with it.
+>> 7C0338.11 | [卑弥呼] ライターを手に入れた！
+   Got the Lighter!
+>> 7C040C.3 | [士度] さっきのライターで / ローソクに火を灯せそうだな
+   Looks like we can light the candles with that lighter.
+>> 7C0478.3 | [花月] この本棚…一冊だけ本が欠けてますね / ちょっと不自然に思えますが
+   This bookshelf... just one book is missing. It seems a little unnatural.
+>> 7C0478.8 | [蛮] どうも、本を探す必要がありそうだな？
+   Looks like we need to go find a book, huh?
+>> 7C0478.12 | [卑弥呼] 本…？ / 物置とかにあるのかしら？
+   A book...? Is it in the storeroom or something?
+>> 7C0478.17 | [蛮] 今までの傾向からすると、 / 考えも付かない場所にありそうだがな…
+   Judging by how things have gone so far, it'll be someplace we'd never think of...
+>> 7C05E8.3 | [笑師] おおっ、こないなとこに本が！
+   Whoa, a book in a place like this!
+>> 7C05E8.7 | [笑師] 本を手に入れた！
+   Got the Book!
+>> 7C0670.3 | [蛮] 裏はこんな風になってたのかよ
+   So this is what was on the back.
+>> 7C0670.7 | [蛮] ベッドルームキーを手に入れた！
+   Got the Bedroom Key!
+>> 7C0708.3 | [赤屍] この部屋でおかしいものといえば / 肖像画…ですね
+   If anything in this room is strange, it would be... the portrait.
+>> 7C0774.3 | [十兵衛] ！　なにか落ちたようだな…
+   ! Something seems to have fallen...
+>> 7C07CC.3 | [蛮] …電気が戻ったな
+   ...The power's back.
+>> 7C07CC.7 | [花月] 残る部屋は後一つ
+   Only one room left.
+>> 7C07CC.9 | [花月] とすると銀次さんは…
+   Which means Ginji-san is...
+>> 7C07CC.13 | [蛮] そこにいるはずだ！ / 行くぞ！！
+   He's gotta be in there! Let's go!!
+>> 7C08AC.3 | [銀次] わ～い、蛮ちゃーーーん！ / やっと会えたーーーーー！！
+   Yaaay, Ban-chaaaan! I finally found yooou!!
+>> 7C091C.3 | [銀次] な、なんで殴るの～？？？
+   Wh-why'd you hit me~???
+>> 7C091C.7 | [蛮] テメー、 / 勝手に動くなって言ったじゃねえかよ！
+   I told you not to go wandering off on your own, damn it!
+>> 7C091C.10 | [蛮] チョロチョロすっから / こういうことになんだろうが！！
+   This is what happens when you go scurrying around!!
+>> 7C091C.15 | [銀次] ゴメ～ン…
+   Sorryyy...
+>> 7C091C.19 | [蛮] 雷帝状態で弥勒のヤローと / 戦ったりしなかっただろうな？
+   You didn't go fighting that Miroku bastard as the Thunder Emperor, did you?
+>> 7C091C.24 | [銀次] うーん、無限城と違うから / 電気が足りなかったんだよね～
+   Well, it's not like the Infinity Fortress, so there wasn't enough electricity~
+>> 7C091C.27 | [銀次] それですぐに戻っちゃって…
+   So I changed back right away...
+>> 7C0B10.3 | [弥勒] ………美堂…蛮！！
+   .........Ban... Mido!!
+>> 7C0B10.7 | [蛮] 末弟の雪彦か…
+   Yukihiko, the youngest brother, huh...
+>> 7C0B10.9 | [蛮] どうやら兄弟の中で最強ってのも / まんざらウソでもなさそうだな？
+   Looks like that "strongest of the brothers" talk wasn't a total lie, huh?
+>> 7C0B10.14 | [銀次] ねえ、蛮ちゃん！　雪彦くんはオレを / 助けようとしてくれたんだよ！
+   Hey, Ban-chan! Yukihiko-kun was trying to save me!
+>> 7C0B10.17 | [銀次] 戦うことなんてないよ！
+   There's no reason to fight!
+>> 7C0B10.21 | [蛮] ヤツが護り屋である以上、 / そうも言ってられねえさ！！
+   As long as he's a protector, we can't afford to think like that!!
+>> 7C0B10.24 | [蛮] 行くぞ、銀次！！
+   Let's go, Ginji!!
+>> 7C0CE0.3 | [弥勒] …なぜトドメを刺さない？
+   ...Why don't you finish me?
+>> 7C0CE0.7 | [蛮] なんか知らねーが、 / 銀次が世話ンなったらしいしな
+   No idea why, but sounds like you looked out for Ginji.
+>> 7C0CE0.10 | [蛮] 今回はこの辺でカンベンしといてやるぜ
+   So I'll let you off this time.
+>> 7C0CE0.14 | [弥勒] ………
+   ......
+>> 7C0CE0.18 | [蛮] ただし、次に会った時は容赦しねえがな
+   But next time we meet, no mercy.
+>> 7C0CE0.20 | [蛮] …さてと、依頼品はどこなんだ？
+   ...Now then, where's the goods?
+>> 7C0CE0.24 | [銀次] なんか金庫に入ってるみたいだったよ！
+   Looked like it was in some kind of safe!
+>> 7C0E9C.3 | [銀次] 雪彦くん…
+   Yukihiko-kun...
+>> 7C0E9C.7 | [弥勒] ごめんね、銀次君 / 助けてもらったのは僕の方なのにね…
+   I'm sorry, Ginji-kun. And here I'm the one you saved...
+>> 7C0E9C.12 | [銀次] いいんだよ、そんなこと
+   Don't worry about that.
+>> 7C0E9C.14 | [銀次] ねえ、 / 雪彦くんもオレたちと一緒に行こうよ
+   Hey, Yukihiko-kun, come with us too.
+>> 7C0E9C.19 | [弥勒] ダメだよ…僕は君たちと / 行動を共にすることはできない
+   I can't... I can't go along with you.
+>> 7C0E9C.24 | [銀次] どうして…？
+   Why not...?
+>> 7C0E9C.26 | [銀次] 弥勒
+   Miroku
+>> 7C0E9C.29 | [銀次] 許せないんだ、美堂蛮が…！
+   I can't forgive him... Ban Mido...!
+>> 7C0E9C.33 | [銀次] ………
+   ......
+>> 7C0E9C.37 | [弥勒] …でも銀次君、 / この借りは必ず返すから覚えておいてね
+   ...But Ginji-kun, I will repay this debt, I promise. Remember that.
+>> 7C1104.3 | [銀次] やったあ！　依頼品ゲット！！
+   Yay! We got the goods!!
+>> 7C1104.7 | [蛮] よっしゃ！ / 早速、クレイマンに報告に行くぞ！！
+   Alright! Let's go report to Clayman right away!!
+>> 7C11B0.3 | [蛮] おい、クレイマン！ / 依頼品奪還してきてやったぜ！！
+   Hey, Clayman! We went and retrieved the goods for ya!!
+>> 7C11B0.6 | [蛮] 財宝ってからにはさぞかし依頼料も / はずんでくれるんだろうな？
+   Since it's a treasure, I bet you're gonna pay us real generously, huh?
+>> 7C11B0.11 | [クレイマン] これが今回の依頼料だよ
+   This is your fee for this job.
+>> 7C11B0.13 | [クレイマン] 蛮 / 銀次
+   Ban / Ginji
+>> 7C11B0.16 | [クレイマン] …１・万・円！？
+   ...10,000... yen?!
+>> 7C11B0.20 | [蛮] …なんだ、そりゃ？ / 俺たちのことナメてんのか、テメー！
+   ...The hell is this? You making fun of us, punk?!
+>> 7C11B0.25 | [銀次] 待って、蛮ちゃん！ / このお札…見覚えがあるよ！！
+   Wait, Ban-chan! I've seen this bill before!!
+>> 7C11B0.30 | [蛮] ああ？　なに言ってんだ、銀次
+   Huh? What're you talking about, Ginji?
+>> 7C11B0.32 | [蛮] 金は天下の回りモノっつーからには / 見覚えのある札の一つや二つはだな…
+   Money goes round and round, so you're bound to see a bill or two you recognize...
+>> 7C11B0.38 | [銀次] 違う、違うんだよ
+   No, that's not it.
+>> 7C11B0.40 | [銀次] このお札、アルくんが波児さんから / 初めての給料だってもらったものなんだ
+   This is the bill Al-kun got from Paul-san as his first paycheck.
+>> 7C11B0.45 | [蛮] アイツ、借金返すために働いてたくせに / なンで給料もらってやがんだ？
+   He was working to pay off his debt, so why the hell'd he get paid?
+>> 7C11B0.50 | [銀次] よく働いてたからご褒美だって…
+   Paul-san said it was a reward for working so hard...
+>> 7C11B0.52 | [銀次] だけどアルくんは紙のお金に / 価値ないって思ってたから
+   But Al-kun thought paper money was worthless,
+>> 7C11B0.55 | [銀次] お札に落書きしたりしてて…
+   so he scribbled doodles on it and stuff...
+>> 7C11B0.57 | [銀次] クレイマンさん、今回の依頼人って / 本当はアルくんなんですか？
+   Clayman-san, was Al-kun really the client for this job?
+>> 7C11B0.62 | [クレイマン] それを確かめたいなら / 新宿へ帰ることだ
+   If you want to find out, go back to Shinjuku.
+>> 7C11B0.65 | [クレイマン] そして直接聞けばいい
+   And ask him yourself.
+>> 7C11B0.69 | [蛮] チッ、あのヤロー… / やっぱり疫病神だったな
+   Tch, that punk... He really was a jinx.
+>> 7C11B0.74 | [銀次] …蛮ちゃん
+   ...Ban-chan.
+>> 7C11B0.79 | [蛮] 残りの金は / きっちりヤツに払ってもらうからな！
+   I'm gonna make damn sure he pays us the rest!
+>> 7C11B0.82 | [蛮] よし、銀次！ / アルを捕まえに新宿に戻るぞ！！
+   Alright, Ginji! Back to Shinjuku to catch Al!!
+>> 7C11B0.87 | [銀次] うん、そうだね！ / 行こう、アルくんのところに！！
+   Yeah, let's! Let's go find Al-kun!!

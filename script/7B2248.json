@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ハカマ　",
   "jp": "２Ｆにいる女子社員が",
-  "en": ""
+  "en": "The female employee on 2F won't give you"
  },
  {
   "id": "7B2248.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "ハカマ　",
   "jp": "カギを渡してくれないですって？　",
-  "en": ""
+  "en": "the key?"
  },
  {
   "id": "7B2248.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "ハカマ　",
   "jp": "あのコはカッコいい男に目がないわね…",
-  "en": ""
+  "en": "That girl can't resist a good-looking man..."
  },
  {
   "id": "7B2248.7",
@@ -36,6 +36,6 @@
   "box": 2,
   "speaker": "ハカマ　",
   "jp": "その辺りでどうにかならないかしら？　",
-  "en": ""
+  "en": "Couldn't you use that somehow?"
  }
 ]

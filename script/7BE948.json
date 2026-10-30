@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ジャッカル、弥勒のヤローはどこだ！　",
-  "en": ""
+  "en": "Jackal, where's that Miroku bastard?!"
  },
  {
   "id": "7BE948.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "オークション会場となる　",
-  "en": ""
+  "en": "It seems he headed for the mansion"
  },
  {
   "id": "7BE948.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "屋敷に向われたようですよ",
-  "en": ""
+  "en": "where the auction is to be held."
  },
  {
   "id": "7BE948.10",
@@ -50,6 +50,6 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "…クソッ！　",
-  "en": ""
+  "en": "...Damn it!"
  }
 ]

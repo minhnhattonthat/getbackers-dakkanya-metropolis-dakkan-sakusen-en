@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "マネージャー",
   "jp": "ＭＡＩを探してる？　",
-  "en": ""
+  "en": "You're looking for MAI?"
  },
  {
   "id": "7B58D4.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "マネージャー",
   "jp": "うーん、さっき社長に呼ばれてたから　",
-  "en": ""
+  "en": "Hmm, the president called for her a little"
  },
  {
   "id": "7B58D4.6",
@@ -28,6 +28,6 @@
   "box": 2,
   "speaker": "マネージャー",
   "jp": "社長室にいるんじゃないのかな？　",
-  "en": ""
+  "en": "while ago, so maybe she's in his office?"
  }
 ]

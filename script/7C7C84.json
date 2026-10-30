@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "赤屍",
   "jp": "ここは…７４階のようですね　",
-  "en": ""
+  "en": "It seems this is floor 74."
  },
  {
   "id": "7C7C84.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "あ、じゃあ結構近いじゃん！　",
-  "en": ""
+  "en": "Oh, so we're pretty close! Easy! Easy!!"
  },
  {
   "id": "7C7C84.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "楽勝！　楽勝！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C7C84.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "赤屍",
   "jp": "銀次クン、　",
-  "en": ""
+  "en": "Ginji-kun, you had best not let your guard"
  },
  {
   "id": "7C7C84.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "赤屍",
   "jp": "あまり油断しない方がいいですよ　",
-  "en": ""
+  "en": "down."
  },
  {
   "id": "7C7C84.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "赤屍",
   "jp": "ただならぬ気配を感じますからね…",
-  "en": ""
+  "en": "I sense an extraordinary presence, you\nsee..."
  },
  {
   "id": "7C7C84.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "近いね、これは…",
-  "en": ""
+  "en": "It's close, this one..."
  },
  {
   "id": "7C7C84.21",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "鏡　",
   "jp": "楽しくなってきたね？",
-  "en": ""
+  "en": "Things are getting fun, huh?"
  },
  {
   "id": "7C7C84.23",
@@ -104,7 +104,7 @@
   "box": 7,
   "speaker": "赤屍",
   "jp": "ええ…楽しい仕事になりそうですね",
-  "en": ""
+  "en": "Yes... This looks to be an enjoyable job."
  },
  {
   "id": "7C7C84.27",
@@ -119,6 +119,6 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "（ちっとも楽しくないんですが…）",
-  "en": ""
+  "en": "(I'm not having any fun at all...)"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "わっ、絃で髪どめが！",
-  "en": ""
+  "en": "Whoa, the strings caught the hairpin!"
  },
  {
   "id": "79BBD4.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "ワーイ、奪還成功だ～！！",
-  "en": ""
+  "en": "Yaaay, retrieval complete~!!"
  },
  {
   "id": "79BBD4.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "おっしゃ！　でかした、西園寺！　",
-  "en": ""
+  "en": "All right! Nice work, Saionji!"
  },
  {
   "id": "79BBD4.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "なるほどな。髪どめを奪った犯人は、　",
-  "en": ""
+  "en": "I get it. The culprit who swiped the hairpin"
  },
  {
   "id": "79BBD4.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "光るものが好きなカラスだったワケか　",
-  "en": ""
+  "en": "was a crow that likes shiny things."
  },
  {
   "id": "79BBD4.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ありがとう、西園寺さん！",
-  "en": ""
+  "en": "Thank you, Saionji-san! You're actually a"
  },
  {
   "id": "79BBD4.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "キミ、本当はイイ人なんだね！",
-  "en": ""
+  "en": "really nice guy!"
  },
  {
   "id": "79BBD4.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "西園寺　",
   "jp": "いえ…実は私、以前から雷帝　",
-  "en": ""
+  "en": "No... Actually, I've long heard the rumors"
  },
  {
   "id": "79BBD4.21",
@@ -97,7 +97,7 @@
   "box": 5,
   "speaker": "西園寺　",
   "jp": "『︀天野銀次』︀のウワサを聞き、",
-  "en": ""
+  "en": "of the Thunder Emperor, 'Ginji Amano',"
  },
  {
   "id": "79BBD4.23",
@@ -105,7 +105,7 @@
   "box": 6,
   "speaker": "西園寺　",
   "jp": "あこがれてましたから…　",
-  "en": ""
+  "en": "and I've admired you ever since..."
  },
  {
   "id": "79BBD4.25",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "えっ…キミって、",
-  "en": ""
+  "en": "Huh... But weren't you anti-VOLTS?"
  },
  {
   "id": "79BBD4.28",
@@ -128,7 +128,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "反ＶＯＬＴＳじゃなかったっけ？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79BBD4.30",
@@ -143,7 +143,7 @@
   "box": 8,
   "speaker": "西園寺　",
   "jp": "私、昔から憧れの人に対して　",
-  "en": ""
+  "en": "I've always had this urge to rebel against"
  },
  {
   "id": "79BBD4.33",
@@ -151,7 +151,7 @@
   "box": 8,
   "speaker": "西園寺　",
   "jp": "反抗してみたくなるみたいで…",
-  "en": ""
+  "en": "the people I admire..."
  },
  {
   "id": "79BBD4.35",
@@ -166,7 +166,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "…それで、昔は花月のヤローに",
-  "en": ""
+  "en": "...So that's why you used to rebel against"
  },
  {
   "id": "79BBD4.38",
@@ -174,7 +174,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "反抗してたってワケか",
-  "en": ""
+  "en": "Kazuki, huh?"
  },
  {
   "id": "79BBD4.40",
@@ -189,7 +189,7 @@
   "box": 10,
   "speaker": "西園寺　",
   "jp": "はい、でもさっき目が覚めました！",
-  "en": ""
+  "en": "Yes, but just now my eyes were opened!"
  },
  {
   "id": "79BBD4.44",
@@ -197,7 +197,7 @@
   "box": 11,
   "speaker": "西園寺　",
   "jp": "これからはもっと",
-  "en": ""
+  "en": "From now on, I mean to be more honest!"
  },
  {
   "id": "79BBD4.45",
@@ -205,7 +205,7 @@
   "box": 11,
   "speaker": "西園寺　",
   "jp": "素直になろうと思います！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79BBD4.47",
@@ -213,7 +213,7 @@
   "box": 12,
   "speaker": "西園寺　",
   "jp": "天野さん、私を弟子にして下さい！",
-  "en": ""
+  "en": "Amano-san, please make me your disciple!"
  },
  {
   "id": "79BBD4.49",
@@ -228,7 +228,7 @@
   "box": 13,
   "speaker": "銀次",
   "jp": "あの…オレ、弟子とかとらないし…",
-  "en": ""
+  "en": "Um... I don't really take disciples or\nanything..."
  },
  {
   "id": "79BBD4.53",
@@ -243,7 +243,7 @@
   "box": 14,
   "speaker": "西園寺　",
   "jp": "一生付いて行きます！",
-  "en": ""
+  "en": "I'll follow you for life! Anywhere!!"
  },
  {
   "id": "79BBD4.56",
@@ -251,7 +251,7 @@
   "box": 14,
   "speaker": "西園寺　",
   "jp": "どこまでも！！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79BBD4.58",
@@ -266,7 +266,7 @@
   "box": 15,
   "speaker": "銀次",
   "jp": "い、一生！？　ちょ、待っ…　",
-  "en": ""
+  "en": "F-for life?! Wh-wait a... Ban-chaaan, help"
  },
  {
   "id": "79BBD4.61",
@@ -274,6 +274,6 @@
   "box": 15,
   "speaker": "銀次",
   "jp": "蛮ちゃ～ん、助けて～！！",
-  "en": ""
+  "en": "meee!!"
  }
 ]

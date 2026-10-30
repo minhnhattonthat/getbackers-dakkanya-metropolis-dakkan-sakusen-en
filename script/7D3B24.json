@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "うわっ！　人がたくさんいるね…　",
-  "en": ""
+  "en": "Whoa! There are a lot of people here..."
  },
  {
   "id": "7D3B24.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "騒ぎを聞いて集まってきやがったか…　",
-  "en": ""
+  "en": "Guess they heard the ruckus and came"
  },
  {
   "id": "7D3B24.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "マズいな…　",
-  "en": ""
+  "en": "running... This is bad..."
  },
  {
   "id": "7D3B24.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "警察もいるみたいだし、　",
-  "en": ""
+  "en": "The police are here too, it seems. Doesn't"
  },
  {
   "id": "7D3B24.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "すんなり中に入れそうもないわね　",
-  "en": ""
+  "en": "look like we can just stroll inside."
  },
  {
   "id": "7D3B24.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "なら、ここはワイらの出番ちゃうか？　",
-  "en": ""
+  "en": "Then ain't this our time to shine? Right,"
  },
  {
   "id": "7D3B24.18",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "な、士度はん！　十兵衛はん！！　",
-  "en": ""
+  "en": "Shido-han? Juubei-han?!"
  },
  {
   "id": "7D3B24.20",
@@ -96,7 +96,7 @@
   "box": 5,
   "speaker": "士度",
   "jp": "あ？",
-  "en": ""
+  "en": "Huh?"
  },
  {
   "id": "7D3B24.24",
@@ -111,6 +111,6 @@
   "box": 6,
   "speaker": "十兵衛　",
   "jp": "ム…？　",
-  "en": ""
+  "en": "Hm...?"
  }
 ]

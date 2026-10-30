@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "弥勒",
   "jp": "君は相変わらず優しいんだね　",
-  "en": ""
+  "en": "You're as kind as ever."
  },
  {
   "id": "7BFA08.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "弥勒",
   "jp": "兄たちが相手だったら",
-  "en": ""
+  "en": "If it had been my brothers, you'd have"
  },
  {
   "id": "7BFA08.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "弥勒",
   "jp": "やられているところだったよ？",
-  "en": ""
+  "en": "been finished, you know?"
  },
  {
   "id": "7BFA08.8",
@@ -43,6 +43,6 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "雪彦くん…　",
-  "en": ""
+  "en": "Yukihiko-kun..."
  }
 ]

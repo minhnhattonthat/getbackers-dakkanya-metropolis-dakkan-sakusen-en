@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "…ば、蛮ちゃん…オレ…オレ………",
-  "en": ""
+  "en": "...B-Ban-chan... I... I......"
  },
  {
   "id": "7A2864.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "誰もお前の記憶力あてにしてねーから　",
-  "en": ""
+  "en": "Relax, nobody's counting on your memory..."
  },
  {
   "id": "7A2864.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "安心しな…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7A2864.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "でもこれで堂々と探索できそうですね？",
-  "en": ""
+  "en": "But now we can search out in the open,\ncan't we?"
  },
  {
   "id": "7A2864.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "士度",
   "jp": "さっきの警備員たちは",
-  "en": ""
+  "en": "Though those guards from before look like"
  },
  {
   "id": "7A2864.17",
@@ -73,6 +73,6 @@
   "box": 4,
   "speaker": "士度",
   "jp": "追ってきそうな気配だがな…　",
-  "en": ""
+  "en": "they'll come after us..."
  }
 ]

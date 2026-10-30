@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "女子社員",
   "jp": "あら…あなたお笑いのオーディション　",
-  "en": ""
+  "en": "Oh my... are you here for the comedy"
  },
  {
   "id": "7B1D0C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "女子社員",
   "jp": "受けに来たの？　",
-  "en": ""
+  "en": "audition?"
  },
  {
   "id": "7B1D0C.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "まあ、そんなトコですわ　",
-  "en": ""
+  "en": "Somethin' like that. By the way, got a"
  },
  {
   "id": "7B1D0C.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "ところで、パス持ってへん？　",
-  "en": ""
+  "en": "pass?"
  },
  {
   "id": "7B1D0C.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "女子社員",
   "jp": "ごめんね、お笑いのコはちょっと…ね　",
-  "en": ""
+  "en": "Sorry, comedian types are kinda... you\nknow."
  },
  {
   "id": "7B1D0C.15",
@@ -73,6 +73,6 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "なっ、なんでやね～ん！！",
-  "en": ""
+  "en": "Wh-why the heck not~?!!"
  }
 ]

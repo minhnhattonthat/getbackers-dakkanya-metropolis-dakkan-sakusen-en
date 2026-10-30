@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "十兵衛　",
   "jp": "４３階か…近い階ではあったようだな　",
-  "en": ""
+  "en": "Floor 43, huh... It seems it stopped at a\nfloor close by."
  },
  {
   "id": "7C83E8.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "そうだね…　",
-  "en": ""
+  "en": "Right... Let's keep climbing."
  },
  {
   "id": "7C83E8.8",
@@ -35,6 +35,6 @@
   "box": 2,
   "speaker": "花月",
   "jp": "このまま昇ってみよう",
-  "en": ""
+  "en": " "
  }
 ]

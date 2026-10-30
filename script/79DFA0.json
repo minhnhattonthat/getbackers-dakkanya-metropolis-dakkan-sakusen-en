@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "♪ピロリロリロリロロン…",
-  "en": ""
+  "en": "♪Plinkety-plinkety-plonk..."
  },
  {
   "id": "79DFA0.4",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "お、音楽室からピアノの音が！",
-  "en": ""
+  "en": "P-piano music from the music room! It's"
  },
  {
   "id": "79DFA0.7",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "七不思議の一つだよ、蛮ちゃん！！",
-  "en": ""
+  "en": "one of the Seven Mysteries, Ban-chan!!"
  },
  {
   "id": "79DFA0.9",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "アホか！　これもＣＡＶ連中の",
-  "en": ""
+  "en": "Moron! Obviously this is the CAV guys'"
  },
  {
   "id": "79DFA0.12",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "仕業に決まってンだろ！！",
-  "en": ""
+  "en": "doing too!!"
  },
  {
   "id": "79DFA0.14",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "ちったあ学習しろ！！",
-  "en": ""
+  "en": "Learn something already!!"
  },
  {
   "id": "79DFA0.16",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "士度",
   "jp": "ここでもなにか企んでるみてーだな…　",
-  "en": ""
+  "en": "Looks like they're plotting something here"
  },
  {
   "id": "79DFA0.19",
@@ -82,6 +82,6 @@
   "box": 5,
   "speaker": "士度",
   "jp": "入ってみるか？　",
-  "en": ""
+  "en": "too... Wanna go in?"
  }
 ]

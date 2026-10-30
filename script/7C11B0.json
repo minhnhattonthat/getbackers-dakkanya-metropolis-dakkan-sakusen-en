@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "おい、クレイマン！　",
-  "en": ""
+  "en": "Hey, Clayman! We went and retrieved the"
  },
  {
   "id": "7C11B0.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "依頼品奪還してきてやったぜ！！　",
-  "en": ""
+  "en": "goods for ya!!"
  },
  {
   "id": "7C11B0.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "財宝ってからにはさぞかし依頼料も",
-  "en": ""
+  "en": "Since it's a treasure, I bet you're gonna"
  },
  {
   "id": "7C11B0.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "はずんでくれるんだろうな？　",
-  "en": ""
+  "en": "pay us real generously, huh?"
  },
  {
   "id": "7C11B0.9",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "クレイマン　",
   "jp": "これが今回の依頼料だよ　",
-  "en": ""
+  "en": "This is your fee for this job."
  },
  {
   "id": "7C11B0.13",
@@ -59,7 +59,7 @@
   "box": 3,
   "speaker": "クレイマン　",
   "jp": "蛮　",
-  "en": ""
+  "en": "Ban"
  },
  {
   "id": "7C11B0.14",
@@ -67,7 +67,7 @@
   "box": 3,
   "speaker": "クレイマン　",
   "jp": "銀次",
-  "en": ""
+  "en": "Ginji"
  },
  {
   "id": "7C11B0.16",
@@ -75,7 +75,7 @@
   "box": 4,
   "speaker": "クレイマン　",
   "jp": "…１・万・円！？",
-  "en": ""
+  "en": "...10,000... yen?!"
  },
  {
   "id": "7C11B0.18",
@@ -90,7 +90,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "…なんだ、そりゃ？　",
-  "en": ""
+  "en": "...The hell is this? You making fun of us,"
  },
  {
   "id": "7C11B0.21",
@@ -98,7 +98,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "俺たちのことナメてんのか、テメー！　",
-  "en": ""
+  "en": "punk?!"
  },
  {
   "id": "7C11B0.23",
@@ -113,7 +113,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "待って、蛮ちゃん！　",
-  "en": ""
+  "en": "Wait, Ban-chan! I've seen this bill before!!"
  },
  {
   "id": "7C11B0.26",
@@ -121,7 +121,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "このお札…見覚えがあるよ！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C11B0.28",
@@ -136,7 +136,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "ああ？　なに言ってんだ、銀次",
-  "en": ""
+  "en": "Huh? What're you talking about, Ginji?"
  },
  {
   "id": "7C11B0.32",
@@ -144,7 +144,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "金は天下の回りモノっつーからには",
-  "en": ""
+  "en": "Money goes round and round, so you're"
  },
  {
   "id": "7C11B0.33",
@@ -152,7 +152,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "見覚えのある札の一つや二つはだな…　",
-  "en": ""
+  "en": "bound to see a bill or two you recognize..."
  },
  {
   "id": "7C11B0.36",
@@ -167,7 +167,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "違う、違うんだよ",
-  "en": ""
+  "en": "No, that's not it."
  },
  {
   "id": "7C11B0.40",
@@ -175,7 +175,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "このお札、アルくんが波児さんから",
-  "en": ""
+  "en": "This is the bill Al-kun got from Paul-san as"
  },
  {
   "id": "7C11B0.41",
@@ -183,7 +183,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "初めての給料だってもらったものなんだ",
-  "en": ""
+  "en": "his first paycheck."
  },
  {
   "id": "7C11B0.43",
@@ -198,7 +198,7 @@
   "box": 11,
   "speaker": "蛮　",
   "jp": "アイツ、借金返すために働いてたくせに",
-  "en": ""
+  "en": "He was working to pay off his debt, so"
  },
  {
   "id": "7C11B0.46",
@@ -206,7 +206,7 @@
   "box": 11,
   "speaker": "蛮　",
   "jp": "なンで給料もらってやがんだ？",
-  "en": ""
+  "en": "why the hell'd he get paid?"
  },
  {
   "id": "7C11B0.48",
@@ -221,7 +221,7 @@
   "box": 12,
   "speaker": "銀次",
   "jp": "よく働いてたからご褒美だって…　",
-  "en": ""
+  "en": "Paul-san said it was a reward for working\nso hard..."
  },
  {
   "id": "7C11B0.52",
@@ -229,7 +229,7 @@
   "box": 13,
   "speaker": "銀次",
   "jp": "だけどアルくんは紙のお金に　",
-  "en": ""
+  "en": "But Al-kun thought paper money was"
  },
  {
   "id": "7C11B0.53",
@@ -237,7 +237,7 @@
   "box": 13,
   "speaker": "銀次",
   "jp": "価値ないって思ってたから",
-  "en": ""
+  "en": "worthless,"
  },
  {
   "id": "7C11B0.55",
@@ -245,7 +245,7 @@
   "box": 14,
   "speaker": "銀次",
   "jp": "お札に落書きしたりしてて…　",
-  "en": ""
+  "en": "so he scribbled doodles on it and stuff..."
  },
  {
   "id": "7C11B0.57",
@@ -253,7 +253,7 @@
   "box": 15,
   "speaker": "銀次",
   "jp": "クレイマンさん、今回の依頼人って",
-  "en": ""
+  "en": "Clayman-san, was Al-kun really the client"
  },
  {
   "id": "7C11B0.58",
@@ -261,7 +261,7 @@
   "box": 15,
   "speaker": "銀次",
   "jp": "本当はアルくんなんですか？　",
-  "en": ""
+  "en": "for this job?"
  },
  {
   "id": "7C11B0.60",
@@ -276,7 +276,7 @@
   "box": 16,
   "speaker": "クレイマン　",
   "jp": "それを確かめたいなら",
-  "en": ""
+  "en": "If you want to find out, go back to"
  },
  {
   "id": "7C11B0.63",
@@ -284,7 +284,7 @@
   "box": 16,
   "speaker": "クレイマン　",
   "jp": "新宿へ帰ることだ",
-  "en": ""
+  "en": "Shinjuku."
  },
  {
   "id": "7C11B0.65",
@@ -292,7 +292,7 @@
   "box": 17,
   "speaker": "クレイマン　",
   "jp": "そして直接聞けばいい",
-  "en": ""
+  "en": "And ask him yourself."
  },
  {
   "id": "7C11B0.67",
@@ -307,7 +307,7 @@
   "box": 18,
   "speaker": "蛮　",
   "jp": "チッ、あのヤロー…　",
-  "en": ""
+  "en": "Tch, that punk... He really was a jinx."
  },
  {
   "id": "7C11B0.70",
@@ -315,7 +315,7 @@
   "box": 18,
   "speaker": "蛮　",
   "jp": "やっぱり疫病神だったな　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C11B0.72",
@@ -330,7 +330,7 @@
   "box": 19,
   "speaker": "銀次",
   "jp": "…蛮ちゃん　",
-  "en": ""
+  "en": "...Ban-chan."
  },
  {
   "id": "7C11B0.77",
@@ -345,7 +345,7 @@
   "box": 20,
   "speaker": "蛮　",
   "jp": "残りの金は　",
-  "en": ""
+  "en": "I'm gonna make damn sure he pays us the"
  },
  {
   "id": "7C11B0.80",
@@ -353,7 +353,7 @@
   "box": 20,
   "speaker": "蛮　",
   "jp": "きっちりヤツに払ってもらうからな！　",
-  "en": ""
+  "en": "rest!"
  },
  {
   "id": "7C11B0.82",
@@ -361,7 +361,7 @@
   "box": 21,
   "speaker": "蛮　",
   "jp": "よし、銀次！",
-  "en": ""
+  "en": "Alright, Ginji! Back to Shinjuku to catch Al!!"
  },
  {
   "id": "7C11B0.83",
@@ -369,7 +369,7 @@
   "box": 21,
   "speaker": "蛮　",
   "jp": "アルを捕まえに新宿に戻るぞ！！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C11B0.85",
@@ -384,7 +384,7 @@
   "box": 22,
   "speaker": "銀次",
   "jp": "うん、そうだね！",
-  "en": ""
+  "en": "Yeah, let's! Let's go find Al-kun!!"
  },
  {
   "id": "7C11B0.88",
@@ -392,6 +392,6 @@
   "box": 22,
   "speaker": "銀次",
   "jp": "行こう、アルくんのところに！！　",
-  "en": ""
+  "en": " "
  }
 ]

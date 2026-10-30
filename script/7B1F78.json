@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "女子社員",
   "jp": "あら！　ステキな方…",
-  "en": ""
+  "en": "Oh! How dreamy... Ooh, it's been ages since"
  },
  {
   "id": "7B1F78.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "女子社員",
   "jp": "いや～ん、久しぶりにタイプな男性だわ",
-  "en": ""
+  "en": "I met a man who's my type!"
  },
  {
   "id": "7B1F78.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "ちょっと、なに言ってんの？　",
-  "en": ""
+  "en": "Hey, what are you talking about? I'm a"
  },
  {
   "id": "7B1F78.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "私はおん…　",
-  "en": ""
+  "en": "wom..."
  },
  {
   "id": "7B1F78.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "（いいから黙っとけって！）　",
-  "en": ""
+  "en": "(Just keep quiet!)"
  },
  {
   "id": "7B1F78.16",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "女子社員",
   "jp": "なにか御用ですかぁ？",
-  "en": ""
+  "en": "Can I help you with something~? Right"
  },
  {
   "id": "7B1F78.19",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "女子社員",
   "jp": "今ならサービスしちゃいますけどぉ",
-  "en": ""
+  "en": "now, I'll give you special treatment~"
  },
  {
   "id": "7B1F78.21",
@@ -96,7 +96,7 @@
   "box": 5,
   "speaker": "卑弥呼　",
   "jp": "…パス探してるんだけど　",
-  "en": ""
+  "en": "...I'm looking for a pass."
  },
  {
   "id": "7B1F78.25",
@@ -111,7 +111,7 @@
   "box": 6,
   "speaker": "女子社員",
   "jp": "えっ、パスだったら持ってますぅ　",
-  "en": ""
+  "en": "Oh, I've got a pass~ I'll give it to you, just"
  },
  {
   "id": "7B1F78.28",
@@ -119,7 +119,7 @@
   "box": 6,
   "speaker": "女子社員",
   "jp": "特別にあげちゃいますね♥",
-  "en": ""
+  "en": "this once♥"
  },
  {
   "id": "7B1F78.32",
@@ -127,7 +127,7 @@
   "box": 7,
   "speaker": "女子社員",
   "jp": "パスコード２を手に入れた！　",
-  "en": ""
+  "en": "Got Passcode 2!"
  },
  {
   "id": "7B1F78.34",
@@ -142,7 +142,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "よっしゃ、でかした卑弥呼！　",
-  "en": ""
+  "en": "All right, nice work, Himiko!"
  },
  {
   "id": "7B1F78.38",
@@ -157,6 +157,6 @@
   "box": 9,
   "speaker": "卑弥呼　",
   "jp": "なんだか複雑な気分だわ…",
-  "en": ""
+  "en": "I have kind of mixed feelings about this..."
  }
 ]

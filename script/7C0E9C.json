@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "雪彦くん…　",
-  "en": ""
+  "en": "Yukihiko-kun..."
  },
  {
   "id": "7C0E9C.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "弥勒",
   "jp": "ごめんね、銀次君",
-  "en": ""
+  "en": "I'm sorry, Ginji-kun. And here I'm the one"
  },
  {
   "id": "7C0E9C.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "弥勒",
   "jp": "助けてもらったのは僕の方なのにね…　",
-  "en": ""
+  "en": "you saved..."
  },
  {
   "id": "7C0E9C.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "いいんだよ、そんなこと　",
-  "en": ""
+  "en": "Don't worry about that."
  },
  {
   "id": "7C0E9C.14",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ねえ、　",
-  "en": ""
+  "en": "Hey, Yukihiko-kun, come with us too."
  },
  {
   "id": "7C0E9C.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "雪彦くんもオレたちと一緒に行こうよ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C0E9C.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "弥勒",
   "jp": "ダメだよ…僕は君たちと　",
-  "en": ""
+  "en": "I can't... I can't go along with you."
  },
  {
   "id": "7C0E9C.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "弥勒",
   "jp": "行動を共にすることはできない",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C0E9C.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "どうして…？",
-  "en": ""
+  "en": "Why not...?"
  },
  {
   "id": "7C0E9C.26",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "弥勒",
-  "en": ""
+  "en": "Miroku"
  },
  {
   "id": "7C0E9C.29",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "許せないんだ、美堂蛮が…！　",
-  "en": ""
+  "en": "I can't forgive him... Ban Mido...!"
  },
  {
   "id": "7C0E9C.31",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7C0E9C.35",
@@ -150,7 +150,7 @@
   "box": 9,
   "speaker": "弥勒",
   "jp": "…でも銀次君、　",
-  "en": ""
+  "en": "...But Ginji-kun, I will repay this debt, I"
  },
  {
   "id": "7C0E9C.38",
@@ -158,6 +158,6 @@
   "box": 9,
   "speaker": "弥勒",
   "jp": "この借りは必ず返すから覚えておいてね",
-  "en": ""
+  "en": "promise. Remember that."
  }
 ]

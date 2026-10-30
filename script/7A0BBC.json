@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "ねえ、蛮ちゃん　",
-  "en": ""
+  "en": "Hey, Ban-chan, when we borrowed gas"
  },
  {
   "id": "7A0BBC.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "ヘヴンさんにガソリン代前借りした時に",
-  "en": ""
+  "en": "money from Hevn-san in advance,"
  },
  {
   "id": "7A0BBC.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "後で十倍にして返す　",
-  "en": ""
+  "en": "you said we'd pay her back ten times"
  },
  {
   "id": "7A0BBC.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "なんて言っちゃったけど平気なの？",
-  "en": ""
+  "en": "over... Is that really okay?"
  },
  {
   "id": "7A0BBC.9",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "仕方ねえだろ、そうでも言わねえと",
-  "en": ""
+  "en": "Couldn't be helped. She wouldn't have lent"
  },
  {
   "id": "7A0BBC.12",
@@ -59,7 +59,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "貸してくれねえんだからよ",
-  "en": ""
+  "en": "it to us otherwise."
  },
  {
   "id": "7A0BBC.14",
@@ -67,7 +67,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "それにな、　",
-  "en": ""
+  "en": "Besides, once the fee comes in, gas"
  },
  {
   "id": "7A0BBC.15",
@@ -75,6 +75,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "依頼料さえ入ればガソリン代位…　",
-  "en": ""
+  "en": "money's nothing..."
  }
 ]

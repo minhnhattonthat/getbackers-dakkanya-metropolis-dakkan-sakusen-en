@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "社員Ａ　",
   "jp": "今日はなんだか騒がしいな…　",
-  "en": ""
+  "en": "Sure is noisy today..."
  },
  {
   "id": "7AD758.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "社員Ｂ　",
   "jp": "ＭＡＩと話をさせろって騒いでた連中が",
-  "en": ""
+  "en": "Word is, the bunch raising a fuss about"
  },
  {
   "id": "7AD758.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "社員Ｂ　",
   "jp": "内部に侵入したって話だからな…　",
-  "en": ""
+  "en": "talking to MAI got inside..."
  },
  {
   "id": "7AD758.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "社員Ａ　",
   "jp": "なんだ、ソイツら",
-  "en": ""
+  "en": "What, they're trying to lure MAI away?"
  },
  {
   "id": "7AD758.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "社員Ａ　",
   "jp": "ＭＡＩを引き抜くつもりなのか？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AD758.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "社員Ｂ　",
   "jp": "ま、なにがあってもＭＡＩは　",
-  "en": ""
+  "en": "Eh, no matter what happens, MAI won't"
  },
  {
   "id": "7AD758.18",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "社員Ｂ　",
   "jp": "移籍なんかしないさ　",
-  "en": ""
+  "en": "switch agencies."
  },
  {
   "id": "7AD758.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "社員Ｂ　",
   "jp": "バラされたくないような家の事情を",
-  "en": ""
+  "en": "Our boss has his hands on every family"
  },
  {
   "id": "7AD758.21",
@@ -97,7 +97,7 @@
   "box": 5,
   "speaker": "社員Ｂ　",
   "jp": "全てウチの社長が握ってるわけだからな",
-  "en": ""
+  "en": "secret she'd hate to see leaked."
  },
  {
   "id": "7AD758.23",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "社員Ａ　",
   "jp": "それって社長のパソコンに",
-  "en": ""
+  "en": "That stuff's on the boss's computer,"
  },
  {
   "id": "7AD758.26",
@@ -120,7 +120,7 @@
   "box": 6,
   "speaker": "社員Ａ　",
   "jp": "入ってんだろ？　",
-  "en": ""
+  "en": "right?"
  },
  {
   "id": "7AD758.28",
@@ -128,6 +128,6 @@
   "box": 7,
   "speaker": "社員Ａ　",
   "jp": "怖ェ話だよなー　",
-  "en": ""
+  "en": "Scary stuff, huh."
  }
 ]

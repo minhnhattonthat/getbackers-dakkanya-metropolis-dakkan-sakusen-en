@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "…あれ？",
-  "en": ""
+  "en": "...Huh?"
  },
  {
   "id": "79A548.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "あン？　どうした、銀次？",
-  "en": ""
+  "en": "Huh? What's up, Ginji?"
  },
  {
   "id": "79A548.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "いま、向こうの廊下に",
-  "en": ""
+  "en": "Just now, I think I saw Kazu-chan down"
  },
  {
   "id": "79A548.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "カヅっちゃんがいたような？？？　",
-  "en": ""
+  "en": "that hallway???"
  },
  {
   "id": "79A548.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "こンな所にいるわけねーだろ　",
-  "en": ""
+  "en": "No way he'd be in a place like this."
  },
  {
   "id": "79A548.18",
@@ -80,7 +80,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "でもなー…　",
-  "en": ""
+  "en": "But still..."
  },
  {
   "id": "79A548.22",
@@ -95,6 +95,6 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "いいから、先を急ごうぜ　",
-  "en": ""
+  "en": "Forget it, let's keep moving."
  }
 ]

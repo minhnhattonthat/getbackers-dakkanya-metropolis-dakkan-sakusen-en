@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "テメー、いい加減目ェ覚ませ！",
-  "en": ""
+  "en": "Wake up already, dammit! They're getting"
  },
  {
   "id": "7A1C10.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "アイツらに逃げられンじゃねえかよ！　",
-  "en": ""
+  "en": "away!"
  },
  {
   "id": "7A1C10.7",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "はっ、どうしたことでしょうか？　",
-  "en": ""
+  "en": "Oh! Whatever has happened here? And for"
  },
  {
   "id": "7A1C10.10",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "そして手の中にはなぜかこんなものが…",
-  "en": ""
+  "en": "some reason, I have these in my hand..."
  },
  {
   "id": "7A1C10.14",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ばんばねのＭ、ばねぎんのＭを",
-  "en": ""
+  "en": "Got the Ban-Bane Memory and the"
  },
  {
   "id": "7A1C10.15",
@@ -59,7 +59,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "手に入れた！",
-  "en": ""
+  "en": "Bane-Gin Memory!"
  },
  {
   "id": "7A1C10.17",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "蛮ちゃん…なんだろう、コレ？",
-  "en": ""
+  "en": "Ban-chan... what are these? Does the M"
  },
  {
   "id": "7A1C10.20",
@@ -82,7 +82,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "Ｍってメ・モ・リー…？？",
-  "en": ""
+  "en": "stand for Me-mo-ry...??"
  },
  {
   "id": "7A1C10.22",
@@ -97,7 +97,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "知らねえよ！",
-  "en": ""
+  "en": "How should I know?! Never mind that, we"
  },
  {
   "id": "7A1C10.25",
@@ -105,6 +105,6 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "それより早く追い掛けるぞ！！",
-  "en": ""
+  "en": "gotta chase 'em!!"
  }
 ]

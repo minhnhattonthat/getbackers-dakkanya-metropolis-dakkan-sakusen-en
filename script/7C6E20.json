@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ジェンド",
   "jp": "裏切り者には死を…　",
-  "en": ""
+  "en": "Death to traitors... That is the law of our"
  },
  {
   "id": "7C6E20.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "ジェンド",
   "jp": "それが我が一族の掟だ",
-  "en": ""
+  "en": "clan."
  },
  {
   "id": "7C6E20.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "ジェンド",
   "jp": "さらばだ、アル　",
-  "en": ""
+  "en": "Farewell, Al."
  },
  {
   "id": "7C6E20.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "！！",
-  "en": ""
+  "en": "!! Aaaaaal!!"
  },
  {
   "id": "7C6E20.11",
@@ -51,6 +51,6 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "アルーーーーーッ！！",
-  "en": ""
+  "en": " "
  }
 ]

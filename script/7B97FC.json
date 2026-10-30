@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "ハア、ハア、ハア………　",
-  "en": ""
+  "en": "Hah, hah, hah...... What was that just"
  },
  {
   "id": "7B97FC.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "なんだったんだ、今のは…！？",
-  "en": ""
+  "en": "now...?!"
  },
  {
   "id": "7B97FC.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "銀次、平気かよ？",
-  "en": ""
+  "en": "Ginji, you okay?"
  },
  {
   "id": "7B97FC.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "う、うん、なんとか…",
-  "en": ""
+  "en": "Y-yeah, somehow..."
  },
  {
   "id": "7B97FC.14",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "あれ？　",
-  "en": ""
+  "en": "Huh? The stone Al-kun gave me is broken..."
  },
  {
   "id": "7B97FC.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "アルくんにもらった石が壊れてる…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B97FC.17",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "…なんだろう、イヤな予感がする　",
-  "en": ""
+  "en": "...I don't know why, but I've got a bad\nfeeling."
  },
  {
   "id": "7B97FC.19",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "…で、ＤＶＤロムはあったのか？　",
-  "en": ""
+  "en": "...So, was the DVD-ROM there?"
  },
  {
   "id": "7B97FC.23",
@@ -104,7 +104,7 @@
   "box": 7,
   "speaker": "花月",
   "jp": "ええ、ありましたよ　",
-  "en": ""
+  "en": "Yes, we found it."
  },
  {
   "id": "7B97FC.27",
@@ -119,7 +119,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "よっしゃ、奪還成功だな！",
-  "en": ""
+  "en": "Alright, retrieval complete! Let's head"
  },
  {
   "id": "7B97FC.30",
@@ -127,6 +127,6 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "戻るとするか！！",
-  "en": ""
+  "en": "back!!"
  }
 ]

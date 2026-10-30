@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "笑師",
   "jp": "アタタ…",
-  "en": ""
+  "en": "Ow ow ow... Screwed up there, didn't I."
  },
  {
   "id": "7C875C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "笑師",
   "jp": "今のでドジってもうたな　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C875C.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "ケガをしたのか？",
-  "en": ""
+  "en": "Are you hurt? Let me see."
  },
  {
   "id": "7C875C.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "見せてみろ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C875C.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "笑師",
   "jp": "十兵衛はん…アンタ、エエ人やな　",
-  "en": ""
+  "en": "Juubei-han... You're a real good guy, ya\nknow."
  },
  {
   "id": "7C875C.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "どや、ワイとお笑いコンビ組まへんか？",
-  "en": ""
+  "en": "How 'bout it? Wanna form a comedy duo\nwith me?"
  },
  {
   "id": "7C875C.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "十兵衛　",
   "jp": "いや、お前とは組まん！　",
-  "en": ""
+  "en": "No. I will not team up with you!"
  },
  {
   "id": "7C875C.21",
@@ -96,6 +96,6 @@
   "box": 6,
   "speaker": "笑師",
   "jp": "即答かいな！！　",
-  "en": ""
+  "en": "Didn't even think about it, huh?!!"
  }
 ]

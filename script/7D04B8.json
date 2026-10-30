@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "おう、卑弥呼",
-  "en": ""
+  "en": "Hey, Himiko. Looks like nobody made you"
  },
  {
   "id": "7D04B8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "今回は泣かされなかったみてえだな？　",
-  "en": ""
+  "en": "cry this time, huh?"
  },
  {
   "id": "7D04B8.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "なによ、それ？　あたしが敵に負けて　",
-  "en": ""
+  "en": "Meaning what? You thought I lost to some"
  },
  {
   "id": "7D04B8.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "泣いてるとでも思ったわけ？　",
-  "en": ""
+  "en": "enemy and was crying?"
  },
  {
   "id": "7D04B8.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "それで…爆弾の方は解決したわけ？",
-  "en": ""
+  "en": "So... did you take care of the bomb?"
  },
  {
   "id": "7D04B8.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "いや…　",
-  "en": ""
+  "en": "Nope..."
  },
  {
   "id": "7D04B8.17",
@@ -74,6 +74,6 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ま、歩きながら説明するわ",
-  "en": ""
+  "en": "Well, I'll explain while we walk."
  }
 ]

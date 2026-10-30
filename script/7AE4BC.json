@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "…ア、オトリコミ中デスカ？　",
-  "en": ""
+  "en": "...Ah, you are busy now?"
  },
  {
   "id": "7AE4BC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "あれ、アルくん！",
-  "en": ""
+  "en": "Huh, Al-kun! What are you doing here?!"
  },
  {
   "id": "7AE4BC.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "どうしてこんなところに！？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AE4BC.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "アル",
   "jp": "ウン、ボク、歌ヲ歌ッテモライタクテ…",
-  "en": ""
+  "en": "Yes, I, want someone to sing song..."
  },
  {
   "id": "7AE4BC.14",
@@ -58,6 +58,6 @@
   "box": 4,
   "speaker": "アル",
   "jp": "ア、アノ人！",
-  "en": ""
+  "en": "Ah, that person!"
  }
 ]

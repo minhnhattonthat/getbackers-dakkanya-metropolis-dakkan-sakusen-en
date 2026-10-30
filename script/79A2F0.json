@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "おい、女の子の髪どめ知らねーか！",
-  "en": ""
+  "en": "Hey, you seen a little girl's hairpin?!"
  },
  {
   "id": "79A2F0.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "Ｃメンバー　",
   "jp": "か、髪どめ…？　",
-  "en": ""
+  "en": "A-a hairpin...?"
  },
  {
   "id": "79A2F0.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "Ｃメンバー　",
   "jp": "そういえば、",
-  "en": ""
+  "en": "Now that you mention it, I think our leader"
  },
  {
   "id": "79A2F0.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "Ｃメンバー　",
   "jp": "ウチのリーダーがしていたような…",
-  "en": ""
+  "en": "was wearing one..."
  },
  {
   "id": "79A2F0.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "リーダーって？　",
-  "en": ""
+  "en": "Your leader?"
  },
  {
   "id": "79A2F0.16",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "Ｃメンバー　",
   "jp": "さ、西園寺（さいおんじ）です",
-  "en": ""
+  "en": "S-Saionji. Kaoru Saionji..."
  },
  {
   "id": "79A2F0.19",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "Ｃメンバー　",
   "jp": "西園寺薫…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79A2F0.21",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "かおるってことは女の子かな？",
-  "en": ""
+  "en": "Kaoru... So is it a girl?"
  },
  {
   "id": "79A2F0.25",
@@ -104,7 +104,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "士度はその人知ってるの？",
-  "en": ""
+  "en": "Shido, do you know this person?"
  },
  {
   "id": "79A2F0.27",
@@ -119,7 +119,7 @@
   "box": 8,
   "speaker": "士度",
   "jp": "いや、聞いたことねーな…",
-  "en": ""
+  "en": "Nope, never heard of 'em..."
  },
  {
   "id": "79A2F0.31",
@@ -134,7 +134,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "ま、どっちだっていいじゃねえか　",
-  "en": ""
+  "en": "Eh, who cares either way? Let's start by"
  },
  {
   "id": "79A2F0.34",
@@ -142,6 +142,6 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "まずはその西園寺を探してみようぜ",
-  "en": ""
+  "en": "finding this Saionji."
  }
 ]

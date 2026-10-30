@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "ねえねえ蛮ちゃん、　",
-  "en": ""
+  "en": "Hey hey, Ban-chan, looks like you can only"
  },
  {
   "id": "7C92C4.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "押せる階が限られてるみたいだよ、これ",
-  "en": ""
+  "en": "press certain floors on this thing."
  },
  {
   "id": "7C92C4.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "上は９５階が限界みたい　",
-  "en": ""
+  "en": "Looks like 95 is as high as it goes."
  },
  {
   "id": "7C92C4.8",
@@ -43,6 +43,6 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ま、１階から階段で行くよりはマシか…",
-  "en": ""
+  "en": "Well, beats taking the stairs up from 1F..."
  }
 ]

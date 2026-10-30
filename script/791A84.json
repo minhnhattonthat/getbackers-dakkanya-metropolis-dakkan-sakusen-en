@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "今度こそ奪還成功だね！　",
-  "en": ""
+  "en": "This time the retrieval's a success for\nreal!"
  },
  {
   "id": "791A84.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "ＨＯＮＫＹＴＯＮＫで依頼人さんが",
-  "en": ""
+  "en": "The client should be waiting at the Honky"
  },
  {
   "id": "791A84.6",
@@ -28,6 +28,6 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "待ってるはずだから早く行こうよ！",
-  "en": ""
+  "en": "Tonk, so let's hurry!"
  }
 ]

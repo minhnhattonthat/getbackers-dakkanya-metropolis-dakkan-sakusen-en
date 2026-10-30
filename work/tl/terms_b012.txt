@@ -8,20 +8,32 @@
 蛮ちゃん	Ban-chan
 銀ちゃん	Gin-chan
 アル	Al
-蛮	Ban
-銀次	Ginji
-十兵衛	Juubei
-アル	Al
-ヘヴン	Hevn
-波児	Paul
-夏実	Natsumi
-西園寺	Saionji
-？？？	???
-ツルコ	Tsuruko
-マドカ	Madoka
-ハカマ	Hakama
-クレイマン	Clayman
+Ｎホール	N Hall
 ゲットバッカーズ	GetBackers	avoid: Get Backers
 運び屋	transporter
 電撃	Electric Shock
+石	stone
+確かに引き受けた	consider it done
+フローラルつる子	Floral Tsuruko
+紋之月ハカマ	Hakama Monnotsuki
+人生はスパンコール	Life Is Sequins
 ＣＡＶ	CAV
+ＣＡＶ	CAV
+蛮	Ban	(name tag)
+銀次	Ginji	(name tag)
+士度	Shido	(name tag)
+笑師	Emishi	(name tag)
+花月	Kazuki	(name tag)
+卑弥呼	Himiko	(name tag)
+赤屍	Akabane	(name tag)
+鏡	Kagami	(name tag)
+十兵衛	Juubei	(name tag)
+アル	Al	(name tag)
+ヘヴン	Hevn	(name tag)
+波児	Paul	(name tag)
+夏実	Natsumi	(name tag)
+西園寺	Saionji	(name tag)
+写真屋	Photographer	(name tag)
+ツルコ	Tsuruko	(name tag)
+Ｃメンバー	C Member	(name tag)
+ＴＡＲＥ	TARE	(name tag)

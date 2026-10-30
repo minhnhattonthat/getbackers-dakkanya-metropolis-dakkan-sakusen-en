@@ -1,12 +1,30 @@
 蛮	Ban
 卑弥呼	Himiko
 蛮ちゃん	Ban-chan
-蛮	Ban
-卑弥呼	Himiko
-ツルコ	Tsuruko
-ハカマ	Hakama
-横取り屋	Poacher
-シズク	Shizuku
-ナミヲ	Namio
-ロクロー	Rokuro
 運び屋	transporter
+横取り屋	Poacher	avoid: Grabber
+フローラルつる子	Floral Tsuruko
+如月キキョウ	Kikyo Kisaragi
+染川シズク	Shizuku Somekawa
+市村ナミヲ	Namio Ichimura
+神無月ココロ	Kokoro Kannazuki
+岬ロクロー	Rokuro Misaki
+紋之月ハカマ	Hakama Monnotsuki
+人生はスパンコール	Life Is Sequins
+愛のバルセロナ	Barcelona of Love
+ホタテ道	The Way of the Scallop
+１００テラデュアル	100 Tera Dual
+どさんこホイホイ	Dosanko Hoi-Hoi
+えりも岬のがけっぷち	Cliff's Edge at Cape Erimo
+私の涙は流れ星☆	My Tears Are Shooting Stars
+さみだれララバイ	Rainy Season Lullaby
+蛮	Ban	(name tag)
+銀次	Ginji	(name tag)
+士度	Shido	(name tag)
+笑師	Emishi	(name tag)
+花月	Kazuki	(name tag)
+卑弥呼	Himiko	(name tag)
+赤屍	Akabane	(name tag)
+鏡	Kagami	(name tag)
+十兵衛	Juubei	(name tag)
+スタッフ	Staff	(name tag)

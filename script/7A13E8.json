@@ -4,7 +4,7 @@
   "kind": "name",
   "box": 0,
   "jp": "馬車",
-  "en": "Carriage"
+  "en": "Driver"
  },
  {
   "id": "7A13E8.3",
@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "馬車",
   "jp": "奪還屋たちが逃ぐゆうぞ！",
-  "en": ""
+  "en": "The GetBackers are gettin' away!"
  },
  {
   "id": "7A13E8.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "クス…時には臆病さも武器ですよ　",
-  "en": ""
+  "en": "Heh... At times, cowardice is a weapon too."
  },
  {
   "id": "7A13E8.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "そうですよね、レディ・ポイズン？",
-  "en": ""
+  "en": "Isn't that right, Lady Poison?"
  },
  {
   "id": "7A13E8.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "そう…あいつらが持っていったのは、　",
-  "en": ""
+  "en": "Right... What they took is a fake I swapped"
  },
  {
   "id": "7A13E8.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "あたしがすり替えたニセモノなのよ",
-  "en": ""
+  "en": "in."
  },
  {
   "id": "7A13E8.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "卑弥呼　",
   "jp": "後はあいつらが気付く前に",
-  "en": ""
+  "en": "Now if we can just reach N Hall before"
  },
  {
   "id": "7A13E8.16",
@@ -74,14 +74,14 @@
   "box": 4,
   "speaker": "卑弥呼　",
   "jp": "Ｎホールに辿り着ければ…",
-  "en": ""
+  "en": "they notice..."
  },
  {
   "id": "7A13E8.18",
   "kind": "name",
   "box": 4,
   "jp": "馬車",
-  "en": "Carriage"
+  "en": "Driver"
  },
  {
   "id": "7A13E8.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "馬車",
   "jp": "それなら近道があるきに　",
-  "en": ""
+  "en": "Then I know a shortcut, I tell ya."
  },
  {
   "id": "7A13E8.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "卑弥呼　",
   "jp": "えっ、パンクしたままでこの峠を…？　",
-  "en": ""
+  "en": "Huh? Over this pass with flat tires...?"
  },
  {
   "id": "7A13E8.25",
@@ -112,6 +112,6 @@
   "box": 6,
   "speaker": "卑弥呼　",
   "jp": "ちょ、ちょっと、馬車サン！　",
-  "en": ""
+  "en": "H-hey, wait, Maguruma-san!"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "マネージャー",
   "jp": "きみたち、　",
-  "en": ""
+  "en": "Hey, you two. Know where Hakama is?"
  },
  {
   "id": "7B5AD8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "マネージャー",
   "jp": "ハカマがどこにいるか知らないかい？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B5AD8.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "マネージャー",
   "jp": "…まったく、",
-  "en": ""
+  "en": "...Honestly, she's always running off."
  },
  {
   "id": "7B5AD8.7",
@@ -36,6 +36,6 @@
   "box": 2,
   "speaker": "マネージャー",
   "jp": "すぐに逃げ出すんだからなあ　",
-  "en": ""
+  "en": " "
  }
 ]

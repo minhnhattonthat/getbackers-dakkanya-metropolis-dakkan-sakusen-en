@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "十兵衛　",
   "jp": "…くっ！",
-  "en": ""
+  "en": "...Ngh!"
  },
  {
   "id": "7BE78C.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "弥勒",
   "jp": "トドメを刺すべきかも",
-  "en": ""
+  "en": "Perhaps I should finish you off, but I"
  },
  {
   "id": "7BE78C.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "弥勒",
   "jp": "知れませんが、僕に時間がない…　",
-  "en": ""
+  "en": "have no time..."
  },
  {
   "id": "7BE78C.10",
@@ -43,6 +43,6 @@
   "box": 3,
   "speaker": "弥勒",
   "jp": "これで失礼させていただきますよ　",
-  "en": ""
+  "en": "I'll be taking my leave now."
  }
 ]

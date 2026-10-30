@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "女子社員",
   "jp": "あら…ずいぶんマジメそうなボーヤね　",
-  "en": ""
+  "en": "Oh my... what a serious-looking boy."
  },
  {
   "id": "7B1E58.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "パスを探しているのだが…",
-  "en": ""
+  "en": "I am searching for a pass..."
  },
  {
   "id": "7B1E58.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "女子社員",
   "jp": "ごめんね、　",
-  "en": ""
+  "en": "Sorry, overly serious people aren't my"
  },
  {
   "id": "7B1E58.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "女子社員",
   "jp": "マジメすぎる人ってタイプじゃないの　",
-  "en": ""
+  "en": "type."
  },
  {
   "id": "7B1E58.14",
@@ -65,6 +65,6 @@
   "box": 4,
   "speaker": "十兵衛　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  }
 ]

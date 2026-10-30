@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "さっさと還して奪還終了といこうぜ",
-  "en": ""
+  "en": "Let's send it back quick and wrap up this\nretrieval."
  },
  {
   "id": "7D3684.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "でもどうしよう？",
-  "en": ""
+  "en": "But how?"
  },
  {
   "id": "7D3684.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ＴＡＲＥを送るっていっても、",
-  "en": ""
+  "en": "Even if we send TARE back, Al-kun's on a"
  },
  {
   "id": "7D3684.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "アルくんは船の上だし…　",
-  "en": ""
+  "en": "ship..."
  },
  {
   "id": "7D3684.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "なに簡単だって　",
-  "en": ""
+  "en": "Easy. You just do this!"
  },
  {
   "id": "7D3684.15",
@@ -66,6 +66,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "こうすりゃいいんだよ！　",
-  "en": ""
+  "en": " "
  }
 ]

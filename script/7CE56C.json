@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "…まただ、また敵が…",
-  "en": ""
+  "en": "...Again, more enemies..."
  },
  {
   "id": "7CE56C.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "では私が参りましょうか　",
-  "en": ""
+  "en": "Then shall I go?"
  },
  {
   "id": "7CE56C.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "あ、赤屍さん…　",
-  "en": ""
+  "en": "A-Akabane-san..."
  },
  {
   "id": "7CE56C.13",
@@ -57,7 +57,7 @@
   "box": 4,
   "speaker": "赤屍",
   "jp": "私も退屈していたところですからね…　",
-  "en": ""
+  "en": "I was getting rather bored myself..."
  },
  {
   "id": "7CE56C.16",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "赤屍",
   "jp": "こういうのも悪くないですよ　",
-  "en": ""
+  "en": "Something like this is not so bad."
  },
  {
   "id": "7CE56C.18",
@@ -80,6 +80,6 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "お願いします、赤屍さん！！　",
-  "en": ""
+  "en": "Please, Akabane-san!!"
  }
 ]

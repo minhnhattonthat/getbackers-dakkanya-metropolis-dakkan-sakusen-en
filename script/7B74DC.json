@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ヘヴン　",
   "jp": "この穴の先がヤツらのアジトよ",
-  "en": ""
+  "en": "Past this hole is their hideout."
  },
  {
   "id": "7B74DC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "おーおー、横取り屋のヤツら、",
-  "en": ""
+  "en": "Well, well. Those Poachers sure dug"
  },
  {
   "id": "7B74DC.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "バカでかい横穴掘っちまってまあ…",
-  "en": ""
+  "en": "themselves one huge-ass tunnel..."
  },
  {
   "id": "7B74DC.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "十兵衛　",
   "jp": "油断するな、この先に強い殺気を感じる",
-  "en": ""
+  "en": "Stay on guard. I sense strong killing intent\nahead."
  },
  {
   "id": "7B74DC.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "ヘヴン　",
   "jp": "さっき話した通り、　",
-  "en": ""
+  "en": "Like I explained, Ban-kun and the others"
  },
  {
   "id": "7B74DC.17",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "ヘヴン　",
   "jp": "ＤＶＤロムの奪還は蛮クンたちが、",
-  "en": ""
+  "en": "will retrieve the DVD-ROM,"
  },
  {
   "id": "7B74DC.19",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "ヘヴン　",
   "jp": "奪り還したＤＶＤロムを　",
-  "en": ""
+  "en": "and Himiko-san and Akabane-san will"
  },
  {
   "id": "7B74DC.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "ヘヴン　",
   "jp": "運ぶのは卑弥呼さんと赤屍さんが…",
-  "en": ""
+  "en": "transport the DVD-ROM once it's back..."
  },
  {
   "id": "7B74DC.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "ヘヴン　",
   "jp": "…ちょっと、これなんの音！？",
-  "en": ""
+  "en": "...Wait, what's that noise?!"
  },
  {
   "id": "7B74DC.25",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "？　",
-  "en": ""
+  "en": "? Huh, is something shaking...?!"
  },
  {
   "id": "7B74DC.28",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "あれ、なんか揺れてる…！？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B74DC.30",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "ヤベェな…　",
-  "en": ""
+  "en": "Damn, this is bad... Hurry, move it!!"
  },
  {
   "id": "7B74DC.33",
@@ -143,6 +143,6 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "先へ急ぐぞ！！　",
-  "en": ""
+  "en": " "
  }
 ]

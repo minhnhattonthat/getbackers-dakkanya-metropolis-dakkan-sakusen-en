@@ -1,0 +1,378 @@
+>> 78AF70.4 | [蛮] あ？　なンか用か？
+   Huh? You want something?
+>> 78AFC4.4 | [蛮] 気合入れろよ！
+   Get fired up!
+>> 78B014.4 | [蛮] さあ、行くぜ！！
+   All right, let's go!!
+>> 78B064.4 | [蛮] 俺様に任せとけって！
+   Just leave it to the great Ban Mido!
+>> 78B0B8.4 | [蛮] ボケッとしてンじゃねーぞ、銀次ィ！
+   Quit spacing out, Ginjiii!
+>> 78B11C.4 | [銀次] な、なんでしょうか？
+   Wh-what can I do for you?
+>> 78B170.4 | [銀次] えーと、なにか用？
+   Umm, you need something?
+>> 78B1C4.4 | [銀次] 腹へった～！
+   I'm starviiing~!
+>> 78B210.4 | [銀次] がんばろうね！
+   Let's do our best!
+>> 78B260.4 | [銀次] オレもいるし、大丈夫だよ！
+   I'm here too, so it'll be okay!
+>> 78B2BC.4 | [銀次] わーい、蛮ちゃ～ん！！
+   Yaaay, Ban-chaaan!!
+>> 78B314.4 | [銀次] な、なんでしょう、赤屍さん？
+   Wh-what is it, Akabane-san?
+>> 78B370.4 | [卑弥呼] なにか用？
+   What do you want?
+>> 78B3C0.4 | [卑弥呼] あら、どうかしたの？
+   Oh, is something the matter?
+>> 78B418.4 | [卑弥呼] さーて、仕事仕事！
+   Okay, time to work, work!
+>> 78B470.4 | [卑弥呼] 行きましょう！
+   Let's go!
+>> 78B4C4.4 | [卑弥呼] あたしがついてるわよ！
+   You've got me on your side!
+>> 78B520.4 | [卑弥呼] いつまでも子供扱いしないでよ！
+   Quit treating me like a kid already!
+>> 78B584.4 | [赤屍] 台無しですね
+   That spoils everything.
+>> 78B5D0.4 | [赤屍] 退屈ですよ
+   How very boring.
+>> 78B61C.4 | [赤屍] さあ、楽しませて下さい
+   Now then, please entertain me.
+>> 78B674.4 | [赤屍] 見せて下さい、あなたの力を
+   Please, show me your power.
+>> 78B6D0.4 | [赤屍] 楽しい仕事になりそうですね
+   This looks to be a fun job.
+>> 78B72C.4 | [赤屍] 相変わらず面白い方ですね
+   You are as amusing as ever.
+>> 78B784.4 | [花月] なにか？
+   Yes?
+>> 78B7CC.4 | [花月] どうかしましたか？
+   Is something wrong?
+>> 78B820.4 | [花月] 油断は禁物ですよ
+   Never let your guard down.
+>> 78B870.4 | [花月] 共に進みましょう
+   Let us move forward together.
+>> 78B8C0.4 | [花月] 君の力になろう
+   I'll lend you my strength.
+>> 78B910.4 | [花月] 頼むぞ、十兵衛
+   I'm counting on you, Juubei.
+>> 78B960.4 | [士度] うるせえな
+   Pipe down.
+>> 78B9AC.4 | [士度] ちんたらしてんじゃねーぞ
+   Quit dawdling.
+>> 78BA04.4 | [士度] あん？　なんか用か？
+   Huh? Want something?
+>> 78BA58.4 | [士度] 仕方ねえからついてってやるよ
+   Guess I've got no choice. I'll tag along.
+>> 78BAB4.4 | [士度] 黙って俺の後についてきな
+   Shut up and follow me.
+>> 78BB0C.4 | [笑師] アンタ、お笑いが分かってへんわ
+   You just don't get comedy, pal.
+>> 78BB6C.4 | [笑師] オモロないなぁ～
+   That ain't funny~
+>> 78BBBC.4 | [笑師] ヨロシュウたのんます
+   Pleased to work with ya!
+>> 78BC10.4 | [笑師] オモロなってきたなぁ
+   Now it's gettin' good!
+>> 78BC64.4 | [笑師] ワイとコンビ組まへんか？
+   Wanna form a comedy duo with me?
+>> 78BCBC.4 | [十兵衛] 戯言は聞きたくない
+   I will not listen to nonsense.
+>> 78BD14.4 | [十兵衛] 話し掛けるな
+   Do not speak to me.
+>> 78BD64.4 | [十兵衛] どうした、進まんのか？
+   What is it? Are you not moving on?
+>> 78BDC0.4 | [十兵衛] 油断するなよ
+   Stay on your guard.
+>> 78BE10.4 | [十兵衛] 力を貸そう
+   I shall lend you my strength.
+>> 78BE60.4 | [十兵衛] 俺がお前を守る
+   I will protect you.
+>> 78BEB4.4 | [鏡] やれやれだね
+   Good grief.
+>> 78BF00.4 | [鏡] つまらないね、キミは
+   You're boring, you know.
+>> 78BF54.4 | [鏡] さて、観察を始めようか
+   Now then, shall we begin the observation?
+>> 78BFAC.4 | [鏡] 観察しがいがあるね
+   You're well worth observing.
+>> 78C000.4 | [鏡] キミの本気を見てみたいな
+   I'd like to see you get serious.
+>> 78C058.2 | なにもなかった…
+   There was nothing...
+>> 78C094.2 | この後のセーブ画面で / データを上書きすると、
+   If you overwrite your data on the save screen that follows,
+>> 78C094.5 | ＡＣＴ８を再びプレイすることが / できなくなってしまいます
+   you will no longer be able to play ACT 8 again.
+>> 78C094.8 | 上書きする場合は注意して下さい
+   Please be careful if you choose to overwrite.
+>> 78C164.2 | この後のセーブ画面で / データを上書きすると、
+   If you overwrite your data on the save screen that follows,
+>> 78C164.5 | ＡＣＴ９を再びプレイすることが / できなくなってしまいます
+   you will no longer be able to play ACT 9 again.
+>> 78C164.8 | 上書きしたデータで再開すると / ＴＳＣデータのみ引継ぎで
+   If you continue from the overwritten data, only the TSC data carries over,
+>> 78C164.11 | ＡＣＴ１から再開されます
+   and the game restarts from ACT 1.
+>> 78C164.13 | 上書きする場合は注意して下さい
+   Please be careful if you choose to overwrite.
+>> 78C29C.2 | 蛮：しっかし、 / 今回も見事に金にならなかったな…
+   Ban: Man, once again we didn't make a single yen...
+>> 78C304.2 | 銀次：ならなかったね… / でも楽しかったじゃん！！
+   Ginji: Nope, we didn't... But it was fun, wasn't it?!
+>> 78C36C.2 | 蛮：アホか！ / 金にならなきゃ意味ねえンだよ！！
+   Ban: Are you an idiot?! If it doesn't pay, there's no point!!
+>> 78C3D0.2 | 銀次：蛮ちゃんて / ホントお金にうるさいよね～…
+   Ginji: Ban-chan, you're always so fussy about money~...
+>> 78C434.2 | 蛮：もうゴミ漁りはゴメンだって話だよ
+   Ban: I'm saying I'm done digging through trash!
+>> 78C48C.2 | 銀次：それはそうかも… / ゴハンはちゃんと食べたいな～
+   Ginji: I guess that's true... I wanna eat real meals~
+>> 78C4F8.2 | 蛮：つうわけで / 次こそは金になる仕事受けるぞ！！
+   Ban: So next time, we're taking a job that pays!!
+>> 78C560.2 | 銀次：そういって毎回ドジ踏むんだよね / トホホ…
+   Ginji: You say that, and then we mess up every time... *sigh*...
+>> 78C5C4.2 | 蛮：お前、今回誰よりも / 肝がすわってなかったか？
+   Ban: Weren't you the gutsiest one of all this time?
+>> 78C62C.3 | 卑弥呼：レディ・ポイズンの名は / ダテじゃないのよ！
+   Himiko: The name Lady Poison isn't just for show!
+>> 78C6A4.2 | 蛮：ま、外見の方は / ずいぶん女らしくなったみてえだけどな
+   Ban: Well, on the outside, you sure look a lot more womanly now.
+>> 78C714.2 | 卑弥呼：ちょっと！ / 変な写真撮らないでよね！！
+   Himiko: Hey! Don't go taking weird pictures of me!!
+>> 78C77C.2 | 蛮：（これで中身の方も / ちっとは女らしくなりゃあな…）
+   Ban: (If only the inside got a little more womanly too...)
+>> 78C7EC.2 | 蛮：…ったく / あり得ねえ組み合わせだな、こりゃあ
+   Ban: ...Jeez. Now there's a combo that shouldn't exist.
+>> 78C854.2 | 赤屍：そうでもありませんよ、美堂クン / 我々は本質的に同じタイプですからね
+   Akabane: Not really, Mido-kun. We are essentially the same type, after all.
+>> 78C8D4.2 | 蛮：やれやれだぜ…
+   Ban: Gimme a break...
+>> 78C91C.2 | 蛮：なにげにオイシイ役回りじゃ / なかったか、テメー？
+   Ban: Didn't you kinda land a sweet role, you punk?
+>> 78C988.2 | 士度：あ？　どこがだよ！？
+   Shido: Huh? How do you figure?!
+>> 78C9D8.2 | 蛮：頭っから参加してるし、 / 挙句の果てにペンギンになってるしな！
+   Ban: You were in it from the start, and on top of that, you ended up a penguin!
+>> 78CA50.2 | 士度：好きでこんなカッコしてる / わけじゃねえ！！
+   Shido: It's not like I'm dressed like this because I want to be!!
+>> 78CAB8.2 | 蛮：ま、お似合いだけどな！ / ブハハハハハハハッ！！
+   Ban: Well, it suits you! Bwahahahahahaha!!
+>> 78CB24.3 | 士度：… / 見よ、我ら魔里人が力！！
+   Shido: ... Behold the power of the Marebito!!
+>> 78CB88.2 | 蛮：ってコラ！ / 不意打ちかよ、きたねえぞ！！
+   Ban: Hey, what the--! A sneak attack? That's dirty!!
+>> 78CBEC.2 | 士度：うるせえ！ / 今日こそ決着つけてやる！！
+   Shido: Shut up! Today we settle this!!
+>> 78CC50.2 | 蛮：…フツー着ねえよな、 / キグルミなんてよ
+   Ban: ...Normal people don't wear mascot suits, y'know.
+>> 78CCB0.2 | 笑師：なんでやねん！ / いいモンでっせ、キグルミゆうのも
+   Emishi: Whaddaya mean?! Mascot suits are great stuff, I'm tellin' ya!
+>> 78CD1C.2 | 蛮：しかもお笑い芸人目指すかね、 / フツー…
+   Ban: And who wants to be a comedian, anyway? Normal people don't...
+>> 78CD7C.2 | 笑師：な、な、なんやねんな！ / お笑い芸人をバカにすなー！！
+   Emishi: Wh-wh-what's that s'posed to mean?! Don't make fun of comedians!!
+>> 78CDEC.2 | 蛮：ていうか、 / テメーをバカにしてンだよ！！
+   Ban: I mean, I'm making fun of YOU!!
+>> 78CE50.2 | 蛮：テメーもお守りが大変そうだよな…
+   Ban: Babysitting must be rough on you too, huh...
+>> 78CEA8.2 | 花月：お互いに…ということですか？
+   Kazuki: Meaning... we're in the same boat?
+>> 78CF00.2 | 蛮：なにせ保護者みたいなモンだからな
+   Ban: Hey, I'm practically his guardian.
+>> 78CF58.2 | 花月：いえ、 / 僕はそんな風に思ってませんよ…
+   Kazuki: No, I don't think of it that way...
+>> 78CFBC.2 | 蛮：にしたって手ェかからねえか、 / サムライ君は？
+   Ban: Even so, isn't Samurai-kun a handful?
+>> 78D024.2 | 花月：そうですね…少し………
+   Kazuki: Well... a little......
+>> 78D074.2 | 蛮：針を使うからハリネズミ…
+   Ban: He uses needles, so he's a hedgehog...
+>> 78D0C4.2 | 十兵衛：一応、シャレのつもりだ！
+   Juubei: It was meant as a pun, at least!
+>> 78D118.2 | 蛮：芸が細かいっつーか、なんつーか… / ま、見る方は殆ど気付かねえだろうがな
+   Ban: Real attention to detail, or, I dunno... Not that anyone watching'll ever notice.
+>> 78D198.2 | 十兵衛：…それが敗因か！？
+   Juubei: ...So that is why I failed?!
+>> 78D1E8.2 | 蛮：…一時的とはいえ、 / まさかテメーが仲間になるとはな
+   Ban: ...Even if it's only for now, never thought you'd end up on our side.
+>> 78D258.2 | 鏡：次はどうなるか分からないけど、ね
+   Kagami: Can't say how things will go next time, though.
+>> 78D2B0.2 | 銀次：ねえねえ、卑弥呼ちゃんも / 一緒に奪還屋やろうよ～
+   Ginji: Hey, hey, Himiko-chan, come be a GetBackers with us~!
+>> 78D320.2 | 卑弥呼：イヤよ！ / アンタたちとなんて絶対やらないわ！
+   Himiko: No way! I would never team up with you guys!
+>> 78D38C.2 | 銀次：な、なんで～？？？ / 三人だと楽しいよ、きっと！！
+   Ginji: Wh-why not~??? It'd be fun with the three of us, I just know it!!
+>> 78D3F8.2 | 卑弥呼：（依頼料が入らない仕事なんて / あたしはゴメンだわ…）
+   Himiko: (No way am I doing jobs that don't pay...)
+>> 78D46C.2 | 銀次：え、え～と…今回の仕事は / 楽しかったですか、赤屍さん？
+   Ginji: Uh, um... Did you enjoy this job, Akabane-san?
+>> 78D4E0.3 | 赤屍：クス… / とても楽しい仕事でしたよ♥
+   Akabane: Heh... It was a very enjoyable job♥
+>> 78D54C.2 | 銀次：そ、それはよかったですね…
+   Ginji: Th-that's great to hear...
+>> 78D5A0.2 | 銀次：士度とオレたちって / けっこう縁があるよね～
+   Ginji: Shido, we sure keep running into each other, huh~
+>> 78D608.2 | 士度：俺としては / あんま組みたくないんだがな…
+   Shido: Personally, I'd rather not team up with you guys...
+>> 78D66C.2 | 銀次：ええっ、なんで～？？？
+   Ginji: Whaaat, why~???
+>> 78D6BC.2 | 士度：お前らは / いつも仕事でヘマやらかすからな…
+   Shido: 'Cause you guys always screw up your jobs...
+>> 78D724.2 | 銀次：そ、そんなことないよ～！
+   Ginji: Th-that's not true~!
+>> 78D778.2 | 士度：今回だって / 殆ど依頼料入ってねえんだろ？
+   Shido: This time too, you barely got paid, right?
+>> 78D7DC.2 | 銀次：あう………
+   Ginji: Ugh......
+>> 78D820.2 | 士度：ほんと、 / カネの神様に見放されてんな…
+   Shido: Seriously, the god of money's given up on you...
+>> 78D884.2 | 銀次：いーなー、 / オレもキグルミ着たかったなあ～
+   Ginji: No fair~ I wanted to wear a mascot suit too~
+>> 78D8EC.2 | 笑師：おっ！　さっすが雷帝やな！！ / わかってるやん～
+   Emishi: Oh! That's the Thunder Emperor for ya!! You get it~
+>> 78D958.2 | 銀次：オレだったら… / ウ、ウナギになっちゃうのかな？
+   Ginji: If it was me... w-would I end up as an electric eel?
+>> 78D9C4.2 | 笑師：ナマズっちゅう選択肢も / ありまっせ！
+   Emishi: An electric catfish is an option too, y'know!
+>> 78DA24.2 | 銀次：どっちもヤダよ～
+   Ginji: I don't want either~
+>> 78DA70.2 | 銀次：カヅっちゃんて、 / ホント色んなこと知ってるよね～
+   Ginji: Kazu-chan, you really know all kinds of stuff, huh~
+>> 78DAE0.3 | 花月：ええ、僕は早耳ですからね…
+   Kazuki: Yes, word reaches my ears quickly, after all...
+>> 78DB40.2 | 銀次：どうやって情報集めてるの？？？
+   Ginji: How do you gather all that info???
+>> 78DB98.2 | 花月：この絃を使って / 離れた場所から情報を得ているんですよ
+   Kazuki: I use these strings to pick up information from far-off places.
+>> 78DC08.2 | 銀次：ええ～？ / 糸電話じゃん、それ！！
+   Ginji: Whaaat? That's just a tin-can phone!!
+>> 78DC68.2 | 花月：ええ、まあ… / 原理は同じなんですけど
+   Kazuki: Well, yes... The principle is the same, but...
+>> 78DCCC.2 | 銀次：ねえ十兵衛、 / どうしてハリネズミのキグルミなの？
+   Ginji: Hey Juubei, why a hedgehog suit?
+>> 78DD3C.2 | 十兵衛：筧流針術を使うからだ！
+   Juubei: Because I use the Kakei school's needle art!
+>> 78DD90.2 | 銀次：あっ、そうなんだ～！ / 全然分かんなかったよ、オレ！！
+   Ginji: Oh, so that's it~! I totally didn't get it!!
+>> 78DE04.2 | 十兵衛：………無念だ
+   Juubei: .........How mortifying.
+>> 78DE4C.2 | 銀次：鏡さんとオレって、 / あんま面識ないんだよね～
+   Ginji: Kagami-san and me don't really know each other that well, huh~
+>> 78DEB4.3 | 鏡：はじめまして…かな？
+   Kagami: Nice to meet you... I suppose?
+>> 78DF0C.2 | 弥勒：銀次君、 / いつかまた会いましょう…
+   Miroku: Ginji-kun, let us meet again someday...
+>> 78DF6C.2 | 卑弥呼：今回の仕事は / 舞台衣装を運ぶことだったのよね…
+   Himiko: This job was about transporting a stage costume, wasn't it...
+>> 78DFD8.2 | 赤屍：どうかしましたか、 / レディ・ポイズン？
+   Akabane: Is something the matter, Lady Poison?
+>> 78E03C.2 | 卑弥呼：次はもっとまともなものを / 運びたいわよね…運び屋としては
+   Himiko: As a transporter, I'd like to carry something more normal next time...
+>> 78E0B4.2 | 卑弥呼：ペンギンのキグルミとはね…
+   Himiko: A penguin suit, huh...
+>> 78E10C.2 | 士度：あれは仕方なかったんだよ！！
+   Shido: I had no choice!!
+>> 78E164.2 | 卑弥呼：まあ、 / いつも使う技も同じようなものだしね…
+   Himiko: Well, it's not much different from the moves you always use...
+>> 78E1D0.2 | 士度：百獣擬態をバカにするな！
+   Shido: Don't mock Beast Mimicry!
+>> 78E224.2 | 卑弥呼：…違和感というものが / 感じられないわね
+   Himiko: ...It doesn't look one bit out of place on you.
+>> 78E288.2 | 笑師：お笑い芸人は嫌いでっか？
+   Emishi: Ya don't like comedians?
+>> 78E2DC.2 | 卑弥呼：ふざけてる男は基本的に嫌いね
+   Himiko: As a rule, I hate men who goof around.
+>> 78E334.2 | 笑師：（アカン！ / 全否定されとるんか！？）
+   Emishi: (No good! She's shootin' me down completely?!)
+>> 78E394.2 | 卑弥呼：…なんか苦手なのよね、 / アンタは
+   Himiko: ...Somehow, I just can't handle you.
+>> 78E3F4.2 | 花月：どうしてですか？
+   Kazuki: Why is that?
+>> 78E440.2 | 卑弥呼：別に…ただなんとなくよ
+   Himiko: No reason... I just can't.
+>> 78E494.2 | 花月：………？
+   Kazuki: .........?
+>> 78E4D8.2 | 卑弥呼：一度思い込むと / 突っ走るタイプみたいね…
+   Himiko: You seem like the type who charges ahead once your mind's made up...
+>> 78E540.2 | 十兵衛：ム…悪いか？
+   Juubei: Hm... Is that bad?
+>> 78E588.2 | 卑弥呼：別に…変な方向に行かなきゃね
+   Himiko: Not really... as long as you don't charge off in a weird direction.
+>> 78E5E0.2 | 十兵衛：………
+   Juubei: ...
+>> 78E624.2 | 卑弥呼：あら、 / また会えるなんてうれしいわね？
+   Himiko: Oh my, how nice to see you again, hm?
+>> 78E68C.2 | 鏡：クス… / 相変わらずだね、レディ・ポイズン？
+   Kagami: Heh... Same as ever, aren't you, Lady Poison?
+>> 78E6F4.2 | 士度：アンタとは / あまり係わり合いになりたかねえな
+   Shido: I'd rather not get mixed up with you too much.
+>> 78E75C.2 | 赤屍：それはどうしてですか？
+   Akabane: And why is that?
+>> 78E7AC.2 | 士度：まあ、なんとなく…な
+   Shido: Just... a feeling.
+>> 78E7FC.2 | 笑師：赤屍はんは / お笑いに興味あらへんか？
+   Emishi: Akabane-han, ya got any interest in comedy?
+>> 78E85C.2 | 赤屍：特にありませんが… / それがどうかしましたか？
+   Akabane: Not particularly... Is something the matter?
+>> 78E8C4.2 | 笑師：（ま、こん人だけには / どつかれたないわな…）
+   Emishi: (Well, he's the one guy I don't wanna get smacked by...)
+>> 78E930.2 | 花月：あなたは / なぜ運び屋をしているのですか？
+   Kazuki: Why is it that you work as a transporter?
+>> 78E998.2 | 赤屍：いけませんか、私が運び屋では？
+   Akabane: Is it wrong for me to be a transporter?
+>> 78E9F0.2 | 花月：いえ…ただちょっと / イメージと違ったものですから…
+   Kazuki: No... It's just not quite the image I had of you...
+>> 78EA60.2 | 十兵衛：………
+   Juubei: ...
+>> 78EAA4.2 | 赤屍：………
+   Akabane: ...
+>> 78EAE4.2 | 十兵衛：………
+   Juubei: ...
+>> 78EB28.2 | 赤屍：次はお互い / 本気で戦いたいものですね…
+   Akabane: Next time, I would like us both to fight in earnest...
+>> 78EB8C.2 | 鏡：そうなるといいね、 / ドクター・ジャッカル
+   Kagami: I hope it comes to that, Dr. Jackal.
+>> 78EBF0.2 | 花月：無限城にいた頃とは / 感じが変わったね、士度
+   Kazuki: You've changed since our days in the Infinity Fortress, Shido.
+>> 78EC58.2 | 士度：俺が変わった？ / どこがだよ！？
+   Shido: Me, changed? How?!
+>> 78ECB4.2 | 花月：あの頃は / こんな格好しませんでしたよ…
+   Kazuki: Back then, you'd never have dressed like this...
+>> 78ED18.2 | 士度：わ、悪かったな！！
+   Shido: W-well, excuse me!!
+>> 78ED64.2 | 花月：別に悪くありませんよ、 / いい事ですよ
+   Kazuki: There's nothing wrong with it. It's a good thing.
+>> 78EDC4.2 | 士度：なんか納得いかねーな…
+   Shido: Somehow that doesn't sit right...
+>> 78EE14.2 | 笑師：ども～、 / ペンペンズで～～～～す！！
+   Emishi: Howdy~! We're the Pen-Pens~~~!!
+>> 78EE78.2 | 士度：クソッ！ / 二度とやらねえぞ！！
+   Shido: Damn it! I'm never doing this again!!
+>> 78EED4.2 | 笑師：せやかて / 次のオーディションは二日後でっせ？
+   Emishi: But the next audition's in two days, y'know?
+>> 78EF40.2 | 士度：勝手に申し込むな！！
+   Shido: Don't sign us up without asking!!
+>> 78EF90.3 | 笑師：ええやんか、 / 人を笑わしてこそ芸人でっせ！！
+   Emishi: Aw, c'mon! A performer's whole job is makin' people laugh!!
+>> 78F008.2 | 士度：悩み事があるなら言えよ、十兵衛
+   Shido: If something's bugging you, spit it out, Juubei.
+>> 78F060.2 | 十兵衛：自分が / ボケかツッコミか分からなくてな…
+   Juubei: I cannot tell whether I am the funny man or the straight man...
+>> 78F0C8.2 | 士度：お前はボケだろ、間違いなく
+   Shido: You're the funny man. No doubt about it.
+>> 78F11C.2 | 十兵衛：では花月がツッコミか…
+   Juubei: Then Kazuki is the straight man...
+>> 78F170.2 | 士度：どうもアンタは / イマイチ信用ならねーな…
+   Shido: Something about you, I just can't trust.
+>> 78F1D4.2 | 鏡：そうかい？　まあ別に / 信用してもらわなくてもいいけどね…
+   Kagami: Is that so? Well, I don't particularly need you to trust me...
+>> 78F248.2 | 花月：笑師はその格好が / 普通に似合ってるんだね
+   Kazuki: That outfit really suits you, Emishi.
+>> 78F2B0.2 | 笑師：おっ、ホメられとるんか？
+   Emishi: Oh, am I bein' complimented?
+>> 78F304.2 | 花月：いいよね、 / そういうのが似合うなんて…
+   Kazuki: Must be nice, to look good in something like that...

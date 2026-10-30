@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "ねえ、ここは敵も多くて危ないから、　",
-  "en": ""
+  "en": "Hey, there's lots of enemies here and it's"
  },
  {
   "id": "79AEE0.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "カヅっちゃんも一緒に行こうよ",
-  "en": ""
+  "en": "dangerous, so come with us, Kazu-chan."
  },
  {
   "id": "79AEE0.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "オレたちも西園寺って人に用があるしさ",
-  "en": ""
+  "en": "We've got business with this Saionji\nperson, too."
  },
  {
   "id": "79AEE0.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "それは構いませんが…",
-  "en": ""
+  "en": "I don't mind... But are you all right with"
  },
  {
   "id": "79AEE0.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "美堂さんはそれでよろしいんですか？　",
-  "en": ""
+  "en": "that, Mido-san?"
  },
  {
   "id": "79AEE0.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "別に…　",
-  "en": ""
+  "en": "Whatever..."
  },
  {
   "id": "79AEE0.17",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ただし、俺たちの仕事とお前の目的は　",
-  "en": ""
+  "en": "But our job and your goal are two"
  },
  {
   "id": "79AEE0.18",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "あくまで別のモンだぜ",
-  "en": ""
+  "en": "separate things, got it?"
  },
  {
   "id": "79AEE0.20",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "花月",
   "jp": "それはもちろん　",
-  "en": ""
+  "en": "Of course."
  },
  {
   "id": "79AEE0.24",
@@ -105,7 +105,7 @@
   "box": 7,
   "speaker": "花月",
   "jp": "…依頼料の何％かをいただこうなんて　",
-  "en": ""
+  "en": "...I have no intention of asking for a"
  },
  {
   "id": "79AEE0.25",
@@ -113,6 +113,6 @@
   "box": 7,
   "speaker": "花月",
   "jp": "考えていませんから　",
-  "en": ""
+  "en": "percentage of your fee."
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "母親",
   "jp": "あの…　",
-  "en": ""
+  "en": "Um..."
  },
  {
   "id": "79C354.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "はいはい！　",
-  "en": ""
+  "en": "Yes, yes! Hello there, hello!!"
  },
  {
   "id": "79C354.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "どーもどーも！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79C354.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "みっちゃん　",
   "jp": "おにーちゃんたち、　",
-  "en": ""
+  "en": "Big bros, where's Mitchan's hairpin?"
  },
  {
   "id": "79C354.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "みっちゃん　",
   "jp": "みっちゃんの髪どめは？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79C354.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "（蛮ちゃん、近頃のお金持ちの間では　",
-  "en": ""
+  "en": "(Ban-chan, is walking more popular than"
  },
  {
   "id": "79C354.18",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "車よりも徒歩がはやってんのかな？）　",
-  "en": ""
+  "en": "cars with rich people these days?)"
  },
  {
   "id": "79C354.20",
@@ -96,7 +96,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "（知らねえよ",
-  "en": ""
+  "en": "(How should I know? Anyway, c'mon, give"
  },
  {
   "id": "79C354.23",
@@ -104,7 +104,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ともかくホレ、髪どめを渡せ！）　",
-  "en": ""
+  "en": "her the hairpin!)"
  },
  {
   "id": "79C354.25",
@@ -119,7 +119,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "ホラ、きみの髪どめってコレだろ？",
-  "en": ""
+  "en": "Here, this is your hairpin, right?"
  },
  {
   "id": "79C354.29",
@@ -134,7 +134,7 @@
   "box": 7,
   "speaker": "みっちゃん　",
   "jp": "あっ、ホントにみっちゃんのだー！",
-  "en": ""
+  "en": "Ah, it really is Mitchan's! Thanks, big bros!!"
  },
  {
   "id": "79C354.32",
@@ -142,7 +142,7 @@
   "box": 7,
   "speaker": "みっちゃん　",
   "jp": "ありがと、おにーちゃんたち！！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79C354.35",
@@ -157,7 +157,7 @@
   "box": 8,
   "speaker": "母親",
   "jp": "本当にありがとうございます　",
-  "en": ""
+  "en": "Thank you so very much."
  },
  {
   "id": "79C354.39",
@@ -165,7 +165,7 @@
   "box": 9,
   "speaker": "母親",
   "jp": "この子、それをなくした時は　",
-  "en": ""
+  "en": "When she lost it, she did nothing but cry..."
  },
  {
   "id": "79C354.40",
@@ -173,7 +173,7 @@
   "box": 9,
   "speaker": "母親",
   "jp": "泣いてばかりいて…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79C354.42",
@@ -188,7 +188,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "いえいえ、こちらも商売ですから！",
-  "en": ""
+  "en": "Not at all, it's our business, after all!"
  },
  {
   "id": "79C354.46",
@@ -203,7 +203,7 @@
   "box": 11,
   "speaker": "母親",
   "jp": "お礼と言っては失礼なのですが、　",
-  "en": ""
+  "en": "It's not much of a thank-you, but please"
  },
  {
   "id": "79C354.49",
@@ -211,7 +211,7 @@
   "box": 11,
   "speaker": "母親",
   "jp": "この造花を差し上げます　",
-  "en": ""
+  "en": "accept this artificial flower."
  },
  {
   "id": "79C354.51",
@@ -219,7 +219,7 @@
   "box": 12,
   "speaker": "母親",
   "jp": "それでは本当に　",
-  "en": ""
+  "en": "Well then, thank you again, truly..."
  },
  {
   "id": "79C354.52",
@@ -227,7 +227,7 @@
   "box": 12,
   "speaker": "母親",
   "jp": "ありがとうございました…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79C354.54",
@@ -242,6 +242,6 @@
   "box": 13,
   "speaker": "みっちゃん　",
   "jp": "バイバーイ、おにーちゃんたち！　",
-  "en": ""
+  "en": "Bye-bye, big bros!"
  }
 ]

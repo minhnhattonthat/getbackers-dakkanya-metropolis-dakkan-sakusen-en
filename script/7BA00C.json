@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "卑弥呼　",
   "jp": "なにかしら、これ？　",
-  "en": ""
+  "en": "What's this? Something's written on the"
  },
  {
   "id": "7BA00C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "卑弥呼　",
   "jp": "カベになにか書いてあるわ…　",
-  "en": ""
+  "en": "wall..."
  },
  {
   "id": "7BA00C.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "…どれどれ？",
-  "en": ""
+  "en": "...Lemme see?"
  },
  {
   "id": "7BA00C.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ＡＢＣＤＥＦＧＨＩＪＫＬＭＮ",
-  "en": ""
+  "en": "ABCDEFGHIJKLMN OPQRSTUVWXYZ..."
  },
  {
   "id": "7BA00C.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ＯＰＱＲＳＴＵＶＷＸＹＺ…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BA00C.13",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "…ってアルファベットじゃねえかよ！　",
-  "en": ""
+  "en": "...That's just the alphabet! What the hell is"
  },
  {
   "id": "7BA00C.14",
@@ -67,7 +67,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "なんだ、こりゃ？",
-  "en": ""
+  "en": "this?"
  },
  {
   "id": "7BA00C.16",
@@ -75,7 +75,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "まだ続いてるな…",
-  "en": ""
+  "en": "There's more... Red: RED, Blue: BLUE"
  },
  {
   "id": "7BA00C.17",
@@ -83,7 +83,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "赤：ＲＥＤ、青：ＢＬＵＥ",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BA00C.19",
@@ -91,7 +91,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "黄：ＹＥＬＬＯＷ、緑：ＧＲＥＥＮ",
-  "en": ""
+  "en": "Yellow: YELLOW, Green: GREEN, White:"
  },
  {
   "id": "7BA00C.20",
@@ -99,7 +99,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "白：ＷＨＩＴＥ、銀：ＳＩＬＶＥＲ",
-  "en": ""
+  "en": "WHITE, Silver: SILVER"
  },
  {
   "id": "7BA00C.22",
@@ -107,7 +107,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "紫：ＰＵＲＰＬＥ",
-  "en": ""
+  "en": "Purple: PURPLE, Orange: ORANGE..."
  },
  {
   "id": "7BA00C.23",
@@ -115,7 +115,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "オレンジ：ＯＲＡＮＧＥ…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BA00C.25",
@@ -123,7 +123,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "注意：スイッチを押すにはまず",
-  "en": ""
+  "en": "Note: Before pressing a switch, first"
  },
  {
   "id": "7BA00C.26",
@@ -131,7 +131,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "トビラを調べること…",
-  "en": ""
+  "en": "examine the door..."
  },
  {
   "id": "7BA00C.28",
@@ -146,6 +146,6 @@
   "box": 9,
   "speaker": "士度",
   "jp": "…なんかありそーだな",
-  "en": ""
+  "en": "...Smells like there's something to this."
  }
 ]

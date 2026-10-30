@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "追い詰めたぜ！　",
-  "en": ""
+  "en": "Got you cornered!"
  },
  {
   "id": "7A19CC.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "大人しく渡せ…なんて言葉、　",
-  "en": ""
+  "en": "\"Hand it over quietly\"... Like that'd ever"
  },
  {
   "id": "7A19CC.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "テメーらに通用するわけねえよな！",
-  "en": ""
+  "en": "work on you lot!"
  },
  {
   "id": "7A19CC.8",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "腹ァくくれよ、銀次！",
-  "en": ""
+  "en": "Brace yourself, Ginji!"
  },
  {
   "id": "7A19CC.10",
@@ -51,7 +51,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "うん、任せてよ！　蛮ちゃん！！　",
-  "en": ""
+  "en": "Yeah, leave it to me, Ban-chan!!"
  },
  {
   "id": "7A19CC.14",
@@ -66,7 +66,7 @@
   "box": 5,
   "speaker": "卑弥呼　",
   "jp": "ここで依頼品を渡すわけにはいかないわ",
-  "en": ""
+  "en": "I can't let you have the cargo here."
  },
  {
   "id": "7A19CC.18",
@@ -81,7 +81,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "この匂い…退化香（たいかこう）か！　",
-  "en": ""
+  "en": "This smell... Regression Perfume! Ginji, don't"
  },
  {
   "id": "7A19CC.21",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "銀次、吸い込むんじゃ…　",
-  "en": ""
+  "en": "breathe it..."
  },
  {
   "id": "7A19CC.23",
@@ -104,7 +104,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "ウキ？　ウキキー！　",
-  "en": ""
+  "en": "Ook? Ook-ook!"
  },
  {
   "id": "7A19CC.27",
@@ -119,7 +119,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "こりもせず何度も同じ手を",
-  "en": ""
+  "en": "Falling for the same trick again and again,"
  },
  {
   "id": "7A19CC.30",
@@ -127,6 +127,6 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "食らいやがって…って待てよ、コラ！　",
-  "en": ""
+  "en": "never learning... Hey, wait, dammit!"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "社員",
   "jp": "丁重にもてなしてやんな！",
-  "en": ""
+  "en": "Show him some proper hospitality!"
  },
  {
   "id": "7ABDA0.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7ABDA0.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "？？？　",
   "jp": "士度はーーーーん！　",
-  "en": ""
+  "en": "Shido-haaaaan! I've come to save yaaaaa!!"
  },
  {
   "id": "7ABDA0.12",
@@ -50,6 +50,6 @@
   "box": 3,
   "speaker": "？？？　",
   "jp": "助けに来たでーーーーーっ！！",
-  "en": ""
+  "en": " "
  }
 ]

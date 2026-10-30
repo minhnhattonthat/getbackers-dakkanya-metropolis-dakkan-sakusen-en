@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "スタッフ",
   "jp": "忘れちゃったの？",
-  "en": ""
+  "en": "You forgot? Okay, I'll explain it once more."
  },
  {
   "id": "7A3304.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "スタッフ",
   "jp": "じゃ、もう１回説明するね。いい？",
-  "en": ""
+  "en": "Ready?"
  },
  {
   "id": "7A3304.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "スタッフ",
   "jp": "次は花を各部屋に",
-  "en": ""
+  "en": "Next, I want you to put two flowers in"
  },
  {
   "id": "7A3304.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "スタッフ",
   "jp": "２つずつ置いてきてもらいたいんだ",
-  "en": ""
+  "en": "each room."
  },
  {
   "id": "7A3304.9",
@@ -44,7 +44,7 @@
   "box": 3,
   "speaker": "スタッフ",
   "jp": "で、まず始めのツルコさんはバラが",
-  "en": ""
+  "en": "So first, Tsuruko-san loves roses, so a"
  },
  {
   "id": "7A3304.10",
@@ -52,7 +52,7 @@
   "box": 3,
   "speaker": "スタッフ",
   "jp": "大好きだからバラと…あとはユリね",
-  "en": ""
+  "en": "rose and... a lily."
  },
  {
   "id": "7A3304.12",
@@ -60,7 +60,7 @@
   "box": 4,
   "speaker": "スタッフ",
   "jp": "次のキキョウさんは元気がいいから",
-  "en": ""
+  "en": "Next, Kikyo-san's full of pep, so a tulip"
  },
  {
   "id": "7A3304.13",
@@ -68,7 +68,7 @@
   "box": 4,
   "speaker": "スタッフ",
   "jp": "チューリップとひまわり　",
-  "en": ""
+  "en": "and a sunflower."
  },
  {
   "id": "7A3304.15",
@@ -76,7 +76,7 @@
   "box": 5,
   "speaker": "スタッフ",
   "jp": "次のシズクさんは可愛らしく　",
-  "en": ""
+  "en": "Next, Shizuku-san is cute, so a gerbera"
  },
  {
   "id": "7A3304.16",
@@ -84,7 +84,7 @@
   "box": 5,
   "speaker": "スタッフ",
   "jp": "ガーベラとチューリップ　",
-  "en": ""
+  "en": "and a tulip."
  },
  {
   "id": "7A3304.18",
@@ -92,7 +92,7 @@
   "box": 6,
   "speaker": "スタッフ",
   "jp": "…いや、ラベンダーにしておこうかな　",
-  "en": ""
+  "en": "...No, maybe I'll make that lavender."
  },
  {
   "id": "7A3304.20",
@@ -100,7 +100,7 @@
   "box": 7,
   "speaker": "スタッフ",
   "jp": "次のナミヲさんはなんでもいいんだけど",
-  "en": ""
+  "en": "Next, Namio-san's fine with anything, but"
  },
  {
   "id": "7A3304.21",
@@ -108,7 +108,7 @@
   "box": 7,
   "speaker": "スタッフ",
   "jp": "一応ひまわりとチューリップで",
-  "en": ""
+  "en": "let's go with a sunflower and a tulip."
  },
  {
   "id": "7A3304.23",
@@ -116,7 +116,7 @@
   "box": 8,
   "speaker": "スタッフ",
   "jp": "次のココロさんはラベンダーと",
-  "en": ""
+  "en": "Next, Kokoro-san gets lavender and..."
  },
  {
   "id": "7A3304.24",
@@ -124,7 +124,7 @@
   "box": 8,
   "speaker": "スタッフ",
   "jp": "…もう一つはなににしようかな？　",
-  "en": ""
+  "en": "what should the other one be?"
  },
  {
   "id": "7A3304.26",
@@ -132,7 +132,7 @@
   "box": 9,
   "speaker": "スタッフ",
   "jp": "うーん、そうだな、バラにしておこうか",
-  "en": ""
+  "en": "Hmm, let's see... let's go with a rose."
  },
  {
   "id": "7A3304.28",
@@ -140,7 +140,7 @@
   "box": 10,
   "speaker": "スタッフ",
   "jp": "次のロクローさんはひまわりと",
-  "en": ""
+  "en": "Next, Rokuro-san gets a sunflower and a"
  },
  {
   "id": "7A3304.29",
@@ -148,7 +148,7 @@
   "box": 10,
   "speaker": "スタッフ",
   "jp": "チューリップね　",
-  "en": ""
+  "en": "tulip."
  },
  {
   "id": "7A3304.31",
@@ -156,7 +156,7 @@
   "box": 11,
   "speaker": "スタッフ",
   "jp": "で、最後のハカマさんが…",
-  "en": ""
+  "en": "And last, Hakama-san gets... Huh? Don't we"
  },
  {
   "id": "7A3304.32",
@@ -164,7 +164,7 @@
   "box": 11,
   "speaker": "スタッフ",
   "jp": "あれ？　バラもう残ってなかったっけ？",
-  "en": ""
+  "en": "have any roses left?"
  },
  {
   "id": "7A3304.34",
@@ -172,7 +172,7 @@
   "box": 12,
   "speaker": "スタッフ",
   "jp": "…だったら、ココロさんのバラをやめて",
-  "en": ""
+  "en": "...Then drop Kokoro-san's rose and give"
  },
  {
   "id": "7A3304.35",
@@ -180,7 +180,7 @@
   "box": 12,
   "speaker": "スタッフ",
   "jp": "ユリにしておいて",
-  "en": ""
+  "en": "her a lily."
  },
  {
   "id": "7A3304.37",
@@ -188,7 +188,7 @@
   "box": 13,
   "speaker": "スタッフ",
   "jp": "それでハカマさんがバラとチューリップ",
-  "en": ""
+  "en": "So Hakama-san gets a rose and a tulip."
  },
  {
   "id": "7A3304.38",
@@ -196,7 +196,7 @@
   "box": 13,
   "speaker": "スタッフ",
   "jp": "あの人、バラがないと怒るからね　",
-  "en": ""
+  "en": "She gets mad if there's no rose."
  },
  {
   "id": "7A3304.40",
@@ -204,7 +204,7 @@
   "box": 14,
   "speaker": "スタッフ",
   "jp": "花はイベントアイテムの中に　",
-  "en": ""
+  "en": "I'll put the flowers in with your event"
  },
  {
   "id": "7A3304.41",
@@ -212,7 +212,7 @@
   "box": 14,
   "speaker": "スタッフ",
   "jp": "入れておくよ",
-  "en": ""
+  "en": "items."
  },
  {
   "id": "7A3304.43",
@@ -220,7 +220,7 @@
   "box": 15,
   "speaker": "スタッフ",
   "jp": "アイテムは机の手前からじゃないと",
-  "en": ""
+  "en": "Careful, you can only set items down from"
  },
  {
   "id": "7A3304.44",
@@ -228,7 +228,7 @@
   "box": 15,
   "speaker": "スタッフ",
   "jp": "置けないから気をつけてね",
-  "en": ""
+  "en": "in front of the table."
  },
  {
   "id": "7A3304.46",
@@ -236,7 +236,7 @@
   "box": 16,
   "speaker": "スタッフ",
   "jp": "あと花は重ねて置けないからね",
-  "en": ""
+  "en": "Oh, and you can't stack flowers on top of\neach other."
  },
  {
   "id": "7A3304.48",
@@ -244,6 +244,6 @@
   "box": 17,
   "speaker": "スタッフ",
   "jp": "じゃ、ヨロシク　",
-  "en": ""
+  "en": "Okay, I'm counting on you."
  }
 ]

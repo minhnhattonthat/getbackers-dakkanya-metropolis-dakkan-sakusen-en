@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "士度",
   "jp": "開かねえな…",
-  "en": ""
+  "en": "Won't open..."
  },
  {
   "id": "7C77C8.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "ロックがかかってンな、こりゃ",
-  "en": ""
+  "en": "It's locked, all right. We'll have to unlock it"
  },
  {
   "id": "7C77C8.8",
@@ -35,6 +35,6 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "どこかで解除しないとな…",
-  "en": ""
+  "en": "from somewhere..."
  }
 ]

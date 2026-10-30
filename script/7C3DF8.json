@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "夏実",
   "jp": "あ、蛮さんに銀次さん！　",
-  "en": ""
+  "en": "Oh, Ban-san and Ginji-san! Welcome back!!"
  },
  {
   "id": "7C3DF8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "夏実",
   "jp": "おかえりなさい！！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C3DF8.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "ヘヴン　",
   "jp": "ちょっと、アンタたちがいない間に",
-  "en": ""
+  "en": "Listen, something terrible happened while"
  },
  {
   "id": "7C3DF8.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "ヘヴン　",
   "jp": "大変なことが起こったんだから！　",
-  "en": ""
+  "en": "you two were gone!"
  },
  {
   "id": "7C3DF8.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ああ、知ってンぜ",
-  "en": ""
+  "en": "Yeah, we know."
  },
  {
   "id": "7C3DF8.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "波児、表の連中の親玉が　",
-  "en": ""
+  "en": "Paul, you know where the boss of those"
  },
  {
   "id": "7C3DF8.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "どこにいるか知らねえか？",
-  "en": ""
+  "en": "creeps outside is holed up?"
  },
  {
   "id": "7C3DF8.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "波児",
   "jp": "アルファタワーだよ　",
-  "en": ""
+  "en": "Alpha Tower."
  },
  {
   "id": "7C3DF8.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "アルファタワーって、超高層の？　",
-  "en": ""
+  "en": "Alpha Tower, the skyscraper? But isn't"
  },
  {
   "id": "7C3DF8.25",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "でも、あれってまだ建設中じゃ…　",
-  "en": ""
+  "en": "that still under construction...?"
  },
  {
   "id": "7C3DF8.27",
@@ -127,7 +127,7 @@
   "box": 7,
   "speaker": "波児",
   "jp": "建設中で警備がうすいからこそ",
-  "en": ""
+  "en": "Under construction means thin security."
  },
  {
   "id": "7C3DF8.30",
@@ -135,7 +135,7 @@
   "box": 7,
   "speaker": "波児",
   "jp": "簡単に奪われちまったってワケだ　",
-  "en": ""
+  "en": "That's exactly why they took it so easily."
  },
  {
   "id": "7C3DF8.32",
@@ -150,7 +150,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "…よし、",
-  "en": ""
+  "en": "...Right. Now that we know where it is, let's"
  },
  {
   "id": "7C3DF8.35",
@@ -158,6 +158,6 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "場所も分かったことだし行くとするか　",
-  "en": ""
+  "en": "get going."
  }
 ]

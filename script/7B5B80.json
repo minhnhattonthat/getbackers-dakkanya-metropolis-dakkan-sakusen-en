@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "スタッフ",
   "jp": "もうすぐ『ザ☆シグナルズ』の",
-  "en": ""
+  "en": "'The Signals' concert is coming up soon..."
  },
  {
   "id": "7B5B80.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "スタッフ",
   "jp": "コンサートだよ…ああ、忙しい…　",
-  "en": ""
+  "en": "Ugh, so busy..."
  },
  {
   "id": "7B5B80.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "スタッフ",
   "jp": "あれ、知らないの？　",
-  "en": ""
+  "en": "Huh, you don't know them?"
  },
  {
   "id": "7B5B80.8",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "スタッフ",
   "jp": "ひかる、あきら、かけるの",
-  "en": ""
+  "en": "They're a trio of pretty boys: Hikaru, Akira"
  },
  {
   "id": "7B5B80.9",
@@ -44,6 +44,6 @@
   "box": 3,
   "speaker": "スタッフ",
   "jp": "美少年３人組グループだよ",
-  "en": ""
+  "en": "and Kakeru!"
  }
 ]

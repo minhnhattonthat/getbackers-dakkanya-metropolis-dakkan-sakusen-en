@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "士度！　",
-  "en": ""
+  "en": "Shido!"
  },
  {
   "id": "7951F8.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "？　銀次…　",
-  "en": ""
+  "en": "? Ginji... And that bastard Mido, too."
  },
  {
   "id": "7951F8.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "それに美堂のヤローじゃねえかよ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7951F8.11",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "士度",
   "jp": "あん？　なんか用か？",
-  "en": ""
+  "en": "Huh? You want something?"
  },
  {
   "id": "7951F8.13",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "今、ある人の依頼でペットを　",
-  "en": ""
+  "en": "Right now we're doing a job for someone,"
  },
  {
   "id": "7951F8.16",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "奪還する仕事をしてるんだけど、　",
-  "en": ""
+  "en": "retrieving a pet, but"
  },
  {
   "id": "7951F8.18",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "そのペットがオレたちを警戒してて",
-  "en": ""
+  "en": "the pet's wary of us, so we just can't"
  },
  {
   "id": "7951F8.19",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "なかなか捕まえられないんだ　",
-  "en": ""
+  "en": "catch it."
  },
  {
   "id": "7951F8.21",
@@ -90,7 +90,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "で、士度の力で　",
-  "en": ""
+  "en": "So we were thinking maybe your power"
  },
  {
   "id": "7951F8.22",
@@ -98,7 +98,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "なんとかなんないかなーっと思ってさ　",
-  "en": ""
+  "en": "could help, Shido."
  },
  {
   "id": "7951F8.24",
@@ -113,7 +113,7 @@
   "box": 7,
   "speaker": "士度",
   "jp": "悪いがそんなことに付き合ってるほど　",
-  "en": ""
+  "en": "Sorry, but I'm not free enough to play"
  },
  {
   "id": "7951F8.27",
@@ -121,7 +121,7 @@
   "box": 7,
   "speaker": "士度",
   "jp": "ヒマじゃねーよ　",
-  "en": ""
+  "en": "along with that kind of thing."
  },
  {
   "id": "7951F8.29",
@@ -136,7 +136,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "チッ、だからコイツに頼むのは",
-  "en": ""
+  "en": "Tch, this is exactly why I didn't wanna ask"
  },
  {
   "id": "7951F8.32",
@@ -144,7 +144,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "イヤだったんだよ！　",
-  "en": ""
+  "en": "him!"
  },
  {
   "id": "7951F8.34",
@@ -159,7 +159,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "用があるみたいだから仕方ないよ　",
-  "en": ""
+  "en": "He seems busy, so it can't be helped."
  },
  {
   "id": "7951F8.38",
@@ -167,7 +167,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "蛮ちゃん、ＴＡＲＥの姿も見えないし、",
-  "en": ""
+  "en": "Ban-chan, there's no sign of TARE either,"
  },
  {
   "id": "7951F8.39",
@@ -175,7 +175,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "もう一度蛭田を探して…　",
-  "en": ""
+  "en": "so let's look for Hiruta again and..."
  },
  {
   "id": "7951F8.41",
@@ -190,7 +190,7 @@
   "box": 11,
   "speaker": "士度",
   "jp": "おい、今、なんてった？　",
-  "en": ""
+  "en": "Hey, what did you just say?"
  },
  {
   "id": "7951F8.45",
@@ -205,7 +205,7 @@
   "box": 12,
   "speaker": "銀次",
   "jp": "え？　蛭田のこと？　",
-  "en": ""
+  "en": "Huh? About Hiruta?"
  },
  {
   "id": "7951F8.49",
@@ -220,7 +220,7 @@
   "box": 13,
   "speaker": "士度",
   "jp": "…そいつがお前らの依頼人の　",
-  "en": ""
+  "en": "...You saying that guy stole your client's"
  },
  {
   "id": "7951F8.52",
@@ -228,7 +228,7 @@
   "box": 13,
   "speaker": "士度",
   "jp": "ペットを奪ったってのか？",
-  "en": ""
+  "en": "pet?"
  },
  {
   "id": "7951F8.54",
@@ -243,7 +243,7 @@
   "box": 14,
   "speaker": "銀次",
   "jp": "そうだけど…",
-  "en": ""
+  "en": "Yeah... Do you know Hiruta?"
  },
  {
   "id": "7951F8.57",
@@ -251,7 +251,7 @@
   "box": 14,
   "speaker": "銀次",
   "jp": "蛭田を知ってるの？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7951F8.59",
@@ -266,7 +266,7 @@
   "box": 15,
   "speaker": "士度",
   "jp": "近頃、動物たちが蛭田のせいで",
-  "en": ""
+  "en": "Lately the animals have been strangely"
  },
  {
   "id": "7951F8.62",
@@ -274,7 +274,7 @@
   "box": 15,
   "speaker": "士度",
   "jp": "妙におびえててな…　",
-  "en": ""
+  "en": "scared, all because of Hiruta..."
  },
  {
   "id": "7951F8.64",
@@ -282,7 +282,7 @@
   "box": 16,
   "speaker": "士度",
   "jp": "蛭田ってのは珍しい生き物を見ると",
-  "en": ""
+  "en": "Word is, whenever Hiruta sees a rare"
  },
  {
   "id": "7951F8.65",
@@ -290,7 +290,7 @@
   "box": 16,
   "speaker": "士度",
   "jp": "強引に自分のものにしちまうらしい",
-  "en": ""
+  "en": "creature, he takes it for himself by force."
  },
  {
   "id": "7951F8.67",
@@ -305,7 +305,7 @@
   "box": 17,
   "speaker": "蛮　",
   "jp": "ほほう、それで心優しい猿マワシくんが",
-  "en": ""
+  "en": "Oho, so the kindhearted Monkey"
  },
  {
   "id": "7951F8.70",
@@ -313,7 +313,7 @@
   "box": 17,
   "speaker": "蛮　",
   "jp": "立ち上がったってワケだ！",
-  "en": ""
+  "en": "Trainer-kun is taking a stand!"
  },
  {
   "id": "7951F8.72",
@@ -328,7 +328,7 @@
   "box": 18,
   "speaker": "銀次",
   "jp": "なら話は早いじゃん！",
-  "en": ""
+  "en": "Then that makes it easy! Let's beat Hiruta"
  },
  {
   "id": "7951F8.75",
@@ -336,7 +336,7 @@
   "box": 18,
   "speaker": "銀次",
   "jp": "蛭田を倒してＴＡＲＥを奪り還そうよ！",
-  "en": ""
+  "en": "and take TARE back!"
  },
  {
   "id": "7951F8.77",
@@ -351,7 +351,7 @@
   "box": 19,
   "speaker": "士度",
   "jp": "勝手に決めるんじゃねえよ",
-  "en": ""
+  "en": "Don't go deciding on your own. I can"
  },
  {
   "id": "7951F8.80",
@@ -359,7 +359,7 @@
   "box": 19,
   "speaker": "士度",
   "jp": "別に俺は一人でも…　",
-  "en": ""
+  "en": "handle it alone anyway..."
  },
  {
   "id": "7951F8.82",
@@ -374,7 +374,7 @@
   "box": 20,
   "speaker": "銀次",
   "jp": "頼むよ、士度",
-  "en": ""
+  "en": "Please, Shido. We need your power."
  },
  {
   "id": "7951F8.85",
@@ -382,7 +382,7 @@
   "box": 20,
   "speaker": "銀次",
   "jp": "士度の力が必要なんだ",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7951F8.87",
@@ -397,6 +397,6 @@
   "box": 21,
   "speaker": "士度",
   "jp": "…分かったよ",
-  "en": ""
+  "en": "...Fine."
  }
 ]

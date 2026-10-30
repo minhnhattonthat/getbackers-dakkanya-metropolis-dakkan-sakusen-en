@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "スタッフ",
   "jp": "ありがと！　これでバイト終了",
-  "en": ""
+  "en": "Thanks! And that wraps up your part-time"
  },
  {
   "id": "7A40B0.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "スタッフ",
   "jp": "…といきたいところだけど、　",
-  "en": ""
+  "en": "job... is what I'd like to say, but"
  },
  {
   "id": "7A40B0.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "スタッフ",
   "jp": "最後に舞台裏のカギを開けてきてよ",
-  "en": ""
+  "en": "one last thing: go unlock the backstage\ndoor for me."
  },
  {
   "id": "7A40B0.10",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "スタッフ",
   "jp": "舞台裏のカギを手に入れた！　",
-  "en": ""
+  "en": "Got the Backstage Key!"
  },
  {
   "id": "7A40B0.12",
@@ -51,7 +51,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "（おっ、これであの　",
-  "en": ""
+  "en": "(Ooh, now we should be able to get"
  },
  {
   "id": "7A40B0.15",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "開かずのトビラに入れそうだな！）",
-  "en": ""
+  "en": "through that locked door!)"
  },
  {
   "id": "7A40B0.17",
@@ -74,6 +74,6 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "（やったね、蛮ちゃん！！）　",
-  "en": ""
+  "en": "(Way to go, Ban-chan!!)"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…銀次、お前はここにいろ",
-  "en": ""
+  "en": "...Ginji, you stay here."
  },
  {
   "id": "7BDE38.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "…蛮ちゃん、",
-  "en": ""
+  "en": "...Ban-chan, you're not planning to fight"
  },
  {
   "id": "7BDE38.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "まさか一人で弥勒と戦うつもりなの？　",
-  "en": ""
+  "en": "Miroku alone, are you?"
  },
  {
   "id": "7BDE38.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ねえ、蛮ちゃん！！　",
-  "en": ""
+  "en": "Hey, Ban-chan!!"
  },
  {
   "id": "7BDE38.12",
@@ -58,6 +58,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "いいか、ここを離れるんじゃねえぞ！　",
-  "en": ""
+  "en": "Listen up. Don't you move from this spot!"
  }
 ]

@@ -1,0 +1,549 @@
+M09C148	Status
+M09C152	Party
+M09C15C	Items
+M09C164	Options
+M09C16E	Save
+M09C174	Move
+M09C17A	Level
+M09C180	Special
+M09C19A	Ban Mido
+M09C1A8	Ginji Amano
+M09C1B6	Himiko Kudo
+M09C1C4	Kurodo Akabane
+M09C1D2	Kazuki Fuchoin
+M09C1E0	Shido Fuyuki
+M09C1EE	Emishi Haruki
+M09C1FC	Juubei Kakei
+M09C20A	Kyoji Kagami
+M09C23C	Venom Fang
+M09C24C	Snake Bite
+M09C25C	Sidewinder
+M09C26E	Ophiuchus Unleashed
+M09C27C	Electric Shock
+M09C282	Lightning Kick
+M09C292	EM Field
+M09C2A2	Thunder Emperor Descends
+M09C2AC	Antidote Perfume
+M09C2B4	Healing Perfume
+M09C2BC	Flame Perfume
+M09C2C4	Speed Perfume
+M09C2CC	Bloody Sword
+M09C2D4	Bloody Shield
+M09C2DC	Bloody Cross
+M09C2E8	Bloody Hurricane
+M09C2F2	Cocoon Shield
+M09C2FC	Autumn Rain
+M09C302	String Bind
+M09C30A	Dewdrop
+M09C30E	Ape Mimic
+M09C314	Mole Mimic
+M09C31C	Tiger Claw Mimic
+M09C324	Wolf Mimic
+M09C32C	Mera-no-Shiora
+M09C340	Rob-ha-Ratuma
+M09C356	Tajaka-ma-Saya
+M09C36C	Kaja-no-a-Maya
+M09C384	Poison Moth
+M09C38A	Lantern Plant
+M09C390	Balsam Burst
+M09C398	Earth Spider
+M09C3A0	Mirror Image
+M09C3A6	Mirror Blade
+M09C3AC	Mirror Light
+M09C3B2	Diamond Dust
+M09C3C8	Ban Mido
+M09C3D6	Ginji Amano
+M09C3E4	Himiko Kudo
+M09C3F2	Kurodo Akabane
+M09C400	Kazuki Fuchoin
+M09C40E	Shido Fuyuki
+M09C41C	Emishi Haruki
+M09C42A	Juubei Kakei
+M09C438	Kyoji Kagami
+M09C446	Ban Mido
+M09C452	SELECT: Affinity
+M09C464	Ban Mido
+M09C472	Ginji Amano
+M09C480	Himiko Kudo
+M09C48E	Kurodo Akabane
+M09C49C	Kazuki Fuchoin
+M09C4AA	Shido Fuyuki
+M09C4B8	Emishi Haruki
+M09C4C6	Juubei Kakei
+M09C4D4	Kyoji Kagami
+M09C4E2	Items
+M09C4EA	Events
+M09C4F2	Cards
+M09C50C	Houttuynia
+M09C512	Clematis Root
+M09C51A	Enmei Herb
+M09C522	Reishi
+M09C528	Bezoar
+M09C52E	Elecampane
+M09C536	Peony Root
+M09C53C	Cordyceps
+M09C546	Horai Jewel
+M09C550	Pendu Card
+M09C55C	Junon Card
+M09C568	Ratrice Card
+M09C574	Amoureux Card
+M09C580	Iustus Card
+M09C58C	Hermite Card
+M09C598	Lefo Card
+M09C5A4	Jupiter Card
+M09C5B0	Rance Card
+M09C5BA	Dira Card
+M09C5C4	Lune Card
+M09C5CE	Reille Card
+M09C5D8	Monde Card
+M09C5E2	Gement Card
+M09C5EC	Chariot Card
+M09C5F8	Diable Card
+M09C604	Coffee Ticket
+M09C610	Ban-Gin Memory
+M09C61E	Ban-Himi Memory
+M09C62C	Ban-Bane Memory
+M09C63A	Ban-Kazu Memory
+M09C648	Ban-Shido Memory
+M09C656	Ban-Emi Memory
+M09C664	Ban-Ju Memory
+M09C672	Ban-Kaga Memory
+M09C680	Himi-Gin Memory
+M09C68E	Bane-Gin Memory
+M09C69C	Kazu-Gin Memory
+M09C6AA	Shido-Gin Memory
+M09C6B8	Emi-Gin Memory
+M09C6C6	Ju-Gin Memory
+M09C6D4	Kaga-Gin Memory
+M09C6E2	Bane-Himi Memory
+M09C6F0	Kazu-Himi Memory
+M09C6FE	Shido-Himi Memory
+M09C70C	Emi-Himi Memory
+M09C71A	Ju-Himi Memory
+M09C728	Kaga-Himi Memory
+M09C736	Bane-Kazu Memory
+M09C744	Bane-Shido Memory
+M09C752	Bane-Emi Memory
+M09C760	Bane-Ju Memory
+M09C76E	Bane-Kaga Memory
+M09C77C	Shido-Kazu Memory
+M09C78A	Emi-Kazu Memory
+M09C798	Ju-Kazu Memory
+M09C7A6	Kaga-Kazu Memory
+M09C7B4	Shido-Emi Memory
+M09C7C2	Shido-Ju Memory
+M09C7D0	Shido-Kaga Memory
+M09C7DE	Emi-Ju Memory
+M09C7EC	Emi-Kaga Memory
+M09C7FA	Ju-Kaga Memory
+M09C808	Bento
+M09C810	Gym Key
+M09C81E	Backstage Key
+M09C82C	President's Office Key
+M09C83A	P Mascot Suit
+M09C840	H Mascot Suit
+M09C846	DVD-ROM
+M09C852	Small Orb
+M09C85E	Study Key
+M09C86A	Large Orb
+M09C876	Switch Room Key
+M09C884	Card Key 1
+M09C892	Card Key 2
+M09C8A0	Card Key 3
+M09C8AE	Game Software
+M09C8BC	Coffee 0
+M09C8C8	Coffee 1
+M09C8D4	Coffee 2
+M09C8E0	Cafe au Lait
+M09C8EC	Orange Juice
+M09C8FE	Oolong Tea
+M09C90A	Lemon Tea
+M09C918	Milk Tea
+M09C926	Vegetable Juice
+M09C934	Tulips
+M09C942	Sunflowers
+M09C94C	Gerberas
+M09C956	Lavender
+M09C962	Lilies
+M09C968	Roses
+M09C96E	Flashy Kimono
+M09C97A	Demure Kimono
+M09C988	Hakama
+M09C990	Flashy Dress
+M09C99E	Demure Dress
+M09C9AE	Tuxedo
+M09C9BA	Costume Room Key
+M09C9CA	Hat
+M09C9D2	Skirt
+M09C9DC	Storeroom Key
+M09C9E8	Kitchen Key
+M09C9F4	Lighter
+M09C9FE	Book
+M09CA02	Key Memory
+M09CA10	Passcode 1
+M09CA1E	Passcode 2
+M09CA2C	Passcode 3
+M09CA3A	Bedroom Key
+M09CA4C	Great Hall Key
+M09CA5A	Liquid Nitrogen
+M09CA64	Card 1
+M09CA6E	Card 2
+M09CA78	Card 3
+M09CA82	Card 4
+M09CA8C	Card 5
+M09CA96	Card 6
+M09CAA0	Card 7
+M09CAAA	Card 8
+M09CAB4	Card 9
+M09CABE	Card 10
+M09CACA	Card 11
+M09CAD6	Card 12
+M09CAE2	Card 13
+M09CAEE	Card 14
+M09CAFA	Card 15
+M09CB06	Card 16
+M09CB12	Card 17
+M09CB1E	Card 18
+M09CB2A	Card 19
+M09CB36	Card 20
+M09CB42	Card 21
+M09CB4E	Card 22
+M09CB5A	Card 23
+M09CB66	Card 24
+M09CB72	Card 25
+M09CB7E	Card 26
+M09CB8A	Card 27
+M09CB96	Card 28
+M09CBA2	Card 29
+M09CBAE	Card 30
+M09CBBA	Card 31
+M09CBC6	Card 32
+M09CBD2	Card 33
+M09CBDE	Card 34
+M09CBEA	Card 35
+M09CBF6	Card 36
+M09CC02	Card 37
+M09CC0E	Card 38
+M09CC1A	Card 39
+M09CC26	Card 40
+M09CC32	Card 41
+M09CC3E	Card 42
+M09CC4A	Card 43
+M09CC56	Card 44
+M09CC62	Card 45
+M09CC6E	Card 46
+M09CC7A	Card 47
+M09CC86	Card 48
+M09CC92	Card 49
+M09CC9E	Card 50
+M09CCAA	Card 51
+M09CCB6	Card 52
+M09CCC2	Card 53
+M09CCCE	Card 54
+M09CCDA	Card 55
+M09CCE6	Card 56
+M09CCF2	Card 57
+M09CCFE	Card 58
+M09CD0A	Card 59
+M09CD16	Card 60
+M09CD22	Card 61
+M09CD2E	Card 62
+M09CD3A	Card 63
+M09CD46	Card 64
+M09CD52	Card 65
+M09CD5E	Card 66
+M09CD6A	Card 67
+M09CD76	Card 68
+M09CD82	Card 69
+M09CD8E	Card 70
+M09CD9A	Card 71
+M09CDA6	Card 72
+M09CDB2	Card 73
+M09CDBE	Card 74
+M09CDCA	Card 75
+M09CDD6	Card 76
+M09CDE2	Card 77
+M09CDEE	Card 78
+M09CDFA	Card 79
+M09CE06	Card 80
+M09CE12	Card 81
+M09CE1E	Card 82
+M09CE2A	Card 83
+M09CE36	Card 84
+M09CE42	Card 85
+M09CE4E	Card 86
+M09CE5A	Card 87
+M09CE66	Card 88
+M09CE72	Card 89
+M09CE7E	Card 90
+M09CE8A	Card 91
+M09CE96	Card 92
+M09CEA2	Card 93
+M09CEAE	Card 94
+M09CEBA	Card 95
+M09CEC6	Card 96
+M09CED2	Card 97
+M09CEDE	Card 98
+M09CEEA	Card 99
+M09CEF6	Card 100
+M09CF04	Card 101
+M09CF12	Card 102
+M09CF20	Card 103
+M09CF2E	Card 104
+M09CF3C	Card 105
+M09CF4A	Card 106
+M09CF58	Card 107
+M09CF66	Card 108
+M09CF74	Card 109
+M09CF82	Card 110
+M09CF90	Card 111
+M09CF9E	Card 112
+M09CFAC	Card 113
+M09CFBA	Card 114
+M09CFC8	Card 115
+M09CFD6	Card 116
+M09CFE4	Card 117
+M09CFF2	Card 118
+M09D000	Card 119
+M09D00E	Card 120
+M09D01C	Card 121
+M09D02A	Card 122
+M09D038	Card 123
+M09D046	Card 124
+M09D054	Card 125
+M09D062	Card 126
+M09D070	Card 127
+M09D07E	Card 128
+M09D08C	Card 129
+M09D09A	Card 130
+M09D0A8	Card 131
+M09D0B6	Card 132
+M09D0C4	Card 133
+M09D0D2	Card 134
+M09D0E0	Card 135
+M09D0EE	Card 136
+M09D0FC	Card 137
+M09D10A	Card 138
+M09D118	Card 139
+M09D126	Card 140
+M09D134	Card 141
+M09D142	Card 142
+M09D150	Card 143
+M09D15E	Card 144
+M09D16C	Card 145
+M09D17A	Card 146
+M09D188	Card 147
+M09D196	Card 148
+M09D1A4	Card 149
+M09D1B2	Card 150
+M09D1C0	Card 151
+M09D1CE	Card 152
+M09D1DC	Card 153
+M09D1EA	Card 154
+M09D1F8	Card 155
+M09D206	Card 156
+M09D214	Card 157
+M09D222	Card 158
+M09D230	Card 159
+M09D23E	Card 160
+M09D24C	Restores a little HP (one)
+M09D260	Restores a lot of HP (one)
+M09D274	Revives from KO (one)
+M09D28A	Cures poison (one)
+M09D298	Cures paralysis (one)
+M09D2AA	Cures confusion (one)
+M09D2BC	Cures status ailments (one)
+M09D2D8	Fully restores HP, / cures status ailments (one)
+M09D302	Revives, restores all HP, / cures status ailments (one)
+M09D33A	Raises evasion for a while (all)
+M09D35A	Restores HP (all)
+M09D36C	Raises defense for a while (all)
+M09D38C	Cures status ailments (all)
+M09D3A8	Nullifies one Earth element attack (all)
+M09D3CC	Nullifies one Wind element attack (all)
+M09D3F0	Nullifies one Fire element attack (all)
+M09D414	Nullifies one Water element attack (all)
+M09D438	Raises speed for a while (all)
+M09D458	Nullifies one Thunder element attack (all)
+M09D47C	Nullifies one Dark element attack (all)
+M09D4A0	Nullifies one Light element attack (all)
+M09D4C4	Raises attack for a while (all)
+M09D4E4	Nullifies one Void element attack (all)
+M09D508	Nullifies one Sand element attack (all)
+M09D52C	Revives from KO (all)
+M09D542	Natsumi's coffee ticket. / Fully restores HP (all)
+M09D568	Raises Ban & Ginji's affinity
+M09D582	Raises Ban & Himiko's affinity
+M09D59E	Raises Ban & Akabane's affinity
+M09D5B8	Raises Ban & Kazuki's affinity
+M09D5D2	Raises Ban & Shido's affinity
+M09D5EC	Raises Ban & Emishi's affinity
+M09D606	Raises Ban & Juubei's affinity
+M09D622	Raises Ban & Kagami's affinity
+M09D63A	Raises Ginji & Himiko's affinity
+M09D658	Raises Ginji & Akabane's affinity
+M09D674	Raises Ginji & Kazuki's affinity
+M09D690	Raises Ginji & Shido's affinity
+M09D6AC	Raises Ginji & Emishi's affinity
+M09D6C8	Raises Ginji & Juubei's affinity
+M09D6E6	Raises Ginji & Kagami's affinity
+M09D700	Raises Himiko & Akabane's affinity
+M09D71E	Raises Himiko & Kazuki's affinity
+M09D73C	Raises Himiko & Shido's affinity
+M09D75A	Raises Himiko & Emishi's affinity
+M09D778	Raises Himiko & Juubei's affinity
+M09D798	Raises Himiko & Kagami's affinity
+M09D7B4	Raises Akabane & Kazuki's affinity
+M09D7D0	Raises Akabane & Shido's affinity
+M09D7EC	Raises Akabane & Emishi's affinity
+M09D808	Raises Akabane & Juubei's affinity
+M09D826	Raises Akabane & Kagami's affinity
+M09D840	Raises Kazuki & Shido's affinity
+M09D85C	Raises Kazuki & Emishi's affinity
+M09D878	Raises Kazuki & Juubei's affinity
+M09D896	Raises Kazuki & Kagami's affinity
+M09D8B0	Raises Shido & Emishi's affinity
+M09D8CC	Raises Shido & Juubei's affinity
+M09D8EA	Raises Shido & Kagami's affinity
+M09D904	Raises Emishi & Juubei's affinity
+M09D922	Raises Emishi & Kagami's affinity
+M09D93C	Raises Juubei & Kagami's affinity
+M09D958	A bento
+M09D960	Key to the gym
+M09D96E	Key to backstage
+M09D97C	Key to the president's office
+M09D98A	P Mascot Suit
+M09D990	H Mascot Suit
+M09D996	DVD-ROM
+M09D9A2	Mysterious stone from Al
+M09D9B6	Key to the study
+M09D9C2	Secret treasure of the continent
+M09D9CE	Key to the switch room
+M09D9DC	Key to Alpha Tower One
+M09D9F4	Key to Alpha Tower Two
+M09DA0C	Key to Alpha Tower Three
+M09DA24	Game software
+M09DA32	Black coffee
+M09DA44	Coffee with sugar and milk
+M09DA5E	Coffee with milk, no sugar
+M09DA78	Cafe au lait
+M09DA84	Orange juice
+M09DA96	Oolong tea
+M09DAA2	Lemon tea
+M09DAB0	Milk tea
+M09DABE	Vegetable juice
+M09DACC	Basket of tulips
+M09DAE2	Basket of sunflowers
+M09DAF4	Basket of gerberas
+M09DB06	Basket of lavender
+M09DB1A	Basket of lilies
+M09DB28	Basket of roses
+M09DB36	Stage costume
+M09DB44	Stage costume
+M09DB52	Stage costume
+M09DB60	Stage costume
+M09DB6E	Stage costume
+M09DB7C	Stage costume
+M09DB8A	Key to the Costume Room
+M09DB9A	The young lady's hat
+M09DBAA	The young lady's skirt
+M09DBBC	Key to the storeroom
+M09DBC8	Key to the kitchen
+M09DBD4	Oil lighter
+M09DBE4	A book
+M09DBE8	Key Memory
+M09DBF6	Passcode 1
+M09DC04	Passcode 2
+M09DC12	Passcode 3
+M09DC20	Key to the bedroom
+M09DC34	Key to the great hall
+M09DC42	Liquid nitrogen
+M09DC4C	Ban & Ginji 1
+M09DC58	Ban & Ginji 2
+M09DC64	Ban & Ginji 3
+M09DC70	Ban & Ginji 4
+M09DC7C	Ban & Ginji 5
+M09DC88	Ban & Ginji 6
+M09DC94	Ban & Ginji 7
+M09DCA0	Ban & Ginji 8
+M09DCAC	Ban & Himiko 4
+M09DCBA	Ban & Himiko 5
+M09DCC8	Ban & Himiko 6
+M09DCD6	Ban & Himiko 7
+M09DCE4	Ban & Himiko 8
+M09DCF2	Ban & Akabane 5
+M09DCFE	Ban & Akabane 7
+M09DD0A	Ban & Akabane 8
+M09DD16	Ban & Shido 1
+M09DD22	Ban & Shido 2
+M09DD2E	Ban & Shido 3
+M09DD3A	Ban & Shido 4
+M09DD46	Ban & Shido 5
+M09DD52	Ban & Shido 6
+M09DD5E	Ban & Shido 7
+M09DD6A	Ban & Shido 8
+M09DD76	Ban & Emishi 4
+M09DD82	Ban & Emishi 5
+M09DD8E	Ban & Emishi 6
+M09DD9A	Ban & Emishi 7
+M09DDA6	Ban & Emishi 8
+M09DDB2	Ban & Kazuki 2
+M09DDBE	Ban & Kazuki 3
+M09DDCA	Ban & Kazuki 4
+M09DDD6	Ban & Kazuki 5
+M09DDE2	Ban & Kazuki 7
+M09DDEE	Ban & Kazuki 8
+M09DDFA	Ban & Juubei 4
+M09DE08	Ban & Juubei 5
+M09DE16	Ban & Juubei 7
+M09DE24	Ban & Juubei 8
+M09DE32	Ban & Kagami 7
+M09DE3C	Ban & Kagami 8
+M09DE46	Ginji & Himiko 4
+M09DE56	Ginji & Himiko 5
+M09DE66	Ginji & Himiko 7
+M09DE76	Ginji & Himiko 8
+M09DE86	Ginji & Akabane 5
+M09DE94	Ginji & Akabane 7
+M09DEA2	Ginji & Akabane 8
+M09DEB0	Ginji & Shido 1
+M09DEBE	Ginji & Shido 2
+M09DECC	Ginji & Shido 3
+M09DEDA	Ginji & Shido 4
+M09DEE8	Ginji & Shido 5
+M09DEF6	Ginji & Shido 6
+M09DF04	Ginji & Shido 7
+M09DF12	Ginji & Shido 8
+M09DF20	Ginji & Emishi 4
+M09DF2E	Ginji & Emishi 5
+M09DF3C	Ginji & Emishi 6
+M09DF4A	Ginji & Emishi 7
+M09DF58	Ginji & Emishi 8
+M09DF66	Ginji & Kazuki 2
+M09DF74	Ginji & Kazuki 3
+M09DF82	Ginji & Kazuki 4
+M09DF90	Ginji & Kazuki 5
+M09DF9E	Ginji & Kazuki 7
+M09DFAC	Ginji & Kazuki 8
+M09DFBA	Ginji & Juubei 4
+M09DFCA	Ginji & Juubei 5
+M09DFDA	Ginji & Juubei 7
+M09DFEA	Ginji & Juubei 8
+M09DFFA	Ginji & Kagami 7
+M09E006	Ginji & Kagami 8
+M09E012	Bonus 1
+M09E01C	Himiko & Akabane 5
+M09E02C	Himiko & Akabane 7
+M09E03C	Himiko & Akabane 8
+M09E04C	Himiko & Shido 4
+M09E05C	Himiko & Shido 5
+M09E06C	Himiko & Shido 7
+M09E07C	Himiko & Shido 8
+M09E08C	Himiko & Emishi 4
+M09E09C	Himiko & Emishi 5
+M09E0AC	Himiko & Emishi 7
+M09E0BC	Himiko & Emishi 8
+M09E0CC	Himiko & Kazuki 4
+M09E0DC	Himiko & Kazuki 5
+M09E0EC	Himiko & Kazuki 7
+M09E0FC	Himiko & Kazuki 8

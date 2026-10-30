@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ヘヴン　",
   "jp": "さすが、ミスターノーブレーキね！",
-  "en": ""
+  "en": "That's Mr. No-Brake for you! 20 minutes"
  },
  {
   "id": "7CB36C.4",
@@ -20,14 +20,14 @@
   "box": 1,
   "speaker": "ヘヴン　",
   "jp": "予想到着時刻よりも２０分も早いわ！！",
-  "en": ""
+  "en": "ahead of the estimated arrival time!!"
  },
  {
   "id": "7CB36C.6",
   "kind": "name",
   "box": 1,
   "jp": "馬車",
-  "en": "Carriage"
+  "en": "Driver"
  },
  {
   "id": "7CB36C.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "馬車",
   "jp": "ワシにできるのはここまでだきに、",
-  "en": ""
+  "en": "This here's as far as I can take ya, so I'm"
  },
  {
   "id": "7CB36C.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "馬車",
   "jp": "後のことは頼むぜよ！",
-  "en": ""
+  "en": "countin' on ya for the rest!"
  },
  {
   "id": "7CB36C.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "ヘヴン　",
   "jp": "ありがとう！",
-  "en": ""
+  "en": "Thank you! Now, MAI-san, let's hurry!!"
  },
  {
   "id": "7CB36C.14",
@@ -66,7 +66,7 @@
   "box": 3,
   "speaker": "ヘヴン　",
   "jp": "さ、ＭＡＩさん、急ぎましょう！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CB36C.16",
@@ -81,6 +81,6 @@
   "box": 4,
   "speaker": "ＭＡＩ　",
   "jp": "はい！！",
-  "en": ""
+  "en": "Yes!!"
  }
 ]

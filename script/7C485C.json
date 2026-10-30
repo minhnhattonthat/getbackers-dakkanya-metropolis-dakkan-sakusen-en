@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "カギが…カギがかかってる！　",
-  "en": ""
+  "en": "It's locked... It's locked! Waaah! So it's the"
  },
  {
   "id": "7C485C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "おわぁー！　やっぱり階段で…！？",
-  "en": ""
+  "en": "stairs after all...?!"
  },
  {
   "id": "7C485C.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "しゃーねえな、　",
-  "en": ""
+  "en": "Can't be helped. Guess the great Ban"
  },
  {
   "id": "7C485C.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "こうなったら俺様が力づくでだな…",
-  "en": ""
+  "en": "Mido'll just have to force it open..."
  },
  {
   "id": "7C485C.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ダ、ダメだよ！　蛮ちゃんがやったら　",
-  "en": ""
+  "en": "N-no way! If you do it, Ban-chan, you'll"
  },
  {
   "id": "7C485C.14",
@@ -66,7 +66,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "中の機械まで壊れちゃうよ！　",
-  "en": ""
+  "en": "break the machines inside too!"
  },
  {
   "id": "7C485C.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "カギを探そうよ！！　",
-  "en": ""
+  "en": "Let's look for the key!!"
  },
  {
   "id": "7C485C.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "…チッ、メンドくせーな　",
-  "en": ""
+  "en": "...Tch, what a pain."
  },
  {
   "id": "7C485C.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "仕方ないって、蛮ちゃん！",
-  "en": ""
+  "en": "It can't be helped, Ban-chan!"
  },
  {
   "id": "7C485C.26",
@@ -112,6 +112,6 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "（ああ、危なかった～…）",
-  "en": ""
+  "en": "(Phew, that was close~...)"
  }
 ]

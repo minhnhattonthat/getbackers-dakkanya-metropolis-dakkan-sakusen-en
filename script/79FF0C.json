@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あっ！　あんなところに髪どめが！",
-  "en": ""
+  "en": "Ah! The hairpin's up there!"
  },
  {
   "id": "79FF0C.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "でもどうしよう　",
-  "en": ""
+  "en": "But what do we do? It's way up high..."
  },
  {
   "id": "79FF0C.6",
@@ -28,6 +28,6 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "あんな高いとこにあるなんて…",
-  "en": ""
+  "en": " "
  }
 ]

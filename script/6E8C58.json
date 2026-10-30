@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ジェンド",
   "jp": "お…おお…なんということだ！",
-  "en": ""
+  "en": "Oh... oh... what is this?! These... these are"
  },
  {
   "id": "6E8C58.100",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "ジェンド",
   "jp": "これは…これは全て一族の者の屍！！　",
-  "en": ""
+  "en": "all corpses of my clan!!"
  },
  {
   "id": "6E8C58.102",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "アル",
   "jp": "これは一族の未来の姿…　",
-  "en": ""
+  "en": "This is your clan's future... All of them die"
  },
  {
   "id": "6E8C58.105",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "アル",
   "jp": "みな、あなたのせいで死んでいくのです",
-  "en": ""
+  "en": "because of you."
  },
  {
   "id": "6E8C58.107",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "ジェンド",
   "jp": "なぜだ！",
-  "en": ""
+  "en": "Why?! How did it come to this...?"
  },
  {
   "id": "6E8C58.110",
@@ -66,7 +66,7 @@
   "box": 3,
   "speaker": "ジェンド",
   "jp": "どうしてこんなことに…？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "6E8C58.112",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "ジェンド",
   "jp": "余はこれ以上なにも　",
-  "en": ""
+  "en": "I only wanted to stop losing anything"
  },
  {
   "id": "6E8C58.113",
@@ -82,7 +82,7 @@
   "box": 4,
   "speaker": "ジェンド",
   "jp": "失いたくなかっただけだ！",
-  "en": ""
+  "en": "more!"
  },
  {
   "id": "6E8C58.115",
@@ -90,7 +90,7 @@
   "box": 5,
   "speaker": "ジェンド",
   "jp": "それなのに…なぜ…　",
-  "en": ""
+  "en": "And yet... why..."
  },
  {
   "id": "6E8C58.117",
@@ -105,7 +105,7 @@
   "box": 6,
   "speaker": "アル",
   "jp": "人のすむ土地をうばうことは…",
-  "en": ""
+  "en": "Stealing the land where people live..."
  },
  {
   "id": "6E8C58.120",
@@ -113,7 +113,7 @@
   "box": 6,
   "speaker": "アル",
   "jp": "誰かのしあわせをうばうことは",
-  "en": ""
+  "en": "stealing someone's happiness..."
  },
  {
   "id": "6E8C58.122",
@@ -121,7 +121,7 @@
   "box": 7,
   "speaker": "アル",
   "jp": "間違ったことだったのです",
-  "en": ""
+  "en": "was wrong."
  },
  {
   "id": "6E8C58.124",
@@ -136,7 +136,7 @@
   "box": 8,
   "speaker": "ジェンド",
   "jp": "では、どうしろというのだ！　",
-  "en": ""
+  "en": "Then what would you have me do?!"
  },
  {
   "id": "6E8C58.128",
@@ -144,7 +144,7 @@
   "box": 9,
   "speaker": "ジェンド",
   "jp": "この地上をいつまでも",
-  "en": ""
+  "en": "Wander this earth forever?!"
  },
  {
   "id": "6E8C58.129",
@@ -152,7 +152,7 @@
   "box": 9,
   "speaker": "ジェンド",
   "jp": "さすらい続けろというのか！？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "6E8C58.131",
@@ -160,7 +160,7 @@
   "box": 10,
   "speaker": "ジェンド",
   "jp": "その間にも屍はさらに増えていく　",
-  "en": ""
+  "en": "All the while, the corpses keep piling up..."
  },
  {
   "id": "6E8C58.132",
@@ -168,7 +168,7 @@
   "box": 10,
   "speaker": "ジェンド",
   "jp": "…不幸な者が次々に増えていくのだぞ！",
-  "en": ""
+  "en": "ever more of our people fall into misery!"
  },
  {
   "id": "6E8C58.134",
@@ -176,7 +176,7 @@
   "box": 11,
   "speaker": "ジェンド",
   "jp": "これ以上、一族の者に苦しい思いを",
-  "en": ""
+  "en": "I cannot let my clan suffer any more than"
  },
  {
   "id": "6E8C58.135",
@@ -184,7 +184,7 @@
   "box": 11,
   "speaker": "ジェンド",
   "jp": "させるわけにはいかないのだ…！！",
-  "en": ""
+  "en": "they have...!!"
  },
  {
   "id": "6E8C58.138",
@@ -199,7 +199,7 @@
   "box": 12,
   "speaker": "アル",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "6E8C58.146",
@@ -214,7 +214,7 @@
   "box": 13,
   "speaker": "ジェンド",
   "jp": "はっ！？",
-  "en": ""
+  "en": "Huh?! Al... where are you going?!"
  },
  {
   "id": "6E8C58.149",
@@ -222,7 +222,7 @@
   "box": 13,
   "speaker": "ジェンド",
   "jp": "アル…どこへ行くというのだ！？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "6E8C58.151",
@@ -230,7 +230,7 @@
   "box": 14,
   "speaker": "ジェンド",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "6E8C58.153",
@@ -238,7 +238,7 @@
   "box": 15,
   "speaker": "ジェンド",
   "jp": "…そうか、　",
-  "en": ""
+  "en": "...I see. I killed you, did I not..."
  },
  {
   "id": "6E8C58.154",
@@ -246,7 +246,7 @@
   "box": 15,
   "speaker": "ジェンド",
   "jp": "余はお前を殺してしまったのだったな…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "6E8C58.156",
@@ -254,7 +254,7 @@
   "box": 16,
   "speaker": "ジェンド",
   "jp": "なぜこんなことになってしまったのだ…",
-  "en": ""
+  "en": "How did it ever come to this..."
  },
  {
   "id": "6E8C58.158",
@@ -262,7 +262,7 @@
   "box": 17,
   "speaker": "ジェンド",
   "jp": "お前は誰よりも忠義を",
-  "en": ""
+  "en": "You showed me more loyalty than"
  },
  {
   "id": "6E8C58.159",
@@ -270,7 +270,7 @@
   "box": 17,
   "speaker": "ジェンド",
   "jp": "示してくれたというのに………",
-  "en": ""
+  "en": "anyone......"
  },
  {
   "id": "6E8C58.161",
@@ -278,7 +278,7 @@
   "box": 18,
   "speaker": "ジェンド",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "6E8C58.163",
@@ -286,7 +286,7 @@
   "box": 19,
   "speaker": "ジェンド",
   "jp": "…………",
-  "en": ""
+  "en": "...."
  },
  {
   "id": "6E8C58.165",
@@ -294,7 +294,7 @@
   "box": 20,
   "speaker": "ジェンド",
   "jp": "……………　",
-  "en": ""
+  "en": "....."
  },
  {
   "id": "6E8C58.167",
@@ -302,7 +302,7 @@
   "box": 21,
   "speaker": "ジェンド",
   "jp": "許せ、アル…余は愚かであった",
-  "en": ""
+  "en": "Forgive me, Al... I was a fool."
  },
  {
   "id": "6E8C58.169",
@@ -310,7 +310,7 @@
   "box": 22,
   "speaker": "ジェンド",
   "jp": "だが…　",
-  "en": ""
+  "en": "But... realizing it now, it is far too late."
  },
  {
   "id": "6E8C58.170",
@@ -318,7 +318,7 @@
   "box": 22,
   "speaker": "ジェンド",
   "jp": "今更気付いたところでもう遅いのだな　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "6E8C58.172",
@@ -326,7 +326,7 @@
   "box": 23,
   "speaker": "ジェンド",
   "jp": "多くの一族の者を死に追いやり、　",
-  "en": ""
+  "en": "Having driven so many of my clan to death"
  },
  {
   "id": "6E8C58.173",
@@ -334,7 +334,7 @@
   "box": 23,
   "speaker": "ジェンド",
   "jp": "苦しませ、どうしてこの地上に",
-  "en": ""
+  "en": "and suffering, how could I"
  },
  {
   "id": "6E8C58.175",
@@ -342,6 +342,6 @@
   "box": 24,
   "speaker": "ジェンド",
   "jp": "安住の地を築けるというのか………",
-  "en": ""
+  "en": "ever build them a peaceful home on this\nearth......"
  }
 ]

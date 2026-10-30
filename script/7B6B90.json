@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "…あ、赤屍さん！！　",
-  "en": ""
+  "en": "...A-Akabane-san!!"
  },
  {
   "id": "7B6B90.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "クス…またお会いできましたね",
-  "en": ""
+  "en": "Heh... We meet again, don't we,"
  },
  {
   "id": "7B6B90.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "ゲットバッカーズのお二人さん？　",
-  "en": ""
+  "en": "GetBackers?"
  },
  {
   "id": "7B6B90.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "会えたところでうれしかねぇがな…",
-  "en": ""
+  "en": "Meeting you is nothing to be happy\nabout..."
  },
  {
   "id": "7B6B90.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "ヘヴン　",
   "jp": "今回はこのメンバーで",
-  "en": ""
+  "en": "This time you're all teaming up."
  },
  {
   "id": "7B6B90.17",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "ヘヴン　",
   "jp": "チームを組んでもらうわ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B6B90.19",
@@ -88,7 +88,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ヘッ、上等だ！　",
-  "en": ""
+  "en": "Heh, fine by me! We're pros too. We don't"
  },
  {
   "id": "7B6B90.22",
@@ -96,7 +96,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "俺らもプロだ、組む相手は選ばねえよ　",
-  "en": ""
+  "en": "get picky about partners."
  },
  {
   "id": "7B6B90.24",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "…ただし、裏切った場合は容赦しねえ　",
-  "en": ""
+  "en": "...But if you double-cross us, no mercy."
  },
  {
   "id": "7B6B90.26",
@@ -119,7 +119,7 @@
   "box": 7,
   "speaker": "赤屍",
   "jp": "クス…　",
-  "en": ""
+  "en": "Heh..."
  },
  {
   "id": "7B6B90.30",
@@ -134,7 +134,7 @@
   "box": 8,
   "speaker": "ヘヴン　",
   "jp": "キマリね！　",
-  "en": ""
+  "en": "Then it's settled! Let me get right to the"
  },
  {
   "id": "7B6B90.33",
@@ -142,7 +142,7 @@
   "box": 8,
   "speaker": "ヘヴン　",
   "jp": "さっそく依頼の話を始めさせてもらうわ",
-  "en": ""
+  "en": "job."
  },
  {
   "id": "7B6B90.35",
@@ -150,7 +150,7 @@
   "box": 9,
   "speaker": "ヘヴン　",
   "jp": "今回、奪還してもらいたいものはこれよ",
-  "en": ""
+  "en": "What I need you to retrieve this time is\nthis."
  },
  {
   "id": "7B6B90.37",
@@ -165,7 +165,7 @@
   "box": 10,
   "speaker": "花月",
   "jp": "これは…ＤＶＤロムですね？　",
-  "en": ""
+  "en": "This is... a DVD-ROM?"
  },
  {
   "id": "7B6B90.41",
@@ -180,7 +180,7 @@
   "box": 11,
   "speaker": "ヘヴン　",
   "jp": "そうよ、ある学会で公表される予定の　",
-  "en": ""
+  "en": "Right. It holds a paper to be presented at"
  },
  {
   "id": "7B6B90.44",
@@ -188,7 +188,7 @@
   "box": 11,
   "speaker": "ヘヴン　",
   "jp": "論文が記録されているものなの",
-  "en": ""
+  "en": "a certain academic conference."
  },
  {
   "id": "7B6B90.46",
@@ -196,7 +196,7 @@
   "box": 12,
   "speaker": "ヘヴン　",
   "jp": "それが海外から運んでいる途中で　",
-  "en": ""
+  "en": "It was on its way here from overseas"
  },
  {
   "id": "7B6B90.47",
@@ -204,7 +204,7 @@
   "box": 12,
   "speaker": "ヘヴン　",
   "jp": "横取り屋に奪われてしまったのよ　",
-  "en": ""
+  "en": "when Poachers stole it."
  },
  {
   "id": "7B6B90.49",
@@ -219,7 +219,7 @@
   "box": 13,
   "speaker": "蛮　",
   "jp": "横取り屋だァ？　ンな連中、　",
-  "en": ""
+  "en": "Poachers?! Small fry like that, the two of"
  },
  {
   "id": "7B6B90.52",
@@ -227,7 +227,7 @@
   "box": 13,
   "speaker": "蛮　",
   "jp": "俺たちだけでも十分じゃねえかよ　",
-  "en": ""
+  "en": "us could handle 'em alone!"
  },
  {
   "id": "7B6B90.54",
@@ -242,7 +242,7 @@
   "box": 14,
   "speaker": "ヘヴン　",
   "jp": "それが依頼品を運ぶとき、腕利きの",
-  "en": ""
+  "en": "Thing is, they'd hired some skilled"
  },
  {
   "id": "7B6B90.57",
@@ -250,7 +250,7 @@
   "box": 14,
   "speaker": "ヘヴン　",
   "jp": "護り屋たちを雇ってたらしいんだけど　",
-  "en": ""
+  "en": "protectors to guard it on the way."
  },
  {
   "id": "7B6B90.59",
@@ -258,7 +258,7 @@
   "box": 15,
   "speaker": "ヘヴン　",
   "jp": "横取り屋以外の何者かの手によって、　",
-  "en": ""
+  "en": "But someone other than the Poachers put"
  },
  {
   "id": "7B6B90.60",
@@ -266,7 +266,7 @@
   "box": 15,
   "speaker": "ヘヴン　",
   "jp": "みんな病院送りにされたそうよ",
-  "en": ""
+  "en": "every one of them in the hospital."
  },
  {
   "id": "7B6B90.62",
@@ -274,7 +274,7 @@
   "box": 16,
   "speaker": "ヘヴン　",
   "jp": "彼らは口を揃えてこう言ってるわ　",
-  "en": ""
+  "en": "And they all say the same thing: \"They"
  },
  {
   "id": "7B6B90.63",
@@ -282,7 +282,7 @@
   "box": 16,
   "speaker": "ヘヴン　",
   "jp": "ヤツらは人間以上だった…ってね　",
-  "en": ""
+  "en": "were more than human...\""
  },
  {
   "id": "7B6B90.65",
@@ -297,7 +297,7 @@
   "box": 17,
   "speaker": "銀次",
   "jp": "えっ、　",
-  "en": ""
+  "en": "Huh? You mean the enemy isn't human?"
  },
  {
   "id": "7B6B90.68",
@@ -305,7 +305,7 @@
   "box": 17,
   "speaker": "銀次",
   "jp": "それって敵は人間じゃないってこと？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B6B90.70",
@@ -320,7 +320,7 @@
   "box": 18,
   "speaker": "ヘヴン　",
   "jp": "その辺りの確証は取れていないのよ",
-  "en": ""
+  "en": "I haven't been able to confirm that. But in"
  },
  {
   "id": "7B6B90.73",
@@ -328,7 +328,7 @@
   "box": 18,
   "speaker": "ヘヴン　",
   "jp": "でもその代わり、報酬は一人２００万よ",
-  "en": ""
+  "en": "exchange, the pay is 2 million yen each."
  },
  {
   "id": "7B6B90.75",
@@ -343,7 +343,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "…ハッ、２００万くれてやるから　",
-  "en": ""
+  "en": "...Hah! So it's \"here's 2 million, now go fight"
  },
  {
   "id": "7B6B90.78",
@@ -351,7 +351,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "得体も知れねぇヤツらと戦えってか？　",
-  "en": ""
+  "en": "who-knows-what\"?"
  },
  {
   "id": "7B6B90.80",
@@ -366,7 +366,7 @@
   "box": 20,
   "speaker": "銀次",
   "jp": "いけるよね、蛮ちゃん",
-  "en": ""
+  "en": "We can do it, right, Ban-chan? Everyone's"
  },
  {
   "id": "7B6B90.83",
@@ -374,7 +374,7 @@
   "box": 20,
   "speaker": "銀次",
   "jp": "みんなもいるんだし！！　",
-  "en": ""
+  "en": "here with us!!"
  },
  {
   "id": "7B6B90.85",
@@ -389,7 +389,7 @@
   "box": 21,
   "speaker": "蛮　",
   "jp": "あったりめーだ！",
-  "en": ""
+  "en": "Damn right!"
  },
  {
   "id": "7B6B90.90",
@@ -397,7 +397,7 @@
   "box": 22,
   "speaker": "蛮　",
   "jp": "ゲットバッカーズ！　",
-  "en": ""
+  "en": "GetBackers! This job... consider it done!!"
  },
  {
   "id": "7B6B90.91",
@@ -405,7 +405,7 @@
   "box": 22,
   "speaker": "蛮　",
   "jp": "この依頼、確かに引き受けた！！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B6B90.93",
@@ -420,7 +420,7 @@
   "box": 23,
   "speaker": "ヘヴン　",
   "jp": "そうこなくっちゃね♥",
-  "en": ""
+  "en": "That's what I like to hear♥ Okay, let me"
  },
  {
   "id": "7B6B90.96",
@@ -428,6 +428,6 @@
   "box": 23,
   "speaker": "ヘヴン　",
   "jp": "じゃ、さっそく場所へ案内するわ　",
-  "en": ""
+  "en": "take you to the place."
  }
 ]

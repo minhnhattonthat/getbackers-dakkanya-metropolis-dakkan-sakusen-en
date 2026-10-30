@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ヘヴン　",
   "jp": "蛮くん！　タイムリミットギリギリよ！",
-  "en": ""
+  "en": "Ban-kun! You're cutting it close! So,"
  },
  {
   "id": "7A4E78.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "ヘヴン　",
   "jp": "それでツルコさんの衣装は？　",
-  "en": ""
+  "en": "where's Tsuruko-san's costume?"
  },
  {
   "id": "7A4E78.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "悪ィ、依頼品は奪還したんだがよ…",
-  "en": ""
+  "en": "Sorry. We retrieved the goods, but..."
  },
  {
   "id": "7A4E78.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "ヘヴン　",
   "jp": "ちょっと、ボロボロじゃない！",
-  "en": ""
+  "en": "Hey, it's in tatters! What are you gonna"
  },
  {
   "id": "7A4E78.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "ヘヴン　",
   "jp": "どうすんのよ！！",
-  "en": ""
+  "en": "do?!"
  },
  {
   "id": "7A4E78.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "ツルコ　",
   "jp": "私、めまいが…　",
-  "en": ""
+  "en": "I... I feel faint..."
  },
  {
   "id": "7A4E78.19",
@@ -88,7 +88,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "まあ、待て！",
-  "en": ""
+  "en": "Now hold on! I've got a good idea about"
  },
  {
   "id": "7A4E78.22",
@@ -96,7 +96,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "それについてはいい考えがあるんだよ　",
-  "en": ""
+  "en": "that."
  },
  {
   "id": "7A4E78.24",
@@ -104,6 +104,6 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "耳貸せ、ヘヴン　",
-  "en": ""
+  "en": "Lend me your ear, Hevn."
  }
 ]

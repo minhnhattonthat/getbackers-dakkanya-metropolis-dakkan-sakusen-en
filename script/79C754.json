@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "メッチャ、リッチナ花ヤンカ～！　",
-  "en": ""
+  "en": "Whoa, what a SUPER rich flower, ain't it~!"
  },
  {
   "id": "79C754.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "アル",
   "jp": "赤イ花ハ、ウチノ国ヤッタラ金持チシカ",
-  "en": ""
+  "en": "In my country, red flowers are classy"
  },
  {
   "id": "79C754.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "アル",
   "jp": "持テヘンヨウナ高貴ナ花ヤデ！",
-  "en": ""
+  "en": "flowers only rich folks can have, ya know!"
  },
  {
   "id": "79C754.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "…テメーはそれであの子の母親を　",
-  "en": ""
+  "en": "...So that's why you figured that kid's"
  },
  {
   "id": "79C754.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "金持ちだと思った…と",
-  "en": ""
+  "en": "mother was rich..."
  },
  {
   "id": "79C754.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "アル",
   "jp": "ナンデヤネン！　",
-  "en": ""
+  "en": "Whaddaya mean?! She ain't rich?"
  },
  {
   "id": "79C754.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "アル",
   "jp": "金持チチャウンケ？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79C754.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "蛮…ちゃん………",
-  "en": ""
+  "en": "Ban...-chan......"
  },
  {
   "id": "79C754.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "銀次…この疫病神をどこかの海へ　",
-  "en": ""
+  "en": "Ginji... go dump this jinx in some ocean..."
  },
  {
   "id": "79C754.25",
@@ -112,6 +112,6 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "捨てて来い…俺はもう…ダメだ………　",
-  "en": ""
+  "en": "I'm... done for......"
  }
 ]

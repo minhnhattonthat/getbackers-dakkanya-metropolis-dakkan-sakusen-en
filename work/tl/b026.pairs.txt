@@ -1,0 +1,446 @@
+>> 7CBBF4.3 | [銀次] バリアを全て破ったはずなのに… / ダメージを与えることができない！？
+   We broke every single barrier... so why can't we do any damage?!
+>> 7CBBF4.8 | [蛮] チッ、どうやら情報がもれたことに / 気付いてたみてえだな…
+   Tch, looks like he caught on that his info leaked...
+>> 7CBBF4.13 | [銀次] どうしよう、蛮ちゃん？ / このままじゃ…
+   What do we do, Ban-chan? At this rate...
+>> 7CBBF4.18 | [蛮] ンな顔すんじゃねえ！ / 俺たちは無敵の奪還屋だ！！
+   Don't make that face! We're the invincible GetBackers!!
+>> 7CBBF4.21 | [蛮] こんな所で負けてたまるかってンだ！！
+   No way in hell we're losing in a place like this!!
+>> 7CBDAC.3 | [波児] ………
+   ...
+>> 7CBDAC.7 | [夏実] ………
+   ...
+>> 7CBDAC.14 | [ＭＡＩ] みなさん…この声が聞こえますか？ / 私はＭＡＩ、坂本茉衣です
+   Everyone... can you hear my voice? I'm MAI. Mai Sakamoto.
+>> 7CBE9C.3 | [ＭＡＩ] ある親切な人がみなさんの前で話が / できるよう計らってくれました
+   A kind person arranged for me to be able to speak to all of you.
+>> 7CBE9C.6 | [ＭＡＩ] …私はこれから歌を歌おうと思います
+   ...I'm going to sing a song now.
+>> 7CBF48.3 | [ＭＡＩ] きっと今ごろ、新宿の街は / 大変なことになっているでしょう…
+   I'm sure the streets of Shinjuku are in terrible trouble right now...
+>> 7CBF48.6 | [ＭＡＩ] それでもどうか、 / 希望を失わないで下さい
+   Even so, please don't lose hope.
+>> 7CBF48.9 | [ＭＡＩ] この街のどこかで、 / 戦っている人たちがいるのですから…
+   Because somewhere in this city, there are people fighting...
+>> 7CC040.3 | [ＭＡＩ] その人たちは私たちのために / 戦ってくれているわけじゃないけど…
+   Those people aren't fighting for our sake, but...
+>> 7CC040.6 | [ＭＡＩ] それでもやっぱり新宿の街を / 奪り還すために戦ってくれているのです
+   even so, they're fighting to take back the city of Shinjuku.
+>> 7CC040.9 | [ＭＡＩ] 私はその人たちのために歌を歌います
+   I'll sing this song for them.
+>> 7CC158.3 | [ジェンド] …おお、この曲はまさか…
+   ...Oh, this melody... could it be...
+>> 7CC158.5 | [ジェンド] 祖国の歌…なのか………！？
+   The song of our homeland......?!
+>> 7CC1D4.3 | [アル] ………今なら！
+   ......Now's my chance!
+>> 7CC21C.3 | [ジェンド] アルめ…どこまでも余の邪魔をするか！
+   Al... Must you defy me at every turn?!
+>> 7CC21C.7 | [銀次] 蛮ちゃん、バリアが消えたよ！
+   Ban-chan, the barrier's gone!
+>> 7CC21C.11 | [蛮] よし、これで決めるぜ！！
+   All right, let's finish this!!
+>> 7CC2F8.3 | [ジェンド] …まだだ！ / ここで負けるわけには…
+   ...Not yet! I cannot lose here...
+>> 7CC35C.3 | [アル] ジェンド様、 / もうこんなことはお止め下さい！！
+   Jend-sama, please stop this already!!
+>> 7CC35C.8 | [ジェンド] 黙れ、裏切り者め！ / 貴様さえ…貴様さえいなければ…！！
+   Silence, traitor! If only... if only you had never been...!!
+>> 7CC428.3 | [銀次] ア、アルーーーーーーッ！！
+   A-Aaaaaaal!!
+>> 7CC47C.3 | [アル] …ジェンド様、 / あなたのせいで一族は滅びるのです
+   ...Jend-sama, it is because of you that our clan will perish.
+>> 7CC47C.8 | [ジェンド] なにを言うか！ / 我が一族は滅びはせん！！
+   What are you saying?! Our clan shall not perish!!
+>> 7CC47C.11 | [ジェンド] この場所を新たな住処とし、 / さらなる繁栄の時を迎えるのだ！！
+   We shall make this our new home and usher in an age of greater prosperity!!
+>> 7CC47C.16 | [アル] ごらんなさい…あなたの足元には / たくさんの屍がつみ重なっている…
+   Look... At your feet lie the corpses of so many, piled high...
+>> 7CC600.4 | [蛮] ま、世の中には謎になってるから / 面白ェってモンがあるだろうしな
+   Well, some things in this world are more fun because they stay a mystery.
+>> 7CC600.9 | [銀次] だね！
+   Yeah!
+>> 7CC600.11 | [銀次] アルくんからはお金で買えないものを / たくさんもらったような気もするし…
+   And I kinda feel like Al-kun gave us lots of stuff money can't buy...
+>> 7CC600.16 | [蛮] ま、そういうことにしておくか
+   Well, let's leave it at that.
+>> 7CC600.20 | [銀次] じゃ、いつものアレ…いこうよ！
+   Then let's do our usual thing!
+>> 7CC600.23 | [銀次] 蛮 / 銀次
+   Ban / Ginji
+>> 7CC600.26 | [銀次] …まいどあり！！
+   ...Thanks for your business!!
+>> 7CC7E0.3 | [アル] いいえ、ジェンド様…ボクたちは / ちっとも苦しくなんてないのです
+   No, Jend-sama... We are not suffering at all.
+>> 7CC7E0.6 | [アル] なぜなら…ジェンド様、 / あなたがボクたちの国だからです
+   Because... Jend-sama, you are our nation.
+>> 7CC7E0.9 | [アル] あなたが生き続けるかぎり、国は / 滅びたことにならないのですから…
+   As long as you live on, our nation has not fallen...
+>> 7CC7E0.14 | [ジェンド] アル…生きていたのか…
+   Al... You are alive...
+>> 7CC7E0.16 | [ジェンド] 蛮
+   Ban
+>> 7CC7E0.19 | [ジェンド] …夢は見れたかよ？
+   ...Enjoy the dream?
+>> 7CC7E0.23 | [ジェンド] 夢…？　そうか、夢か… / ずっと悪い夢を見ていたような気がする
+   A dream...? I see, a dream... I feel I have been in a bad dream all this time.
+>> 7CC7E0.26 | [ジェンド] 長く、辛い夢を…
+   A long, painful dream...
+>> 7CC7E0.30 | [銀次] 覚めてよかったですね
+   I'm glad you woke up.
+>> 7CC7E0.34 | [ジェンド] そうだな…どうやら取り返しが / つかなくなる前に目覚められたようだ
+   Indeed... It seems I awoke before things were beyond repair.
+>> 7CC7E0.39 | [銀次] …奪還成功、だね？
+   ...Retrieval successful, right?
+>> 7CC7E0.43 | [蛮] だな！ / しっかし、やっかいな仕事だったぜ…
+   You bet! Man, that was one hell of a job...
+>> 7CC7E0.48 | [銀次] でも良かったよね、アルくん！
+   But it all worked out, right, Al-kun!
+>> 7CC7E0.50 | [銀次] …アルくん？
+   ...Al-kun?
+>> 7CCB74.3 | [銀次] ！！　アルくん、しっかりしてよ！ / アルくん！！
+   !! Al-kun, hang in there! Al-kun!!
+>> 7CCB74.8 | [蛮] いや…よく見ろ、銀次
+   No... Take a good look, Ginji.
+>> 7CCB74.13 | [アル] …ＺＺＺ…ＺＺＺ…ＺＺＺ…
+   ...ZZZ...ZZZ...ZZZ...
+>> 7CCB74.17 | [銀次] ね、寝てる… / あ～ビックリした…
+   H-He's asleep... Phew, you scared me...
+>> 7CCB74.22 | [蛮] ここンとこ、 / ずっと気ィ張ってたみてぇだからな…
+   Looks like he's been on edge this whole time...
+>> 7CCB74.25 | [蛮] ま、ゆっくり休ませてやろうぜ
+   Let's let him get some rest.
+>> 7CCB74.29 | [銀次] そうだね、帰ろう！ / みんなのところに
+   Yeah, let's go home! Back to everyone!
+>> 7CCD70.3 | [写真屋] もし、そこのお二人サン
+   Excuse me, you two there.
+>> 7CCD70.7 | [銀次] あれ？　写真屋さん！
+   Huh? Photographer-san!
+>> 7CCD70.11 | [写真屋] ワタシ、今までアナタタチの / 写真、テイサツヨウに撮ってた
+   Me, all this time, I take photos of you. For spying.
+>> 7CCD70.14 | [写真屋] デモもう必要ないから写真あげまス
+   But now no need, so I give you photos.
+>> 7CCD70.16 | [写真屋] この写真ハ、クリア後にデータを / セーブして、そのデータから始めると
+   These photos, you save data after clear, and you start from that data,
+>> 7CCD70.19 | [写真屋] アイテムで見れるようになりまス
+   then you can look at them in items.
+>> 7CCD70.21 | [写真屋] ただしデータセーブしちゃうと / ８面プレイできなくなるから注意してネ
+   But if you save data, you cannot play stage 8, so be careful, yes?
+>> 7CCD70.24 | [写真屋] イイ写真撮れてルといいネ！
+   I hope photos come out good, yes!
+>> 7CCD70.28 | [銀次] あ…ありがとう
+   Th-Thanks...
+>> 7CCD70.32 | [銀次] ＴＳＣデータを手に入れた！
+   Got the TSC Data!
+>> 7CCFEC.3 | [銀次] アルくん、もう体の方は大丈夫なの？
+   Al-kun, are you feeling all better now?
+>> 7CCFEC.7 | [アル] はい、もうすっかり元気！ / みなさんのおかげです
+   Yes, all healthy now! Thanks to everyone.
+>> 7CCFEC.12 | [蛮] そいつぁ良かったな
+   Good to hear.
+>> 7CCFEC.14 | [蛮] しっかし、よく考えると今回の事件の / 殆どは裏でお前が操ってたんだよな？
+   But come to think of it, you were behind most of this whole mess, weren't you?
+>> 7CCFEC.17 | [蛮] アホそうに見えて意外と策士だな
+   You look like an idiot, but you're a real schemer.
+>> 7CCFEC.21 | [ジェンド] なにを言っておるのだ / アルは我が一族最高の軍師だ
+   What are you saying? Al is the greatest strategist of our clan.
+>> 7CCFEC.24 | [ジェンド] 蛮 / 銀次
+   Ban / Ginji
+>> 7CCFEC.27 | [ジェンド] ………はあ？
+   ......Huh?
+>> 7CCFEC.31 | [銀次] …こんなにボーッとしてるのに？
+   ...Even though he's this spaced out?
+>> 7CCFEC.35 | [ジェンド] そう見えるのは頭の中で / 様々な計算を行っているせいだ
+   He seems so because he is running all manner of calculations in his head.
+>> 7CCFEC.40 | [蛮] …にしちゃあ金勘定できなかったぜ？
+   ...Then how come he couldn't count money?
+>> 7CCFEC.44 | [ジェンド] 金銭感覚がズレているのは / 金銭欲というものが全くないせいだ
+   His sense of money is off because he has no greed for it whatsoever.
+>> 7CCFEC.47 | [ジェンド] 蛮 / 銀次
+   Ban / Ginji
+>> 7CCFEC.50 | [ジェンド] ………
+   ......
+>> 7CCFEC.54 | [アル] ？？？
+   ???
+>> 7CCFEC.58 | [銀次] （蛮ちゃん… / 人は見かけによらないものだね…）
+   (Ban-chan... You really can't judge people by their looks...)
+>> 7CCFEC.63 | [蛮] （…まったく、怖ェ世の中だぜ）
+   (...Man, it's a scary world out there.)
+>> 7CCFEC.67 | [蛮] ところでアル、 / こいつは俺たちからの餞別だ
+   By the way, Al, here's a going-away present from us.
+>> 7CCFEC.72 | [アル] あ…宝玉………
+   Ah... An orb......
+>> 7CCFEC.74 | [アル] ありがとございます / 蛮さん、かおコワいけどいい人
+   Thank you very much. Ban-san, scary face, but good person.
+>> 7CCFEC.79 | [蛮] …まだ言うか
+   ...You're still on that?
+>> 7CCFEC.83 | [アル] 銀さんも助けてくれてアリガト
+   Gin-san too, thank you for helping.
+>> 7CCFEC.85 | [アル] みんないい人ばっかり… / ボク、みんなのこと忘れないよ
+   Everyone is good people... I will not forget all of you.
+>> 7CCFEC.90 | [銀次] さびしくなるよ、 / アルくんがいなくなると…
+   It's gonna be lonely without you, Al-kun...
+>> 7CCFEC.93 | [銀次] たまには手紙書いてね、 / オレも返事を書くからさ
+   Write me a letter sometimes, okay? I'll write back.
+>> 7CCFEC.96 | [銀次] ジェンドさんも元気でね
+   Take care, Jend-san.
+>> 7CCFEC.100 | [ジェンド] ………
+   ......
+>> 7CCFEC.102 | [ジェンド] 余は許されざる罪を犯した…
+   I have committed an unforgivable sin...
+>> 7CCFEC.104 | [ジェンド] その罪を償わずに逃げるなどと…
+   To flee without atoning for it...
+>> 7CCFEC.108 | [蛮] もしアンタが罪の意識を抱いてるなら、 / それは一族の者たちに償っていけばいい
+   If you're feeling guilty, then make it up to the people of your clan.
+>> 7CCFEC.111 | [蛮] そのためにもアンタは / こンなとこで捕まるわけにはいかねえ…
+   And to do that, you can't let yourself get caught in a place like this...
+>> 7CCFEC.114 | [蛮] 違うかよ？
+   Am I wrong?
+>> 7CCFEC.118 | [ジェンド] そうだな…その通りだ
+   Indeed... You are right.
+>> 7CCFEC.122 | [蛮] ま、なンかあったら / そん時ぁ俺たちを呼びな
+   Well, if anything comes up, give us a call.
+>> 7CCFEC.125 | [蛮] 世界の果てだって駆けつけてやるぜ / 無敵のゲットバッカーズがよ！
+   We'll come running to the ends of the earth. We're the invincible GetBackers!
+>> 7CCFEC.131 | [ジェンド] …では、世話になったな
+   ...Then farewell. I am in your debt.
+>> 7CCFEC.135 | [アル] さよなら！　蛮さん、銀さん！！
+   Goodbye! Ban-san, Gin-san!!
+>> 7CD920.3 | [銀次] …行っちゃったね
+   ...They're gone.
+>> 7CD920.7 | [蛮] ああ…
+   Yeah...
+>> 7CD920.11 | [銀次] あっ、それって論文が入ってる / ＤＶＤロムだよね？
+   Oh, isn't that the DVD-ROM with the thesis on it?
+>> 7CD920.14 | [銀次] …どうするの、それ？
+   ...What are you gonna do with it?
+>> 7CD920.18 | [蛮] 財宝が眠ってるんだったよな…
+   There's supposed to be treasure sleeping out there...
+>> 7CD920.22 | [銀次] すっごいお宝が / たくさんあるんだろうね…
+   Must be tons of amazing treasure...
+>> 7CD920.27 | [蛮] ………
+   ......
+>> 7CD920.31 | [銀次] ………
+   ......
+>> 7CD920.35 | [蛮] …捨てちまうか！
+   ...Let's toss it!
+>> 7CD920.39 | [銀次] うん、そうだね！ / それがいいと思うよ
+   Yeah, sounds good! I think that's best.
+>> 7CDB6C.3 | [弥勒] ………
+   ......
+>> 7CDB6C.5 | [弥勒] 美堂蛮、お前は必ず我ら弥勒一族が倒す
+   Ban Mido, we of the Miroku clan will defeat you without fail.
+>> 7CDB6C.7 | [弥勒] 必ず生き残れ… / 再び我らとあいまみえる日までは
+   Be sure to survive... until the day we meet again.
+>> 7CDC1C.4 | [銀次] …あれ、ケータイ鳴ってる？
+   ...Huh, is my cell ringing?
+>> 7CDC1C.9 | [マクベス] お久しぶりです、銀次さん
+   Long time no see, Ginji-san.
+>> 7CDC1C.13 | [銀次] どうしたの、ＭＡＫＵＢＥＸ？
+   What's up, MakubeX?
+>> 7CDC1C.17 | [マクベス] アルファタワー絡みの裏情報が / あるんですよ
+   I've got some inside info involving Alpha Tower.
+>> 7CDC1C.22 | [銀次] えっ…それってヤバいこと？
+   Huh... Is it something bad?
+>> 7CDC1C.26 | [マクベス] ええ…
+   Yes...
+>> 7CDC1C.28 | [マクベス] そのビル、爆弾が仕掛けられてますよ
+   There's a bomb planted in that building.
+>> 7CDC1C.32 | [銀次] …爆弾！？
+   ...A bomb?!
+>> 7CDC1C.34 | [銀次] ど、どういうこと！？
+   Wh-What do you mean?!
+>> 7CDC1C.38 | [マクベス] そのビルを占拠した人々を / 爆弾で一網打尽にするつもりなんですよ
+   They mean to wipe out the building's occupiers in one blow with a bomb.
+>> 7CDC1C.41 | [マクベス] 政府内のある人物が / 強攻策をとったようですね…
+   It seems someone in the government has opted for drastic measures...
+>> 7CDC1C.44 | [マクベス] 爆弾は時限式のＲＤＸ爆弾です
+   It's a time-fused RDX bomb.
+>> 7CDC1C.48 | [銀次] ＲＤＸ？？？
+   RDX???
+>> 7CDC1C.52 | [蛮] 威力の高い爆薬のことだ
+   It's a high-powered explosive.
+>> 7CDC1C.54 | [蛮] 支柱に仕掛けられているとするなら、 / このビルくれェ破壊できんだろうな？
+   If it's planted in the support pillars, it could take out a building like this, right?
+>> 7CDC1C.59 | [マクベス] できるでしょうね…簡単に
+   It could... easily.
+>> 7CDC1C.63 | [銀次] そんな… / そんなことって間違ってるよ！！
+   No... That's just wrong!!
+>> 7CDC1C.66 | [銀次] 阻止しなきゃ！　ね、蛮ちゃん！！
+   We have to stop it! Right, Ban-chan?!
+>> 7CDC1C.70 | [蛮] 当ったり前だ！　俺たちの仕事の / ジャマされてたまるかってんだ！！
+   Damn straight! No way I'm letting anybody mess with our job!!
+>> 7CDC1C.75 | [マクベス] …お二人ならそう言うと思ったんです
+   ...I knew you two would say that.
+>> 7CDC1C.77 | [マクベス] 爆弾はかなり上の階に仕掛けられている / みたいですが、
+   The bomb seems to be planted somewhere on the upper floors,
+>> 7CDC1C.80 | [マクベス] 爆弾にセットされた時間までは / まだ猶予があるはずです
+   but there should still be some time before it's set to go off.
+>> 7CDC1C.83 | [マクベス] 必ず見つけ出して下さい
+   Please find it, no matter what.
+>> 7CDC1C.87 | [銀次] うん！ / ありがとう、ＭＡＫＵＢＥＸ
+   Okay! Thanks, MakubeX.
+>> 7CDC1C.90 | [銀次] じゃあ、見つけたらまた連絡するから
+   I'll call you again once we find it.
+>> 7CDC1C.94 | [銀次] じゃあ、エレベーターで / 上の階へ急ごう！！
+   Okay, let's take the elevator and hurry upstairs!!
+>> 7CE2B4.3 | [銀次] どうしよう、 / 早く先に進まなくちゃならないのに…
+   What do we do? We have to hurry and keep going...
+>> 7CE2B4.8 | [鏡] それなら、 / ここはオレに任せてもらおうかな
+   In that case, why not leave this to me?
+>> 7CE2B4.13 | [銀次] えっ、でも…
+   Huh? But...
+>> 7CE2B4.17 | [鏡] 急ぐんだろ？
+   You're in a hurry, right?
+>> 7CE2B4.21 | [銀次] ………
+   ......
+>> 7CE2B4.23 | [銀次] ありがと、鏡さん！！
+   Thanks, Kagami-san!!
+>> 7CE418.3 | [銀次] また敵が…
+   More enemies...
+>> 7CE418.7 | [蛮] ま、コイツはこの俺様に任しときな
+   Well, leave this one to the great Ban Mido.
+>> 7CE418.11 | [銀次] 蛮ちゃん…
+   Ban-chan...
+>> 7CE418.15 | [蛮] そんかし、そっちは必ず阻止するんだぞ / 急げよ、銀次！！
+   In exchange, you'd better stop that bomb. Hurry, Ginji!!
+>> 7CE418.20 | [銀次] うん、蛮ちゃんも気をつけて！！
+   Okay! Be careful too, Ban-chan!!
+>> 7CE56C.3 | [銀次] …まただ、また敵が…
+   ...Again, more enemies...
+>> 7CE56C.7 | [赤屍] では私が参りましょうか
+   Then shall I go?
+>> 7CE56C.11 | [銀次] あ、赤屍さん…
+   A-Akabane-san...
+>> 7CE56C.15 | [赤屍] 私も退屈していたところですからね… / こういうのも悪くないですよ
+   I was getting rather bored myself... Something like this is not so bad.
+>> 7CE56C.20 | [銀次] お願いします、赤屍さん！！
+   Please, Akabane-san!!
+>> 7CE6C4.3 | [銀次] …また………
+   ...Again......
+>> 7CE6C4.7 | [卑弥呼] そろそろあたしの出番かしら？
+   I suppose it's my turn now?
+>> 7CE6C4.11 | [銀次] ダメだよ！ / 卑弥呼ちゃんを置いてけないよ
+   No way! I can't leave you behind, Himiko-chan.
+>> 7CE6C4.16 | [卑弥呼] なに甘いこと言ってんのよ / こんなヤツ、あたし一人で十分よ
+   Don't be so soft. I can handle a guy like this all by myself.
+>> 7CE6C4.21 | [銀次] …ゴメンね、卑弥呼ちゃん！！
+   ...Sorry, Himiko-chan!!
+>> 7CE838.3 | [銀次] ………
+   ......
+>> 7CE838.7 | [笑師] おっ！　いつの間にか / 昔のＶＯＬＴＳメンバーになっとるやん
+   Oh! Before ya knew it, it's turned into the old VOLTS crew, huh?
+>> 7CE838.12 | [銀次] えっ、ああ…そうだね
+   Huh? Oh... Yeah, it has.
+>> 7CE838.16 | [笑師] だったらワイが行かんとな！ / 雷帝や四天王が出るまでもないで！！
+   Then I gotta go! No need for the Thunder Emperor or the Four Kings to show up!!
+>> 7CE838.21 | [銀次] …頼んだよ、笑師！！
+   ...I'm counting on you, Emishi!!
+>> 7CE9AC.3 | [銀次] まだいるのか…
+   There's still more...
+>> 7CE9AC.7 | [十兵衛] 雷帝、ここは俺に任せろ
+   Thunder Emperor, leave this to me.
+>> 7CE9AC.11 | [銀次] ………
+   ......
+>> 7CE9AC.15 | [十兵衛] どうした、俺の力が信じられんのか？
+   What is it? Do you not trust my strength?
+>> 7CE9AC.19 | [銀次] ………
+   ......
+>> 7CE9AC.21 | [銀次] 頼むよ、十兵衛！
+   I'm counting on you, Juubei!
+>> 7CEAE8.3 | [士度] いつの間にか / 俺たちだけになっちまったな
+   Before we knew it, it's just us left.
+>> 7CEAE8.8 | [銀次] …士度
+   ...Shido.
+>> 7CEAE8.12 | [士度] ＶＯＬＴＳか…
+   VOLTS, huh...
+>> 7CEAE8.14 | [士度] ま、昔のことなんだけどよ
+   Well, that's ancient history.
+>> 7CEAE8.18 | [銀次] ………
+   ......
+>> 7CEAE8.22 | [士度] なんにしたって、 / お前は前に進まなきゃならねえ
+   Whatever the case, you've gotta keep moving forward.
+>> 7CEAE8.25 | [士度] 行けよ
+   Go.
+>> 7CEAE8.29 | [銀次] うん…ごめん、士度！
+   Okay... Sorry, Shido!
+>> 7CEC90.3 | [花月] 銀次さん、ここは…
+   Ginji-san, here...
+>> 7CEC90.7 | [銀次] まさか一人で戦うなんていわないよね？
+   You're not gonna say you'll fight alone, are you?
+>> 7CEC90.9 | [銀次] 一緒に戦おうよ、カヅっちゃん！
+   Let's fight together, Kazu-chan!
+>> 7CEC90.13 | [花月] ダメですよ、あなたには / しなくてはならないことがあるはずです
+   No, you mustn't. There should be something you have to do.
+>> 7CEC90.16 | [花月] ここは僕に任せて、 / あなたは先に行って下さい
+   Leave this to me, and go on ahead.
+>> 7CEC90.21 | [銀次] ………
+   ......
+>> 7CEC90.25 | [花月] 大丈夫ですよ、銀次さん / あなたは僕にはできないことができる…
+   It's all right, Ginji-san. You can do things that I cannot...
+>> 7CEC90.28 | [花月] そしてそれは多分、 / あなたにしかできないことです
+   And that is probably something only you can do.
+>> 7CEC90.31 | [花月] 行って下さい、銀次さん
+   Please go, Ginji-san.
+>> 7CEC90.35 | [銀次] …気をつけてね、カヅっちゃん
+   ...Be careful, Kazu-chan.
+>> 7CEF1C.3 | [鏡] 追いついたみたいだね？
+   Looks like I caught up?
+>> 7CEF1C.7 | [銀次] あれ、鏡さん！
+   Huh, Kagami-san!
+>> 7CEF1C.9 | [銀次] 他のみんなは！？
+   What about everyone else?!
+>> 7CEF1C.13 | [鏡] さあ…誰とも会わなかったよ
+   Who knows... I didn't run into anyone.
+>> 7CEF1C.15 | [鏡] もっとも、戦闘中異空間に引き込まれる / 感じがしたからね…
+   Then again, it felt like I got pulled into another dimension during the fight...
+>> 7CEF1C.18 | [鏡] 会おうとしても会えないと思うけど
+   so I doubt you could meet them even if you tried.
+>> 7CEF1C.22 | [銀次] ………
+   ......
+>> 7CF094.3 | [蛮] なァにちんたらしてンだ、 / 追いついちまったじゃねえかよ
+   What're you dawdling for? I went and caught up with you!
+>> 7CF094.8 | [銀次] ば、蛮ちゃん！ / 無事で良かったよ～！！
+   B-Ban-chan! I'm so glad you're okay~!!
+>> 7CF094.13 | [蛮] 相変わらず大げさなヤローだな…
+   Overdramatic as ever, you dope...
+>> 7CF094.15 | [蛮] さてと、気合入れていくとするか！
+   All right, let's get fired up and go!
+>> 7CF094.19 | [銀次] うん！！
+   Yeah!!
+>> 7CF1EC.3 | [銀次] あったよ、蛮ちゃん！！
+   Found it, Ban-chan!!
+>> 7CF1EC.7 | [蛮] 銀次…電気帯びた手で / 爆弾に触ったりすンじゃねーぞ
+   Ginji... Don't you go touching that bomb with your hands all charged up.
+>> 7CF1EC.10 | [蛮] 起爆装置作動させられちゃ / たまんねーからな
+   Last thing we need is you setting off the detonator.
+>> 7CF1EC.15 | [銀次] ………
+   ......
+>> 7CF1EC.19 | [鏡] …時限式になっているのは / 一つだけみたいだね？
+   ...Looks like only one of them is on a timer?
+>> 7CF1EC.24 | [蛮] 残りは連鎖させる気か…
+   So they're gonna set off the rest in a chain...
+>> 7CF1EC.28 | [銀次] あっ、じゃあこのコード切っちゃえば / 他のは爆発しないんじゃない？
+   Oh, then if we cut this wire, the others won't blow up, right?
+>> 7CF1EC.33 | [蛮] コード切った途端、爆発すンぞ
+   Cut the wire and it'll blow the second you do.
+>> 7CF1EC.37 | [銀次] ………
+   ......
+>> 7CF1EC.41 | [蛮] コイツに任せるのが / そもそも間違ってたみてぇだな…
+   Guess leaving it to this guy was a mistake from the start...
+>> 7CF1EC.46 | [銀次] だ、大丈夫だよ / ＭＡＫＵＢＥＸがいるし…
+   I-It's okay, we've got MakubeX...
+>> 7CF1EC.51 | [銀次] ダメだ…電波が届かないよ………
+   No good... I can't get a signal......
+>> 7CF1EC.53 | [銀次] どうしよう…
+   What do we do...
+>> 7CF1EC.57 | [鏡] 時間を稼ぐには冷やすしかないだろうね
+   Cooling it is the only way to buy time, I'd say.
+>> 7CF1EC.61 | [蛮] 液体窒素か… / あるのかよ、このビルに？
+   Liquid nitrogen, huh... Is there even any in this building?
+>> 7CF1EC.66 | [鏡] このまま解体するのは危険だし、 / それしか道はないと思うけど？
+   Dismantling it as is would be dangerous, so I think that's the only way, no?
+>> 7CF1EC.71 | [蛮] 探すしかなさそうだな…
+   Looks like we've got no choice but to look for it...

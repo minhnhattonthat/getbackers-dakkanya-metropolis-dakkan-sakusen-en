@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ま、終わってみて言えることはだな、　",
-  "en": ""
+  "en": "Well, now that it's over, all I can say is"
  },
  {
   "id": "7D3084.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "全員やっかいだってことだ",
-  "en": ""
+  "en": "we're all a pain."
  },
  {
   "id": "7D3084.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "そうね…",
-  "en": ""
+  "en": "I suppose..."
  },
  {
   "id": "7D3084.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "（けど、これだけは言えるわね…　",
-  "en": ""
+  "en": "(But I can say this much... You're the"
  },
  {
   "id": "7D3084.11",
@@ -51,6 +51,6 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "あなたが一番やっかいなのよ、蛮…）　",
-  "en": ""
+  "en": "biggest pain of all, Ban...)"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "なにも気絶してる相手にトドメを　",
-  "en": ""
+  "en": "You don't have to finish off someone"
  },
  {
   "id": "7B8A38.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "刺さなくてもいいだろ！！",
-  "en": ""
+  "en": "who's already out cold!!"
  },
  {
   "id": "7B8A38.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "…甘いですね、銀次クン　",
-  "en": ""
+  "en": "...How naive, Ginji-kun."
  },
  {
   "id": "7B8A38.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "赤屍",
   "jp": "この人は気絶などしていませんよ、",
-  "en": ""
+  "en": "This man is not unconscious at all. Is that"
  },
  {
   "id": "7B8A38.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "赤屍",
   "jp": "そうですよね？　",
-  "en": ""
+  "en": "not so?"
  },
  {
   "id": "7B8A38.14",
@@ -66,6 +66,6 @@
   "box": 4,
   "speaker": "横取り屋",
   "jp": "ひ、ひェ～～～～ッ！！　",
-  "en": ""
+  "en": "Eeeeeeeek!!"
  }
 ]

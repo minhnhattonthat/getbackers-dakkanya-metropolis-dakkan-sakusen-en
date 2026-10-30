@@ -1,0 +1,1098 @@
+>> M09C148 | ステータス
+   Status
+>> M09C152 | パーティー
+   Party
+>> M09C15C | アイテム
+   Items
+>> M09C164 | オプション
+   Options
+>> M09C16E | セーブ
+   Save
+>> M09C174 | いどう
+   Move
+>> M09C17A | レベル
+   Level
+>> M09C180 | 必殺技
+   Special
+>> M09C19A | 美堂　蛮　　
+   Ban Mido
+>> M09C1A8 | 天野　銀次　
+   Ginji Amano
+>> M09C1B6 | 工藤　卑弥呼
+   Himiko Kudo
+>> M09C1C4 | 赤屍　蔵人　
+   Kurodo Akabane
+>> M09C1D2 | 風鳥院　花月
+   Kazuki Fuchoin
+>> M09C1E0 | 冬木　士度　
+   Shido Fuyuki
+>> M09C1EE | 笑師　春樹　
+   Emishi Haruki
+>> M09C1FC | 筧　十兵衛　
+   Juubei Kakei
+>> M09C20A | 鏡　形而　　
+   Kyoji Kagami
+>> M09C23C | ベノムファング
+   Venom Fang
+>> M09C24C | スネークバイト
+   Snake Bite
+>> M09C25C | サイドワインダー
+   Sidewinder
+>> M09C26E | 蛇遣い座解放
+   Ophiuchus Unleashed
+>> M09C27C | 電撃
+   Electric Shock
+>> M09C282 | イナズマキック
+   Lightning Kick
+>> M09C292 | 電磁フィールド
+   EM Field
+>> M09C2A2 | 雷帝降臨
+   Thunder Emperor Descends
+>> M09C2AC | 解毒香
+   Antidote Perfume
+>> M09C2B4 | 回復香
+   Healing Perfume
+>> M09C2BC | 火炎香
+   Flame Perfume
+>> M09C2C4 | 加速香
+   Speed Perfume
+>> M09C2CC | 赤い剣
+   Bloody Sword
+>> M09C2D4 | 赤い楯
+   Bloody Shield
+>> M09C2DC | 赤い十字架
+   Bloody Cross
+>> M09C2E8 | 赤い暴風
+   Bloody Hurricane
+>> M09C2F2 | 繭玉の楯
+   Cocoon Shield
+>> M09C2FC | 秋雨
+   Autumn Rain
+>> M09C302 | 絃呪縛
+   String Bind
+>> M09C30A | 雫
+   Dewdrop
+>> M09C30E | 猿擬
+   Ape Mimic
+>> M09C314 | 土竜擬
+   Mole Mimic
+>> M09C31C | 虎爪擬
+   Tiger Claw Mimic
+>> M09C324 | 餓狼擬
+   Wolf Mimic
+>> M09C32C | メラ・ノ・シオーラ
+   Mera-no-Shiora
+>> M09C340 | ロブ・ハ・ラトゥーマ
+   Rob-ha-Ratuma
+>> M09C356 | タジャカ・マ・サーヤ
+   Tajaka-ma-Saya
+>> M09C36C | カジャ・ノ・ア・マーヤ
+   Kaja-no-a-Maya
+>> M09C384 | 毒蛾
+   Poison Moth
+>> M09C38A | 鬼灯
+   Lantern Plant
+>> M09C390 | 鳳仙花
+   Balsam Burst
+>> M09C398 | 土蜘蛛
+   Earth Spider
+>> M09C3A0 | 鏡像
+   Mirror Image
+>> M09C3A6 | 鏡刃
+   Mirror Blade
+>> M09C3AC | 鏡光
+   Mirror Light
+>> M09C3B2 | ダイヤモンド・ダスト
+   Diamond Dust
+>> M09C3C8 | 美堂　蛮　　
+   Ban Mido
+>> M09C3D6 | 天野　銀次　
+   Ginji Amano
+>> M09C3E4 | 工藤　卑弥呼
+   Himiko Kudo
+>> M09C3F2 | 赤屍　蔵人　
+   Kurodo Akabane
+>> M09C400 | 風鳥院　花月
+   Kazuki Fuchoin
+>> M09C40E | 冬木　士度　
+   Shido Fuyuki
+>> M09C41C | 笑師　春樹　
+   Emishi Haruki
+>> M09C42A | 筧　十兵衛　
+   Juubei Kakei
+>> M09C438 | 鏡　形而　　
+   Kyoji Kagami
+>> M09C446 | 美堂　蛮　　
+   Ban Mido
+>> M09C452 | [SEL]ボタン：相性表示
+   SELECT: Affinity
+>> M09C464 | 美堂　蛮　　
+   Ban Mido
+>> M09C472 | 天野　銀次　
+   Ginji Amano
+>> M09C480 | 工藤　卑弥呼
+   Himiko Kudo
+>> M09C48E | 赤屍　蔵人　
+   Kurodo Akabane
+>> M09C49C | 風鳥院　花月
+   Kazuki Fuchoin
+>> M09C4AA | 冬木　士度　
+   Shido Fuyuki
+>> M09C4B8 | 笑師　春樹　
+   Emishi Haruki
+>> M09C4C6 | 筧　十兵衛　
+   Juubei Kakei
+>> M09C4D4 | 鏡　形而　　
+   Kyoji Kagami
+>> M09C4E2 | アイテム
+   Items
+>> M09C4EA | イベント
+   Event
+>> M09C4F2 | カード
+   Cards
+>> M09C50C | 十薬
+   Houttuynia
+>> M09C512 | 威霊仙
+   Clematis Root
+>> M09C51A | 延命草
+   Enmei Herb
+>> M09C522 | 霊芝
+   Reishi
+>> M09C528 | 牛黄
+   Bezoar
+>> M09C52E | 土木香
+   Elecampane
+>> M09C536 | 芍薬
+   Peony Root
+>> M09C53C | 冬虫夏草
+   Cordyceps
+>> M09C546 | 蓬莱の玉
+   Horai Jewel
+>> M09C550 | ペンデュＣ
+   Pendu Card
+>> M09C55C | ジュノーＣ
+   Junon Card
+>> M09C568 | ラトリスＣ
+   Ratrice Card
+>> M09C574 | アムルーＣ
+   Amoureux Card
+>> M09C580 | ユストスＣ
+   Iustus Card
+>> M09C58C | エルミトＣ
+   Hermite Card
+>> M09C598 | レーフォＣ
+   Lefo Card
+>> M09C5A4 | ユピテルＣ
+   Jupiter Card
+>> M09C5B0 | ランスＣ
+   Rance Card
+>> M09C5BA | ディラＣ
+   Dira Card
+>> M09C5C4 | リュネＣ
+   Lune Card
+>> M09C5CE | レイユＣ
+   Reille Card
+>> M09C5D8 | モンドＣ
+   Monde Card
+>> M09C5E2 | ゲメンＣ
+   Gement Card
+>> M09C5EC | シャリオＣ
+   Chariot Card
+>> M09C5F8 | ディブルＣ
+   Diable Card
+>> M09C604 | コーヒー券
+   Coffee Ticket
+>> M09C610 | ばんぎんのＭ
+   Ban-Gin Memory
+>> M09C61E | ばんひみのＭ
+   Ban-Himi Memory
+>> M09C62C | ばんばねのＭ
+   Ban-Bane Memory
+>> M09C63A | ばんかづのＭ
+   Ban-Kazu Memory
+>> M09C648 | ばんしどのＭ
+   Ban-Shido Memory
+>> M09C656 | ばんえみのＭ
+   Ban-Emi Memory
+>> M09C664 | ばんじゅのＭ
+   Ban-Ju Memory
+>> M09C672 | ばんかがのＭ
+   Ban-Kaga Memory
+>> M09C680 | ひみぎんのＭ
+   Himi-Gin Memory
+>> M09C68E | ばねぎんのＭ
+   Bane-Gin Memory
+>> M09C69C | かづぎんのＭ
+   Kazu-Gin Memory
+>> M09C6AA | しどぎんのＭ
+   Shido-Gin Memory
+>> M09C6B8 | えみぎんのＭ
+   Emi-Gin Memory
+>> M09C6C6 | じゅぎんのＭ
+   Ju-Gin Memory
+>> M09C6D4 | かがぎんのＭ
+   Kaga-Gin Memory
+>> M09C6E2 | ばねひみのＭ
+   Bane-Himi Memory
+>> M09C6F0 | かづひみのＭ
+   Kazu-Himi Memory
+>> M09C6FE | しどひみのＭ
+   Shido-Himi Memory
+>> M09C70C | えみひみのＭ
+   Emi-Himi Memory
+>> M09C71A | じゅひみのＭ
+   Ju-Himi Memory
+>> M09C728 | かがひみのＭ
+   Kaga-Himi Memory
+>> M09C736 | ばねかづのＭ
+   Bane-Kazu Memory
+>> M09C744 | ばねしどのＭ
+   Bane-Shido Memory
+>> M09C752 | ばねえみのＭ
+   Bane-Emi Memory
+>> M09C760 | ばねじゅのＭ
+   Bane-Ju Memory
+>> M09C76E | ばねかがのＭ
+   Bane-Kaga Memory
+>> M09C77C | しどかづのＭ
+   Shido-Kazu Memory
+>> M09C78A | えみかづのＭ
+   Emi-Kazu Memory
+>> M09C798 | じゅかづのＭ
+   Ju-Kazu Memory
+>> M09C7A6 | かがかづのＭ
+   Kaga-Kazu Memory
+>> M09C7B4 | しどえみのＭ
+   Shido-Emi Memory
+>> M09C7C2 | しどじゅのＭ
+   Shido-Ju Memory
+>> M09C7D0 | しどかがのＭ
+   Shido-Kaga Memory
+>> M09C7DE | えみじゅのＭ
+   Emi-Ju Memory
+>> M09C7EC | えみかがのＭ
+   Emi-Kaga Memory
+>> M09C7FA | じゅかがのＭ
+   Ju-Kaga Memory
+>> M09C808 | お弁当
+   Bento
+>> M09C810 | 体育館のカギ
+   Gym Key
+>> M09C81E | 舞台裏のカギ
+   Backstage Key
+>> M09C82C | 社長室のカギ
+   President's Office Key
+>> M09C83A | Ｐの
+   P Costume
+>> M09C840 | Ｈの
+   H Costume
+>> M09C846 | ＤＶＤロム
+   DVD-ROM
+>> M09C852 | 宝玉（小）
+   Small Orb
+>> M09C85E | 書斎のカギ
+   Study Key
+>> M09C86A | 宝玉（大）
+   Large Orb
+>> M09C876 | 配電室のカギ
+   Power Room Key
+>> M09C884 | カードキー１
+   Card Key 1
+>> M09C892 | カードキー２
+   Card Key 2
+>> M09C8A0 | カードキー３
+   Card Key 3
+>> M09C8AE | ゲームソフト
+   Game Software
+>> M09C8BC | コーヒー０
+   Coffee 0
+>> M09C8C8 | コーヒー１
+   Coffee 1
+>> M09C8D4 | コーヒー２
+   Coffee 2
+>> M09C8E0 | カフェオレ
+   Cafe au Lait
+>> M09C8EC | オレンジジュース
+   Orange Juice
+>> M09C8FE | ウーロン茶
+   Oolong Tea
+>> M09C90A | レモンティー
+   Lemon Tea
+>> M09C918 | ミルクティー
+   Milk Tea
+>> M09C926 | 野菜ジュース
+   Vegetable Juice
+>> M09C934 | チューリップ
+   Tulips
+>> M09C942 | ひまわり
+   Sunflowers
+>> M09C94C | ガーベラ
+   Gerberas
+>> M09C956 | ラベンダー
+   Lavender
+>> M09C962 | ユリ
+   Lilies
+>> M09C968 | バラ
+   Roses
+>> M09C96E | ハデな着物
+   Flashy Kimono
+>> M09C97A | せいそな着物
+   Demure Kimono
+>> M09C988 | ハカマ
+   Hakama
+>> M09C990 | ハデなドレス
+   Flashy Dress
+>> M09C99E | せいそなドレス
+   Demure Dress
+>> M09C9AE | タキシード
+   Tuxedo
+>> M09C9BA | 衣装部屋のカギ
+   Wardrobe Key
+>> M09C9CA | ぼうし
+   Hat
+>> M09C9D2 | スカート
+   Skirt
+>> M09C9DC | 倉庫のカギ
+   Storeroom Key
+>> M09C9E8 | 厨房のカギ
+   Kitchen Key
+>> M09C9F4 | ライター
+   Lighter
+>> M09C9FE | 本
+   Book
+>> M09CA02 | キーメモリー
+   Key Memory
+>> M09CA10 | パスコード１
+   Passcode 1
+>> M09CA1E | パスコード２
+   Passcode 2
+>> M09CA2C | パスコード３
+   Passcode 3
+>> M09CA3A | ベッドルームキー
+   Bedroom Key
+>> M09CA4C | 大広間のカギ
+   Great Hall Key
+>> M09CA5A | 液体窒素
+   Liquid Nitrogen
+>> M09CA64 | カード１
+   Card 1
+>> M09CA6E | カード２
+   Card 2
+>> M09CA78 | カード３
+   Card 3
+>> M09CA82 | カード４
+   Card 4
+>> M09CA8C | カード５
+   Card 5
+>> M09CA96 | カード６
+   Card 6
+>> M09CAA0 | カード７
+   Card 7
+>> M09CAAA | カード８
+   Card 8
+>> M09CAB4 | カード９
+   Card 9
+>> M09CABE | カード１０
+   Card 10
+>> M09CACA | カード１１
+   Card 11
+>> M09CAD6 | カード１２
+   Card 12
+>> M09CAE2 | カード１３
+   Card 13
+>> M09CAEE | カード１４
+   Card 14
+>> M09CAFA | カード１５
+   Card 15
+>> M09CB06 | カード１６
+   Card 16
+>> M09CB12 | カード１７
+   Card 17
+>> M09CB1E | カード１８
+   Card 18
+>> M09CB2A | カード１９
+   Card 19
+>> M09CB36 | カード２０
+   Card 20
+>> M09CB42 | カード２１
+   Card 21
+>> M09CB4E | カード２２
+   Card 22
+>> M09CB5A | カード２３
+   Card 23
+>> M09CB66 | カード２４
+   Card 24
+>> M09CB72 | カード２５
+   Card 25
+>> M09CB7E | カード２６
+   Card 26
+>> M09CB8A | カード２７
+   Card 27
+>> M09CB96 | カード２８
+   Card 28
+>> M09CBA2 | カード２９
+   Card 29
+>> M09CBAE | カード３０
+   Card 30
+>> M09CBBA | カード３１
+   Card 31
+>> M09CBC6 | カード３２
+   Card 32
+>> M09CBD2 | カード３３
+   Card 33
+>> M09CBDE | カード３４
+   Card 34
+>> M09CBEA | カード３５
+   Card 35
+>> M09CBF6 | カード３６
+   Card 36
+>> M09CC02 | カード３７
+   Card 37
+>> M09CC0E | カード３８
+   Card 38
+>> M09CC1A | カード３９
+   Card 39
+>> M09CC26 | カード４０
+   Card 40
+>> M09CC32 | カード４１
+   Card 41
+>> M09CC3E | カード４２
+   Card 42
+>> M09CC4A | カード４３
+   Card 43
+>> M09CC56 | カード４４
+   Card 44
+>> M09CC62 | カード４５
+   Card 45
+>> M09CC6E | カード４６
+   Card 46
+>> M09CC7A | カード４７
+   Card 47
+>> M09CC86 | カード４８
+   Card 48
+>> M09CC92 | カード４９
+   Card 49
+>> M09CC9E | カード５０
+   Card 50
+>> M09CCAA | カード５１
+   Card 51
+>> M09CCB6 | カード５２
+   Card 52
+>> M09CCC2 | カード５３
+   Card 53
+>> M09CCCE | カード５４
+   Card 54
+>> M09CCDA | カード５５
+   Card 55
+>> M09CCE6 | カード５６
+   Card 56
+>> M09CCF2 | カード５７
+   Card 57
+>> M09CCFE | カード５８
+   Card 58
+>> M09CD0A | カード５９
+   Card 59
+>> M09CD16 | カード６０
+   Card 60
+>> M09CD22 | カード６１
+   Card 61
+>> M09CD2E | カード６２
+   Card 62
+>> M09CD3A | カード６３
+   Card 63
+>> M09CD46 | カード６４
+   Card 64
+>> M09CD52 | カード６５
+   Card 65
+>> M09CD5E | カード６６
+   Card 66
+>> M09CD6A | カード６７
+   Card 67
+>> M09CD76 | カード６８
+   Card 68
+>> M09CD82 | カード６９
+   Card 69
+>> M09CD8E | カード７０
+   Card 70
+>> M09CD9A | カード７１
+   Card 71
+>> M09CDA6 | カード７２
+   Card 72
+>> M09CDB2 | カード７３
+   Card 73
+>> M09CDBE | カード７４
+   Card 74
+>> M09CDCA | カード７５
+   Card 75
+>> M09CDD6 | カード７６
+   Card 76
+>> M09CDE2 | カード７７
+   Card 77
+>> M09CDEE | カード７８
+   Card 78
+>> M09CDFA | カード７９
+   Card 79
+>> M09CE06 | カード８０
+   Card 80
+>> M09CE12 | カード８１
+   Card 81
+>> M09CE1E | カード８２
+   Card 82
+>> M09CE2A | カード８３
+   Card 83
+>> M09CE36 | カード８４
+   Card 84
+>> M09CE42 | カード８５
+   Card 85
+>> M09CE4E | カード８６
+   Card 86
+>> M09CE5A | カード８７
+   Card 87
+>> M09CE66 | カード８８
+   Card 88
+>> M09CE72 | カード８９
+   Card 89
+>> M09CE7E | カード９０
+   Card 90
+>> M09CE8A | カード９１
+   Card 91
+>> M09CE96 | カード９２
+   Card 92
+>> M09CEA2 | カード９３
+   Card 93
+>> M09CEAE | カード９４
+   Card 94
+>> M09CEBA | カード９５
+   Card 95
+>> M09CEC6 | カード９６
+   Card 96
+>> M09CED2 | カード９７
+   Card 97
+>> M09CEDE | カード９８
+   Card 98
+>> M09CEEA | カード９９
+   Card 99
+>> M09CEF6 | カード１００
+   Card 100
+>> M09CF04 | カード１０１
+   Card 101
+>> M09CF12 | カード１０２
+   Card 102
+>> M09CF20 | カード１０３
+   Card 103
+>> M09CF2E | カード１０４
+   Card 104
+>> M09CF3C | カード１０５
+   Card 105
+>> M09CF4A | カード１０６
+   Card 106
+>> M09CF58 | カード１０７
+   Card 107
+>> M09CF66 | カード１０８
+   Card 108
+>> M09CF74 | カード１０９
+   Card 109
+>> M09CF82 | カード１１０
+   Card 110
+>> M09CF90 | カード１１１
+   Card 111
+>> M09CF9E | カード１１２
+   Card 112
+>> M09CFAC | カード１１３
+   Card 113
+>> M09CFBA | カード１１４
+   Card 114
+>> M09CFC8 | カード１１５
+   Card 115
+>> M09CFD6 | カード１１６
+   Card 116
+>> M09CFE4 | カード１１７
+   Card 117
+>> M09CFF2 | カード１１８
+   Card 118
+>> M09D000 | カード１１９
+   Card 119
+>> M09D00E | カード１２０
+   Card 120
+>> M09D01C | カード１２１
+   Card 121
+>> M09D02A | カード１２２
+   Card 122
+>> M09D038 | カード１２３
+   Card 123
+>> M09D046 | カード１２４
+   Card 124
+>> M09D054 | カード１２５
+   Card 125
+>> M09D062 | カード１２６
+   Card 126
+>> M09D070 | カード１２７
+   Card 127
+>> M09D07E | カード１２８
+   Card 128
+>> M09D08C | カード１２９
+   Card 129
+>> M09D09A | カード１３０
+   Card 130
+>> M09D0A8 | カード１３１
+   Card 131
+>> M09D0B6 | カード１３２
+   Card 132
+>> M09D0C4 | カード１３３
+   Card 133
+>> M09D0D2 | カード１３４
+   Card 134
+>> M09D0E0 | カード１３５
+   Card 135
+>> M09D0EE | カード１３６
+   Card 136
+>> M09D0FC | カード１３７
+   Card 137
+>> M09D10A | カード１３８
+   Card 138
+>> M09D118 | カード１３９
+   Card 139
+>> M09D126 | カード１４０
+   Card 140
+>> M09D134 | カード１４１
+   Card 141
+>> M09D142 | カード１４２
+   Card 142
+>> M09D150 | カード１４３
+   Card 143
+>> M09D15E | カード１４４
+   Card 144
+>> M09D16C | カード１４５
+   Card 145
+>> M09D17A | カード１４６
+   Card 146
+>> M09D188 | カード１４７
+   Card 147
+>> M09D196 | カード１４８
+   Card 148
+>> M09D1A4 | カード１４９
+   Card 149
+>> M09D1B2 | カード１５０
+   Card 150
+>> M09D1C0 | カード１５１
+   Card 151
+>> M09D1CE | カード１５２
+   Card 152
+>> M09D1DC | カード１５３
+   Card 153
+>> M09D1EA | カード１５４
+   Card 154
+>> M09D1F8 | カード１５５
+   Card 155
+>> M09D206 | カード１５６
+   Card 156
+>> M09D214 | カード１５７
+   Card 157
+>> M09D222 | カード１５８
+   Card 158
+>> M09D230 | カード１５９
+   Card 159
+>> M09D23E | カード１６０
+   Card 160
+>> M09D24C | ＨＰ回復小（単体）
+   Restores a little HP (one)
+>> M09D260 | ＨＰ回復大（単体）
+   Restores a lot of HP (one)
+>> M09D274 | 戦闘不能回復（単体）
+   Revives from KO (one)
+>> M09D28A | 解毒（単体）
+   Cures poison (one)
+>> M09D298 | マヒ回復（単体）
+   Cures paralysis (one)
+>> M09D2AA | 混乱回復（単体）
+   Cures confusion (one)
+>> M09D2BC | ステータス異常回復（単体）
+   Cures status ailments (one)
+>> M09D2D8 | ＨＰ全回復、 / ステータス異常回復（単体）
+   Fully restores HP, / cures status ailments (one)
+>> M09D302 | 戦闘不能回復、ＨＰ全回復、 / ステータス異常回復（単体）
+   Revives, restores all HP, / cures status ailments (one)
+>> M09D33A | 一定時間、回避率アップ（全体）
+   Raises evasion for a while (all)
+>> M09D35A | ＨＰ回復（全体）
+   Restores HP (all)
+>> M09D36C | 一定時間、防御力アップ（全体）
+   Raises defense for a while (all)
+>> M09D38C | ステータス異常回復（全体）
+   Cures status ailments (all)
+>> M09D3A8 | 一度だけ土属性攻撃を無効化（全体）
+   Nullifies one Earth element attack (all)
+>> M09D3CC | 一度だけ風属性攻撃を無効化（全体）
+   Nullifies one Wind element attack (all)
+>> M09D3F0 | 一度だけ火属性攻撃を無効化（全体）
+   Nullifies one Fire element attack (all)
+>> M09D414 | 一度だけ水属性攻撃を無効化（全体）
+   Nullifies one Water element attack (all)
+>> M09D438 | 一定時間、素早さアップ（全体）
+   Raises speed for a while (all)
+>> M09D458 | 一度だけ雷属性攻撃を無効化（全体）
+   Nullifies one Thunder element attack (all)
+>> M09D47C | 一度だけ闇属性攻撃を無効化（全体）
+   Nullifies one Dark element attack (all)
+>> M09D4A0 | 一度だけ光属性攻撃を無効化（全体）
+   Nullifies one Light element attack (all)
+>> M09D4C4 | 一定時間、攻撃力アップ（全体）
+   Raises attack for a while (all)
+>> M09D4E4 | 一度だけ無属性攻撃を無効化（全体）
+   Nullifies one Void element attack (all)
+>> M09D508 | 一度だけ砂属性攻撃を無効化（全体）
+   Nullifies one Sand element attack (all)
+>> M09D52C | 戦闘不能回復（全体）
+   Revives from KO (all)
+>> M09D542 | 夏実のコーヒー券 / ＨＰ全回復（全体）
+   Natsumi's coffee ticket. / Fully restores HP (all)
+>> M09D568 | 蛮＆銀次の相性値をアップ
+   Raises Ban & Ginji's affinity
+>> M09D582 | 蛮＆卑弥呼の相性値をアップ
+   Raises Ban & Himiko's affinity
+>> M09D59E | 蛮＆赤屍の相性値をアップ
+   Raises Ban & Akabane's affinity
+>> M09D5B8 | 蛮＆花月の相性値をアップ
+   Raises Ban & Kazuki's affinity
+>> M09D5D2 | 蛮＆士度の相性値をアップ
+   Raises Ban & Shido's affinity
+>> M09D5EC | 蛮＆笑師の相性値をアップ
+   Raises Ban & Emishi's affinity
+>> M09D606 | 蛮＆十兵衛の相性値をアップ
+   Raises Ban & Juubei's affinity
+>> M09D622 | 蛮＆鏡の相性値をアップ
+   Raises Ban & Kagami's affinity
+>> M09D63A | 銀次＆卑弥呼の相性値をアップ
+   Raises Ginji & Himiko's affinity
+>> M09D658 | 銀次＆赤屍の相性値をアップ
+   Raises Ginji & Akabane's affinity
+>> M09D674 | 銀次＆花月の相性値をアップ
+   Raises Ginji & Kazuki's affinity
+>> M09D690 | 銀次＆士度の相性値をアップ
+   Raises Ginji & Shido's affinity
+>> M09D6AC | 銀次＆笑師の相性値をアップ
+   Raises Ginji & Emishi's affinity
+>> M09D6C8 | 銀次＆十兵衛の相性値をアップ
+   Raises Ginji & Juubei's affinity
+>> M09D6E6 | 銀次＆鏡の相性値をアップ
+   Raises Ginji & Kagami's affinity
+>> M09D700 | 卑弥呼＆赤屍の相性値をアップ
+   Raises Himiko & Akabane's affinity
+>> M09D71E | 卑弥呼＆花月の相性値をアップ
+   Raises Himiko & Kazuki's affinity
+>> M09D73C | 卑弥呼＆士度の相性値をアップ
+   Raises Himiko & Shido's affinity
+>> M09D75A | 卑弥呼＆笑師の相性値をアップ
+   Raises Himiko & Emishi's affinity
+>> M09D778 | 卑弥呼＆十兵衛の相性値をアップ
+   Raises Himiko & Juubei's affinity
+>> M09D798 | 卑弥呼＆鏡の相性値をアップ
+   Raises Himiko & Kagami's affinity
+>> M09D7B4 | 赤屍＆花月の相性値をアップ
+   Raises Akabane & Kazuki's affinity
+>> M09D7D0 | 赤屍＆士度の相性値をアップ
+   Raises Akabane & Shido's affinity
+>> M09D7EC | 赤屍＆笑師の相性値をアップ
+   Raises Akabane & Emishi's affinity
+>> M09D808 | 赤屍＆十兵衛の相性値をアップ
+   Raises Akabane & Juubei's affinity
+>> M09D826 | 赤屍＆鏡の相性値をアップ
+   Raises Akabane & Kagami's affinity
+>> M09D840 | 花月＆士度の相性値をアップ
+   Raises Kazuki & Shido's affinity
+>> M09D85C | 花月＆笑師の相性値をアップ
+   Raises Kazuki & Emishi's affinity
+>> M09D878 | 花月＆十兵衛の相性値をアップ
+   Raises Kazuki & Juubei's affinity
+>> M09D896 | 花月＆鏡の相性値をアップ
+   Raises Kazuki & Kagami's affinity
+>> M09D8B0 | 士度＆笑師の相性値をアップ
+   Raises Shido & Emishi's affinity
+>> M09D8CC | 士度＆十兵衛の相性値をアップ
+   Raises Shido & Juubei's affinity
+>> M09D8EA | 士度＆鏡の相性値をアップ
+   Raises Shido & Kagami's affinity
+>> M09D904 | 笑師＆十兵衛の相性値をアップ
+   Raises Emishi & Juubei's affinity
+>> M09D922 | 笑師＆鏡の相性値をアップ
+   Raises Emishi & Kagami's affinity
+>> M09D93C | 十兵衛＆鏡の相性値をアップ
+   Raises Juubei & Kagami's affinity
+>> M09D958 | お弁当
+   A boxed lunch
+>> M09D960 | 体育館のカギ
+   Key to the gym
+>> M09D96E | 舞台裏のカギ
+   Key to backstage
+>> M09D97C | 社長室のカギ
+   Key to the president's office
+>> M09D98A | Ｐの
+   P Costume
+>> M09D990 | Ｈの
+   H Costume
+>> M09D996 | ＤＶＤロム
+   DVD-ROM
+>> M09D9A2 | アルがくれた謎の石
+   Mysterious stone from Al
+>> M09D9B6 | 書斎のカギ
+   Key to the study
+>> M09D9C2 | 大陸の秘宝
+   Secret treasure of the continent
+>> M09D9CE | 配電室のカギ
+   Key to the power room
+>> M09D9DC | アルファタワー１のカギ
+   Key to Alpha Tower 1
+>> M09D9F4 | アルファタワー２のカギ
+   Key to Alpha Tower 2
+>> M09DA0C | アルファタワー３のカギ
+   Key to Alpha Tower 3
+>> M09DA24 | ゲームソフト
+   Game software
+>> M09DA32 | ブラックコーヒー
+   Black coffee
+>> M09DA44 | 加糖、ミルク入りコーヒー
+   Coffee with sugar and milk
+>> M09DA5E | 無糖、ミルク入りコーヒー
+   Coffee with milk, no sugar
+>> M09DA78 | カフェオレ
+   Cafe au lait
+>> M09DA84 | オレンジジュース
+   Orange juice
+>> M09DA96 | ウーロン茶
+   Oolong tea
+>> M09DAA2 | レモンティー
+   Lemon tea
+>> M09DAB0 | ミルクティー
+   Milk tea
+>> M09DABE | 野菜ジュース
+   Vegetable juice
+>> M09DACC | チューリップの花かご
+   Basket of tulips
+>> M09DAE2 | ひまわりの花かご
+   Basket of sunflowers
+>> M09DAF4 | ガーベラの花かご
+   Basket of gerberas
+>> M09DB06 | ラベンダーの花かご
+   Basket of lavender
+>> M09DB1A | ユリの花かご
+   Basket of lilies
+>> M09DB28 | バラの花かご
+   Basket of roses
+>> M09DB36 | ステージ衣装
+   Stage costume
+>> M09DB44 | ステージ衣装
+   Stage costume
+>> M09DB52 | ステージ衣装
+   Stage costume
+>> M09DB60 | ステージ衣装
+   Stage costume
+>> M09DB6E | ステージ衣装
+   Stage costume
+>> M09DB7C | ステージ衣装
+   Stage costume
+>> M09DB8A | 衣装部屋のカギ
+   Key to the wardrobe
+>> M09DB9A | お嬢様のぼうし
+   The young lady's hat
+>> M09DBAA | お嬢様のスカート
+   The young lady's skirt
+>> M09DBBC | 倉庫のカギ
+   Key to the storeroom
+>> M09DBC8 | 厨房のカギ
+   Key to the kitchen
+>> M09DBD4 | オイルライター
+   Oil lighter
+>> M09DBE4 | 本
+   A book
+>> M09DBE8 | キーメモリー
+   Key Memory
+>> M09DBF6 | パスコード１
+   Passcode 1
+>> M09DC04 | パスコード２
+   Passcode 2
+>> M09DC12 | パスコード３
+   Passcode 3
+>> M09DC20 | ベッドルームのカギ
+   Key to the bedroom
+>> M09DC34 | 大広間のカギ
+   Key to the great hall
+>> M09DC42 | 液体窒素
+   Liquid nitrogen
+>> M09DC4C | 蛮＆銀次１
+   Ban & Ginji 1
+>> M09DC58 | 蛮＆銀次２
+   Ban & Ginji 2
+>> M09DC64 | 蛮＆銀次３
+   Ban & Ginji 3
+>> M09DC70 | 蛮＆銀次４
+   Ban & Ginji 4
+>> M09DC7C | 蛮＆銀次５
+   Ban & Ginji 5
+>> M09DC88 | 蛮＆銀次６
+   Ban & Ginji 6
+>> M09DC94 | 蛮＆銀次７
+   Ban & Ginji 7
+>> M09DCA0 | 蛮＆銀次８
+   Ban & Ginji 8
+>> M09DCAC | 蛮＆卑弥呼４
+   Ban & Himiko 4
+>> M09DCBA | 蛮＆卑弥呼５
+   Ban & Himiko 5
+>> M09DCC8 | 蛮＆卑弥呼６
+   Ban & Himiko 6
+>> M09DCD6 | 蛮＆卑弥呼７
+   Ban & Himiko 7
+>> M09DCE4 | 蛮＆卑弥呼８
+   Ban & Himiko 8
+>> M09DCF2 | 蛮＆赤屍５
+   Ban & Akabane 5
+>> M09DCFE | 蛮＆赤屍７
+   Ban & Akabane 7
+>> M09DD0A | 蛮＆赤屍８
+   Ban & Akabane 8
+>> M09DD16 | 蛮＆士度１
+   Ban & Shido 1
+>> M09DD22 | 蛮＆士度２
+   Ban & Shido 2
+>> M09DD2E | 蛮＆士度３
+   Ban & Shido 3
+>> M09DD3A | 蛮＆士度４
+   Ban & Shido 4
+>> M09DD46 | 蛮＆士度５
+   Ban & Shido 5
+>> M09DD52 | 蛮＆士度６
+   Ban & Shido 6
+>> M09DD5E | 蛮＆士度７
+   Ban & Shido 7
+>> M09DD6A | 蛮＆士度８
+   Ban & Shido 8
+>> M09DD76 | 蛮＆笑師４
+   Ban & Emishi 4
+>> M09DD82 | 蛮＆笑師５
+   Ban & Emishi 5
+>> M09DD8E | 蛮＆笑師６
+   Ban & Emishi 6
+>> M09DD9A | 蛮＆笑師７
+   Ban & Emishi 7
+>> M09DDA6 | 蛮＆笑師８
+   Ban & Emishi 8
+>> M09DDB2 | 蛮＆花月２
+   Ban & Kazuki 2
+>> M09DDBE | 蛮＆花月３
+   Ban & Kazuki 3
+>> M09DDCA | 蛮＆花月４
+   Ban & Kazuki 4
+>> M09DDD6 | 蛮＆花月５
+   Ban & Kazuki 5
+>> M09DDE2 | 蛮＆花月７
+   Ban & Kazuki 7
+>> M09DDEE | 蛮＆花月８
+   Ban & Kazuki 8
+>> M09DDFA | 蛮＆十兵衛４
+   Ban & Juubei 4
+>> M09DE08 | 蛮＆十兵衛５
+   Ban & Juubei 5
+>> M09DE16 | 蛮＆十兵衛７
+   Ban & Juubei 7
+>> M09DE24 | 蛮＆十兵衛８
+   Ban & Juubei 8
+>> M09DE32 | 蛮＆鏡７
+   Ban & Kagami 7
+>> M09DE3C | 蛮＆鏡８
+   Ban & Kagami 8
+>> M09DE46 | 銀次＆卑弥呼４
+   Ginji & Himiko 4
+>> M09DE56 | 銀次＆卑弥呼５
+   Ginji & Himiko 5
+>> M09DE66 | 銀次＆卑弥呼７
+   Ginji & Himiko 7
+>> M09DE76 | 銀次＆卑弥呼８
+   Ginji & Himiko 8
+>> M09DE86 | 銀次＆赤屍５
+   Ginji & Akabane 5
+>> M09DE94 | 銀次＆赤屍７
+   Ginji & Akabane 7
+>> M09DEA2 | 銀次＆赤屍８
+   Ginji & Akabane 8
+>> M09DEB0 | 銀次＆士度１
+   Ginji & Shido 1
+>> M09DEBE | 銀次＆士度２
+   Ginji & Shido 2
+>> M09DECC | 銀次＆士度３
+   Ginji & Shido 3
+>> M09DEDA | 銀次＆士度４
+   Ginji & Shido 4
+>> M09DEE8 | 銀次＆士度５
+   Ginji & Shido 5
+>> M09DEF6 | 銀次＆士度６
+   Ginji & Shido 6
+>> M09DF04 | 銀次＆士度７
+   Ginji & Shido 7
+>> M09DF12 | 銀次＆士度８
+   Ginji & Shido 8
+>> M09DF20 | 銀次＆笑師４
+   Ginji & Emishi 4
+>> M09DF2E | 銀次＆笑師５
+   Ginji & Emishi 5
+>> M09DF3C | 銀次＆笑師６
+   Ginji & Emishi 6
+>> M09DF4A | 銀次＆笑師７
+   Ginji & Emishi 7
+>> M09DF58 | 銀次＆笑師８
+   Ginji & Emishi 8
+>> M09DF66 | 銀次＆花月２
+   Ginji & Kazuki 2
+>> M09DF74 | 銀次＆花月３
+   Ginji & Kazuki 3
+>> M09DF82 | 銀次＆花月４
+   Ginji & Kazuki 4
+>> M09DF90 | 銀次＆花月５
+   Ginji & Kazuki 5
+>> M09DF9E | 銀次＆花月７
+   Ginji & Kazuki 7
+>> M09DFAC | 銀次＆花月８
+   Ginji & Kazuki 8
+>> M09DFBA | 銀次＆十兵衛４
+   Ginji & Juubei 4
+>> M09DFCA | 銀次＆十兵衛５
+   Ginji & Juubei 5
+>> M09DFDA | 銀次＆十兵衛７
+   Ginji & Juubei 7
+>> M09DFEA | 銀次＆十兵衛８
+   Ginji & Juubei 8
+>> M09DFFA | 銀次＆鏡７
+   Ginji & Kagami 7
+>> M09E006 | 銀次＆鏡８
+   Ginji & Kagami 8
+>> M09E012 | おまけ１
+   Bonus 1
+>> M09E01C | 卑弥呼＆赤屍５
+   Himiko & Akabane 5
+>> M09E02C | 卑弥呼＆赤屍７
+   Himiko & Akabane 7
+>> M09E03C | 卑弥呼＆赤屍８
+   Himiko & Akabane 8
+>> M09E04C | 卑弥呼＆士度４
+   Himiko & Shido 4
+>> M09E05C | 卑弥呼＆士度５
+   Himiko & Shido 5
+>> M09E06C | 卑弥呼＆士度７
+   Himiko & Shido 7
+>> M09E07C | 卑弥呼＆士度８
+   Himiko & Shido 8
+>> M09E08C | 卑弥呼＆笑師４
+   Himiko & Emishi 4
+>> M09E09C | 卑弥呼＆笑師５
+   Himiko & Emishi 5
+>> M09E0AC | 卑弥呼＆笑師７
+   Himiko & Emishi 7
+>> M09E0BC | 卑弥呼＆笑師８
+   Himiko & Emishi 8
+>> M09E0CC | 卑弥呼＆花月４
+   Himiko & Kazuki 4
+>> M09E0DC | 卑弥呼＆花月５
+   Himiko & Kazuki 5
+>> M09E0EC | 卑弥呼＆花月７
+   Himiko & Kazuki 7
+>> M09E0FC | 卑弥呼＆花月８
+   Himiko & Kazuki 8

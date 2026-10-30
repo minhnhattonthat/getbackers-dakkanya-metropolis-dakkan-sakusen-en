@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "これは…まさか！？　",
-  "en": ""
+  "en": "This is... It can't be?!"
  },
  {
   "id": "7C0128.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "…どうやら雷帝降臨のようですね　",
-  "en": ""
+  "en": "...So the 'Thunder Emperor Descends,' does"
  },
  {
   "id": "7C0128.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "美堂クン？　",
-  "en": ""
+  "en": "he not, Mido-kun?"
  },
  {
   "id": "7C0128.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "（あのバカ、",
-  "en": ""
+  "en": "(That idiot... Don't tell me he's taking on"
  },
  {
   "id": "7C0128.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "まさか雷帝のままで弥勒と…！？　",
-  "en": ""
+  "en": "Miroku as the Thunder Emperor...?!"
  },
  {
   "id": "7C0128.15",
@@ -66,6 +66,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "早まるんじゃねえぞ、銀次！！）　",
-  "en": ""
+  "en": "Don't do anything rash, Ginji!!)"
  }
 ]

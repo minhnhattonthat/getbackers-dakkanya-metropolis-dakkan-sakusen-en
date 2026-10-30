@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "弥勒",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7CDB6C.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "弥勒",
   "jp": "美堂蛮、お前は必ず我ら弥勒一族が倒す",
-  "en": ""
+  "en": "Ban Mido, we of the Miroku clan will defeat\nyou without fail."
  },
  {
   "id": "7CDB6C.7",
@@ -28,7 +28,7 @@
   "box": 3,
   "speaker": "弥勒",
   "jp": "必ず生き残れ…　",
-  "en": ""
+  "en": "Be sure to survive... until the day we meet"
  },
  {
   "id": "7CDB6C.8",
@@ -36,6 +36,6 @@
   "box": 3,
   "speaker": "弥勒",
   "jp": "再び我らとあいまみえる日までは　",
-  "en": ""
+  "en": "again."
  }
 ]

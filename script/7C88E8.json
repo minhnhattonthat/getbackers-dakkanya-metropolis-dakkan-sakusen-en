@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "これでこの辺りの電力は安定したはず…",
-  "en": ""
+  "en": "That should stabilize the power around"
  },
  {
   "id": "7C88E8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "さあ、１階へ戻ろうか",
-  "en": ""
+  "en": "here... Now, let's go back to 1F."
  },
  {
   "id": "7C88E8.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "案外早かったなあ～　",
-  "en": ""
+  "en": "That was quicker'n I thought~ Bet we're"
  },
  {
   "id": "7C88E8.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "ワイら、一番乗りちゃう？",
-  "en": ""
+  "en": "the first ones back, eh?"
  },
  {
   "id": "7C88E8.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "そうかも知れないね　",
-  "en": ""
+  "en": "Could be."
  },
  {
   "id": "7C88E8.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "ええチームやっちゅうことやな！　",
-  "en": ""
+  "en": "Means we're a great team! How 'bout it,"
  },
  {
   "id": "7C88E8.18",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "どや、三人でトリオ組まへん？",
-  "en": ""
+  "en": "the three of us form a trio?"
  },
  {
   "id": "7C88E8.20",
@@ -96,7 +96,7 @@
   "box": 5,
   "speaker": "花月",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7C88E8.24",
@@ -111,7 +111,7 @@
   "box": 6,
   "speaker": "十兵衛　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7C88E8.28",
@@ -126,6 +126,6 @@
   "box": 7,
   "speaker": "笑師",
   "jp": "なんかしゃべって～な！！",
-  "en": ""
+  "en": "C'mon, say somethin'!!"
  }
 ]

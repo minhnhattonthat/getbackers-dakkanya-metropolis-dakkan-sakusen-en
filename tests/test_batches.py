@@ -39,10 +39,11 @@ def test_place():
 @pytest.mark.skipif(not build.ROM.exists(), reason="no ROM dump")
 def test_build_expands_one_line_box():
     orig = build.ROM.read_bytes()
-    edits, _ = build.text_edits(orig, qa={"7927E4.10": "Line one.\nLine two."})
-    recs = edits[0x7927E4]
     old = pac.unpack(orig, 0x7927E4)
-    assert old[9] == struct.pack("<I", 0x238C) and recs[9] == struct.pack("<I", 0x238D)
-    assert len(recs) == len(old) + 1 and recs[12] == old[11]
+    one, two = struct.pack("<I", 0x238C), struct.pack("<I", 0x238D)
+    assert old[9] == one
+    base = build.text_edits(orig, qa={"7927E4.10": "Line one."})[0][0x7927E4]
+    recs = build.text_edits(orig, qa={"7927E4.10": "Line one.\nLine two."})[0][0x7927E4]
+    assert len(recs) == len(base) + 1 and recs.count(two) == base.count(two) + 1 and recs.count(one) == base.count(one) - 1
     with pytest.raises(AssertionError):
         build.text_edits(orig, qa={"7927E4.12": "a\nb"})  # already a 2-line box

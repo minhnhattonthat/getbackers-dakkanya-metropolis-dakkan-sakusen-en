@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あっ！　",
-  "en": ""
+  "en": "Ah! I knew you were here, Kazu-chan!!"
  },
  {
   "id": "79A970.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "やっぱりカヅっちゃんいたんだね～！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79A970.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "フフ、見つかってしまいましたね…",
-  "en": ""
+  "en": "Heh, it seems I've been found..."
  },
  {
   "id": "79A970.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "それにしても、　",
-  "en": ""
+  "en": "But what brings you two to a place like"
  },
  {
   "id": "79A970.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "あなたたちはなぜこんな所に？",
-  "en": ""
+  "en": "this?"
  },
  {
   "id": "79A970.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "それはこっちが聞きたいね",
-  "en": ""
+  "en": "I'd like to ask you the same thing."
  },
  {
   "id": "79A970.17",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "絃（いと）の花月（かづき）が",
-  "en": ""
+  "en": "What's Kazuki of the Strings doing in a"
  },
  {
   "id": "79A970.18",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "なんでこんな所に？　",
-  "en": ""
+  "en": "place like this?"
  },
  {
   "id": "79A970.20",
@@ -90,7 +90,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "花月",
-  "en": ""
+  "en": "Kazuki"
  },
  {
   "id": "79A970.23",
@@ -98,7 +98,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "僕は早耳ですからね…",
-  "en": ""
+  "en": "I do have sharp ears, after all..."
  },
  {
   "id": "79A970.25",
@@ -106,7 +106,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "昔の知人がＣＡＶのリーダーと聞いて、",
-  "en": ""
+  "en": "I heard an old acquaintance leads the CAV,"
  },
  {
   "id": "79A970.26",
@@ -114,7 +114,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "探りを入れてるんです",
-  "en": ""
+  "en": "so I came to look into it."
  },
  {
   "id": "79A970.28",
@@ -129,7 +129,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "えっ？　",
-  "en": ""
+  "en": "Huh? You don't mean that Saionji person,"
  },
  {
   "id": "79A970.31",
@@ -137,7 +137,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "ひょっとして西園寺って人のコト？",
-  "en": ""
+  "en": "do you?"
  },
  {
   "id": "79A970.33",
@@ -152,7 +152,7 @@
   "box": 9,
   "speaker": "花月",
   "jp": "ええ…西園寺は西風鳥院派にて",
-  "en": ""
+  "en": "Yes... Saionji studied the string arts in the"
  },
  {
   "id": "79A970.36",
@@ -160,7 +160,7 @@
   "box": 9,
   "speaker": "花月",
   "jp": "絃術を学びし者なのです　",
-  "en": ""
+  "en": "West Fuchoin school."
  },
  {
   "id": "79A970.38",
@@ -175,7 +175,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "じゃあ、カヅっちゃんみたいに",
-  "en": ""
+  "en": "So Saionji uses strings too, like you,"
  },
  {
   "id": "79A970.41",
@@ -183,7 +183,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "絃を使う人なの？",
-  "en": ""
+  "en": "Kazu-chan?"
  },
  {
   "id": "79A970.43",
@@ -198,7 +198,7 @@
   "box": 11,
   "speaker": "花月",
   "jp": "そうです。西園寺はあるいきさつから　",
-  "en": ""
+  "en": "That's right. For certain reasons, Saionji"
  },
  {
   "id": "79A970.46",
@@ -206,7 +206,7 @@
   "box": 11,
   "speaker": "花月",
   "jp": "僕に恨みの念を抱いていましてね…",
-  "en": ""
+  "en": "bears a grudge against me..."
  },
  {
   "id": "79A970.48",
@@ -214,7 +214,7 @@
   "box": 12,
   "speaker": "花月",
   "jp": "恐らく、今でも復讐したいと　",
-  "en": ""
+  "en": "Saionji probably still wants revenge, even"
  },
  {
   "id": "79A970.49",
@@ -222,7 +222,7 @@
   "box": 12,
   "speaker": "花月",
   "jp": "考えているでしょう　",
-  "en": ""
+  "en": "now."
  },
  {
   "id": "79A970.51",
@@ -237,7 +237,7 @@
   "box": 13,
   "speaker": "蛮　",
   "jp": "それでヤツが動く前に自分から",
-  "en": ""
+  "en": "So you barged in before Saionji could make"
  },
  {
   "id": "79A970.54",
@@ -245,7 +245,7 @@
   "box": 13,
   "speaker": "蛮　",
   "jp": "乗り込んできたってワケか",
-  "en": ""
+  "en": "a move, huh?"
  },
  {
   "id": "79A970.56",
@@ -253,7 +253,7 @@
   "box": 14,
   "speaker": "蛮　",
   "jp": "さすがに早耳と言うだけのことはあるな",
-  "en": ""
+  "en": "Guess they don't call you sharp-eared for\nnothing."
  },
  {
   "id": "79A970.58",
@@ -268,7 +268,7 @@
   "box": 15,
   "speaker": "花月",
   "jp": "それであなた方はここへなにをしに？　",
-  "en": ""
+  "en": "And what have you two come here to do?"
  },
  {
   "id": "79A970.62",
@@ -283,7 +283,7 @@
   "box": 16,
   "speaker": "蛮　",
   "jp": "仕事さ、決まってンだろ？",
-  "en": ""
+  "en": "A job. What else?"
  },
  {
   "id": "79A970.67",
@@ -291,7 +291,7 @@
   "box": 17,
   "speaker": "蛮　",
   "jp": "…オイ、銀次。テメーの後ろに…　",
-  "en": ""
+  "en": "...Hey, Ginji. Behind you..."
  },
  {
   "id": "79A970.69",
@@ -306,7 +306,7 @@
   "box": 18,
   "speaker": "銀次",
   "jp": "え？",
-  "en": ""
+  "en": "Huh? D-don't tell me there's a ghost...?"
  },
  {
   "id": "79A970.72",
@@ -314,7 +314,7 @@
   "box": 18,
   "speaker": "銀次",
   "jp": "まさかユーレイがいる…とか？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79A970.74",
@@ -329,7 +329,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "いや、敵だ！",
-  "en": ""
+  "en": "Nah, enemies! Don't screw this up, guys!"
  },
  {
   "id": "79A970.77",
@@ -337,6 +337,6 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "オメーら、抜かるンじゃねえぞ！　",
-  "en": ""
+  "en": " "
  }
 ]

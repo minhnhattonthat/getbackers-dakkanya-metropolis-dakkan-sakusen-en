@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "十兵衛、無事で良かった…",
-  "en": ""
+  "en": "Juubei, thank goodness you're safe..."
  },
  {
   "id": "7BE5A8.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "言っただろう、　",
-  "en": ""
+  "en": "I told you, did I not? I was born to"
  },
  {
   "id": "7BE5A8.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "俺はお前を守るために生まれてきたと…",
-  "en": ""
+  "en": "protect you..."
  },
  {
   "id": "7BE5A8.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "十兵衛　",
   "jp": "たとえ何が起ころうとも、",
-  "en": ""
+  "en": "Whatever may happen, that feeling will"
  },
  {
   "id": "7BE5A8.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "十兵衛　",
   "jp": "その気持ちに変わりはない",
-  "en": ""
+  "en": "never change."
  },
  {
   "id": "7BE5A8.14",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "十兵衛　",
   "jp": "貴様のことは",
-  "en": ""
+  "en": "I will protect you, no matter what."
  },
  {
   "id": "7BE5A8.15",
@@ -67,7 +67,7 @@
   "box": 4,
   "speaker": "十兵衛　",
   "jp": "この俺が絶対に守ってやる",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BE5A8.17",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "花月",
   "jp": "あの頃とちっとも変わらないんだね…　",
-  "en": ""
+  "en": "You haven't changed one bit since those"
  },
  {
   "id": "7BE5A8.20",
@@ -90,7 +90,7 @@
   "box": 5,
   "speaker": "花月",
   "jp": "君は",
-  "en": ""
+  "en": "days... have you?"
  },
  {
   "id": "7BE5A8.23",
@@ -98,7 +98,7 @@
   "box": 6,
   "speaker": "花月",
   "jp": "…頼むぞ、十兵衛",
-  "en": ""
+  "en": "...I'm counting on you, Juubei."
  },
  {
   "id": "7BE5A8.27",
@@ -106,6 +106,6 @@
   "box": 7,
   "speaker": "花月",
   "jp": "じゅかづのＭを手に入れた！　",
-  "en": ""
+  "en": "Got the Ju-Kazu Memory!"
  }
 ]

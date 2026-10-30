@@ -9,18 +9,20 @@
 弥勒	Miroku
 ドクター・ジャッカル	Dr. Jackal
 レディ・ポイズン	Lady Poison
-蛮	Ban
-銀次	Ginji
-士度	Shido
-笑師	Emishi
-花月	Kazuki
-卑弥呼	Himiko
-赤屍	Akabane
-鏡	Kagami
-十兵衛	Juubei
-弥勒	Miroku
-？？？	???
 無限城	Infinity Fortress	avoid: Mugenjo
 奪還屋	GetBackers ; retriever ; retrieval	avoid: Dakkanya
 運び屋	transporter
-雷帝	Thunder Emperor	avoid: Raitei
+雷帝	Thunder Emperor	avoid: Raitei; Lightning Emperor
+百獣擬態	Beast Mimicry
+魔里人	Marebito
+ＴＳＣ	TSC
+ペンペンズ	Pen-Pens
+蛮	Ban	(name tag)
+銀次	Ginji	(name tag)
+士度	Shido	(name tag)
+笑師	Emishi	(name tag)
+花月	Kazuki	(name tag)
+卑弥呼	Himiko	(name tag)
+赤屍	Akabane	(name tag)
+鏡	Kagami	(name tag)
+十兵衛	Juubei	(name tag)

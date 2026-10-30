@@ -1,0 +1,324 @@
+>> 7A376C.3 | [スタッフ] はい、お疲れ様 / 次の仕事で最後だからね
+   Okay, good work. The next job's the last one.
+>> 7A376C.6 | [スタッフ] 次は各部屋に衣装を届けて欲しいんだ
+   Next, I need you to deliver costumes to each room.
+>> 7A376C.8 | [スタッフ] まずツルコさんだけど、この人の衣装は / 届いてないから置かなくていいよ
+   First, Tsuruko-san. Her costume hasn't arrived, so you can skip her room.
+>> 7A376C.11 | [スタッフ] 次にキキョウさんだけど、 / この人はハデな着物ね
+   Next, Kikyo-san gets the flashy kimono.
+>> 7A376C.14 | [スタッフ] ああ見えてけっこうハデ好きなんだよね
+   She may not look it, but she really loves flashy stuff.
+>> 7A376C.16 | [スタッフ] 次のシズクさんはせいそな着物 / せいそな着物の似合う女性っていいよね
+   Next, Shizuku-san: the demure kimono. A woman who suits one is the best, huh?
+>> 7A376C.19 | [スタッフ] で、次のナミヲさんは男物のハカマだ
+   Then Namio-san in the next room gets the men's hakama.
+>> 7A376C.21 | [スタッフ] 間違えてハカマさんのところにハカマ / 届けないようにね
+   Don't take the hakama to Hakama-san by mistake.
+>> 7A376C.24 | [スタッフ] ナミヲさんの方だからね
+   It goes to Namio-san.
+>> 7A376C.26 | [スタッフ] お次のココロさんはハデな… / ああ違うな、せいそなドレスの方ね
+   Next up, Kokoro-san gets the flashy... Ah, no, the demure dress.
+>> 7A376C.29 | [スタッフ] 次のロクローさんはタキシード
+   Next, Rokuro-san gets the tuxedo.
+>> 7A376C.31 | [スタッフ] 最後にハカマさんが…
+   And last, Hakama-san gets...
+>> 7A376C.33 | [スタッフ] あれ？　ハカマさんも衣装が / 届いてないんだっけな？
+   Huh? Did Hakama-san's costume not arrive either?
+>> 7A376C.36 | [スタッフ] ツルコさんとハカマさんのどっちが / ハデなドレスなのか忘れちゃったな
+   I forgot which of Tsuruko-san and Hakama-san gets the flashy dress.
+>> 7A376C.39 | [スタッフ] まあいいや、てきとうにやってよ
+   Oh well, just do whatever.
+>> 7A376C.41 | [スタッフ] 衣装はイベントアイテムの中に / 入れておくよ
+   I'll put the costumes in with your event items.
+>> 7A376C.44 | [スタッフ] アイテムは机の手前からじゃないと / 置けないから気をつけてね
+   Careful, you can only set items down from in front of the table.
+>> 7A376C.49 | [スタッフ] 衣装類を手に入れた！
+   Got the costumes!
+>> 7A3BB4.3 | [蛮] …覚えられたかよ？
+   ...You get all that?
+>> 7A3BB4.7 | [銀次] ハ、ハカマがハカマさんでない人の / ハカマで…あわ…あわわ………
+   Th-the hakama is the hakama of someone who isn't Hakama-san... Ah... ahhh......
+>> 7A3BB4.12 | [花月] ダメみたいですね
+   It seems not.
+>> 7A3BB4.16 | [士度] 全くだな…
+   Figures...
+>> 7A3CC8.3 | [スタッフ] 忘れちゃったの？ / これで最後だからしっかりしてよ～
+   You forgot? This is the last one, so pull yourself together~
+>> 7A3CC8.6 | [スタッフ] まずツルコさんだけど、この人の衣装は / 届いてないから置かなくていいよ
+   First, Tsuruko-san. Her costume hasn't arrived, so you can skip her room.
+>> 7A3CC8.9 | [スタッフ] 次にキキョウさんだけど、 / この人はハデな着物ね
+   Next, Kikyo-san gets the flashy kimono.
+>> 7A3CC8.12 | [スタッフ] ああ見えてけっこうハデ好きなんだよね
+   She may not look it, but she really loves flashy stuff.
+>> 7A3CC8.14 | [スタッフ] 次のシズクさんはせいそな着物 / せいそな着物の似合う女性っていいよね
+   Next, Shizuku-san: the demure kimono. A woman who suits one is the best, huh?
+>> 7A3CC8.17 | [スタッフ] で、次のナミヲさんは男物のハカマだ
+   Then Namio-san in the next room gets the men's hakama.
+>> 7A3CC8.19 | [スタッフ] 間違えてハカマさんのところにハカマ / 届けないようにね
+   Don't take the hakama to Hakama-san by mistake.
+>> 7A3CC8.22 | [スタッフ] ナミヲさんの方だからね
+   It goes to Namio-san.
+>> 7A3CC8.24 | [スタッフ] お次のココロさんはハデな… / ああ違うな、せいそなドレスの方ね
+   Next up, Kokoro-san gets the flashy... Ah, no, the demure dress.
+>> 7A3CC8.27 | [スタッフ] 次のロクローさんはタキシード
+   Next, Rokuro-san gets the tuxedo.
+>> 7A3CC8.29 | [スタッフ] 最後にハカマさんが…
+   And last, Hakama-san gets...
+>> 7A3CC8.31 | [スタッフ] あれ？　ハカマさんも衣装が / 届いてないんだっけな？
+   Huh? Did Hakama-san's costume not arrive either?
+>> 7A3CC8.34 | [スタッフ] ツルコさんとハカマさんのどっちが / ハデなドレスなのか忘れちゃったな
+   I forgot which of Tsuruko-san and Hakama-san gets the flashy dress.
+>> 7A3CC8.37 | [スタッフ] まあいいや、てきとうにやってよ
+   Oh well, just do whatever.
+>> 7A3CC8.39 | [スタッフ] 衣装はイベントアイテムの中に / 入れておくよ
+   I'll put the costumes in with your event items.
+>> 7A3CC8.42 | [スタッフ] アイテムは机の手前からじゃないと / 置けないから気をつけてね
+   Careful, you can only set items down from in front of the table.
+>> 7A40B0.3 | [スタッフ] ありがと！　これでバイト終了 / …といきたいところだけど、
+   Thanks! And that wraps up your part-time job... is what I'd like to say, but
+>> 7A40B0.6 | [スタッフ] 最後に舞台裏のカギを開けてきてよ
+   one last thing: go unlock the backstage door for me.
+>> 7A40B0.10 | [スタッフ] 舞台裏のカギを手に入れた！
+   Got the Backstage Key!
+>> 7A40B0.14 | [蛮] （おっ、これであの / 開かずのトビラに入れそうだな！）
+   (Ooh, now we should be able to get through that locked door!)
+>> 7A40B0.19 | [銀次] （やったね、蛮ちゃん！！）
+   (Way to go, Ban-chan!!)
+>> 7A422C.3 | [赤屍] お待ちしておりましたよ、 / ゲットバッカーズのお二人さん
+   We have been waiting for you, you two GetBackers.
+>> 7A422C.8 | [卑弥呼] まったくもう、逃げる時間は / たっぷりあったっていうのに…
+   Honestly, we had plenty of time to get away...
+>> 7A422C.13 | [蛮] 俺たちが来るのをわざわざ / 待っていたとは…ナメられたモンだぜ
+   Going out of your way to wait for us... You're really underestimating us.
+>> 7A422C.18 | [赤屍] 楽しい仕事にしたいですからね
+   I do want this to be a fun job, after all.
+>> 7A422C.22 | [蛮] チッ、ほざいてろよ！ / 銀次、今度こそ決めるぜ！
+   Tch, keep talking! Ginji, this time we finish it!
+>> 7A422C.27 | [銀次] もちろんだよ、蛮ちゃん！！
+   You bet, Ban-chan!!
+>> 7A422C.29 | [銀次] 卑弥呼
+   Himiko
+>> 7A422C.32 | [銀次] さーて、覚悟はいいかしら？ / お二人サン？
+   Now then, are you ready, you two?
+>> 7A4498.3 | [赤屍] これは面白い… / やはり仕事はこうでなくては、ね
+   How interesting... A job should be just like this, after all.
+>> 7A4498.8 | [蛮] （コイツ… / 本気じゃねえってツラしてやがる）
+   (This guy... His face says he wasn't even trying.)
+>> 7A4498.11 | [蛮] ま、なんにせよこっちが勝ったんだ / 依頼品を渡してもらおうか？
+   Well, either way, we won. How about handing over the goods?
+>> 7A4498.16 | [赤屍] いいでしょう
+   Very well.
+>> 7A4498.18 | [赤屍] …では、またどこかでお会い / できることを楽しみにしておりますよ
+   ...Then I shall look forward to meeting you again somewhere.
+>> 7A4624.3 | 舞台衣装を奪還した！
+   Retrieved the stage costume!
+>> 7A4624.7 | [銀次] …できれば、 / 二度と会いたくないんですけど…
+   ...If possible, I'd rather never see you again...
+>> 7A4624.12 | [卑弥呼] 待ちなさいよ、ジャッカル！ / 仕事を降りるって言うの！？　痛っ…
+   Wait, Jackal! You're quitting the job?! Ow...
+>> 7A4624.17 | [蛮] ま、ムリしねえでここで大人しく / 休んでるんだな、卑弥呼
+   Don't push yourself. Just stay here and rest quietly, Himiko.
+>> 7A4624.20 | [蛮] 俺たちは依頼人に品物を渡してくるぜ
+   We're gonna go hand the goods to the client.
+>> 7A4624.24 | [銀次] ねえ、卑弥呼ちゃんも一緒に行こうよ
+   Hey, Himiko-chan, come with us.
+>> 7A4624.28 | [卑弥呼] な、なに言ってんの？ / フザけないでよ！！
+   Wh-what are you saying? Don't be ridiculous!!
+>> 7A4624.31 | [卑弥呼] 誰がアンタたちなんかと…
+   As if I'd go anywhere with you guys...
+>> 7A4624.35 | [蛮] それだけ騒げる元気があるなら / 平気そうだな
+   If you've got the energy to make that much noise, you'll be fine.
+>> 7A4624.38 | [蛮] じゃあな、卑弥呼
+   See ya, Himiko.
+>> 7A4624.42 | [卑弥呼] ………
+   ...
+>> 7A4918.3 | [卑弥呼] 待ちなさいよ、蛮！ / まだ勝負はついちゃいないわよ！！
+   Hold it, Ban! This fight isn't over yet!!
+>> 7A4918.8 | [蛮] やれやれ、 / 大人しく寝てりゃいいものを…
+   Geez, you should've just stayed lying down...
+>> 7A4918.13 | [卑弥呼] …行くわよ！！
+   ...Here I come!!
+>> 7A4918.17 | [蛮] 銀次、 / 依頼品をちゃんと見張ってろよ！
+   Ginji, keep a close eye on the goods!
+>> 7A4A5C.3 | [蛮] ったく、 / だから大人しくしてろって言ったンだよ
+   Geez, this is why I told you to stay put.
+>> 7A4A5C.8 | [卑弥呼] くっ…
+   Ngh...
+>> 7A4A5C.12 | [銀次] あのぅ、蛮ちゃん…
+   Um, Ban-chan...
+>> 7A4A5C.16 | [蛮] あン？　どうした、銀次？ / 俺様の強さに感動しちまったか？
+   Huh? What's up, Ginji? Blown away by how strong the great me is?
+>> 7A4A5C.21 | [銀次] そうじゃなくて、今の戦いで舞台衣装が / ボロボロになったんだけど…
+   No, it's just... the stage costume got torn to shreds in that fight...
+>> 7A4A5C.26 | [蛮] さっき見張ってろって言ったばかり / じゃねえかよ！！
+   I JUST told you to keep an eye on it!!
+>> 7A4A5C.31 | [銀次] 見張ってたけど、 / 蛮ちゃんがはりきるからさあ…
+   I was watching it, but you got so fired up, Ban-chan...
+>> 7A4A5C.36 | [蛮] 卑弥呼、お前のせいでもあるんだぞ！
+   Himiko, this is your fault too!
+>> 7A4A5C.40 | [卑弥呼] …知らないわよ、そんなこと / そっちの責任でしょ！
+   ...How should I know? That's your responsibility!
+>> 7A4A5C.45 | [銀次] どうしよう、蛮ちゃん… / もしかしてまたタダ働き…？
+   What do we do, Ban-chan... Don't tell me we worked for free again...?
+>> 7A4A5C.50 | [蛮] 待て…考えろ、考えるんだ…！
+   Wait... Think. Think, dammit...!
+>> 7A4A5C.52 | [蛮] …ん？　そうか、その手があったか！ / よし！　銀次、卑弥呼、行くぜ！！
+   ...Hm? That's it, that could work! All right! Ginji, Himiko, let's go!!
+>> 7A4A5C.57 | [卑弥呼] ちょ、ちょっと！ / なんであたしまで！？
+   H-hey! Why me too?!
+>> 7A4E78.3 | [ヘヴン] 蛮くん！　タイムリミットギリギリよ！ / それでツルコさんの衣装は？
+   Ban-kun! You're cutting it close! So, where's Tsuruko-san's costume?
+>> 7A4E78.8 | [蛮] 悪ィ、依頼品は奪還したんだがよ…
+   Sorry. We retrieved the goods, but...
+>> 7A4E78.12 | [ヘヴン] ちょっと、ボロボロじゃない！ / どうすんのよ！！
+   Hey, it's in tatters! What are you gonna do?!
+>> 7A4E78.17 | [ツルコ] 私、めまいが…
+   I... I feel faint...
+>> 7A4E78.21 | [蛮] まあ、待て！ / それについてはいい考えがあるんだよ
+   Now hold on! I've got a good idea about that.
+>> 7A4E78.24 | [蛮] 耳貸せ、ヘヴン
+   Lend me your ear, Hevn.
+>> 7A5040.3 | [蛮] …いけそうだろ？
+   ...Could work, right?
+>> 7A5040.7 | [ヘヴン] う～ん… / ツルコさんはそれでいいですか？
+   Hmm... Tsuruko-san, is that all right with you?
+>> 7A5040.12 | [ツルコ] やってみましょう！ / では、お願いします。銀次さん！
+   Let's give it a try! Then I'm counting on you, Ginji-san!
+>> 7A5040.17 | [銀次] えっ、オレ？　なにするの？？？
+   Huh, me? What am I doing???
+>> 7A5040.21 | [蛮] 卑弥呼も、なっ！
+   You too, Himiko!
+>> 7A5040.25 | [卑弥呼] えっ？
+   Huh?
+>> 7A51E4.3 | [ヘヴン] 銀ちゃんの電撃を使った演出とは / 考えたわね
+   Using Gin-chan's Electric Shock for the stage effects... Clever.
+>> 7A51E4.8 | [蛮] しかも卑弥呼の毒香水 / （ポイズンパヒューム）で客には
+   And with Himiko's Poison Perfume, the audience
+>> 7A51E4.11 | [蛮] あの演歌歌手が浮かんでるように / 見えてるはずだぜ！
+   should see that enka singer floating in the air!
+>> 7A51E4.14 | [蛮] どうよ、俺様の作戦は！
+   How's that for the great me's plan?!
+>> 7A51E4.18 | [ヘヴン] 苦肉の策にしてはまあまあってとこね
+   Not bad, for a desperate measure.
+>> 7A51E4.20 | [ヘヴン] でも依頼品をボロボロにしたことは / 変わらないんだから、
+   But that doesn't change the fact that you wrecked the goods,
+>> 7A51E4.23 | [ヘヴン] 依頼料を引かせていただきますからね
+   so I'll be docking your fee.
+>> 7A51E4.27 | [蛮] （チッ、がめついババアめ…）
+   (Tch, greedy old hag...)
+>> 7A51E4.31 | [ヘヴン] なにか言った？
+   Did you say something?
+>> 7A51E4.33 | [ヘヴン] それにしてもたまには演歌もいいかもね / 銀ちゃんもはりきって電撃出してるし！
+   Still, enka's nice now and then. And look how fired up Gin-chan's Electric Shock is!
+>> 7A54CC.3 | [？？？] 様子はどうだ？
+   How goes it?
+>> 7A54CC.7 | [アル] 宝玉ノ力ヲ使エル人タチ、見ツケマシタ
+   I find people who can use power of orb.
+>> 7A54CC.11 | [？？？] 属性の力を操る者がこの国にも / いたというのか？
+   There are those who wield the power of the elements even in this land?
+>> 7A54CC.16 | [アル] ハイ…無ト雷ト土ト水… / ソシテ火ノ力ガ加ワリマシタ
+   Yes... Void, Thunder, Earth, Water... And now, power of Fire join them.
+>> 7A54CC.21 | [？？？] …これ以上力が集まるようならば / 対策を考えなくてはならんな
+   ...If more power gathers, we must think of countermeasures.
+>> 7A54CC.24 | [？？？] お前は監視を続け、報告をおこたるなよ
+   Keep watching them, and do not neglect your reports.
+>> 7A54CC.28 | [アル] 分カリマシタ
+   I understand.
+>> 7A56C8.3 | [アル] ………
+   ...
+>> 7A5708.3 | [ツルコ] 必ず奪還してね！　お願いよ！！
+   Please get it back! I'm begging you!!
+>> 7A5760.3 | [マネージャー] ツルコさんの衣装が奪われたんだって？ / 衣装対決もそこまできたかって感じだね
+   Tsuruko-san's costume got stolen? So the costume duels have come to this, huh.
+>> 7A5760.6 | [マネージャー] 犯人はハカマさんなんだろ？ / でもシズクさんもちょっと怪しいけどね
+   The culprit's Hakama-san, right? Though Shizuku-san's a little suspicious too.
+>> 7A5838.3 | [シズク] 今回のツルコさんの衣装が楽しみだわ… / ウフフフ…
+   I can't wait to see Tsuruko-san's costume this time... Hee hee hee...
+>> 7A58A4.3 | [ナミヲ] フン、歌を歌うのに衣装は関係ない！ / 要は心だよ！　そうは思わんかね？
+   Hmph, costumes don't matter in singing! It's all about heart! Don't you agree?
+>> 7A5924.3 | [マネージャー] キミもたまには演歌聞きなよ / けっこうイイもんだよ？
+   You oughta listen to enka once in a while too. It's pretty good stuff, y'know?
+>> 7A5998.3 | [ロクロー] あーああー♪ / ちょっとノドの調子が悪いな…
+   Ahh-ahhh~♪ My throat's a little off...
+>> 7A59FC.3 | [ハカマ] まったく、うるさいわね！ / ツルコの衣装なんて知らないわよ！！
+   Honestly, you're so annoying! I don't know anything about Tsuruko's costume!!
+>> 7A5A74.3 | [ツルコ] 開演時間が迫ってきたわ！ / お願い、なんとかしてちょうだい！！
+   Showtime's almost here! Please, do something!!
+>> 7A5AEC.3 | [マネージャー] うちは衣装に金かけてなくて良かったよ / 危ない、危ない…
+   Glad we didn't sink much money into costumes. Phew, dodged that one...
+>> 7A5B60.3 | [シズク] えっ？　横取り屋を雇ったのは / 私じゃないかですって？
+   Hm? You're asking if I'm the one who hired the Poachers?
+>> 7A5B60.6 | [シズク] あら、私はそんなことしないわよ / ウフフ…
+   Oh my, I'd never do such a thing. Hee hee...
+>> 7A5C08.3 | [ナミヲ] だいたい歌に自身のないやからが / ああいった大仰な衣装を持ち出すんだ！
+   Only those with no faith in their singing trot out such grandiose costumes!
+>> 7A5C88.3 | [マネージャー] オレも昔、演歌聞いてハマっちゃってさ / それ以来この業界にいるってわけよ…
+   I got hooked on enka way back, too, and I've been in this business ever since...
+>> 7A5D10.3 | [ロクロー] フーフフーン♪ / やっぱりマズいな…声が…
+   Hmm-hmm-hmmm♪ Still no good... My voice...
+>> 7A5D74.3 | [ハカマ] だから知らないって言ってるじゃない！ / いい加減にしなさいよ、アナタ！！
+   I told you, I don't know! Enough already, you!!
+>> 7A5DF4.3 | [ツルコ] ああっ！　早くしないと！！ / お願い、一刻も早く奪り還して！！
+   Oh! We have to hurry!! Please, get it back as fast as you can!!
+>> 7A5E6C.3 | [マネージャー] ところでウチのキキョウを知らないか？ / そろそろ着替えないと間に合わないぞ…
+   By the way, seen our Kikyo? If she doesn't change soon, she won't make it...
+>> 7A5EF4.3 | [シズク] あんな衣装、燃えちゃえばいいのよ
+   That costume can burn for all I care.
+>> 7A5EF4.5 | [シズク] あら、今のは聞かなかったことにして / ちょうだいね。ウフフ…
+   Oh my, do pretend you didn't hear that. Hee hee...
+>> 7A5F98.3 | [ナミヲ] ところで演歌の演はなにの演だ？ / 知っておるかね、キミ？
+   By the way, do you know what the "en" in "enka" means, young man?
+>> 7A600C.3 | [マネージャー] それ以来２０年もこの業界にいるんだよ / …道、間違えたかな？
+   I've been in this business 20 years since then... Did I take a wrong turn?
+>> 7A6084.3 | [ハカマ] ………
+   ...
+>> 7A6084.5 | [ハカマ] そんなに還して欲しかったら / 舞台裏へ行くといいわ、フン！！
+   If you want it back that badly, try going backstage. Hmph!!
+>> 7A6110.3 | [波児] コーヒーでも飲んでくか？
+   How about a cup of coffee before you go?
+>> 7A615C.4 | [夏実] ファイト！！
+   Go get 'em!!
+>> 7A61A8.3 | [ヘヴン] ちょっと、 / 今回ばかりはヘマしないでよね
+   Hey, don't you dare screw up this time.
+>> 7A620C.3 | [アル] 演歌ッテ、オモシロイヨ！ / ア～♪　アア～～～♪♪♪
+   Enka's fun! Ahh~♪ Ahhh~~~♪♪♪
+>> 7A6274.4 | [ＴＡＲＥ] ウキュ～♪
+   Ukyuu~♪
+>> 7A62C4.3 | [卑弥呼] …まだ負けたわけじゃないわ！
+   ...I haven't lost yet!
+>> 7A6318.2 | フローラルつる子 / 新曲、『︀人生はスパンコール』︀発売中！
+   Floral Tsuruko's new song, 'Life Is Sequins', on sale now!
+>> 7A6318.7 | [蛮] …これはアレか？ / 人生は輝いてるとでもいいてえのか？
+   ...What, is she trying to say life is all sparkly or somethin'?
+>> 7A63D4.2 | フローラルつる子 / 新曲、『︀人生はスパンコール』︀発売中！
+   Floral Tsuruko's new song, 'Life Is Sequins', on sale now!
+>> 7A63D4.7 | [銀次] あっ！ / コレ、さっきＣＤもらったよ！！
+   Ah! They gave me this CD earlier!!
+>> 7A6484.2 | フローラルつる子 / 新曲、『︀人生はスパンコール』︀発売中！
+   Floral Tsuruko's new song, 'Life Is Sequins', on sale now!
+>> 7A6484.7 | [卑弥呼] 演歌は聞かないわ…
+   I don't listen to enka...
+>> 7A6520.2 | フローラルつる子 / 新曲、『︀人生はスパンコール』︀発売中！
+   Floral Tsuruko's new song, 'Life Is Sequins', on sale now!
+>> 7A6520.7 | [赤屍] ………
+   ...
+>> 7A65AC.2 | フローラルつる子 / 新曲、『︀人生はスパンコール』︀発売中！
+   Floral Tsuruko's new song, 'Life Is Sequins', on sale now!
+>> 7A65AC.7 | [花月] どんな歌なんでしょう、これは？
+   I wonder what sort of song this is?
+>> 7A6650.2 | フローラルつる子 / 新曲、『︀人生はスパンコール』︀発売中！
+   Floral Tsuruko's new song, 'Life Is Sequins', on sale now!
+>> 7A6650.7 | [士度] …スパンコールってのはなんだ？
+   ...What the hell's a "sequin"?
+>> 7A66F4.2 | フローラルつる子 / 新曲、『︀人生はスパンコール』︀発売中！
+   Floral Tsuruko's new song, 'Life Is Sequins', on sale now!
+>> 7A66F4.7 | [笑師] ええなあ、 / ワイもＣＤデビューしたいわぁ～
+   Lucky! I wanna make my CD debut too~
+>> 7A67A8.2 | フローラルつる子 / 新曲、『︀人生はスパンコール』︀発売中！
+   Floral Tsuruko's new song, 'Life Is Sequins', on sale now!
+>> 7A67A8.7 | [十兵衛] …演歌はいいものだ
+   ...Enka is a fine thing.
+>> 7A6844.2 | フローラルつる子 / 新曲、『︀人生はスパンコール』︀発売中！
+   Floral Tsuruko's new song, 'Life Is Sequins', on sale now!
+>> 7A6844.7 | [鏡] こういうのは聞かないんだよね
+   I don't really listen to this kind of thing.

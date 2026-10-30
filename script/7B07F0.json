@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "士度",
   "jp": "あいつ…",
-  "en": ""
+  "en": "That guy... looks like he's got a passcode."
  },
  {
   "id": "7B07F0.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "士度",
   "jp": "パスコード持ってそうなんだけどな",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B07F0.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "こないな時は潜入捜査の時の　",
-  "en": ""
+  "en": "At a time like this, why not use that plan"
  },
  {
   "id": "7B07F0.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "あの作戦使たらエエんちゃう？",
-  "en": ""
+  "en": "from our undercover op?"
  },
  {
   "id": "7B07F0.11",
@@ -58,6 +58,6 @@
   "box": 3,
   "speaker": "士度",
   "jp": "またアレかよ…　",
-  "en": ""
+  "en": "That again..."
  }
 ]

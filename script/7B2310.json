@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "シズク　",
   "jp": "あら…アナタたちはＮホールの時の…　",
-  "en": ""
+  "en": "Oh my... you're the ones from that N Hall\nbusiness..."
  },
  {
   "id": "7B2310.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "シズク　",
   "jp": "これあげるから、",
-  "en": ""
+  "en": "I'll give you this, so don't tell anyone"
  },
  {
   "id": "7B2310.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "シズク　",
   "jp": "この前のことは誰にも言わないでね",
-  "en": ""
+  "en": "about last time."
  },
  {
   "id": "7B2310.10",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "シズク　",
   "jp": "ばんえみのＭ、えみぎんのＭを",
-  "en": ""
+  "en": "Got the Ban-Emi Memory and Emi-Gin"
  },
  {
   "id": "7B2310.11",
@@ -44,6 +44,6 @@
   "box": 3,
   "speaker": "シズク　",
   "jp": "手に入れた！",
-  "en": ""
+  "en": "Memory!"
  }
 ]

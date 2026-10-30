@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "銀次さん、ここは…　",
-  "en": ""
+  "en": "Ginji-san, here..."
  },
  {
   "id": "7CEC90.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "まさか一人で戦うなんていわないよね？",
-  "en": ""
+  "en": "You're not gonna say you'll fight alone,\nare you?"
  },
  {
   "id": "7CEC90.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "一緒に戦おうよ、カヅっちゃん！　",
-  "en": ""
+  "en": "Let's fight together, Kazu-chan!"
  },
  {
   "id": "7CEC90.11",
@@ -50,7 +50,7 @@
   "box": 4,
   "speaker": "花月",
   "jp": "ダメですよ、あなたには　",
-  "en": ""
+  "en": "No, you mustn't. There should be"
  },
  {
   "id": "7CEC90.14",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "花月",
   "jp": "しなくてはならないことがあるはずです",
-  "en": ""
+  "en": "something you have to do."
  },
  {
   "id": "7CEC90.16",
@@ -66,7 +66,7 @@
   "box": 5,
   "speaker": "花月",
   "jp": "ここは僕に任せて、　",
-  "en": ""
+  "en": "Leave this to me, and go on ahead."
  },
  {
   "id": "7CEC90.17",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "花月",
   "jp": "あなたは先に行って下さい",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CEC90.19",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7CEC90.23",
@@ -104,7 +104,7 @@
   "box": 7,
   "speaker": "花月",
   "jp": "大丈夫ですよ、銀次さん　",
-  "en": ""
+  "en": "It's all right, Ginji-san. You can do things"
  },
  {
   "id": "7CEC90.26",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "花月",
   "jp": "あなたは僕にはできないことができる…",
-  "en": ""
+  "en": "that I cannot..."
  },
  {
   "id": "7CEC90.28",
@@ -120,7 +120,7 @@
   "box": 8,
   "speaker": "花月",
   "jp": "そしてそれは多分、　",
-  "en": ""
+  "en": "And that is probably something only you"
  },
  {
   "id": "7CEC90.29",
@@ -128,7 +128,7 @@
   "box": 8,
   "speaker": "花月",
   "jp": "あなたにしかできないことです",
-  "en": ""
+  "en": "can do."
  },
  {
   "id": "7CEC90.31",
@@ -136,7 +136,7 @@
   "box": 9,
   "speaker": "花月",
   "jp": "行って下さい、銀次さん　",
-  "en": ""
+  "en": "Please go, Ginji-san."
  },
  {
   "id": "7CEC90.33",
@@ -151,6 +151,6 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "…気をつけてね、カヅっちゃん",
-  "en": ""
+  "en": "...Be careful, Kazu-chan."
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "富豪",
   "jp": "失われた大陸にはかつて帝国があり、　",
-  "en": ""
+  "en": "They say the Lost Continent once had an"
  },
  {
   "id": "7C1B40.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "富豪",
   "jp": "優れた文明を有していたということだ　",
-  "en": ""
+  "en": "empire with an advanced civilization."
  },
  {
   "id": "7C1B40.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "富豪",
   "jp": "その大陸の住人が今でも　",
-  "en": ""
+  "en": "There are rumors that people from that"
  },
  {
   "id": "7C1B40.7",
@@ -36,6 +36,6 @@
   "box": 2,
   "speaker": "富豪",
   "jp": "生き残っているというウワサがあるが…",
-  "en": ""
+  "en": "continent survive even now..."
  }
 ]

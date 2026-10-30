@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "どうやらここがヤツらの　",
-  "en": ""
+  "en": "Looks like this here's their hideout."
  },
  {
   "id": "7B90B8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "アジトみてェだな",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B90B8.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "ねえねえ、ヘヴンさんが言ってた　",
-  "en": ""
+  "en": "Hey, hey, those not-human enemies"
  },
  {
   "id": "7B90B8.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "人間じゃない敵って出てこないね　",
-  "en": ""
+  "en": "Hevn-san talked about aren't showing up."
  },
  {
   "id": "7B90B8.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "どうしちゃったのかな？　",
-  "en": ""
+  "en": "What happened to them, I wonder?"
  },
  {
   "id": "7B90B8.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "…さあな、　",
-  "en": ""
+  "en": "...Who knows? Maybe they got scared of"
  },
  {
   "id": "7B90B8.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "俺たちにビビって逃げ出したのかもな　",
-  "en": ""
+  "en": "us and ran off."
  },
  {
   "id": "7B90B8.18",
@@ -82,6 +82,6 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ともかく、前進あるのみだぜ！",
-  "en": ""
+  "en": "Anyway, the only way is forward!"
  }
 ]

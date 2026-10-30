@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あ！　やっぱりカヅっちゃんだ！　",
-  "en": ""
+  "en": "Ah! It IS Kazu-chan! Look, in the hallway!"
  },
  {
   "id": "79A6C0.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "ホラ、廊下に！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79A6C0.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "ん？",
-  "en": ""
+  "en": "Hm?"
  },
  {
   "id": "79A6C0.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "…って、いねぇじゃねえかよ！",
-  "en": ""
+  "en": "...There's nobody there, dammit!"
  },
  {
   "id": "79A6C0.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ヘンだな～、確かにいたのになあ…",
-  "en": ""
+  "en": "That's weird... He was definitely there..."
  },
  {
   "id": "79A6C0.16",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "髪の長い女のユーレイと　",
-  "en": ""
+  "en": "Sure you didn't mistake some long-haired"
  },
  {
   "id": "79A6C0.19",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "見間違えてンじゃねーか？",
-  "en": ""
+  "en": "lady ghost for him?"
  },
  {
   "id": "79A6C0.21",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "どうするよ、",
-  "en": ""
+  "en": "So what're you gonna do if there's a"
  },
  {
   "id": "79A6C0.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "お前の背後にユーレイがいたりしたら？",
-  "en": ""
+  "en": "ghost right behind you?"
  },
  {
   "id": "79A6C0.24",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "平気、平気！",
-  "en": ""
+  "en": "No problem, no problem! I can't sense"
  },
  {
   "id": "79A6C0.27",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "オレ霊感ないもん！！",
-  "en": ""
+  "en": "spirits anyway!!"
  },
  {
   "id": "79A6C0.29",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "なら、向こうの物陰に赤屍が　",
-  "en": ""
+  "en": "Then what if Akabane's lurking in the"
  },
  {
   "id": "79A6C0.32",
@@ -143,7 +143,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "潜んでたらどうするよ？　",
-  "en": ""
+  "en": "shadows over there?"
  },
  {
   "id": "79A6C0.34",
@@ -158,7 +158,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "…そ、それは怖いね　",
-  "en": ""
+  "en": "...Th-that'd be scary."
  },
  {
   "id": "79A6C0.38",
@@ -173,6 +173,6 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "…ある意味、悪霊よりタチ悪ィからな　",
-  "en": ""
+  "en": "...In a way, he's nastier than any evil\nspirit."
  }
 ]

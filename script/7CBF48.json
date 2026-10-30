@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ＭＡＩ　",
   "jp": "きっと今ごろ、新宿の街は",
-  "en": ""
+  "en": "I'm sure the streets of Shinjuku are in"
  },
  {
   "id": "7CBF48.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "ＭＡＩ　",
   "jp": "大変なことになっているでしょう…",
-  "en": ""
+  "en": "terrible trouble right now..."
  },
  {
   "id": "7CBF48.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "ＭＡＩ　",
   "jp": "それでもどうか、",
-  "en": ""
+  "en": "Even so, please don't lose hope."
  },
  {
   "id": "7CBF48.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "ＭＡＩ　",
   "jp": "希望を失わないで下さい　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CBF48.9",
@@ -44,7 +44,7 @@
   "box": 3,
   "speaker": "ＭＡＩ　",
   "jp": "この街のどこかで、　",
-  "en": ""
+  "en": "Because somewhere in this city, there are"
  },
  {
   "id": "7CBF48.10",
@@ -52,6 +52,6 @@
   "box": 3,
   "speaker": "ＭＡＩ　",
   "jp": "戦っている人たちがいるのですから…　",
-  "en": ""
+  "en": "people fighting..."
  }
 ]

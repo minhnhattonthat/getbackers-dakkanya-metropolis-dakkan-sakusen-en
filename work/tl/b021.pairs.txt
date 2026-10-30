@@ -1,0 +1,376 @@
+>> 7BA698.2 | １８→２３→２
+   18 -> 23 -> 2
+>> 7BA6D4.2 | ２５→２→１８
+   25 -> 2 -> 18
+>> 7BA710.2 | １８→２５→２→７
+   18 -> 25 -> 2 -> 7
+>> 7BA750.2 | １５→１８→１６→７→２→２３
+   15 -> 18 -> 16 -> 7 -> 2 -> 23
+>> 7BA79C.3 | [十兵衛] この場所は地脈の関係か、 / 癒しの効果が現われているようだな
+   Something about the earth's flow here seems to have a healing effect.
+>> 7BA79C.8 | [銀次] ほんとだ！ / なんだか体が軽くなってく…
+   It's true! My body feels lighter somehow...
+>> 7BA79C.12 | [銀次] 体力が回復した！
+   HP restored!
+>> 7BA898.2 | 体力が回復した！
+   HP restored!
+>> 7BA8E0.3 | [蛮] ん？　こりゃさっきのスイッチとは / 別のモンみてえだな…
+   Hm? This looks like a different kind of switch from the last one...
+>> 7BA8E0.8 | [銀次] 押してみるの、蛮ちゃん？
+   Are you gonna press it, Ban-chan?
+>> 7BA8E0.12 | [蛮] 押すしかねえだろ！
+   What else would I do?!
+>> 7BA9C4.3 | [銀次] ビ、ビックリした…
+   Th-that scared me...
+>> 7BA9C4.7 | [花月] …別の場所に穴が開きましたね
+   ...A hole opened up somewhere else.
+>> 7BA9C4.11 | [蛮] どれ、もう一回押してみるか…
+   Okay, let's press it one more time...
+>> 7BAA90.3 | [銀次] や、やめてよ！　蛮ちゃん！！ / 危ないじゃん！！
+   S-stop it, Ban-chan!! That's dangerous!!
+>> 7BAA90.8 | [蛮] オメーがちょろちょろ移動するから / いけねーんだろうが！
+   It's your fault for scurrying around all over the place!
+>> 7BAA90.13 | [赤屍] クス…
+   Heh...
+>> 7BAA90.15 | [赤屍] なんにせよ、 / これでスイッチの構造が分かりましたね
+   In any case, now we understand how the switches work.
+>> 7BABC0.3 | [銀次] 蛮ちゃん、またしても違うスイッチが！ / どうしよう？
+   Ban-chan, another different switch! What do we do?
+>> 7BABC0.8 | [蛮] …ま、押すしかねえだろうな
+   ...Well, guess we gotta press it.
+>> 7BAC6C.3 | [卑弥呼] 遠くの方で音がしたわね…
+   There was a sound somewhere far off...
+>> 7BACC0.3 | [銀次] あれ？ / 押すところが中に入っちゃってるよ
+   Huh? The button sank all the way in.
+>> 7BACC0.8 | [花月] どうやら一回しか押すことのできない / 構造になってるみたいですね
+   It seems it's built so it can only be pressed once.
+>> 7BAD8C.3 | [銀次] これも違うスイッチだね… / 蛮ちゃん、どうしよう？
+   This is a different switch too... Ban-chan, what do we do?
+>> 7BAD8C.8 | [蛮] 押すだろ、やっぱ
+   We press it, obviously.
+>> 7BAE2C.3 | [十兵衛] 遠方で音がしたな…
+   There was a sound in the distance...
+>> 7BAE7C.3 | [写真屋] 旅の記念に写真いかがですカ？
+   Photo for memory of trip, yes?
+>> 7BAE7C.7 | [銀次] 写真屋さん、こんなところまで… / 大変ですね
+   Photographer-san, all the way out here... That must be rough.
+>> 7BAE7C.12 | [写真屋] 気にしないで / ダイジョブダイジョブ
+   No worry. Is okay, is okay.
+>> 7BAF6C.2 | １８→１５→２→２３→７→２５
+   18 -> 15 -> 2 -> 23 -> 7 -> 25
+>> 7BAFB8.2 | ２３→２５→１８→７→２
+   23 -> 25 -> 18 -> 7 -> 2
+>> 7BAFFC.2 | Ｑ１：５＋７－１０＋１３＋３＝ / Ｑ２：８＋９－３＋５＝
+   Q1: 5 + 7 - 10 + 13 + 3 = / Q2: 8 + 9 - 3 + 5 =
+>> 7BAFFC.5 | Ｑ１→Ｑ２
+   Q1 -> Q2
+>> 7BAFFC.9 | [蛮] ああ？　ここだけ計算になってンぞ
+   Huh? This one's all math.
+>> 7BAFFC.13 | [卑弥呼] …答えの番号のスイッチを / 順番に押せってことかしら？
+   ...Maybe it means press the switches with the answers' numbers, in order?
+>> 7BB120.2 | レモン→ほうれん草→イチゴ→みかん
+   Lemon -> Spinach -> Strawberry -> Tangerine
+>> 7BB120.6 | [笑師] な、謎の暗号や！！ / 宇宙人からのメッセージちゃうか！？
+   A s-secret code!! Could it be a message from aliens?!
+>> 7BB120.11 | [花月] でも暗号というには簡単すぎるね？
+   But isn't it a little too simple to call a code?
+>> 7BB120.15 | [十兵衛] …確かに
+   ...Indeed.
+>> 7BB120.19 | [笑師] えっ、そうなん？
+   Huh, is it?
+>> 7BB278.2 | なぞなぞ
+   Riddles
+>> 7BB278.4 | Ｑ１　お城の色は何色？
+   Q1 What color is the Isle of Wight?
+>> 7BB278.6 | Ｑ２　薬の中身は何色？
+   Q2 What color is inside "medicine"?
+>> 7BB278.8 | Ｑ１→Ｑ２
+   Q1 -> Q2
+>> 7BB278.12 | [銀次] な…なぞなぞ？？？
+   R... riddles???
+>> 7BB278.14 | [銀次] うーん、お城の色と言えば…灰色かな？
+   Hmm, the color of an island... green, maybe?
+>> 7BB278.16 | [銀次] 薬は… / あんまり飲まないから分かんないなあ
+   Medicine... I hardly ever take any, so I dunno...
+>> 7BB278.21 | [赤屍] 銀次クン… / それではなぞなぞになっていませんよ
+   Ginji-kun... That would not make it a riddle.
+>> 7BB278.26 | [銀次] ス、スミマセン…
+   S-sorry...
+>> 7BB278.30 | [赤屍] これは…どちらも同じ色のようですね
+   These... both appear to be the same color.
+>> 7BB278.34 | [銀次] わ、分かるんですか、赤屍さん！？
+   Y-you know the answer, Akabane-san?!
+>> 7BB278.36 | [銀次] ヒントだけでもお願いします！
+   Please, at least give me a hint!
+>> 7BB278.40 | [赤屍] …銀次クン、薬を漢字で書けますか？
+   ...Ginji-kun, can you write "medicine" in kanji?
+>> 7BB278.44 | [銀次] た、多分…
+   I-I think so...
+>> 7BB278.48 | [赤屍] では中身が何色か分かるはずですよ…
+   Then you should know what color is inside it...
+>> 7BB5A0.2 | １８→２３→２
+   18 -> 23 -> 2
+>> 7BB5A0.6 | [蛮] なんだ、こりゃ？
+   What the hell is this?
+>> 7BB5A0.10 | [卑弥呼] この順番になにかしろって / ことじゃないかしら？
+   Doesn't it mean we're supposed to do something in this order?
+>> 7BB5A0.15 | [蛮] なにか？
+   Do something?
+>> 7BB5A0.19 | [士度] 辺りを探ってみた方がよさそうだな…
+   We'd better search the area...
+>> 7BB6D8.2 | ２５→２→１８
+   25 -> 2 -> 18
+>> 7BB6D8.6 | [笑師] な、なんや？　分からへん
+   Wh-what's this? I don't get it.
+>> 7BB6D8.10 | [花月] どうもこの順番になにかしろって / ことみたいだね…
+   It seems we're meant to do something in this order...
+>> 7BB6D8.15 | [十兵衛] 辺りを探る必要がありそうだな…
+   It seems we must search the area...
+>> 7BB7F0.2 | １８→２５→２→７
+   18 -> 25 -> 2 -> 7
+>> 7BB7F0.6 | [銀次] ？？？
+   ???
+>> 7BB7F0.8 | [銀次] 大変です、赤屍さん！ / 秘密の暗号が！！
+   This is bad, Akabane-san! It's a secret code!!
+>> 7BB7F0.13 | [赤屍] 大丈夫ですよ、暗号というものは / 解けるようにできているはずですから
+   It is fine. A code is always made to be solved, after all.
+>> 7BB7F0.18 | [銀次] ？？？？？？？？？？？？？？？ / ？？？？？？？？？？？？？？？
+   ??????????????? ???????????????
+>> 7BB7F0.23 | [赤屍] どこかにヒントがあるはずです / 探してみましょう
+   There must be a hint somewhere. Let us look for it.
+>> 7BB9B4.4 | 黄色いスイッチがある…
+   There's a yellow switch...
+>> 7BBA10.4 | 赤いスイッチがある…
+   There's a red switch...
+>> 7BBA68.4 | 青いスイッチがある…
+   There's a blue switch...
+>> 7BBAC0.4 | 緑色のスイッチがある…
+   There's a green switch...
+>> 7BBB1C.4 | 白いスイッチがある…
+   There's a white switch...
+>> 7BBB74.4 | 銀色のスイッチがある…
+   There's a silver switch...
+>> 7BBBD0.4 | 紫色のスイッチがある…
+   There's a purple switch...
+>> 7BBC2C.4 | オレンジ色のスイッチがある…
+   There's an orange switch...
+>> 7BBC8C.3 | [蛮] 間違えたみてえだな… / やり直してみるか
+   Looks like I screwed up... Let's try that again.
+>> 7BBCEC.3 | [花月] 間違えてしまったみたいですね… / やり直しましょう
+   It seems I made a mistake... Let's try again.
+>> 7BBD58.3 | [銀次] あー、間違えちゃったみたい… / やり直そっか
+   Aww, looks like I messed up... Let's try again.
+>> 7BBDBC.3 | [蛮] よっしゃ！ / ガンガン先に進むとするか！！
+   Alright! Let's charge on ahead!!
+>> 7BBDBC.8 | [卑弥呼] ダメよ、別チームのトビラのスイッチを / 解除するかも知れないし…
+   No. We might be the ones who unlock the door switch for another team...
+>> 7BBDBC.13 | [蛮] しゃあねえな…待ってるとするか
+   Fine, fine... Guess we'll wait.
+>> 7BBECC.3 | [笑師] おお～、ようやっと抜けましたな！ / ほな先行きましょか！
+   Oooh, we finally made it through! Then let's head on!
+>> 7BBECC.8 | [花月] ダメですよ
+   No, we mustn't.
+>> 7BBECC.10 | [花月] 別チームのトビラのスイッチを / 解除するかも知れませんしね…
+   We might be the ones who unlock the door switch for another team...
+>> 7BBECC.15 | [十兵衛] ここで待った方が良さそうだな…
+   It seems best to wait here...
+>> 7BBFFC.3 | [銀次] わ～い、抜けた抜けた～！！
+   Yaaay, we made it through, we made it~!!
+>> 7BBFFC.5 | [銀次] 赤屍さん、どんどん先に進みましょう！
+   Akabane-san, let's keep going on ahead!
+>> 7BBFFC.9 | [赤屍] それは構いませんが…他の方々が / 出られなくなるかも知れませんよ？
+   I do not mind... but the others might not be able to get out.
+>> 7BBFFC.12 | [赤屍] それでもよろしいのですか？
+   Is that really alright with you?
+>> 7BBFFC.16 | [銀次] あ…やっぱりここで待ちましょう…
+   Oh... L-let's wait here after all...
+>> 7BC154.3 | [蛮] ここらで他のヤツらを / 待ってた方が良さそうだな…
+   Guess we'd better wait around here for the others...
+>> 7BC1C0.3 | [花月] ここで他の人たちを待ちましょうか…
+   Shall we wait here for the others...?
+>> 7BC21C.3 | [銀次] 蛮ちゃんたちが来るのここで待とう！
+   Let's wait here for Ban-chan and the others!
+>> 7BC278.3 | [蛮] …おい銀次、 / アルがいなくなったからって
+   ...Hey, Ginji. Just 'cause Al's gone,
+>> 7BC278.6 | [蛮] いつまでもウダウダしてんじゃねーよ / あんな疫病神、いねえ方がマシだっての
+   quit moping around forever. We're better off without that jinx.
+>> 7BC278.11 | [銀次] だってさあ… / アルくんってボーッとしてるから、
+   But... Al-kun's so spacey,
+>> 7BC278.14 | [銀次] どこかで悪質なキャッチセールスに / 捕まってるかも知れないじゃん
+   he might've gotten caught by some shady street salesman somewhere!
+>> 7BC278.19 | [蛮] 捕まったところで取られるような / 金持ってねえだろうが
+   Even if he did, he ain't got any money worth taking.
+>> 7BC278.24 | [銀次] それにオレと同じで / すごい方向音痴だから、
+   And he's got a terrible sense of direction, just like me,
+>> 7BC278.27 | [銀次] どこかで迷子になって / 行き倒れてるかも知れないし！！
+   so he might've gotten lost somewhere and collapsed!!
+>> 7BC278.32 | [蛮] ああ…それはヤベーかもな…
+   Yeah... that might be bad...
+>> 7BC278.36 | [銀次] でしょ！　もうオレ心配で / なにもノドを通らないんだよね～…
+   Right?! I'm so worried I can't get anything down my throat~...
+>> 7BC278.41 | [蛮] ついさっきピザ三人前 / 食ったばかりだろうが！！
+   You just ate three servings of pizza!!
+>> 7BC278.46 | [銀次] でもさあ～…
+   But still~...
+>> 7BC5DC.3 | [夏実] （…銀次さんてば、 / すごく落ち込んでますね）
+   (...Ginji-san's really down in the dumps.)
+>> 7BC5DC.8 | [波児] （ま、アルが急にいなくなったんだ / 仕方ないさ）
+   (Well, Al up and vanished on him. Can't be helped.)
+>> 7BC5DC.13 | [ヘヴン] （でも銀ちゃんがこの調子じゃ、 / しばらく仕事は頼めそうにないわね…）
+   (But with Gin-chan like this, I don't think I can give them any jobs for a while...)
+>> 7BC708.3 | [クレイマン] やあ、お久しぶり
+   Hello. It's been a while.
+>> 7BC758.3 | [銀次] わーい、クレイマンさんだ～！ / お久しぶりです！！
+   Yaaay, it's Clayman-san~! Long time no see!!
+>> 7BC758.8 | [蛮] （…なんつぅ変わり身の早さだ）
+   (...Talk about a quick change of heart.)
+>> 7BC758.10 | [蛮] なんの用だよ、クレイマン？
+   What do you want, Clayman?
+>> 7BC758.14 | [クレイマン] 二人に仕事の依頼をしたいと思ってね…
+   I'd like to hire you two for a job...
+>> 7BC758.16 | [クレイマン] 奪われた幻の財宝を / 奪還してもらいたいのだよ
+   I'd like you to retrieve a legendary treasure that was stolen.
+>> 7BC758.21 | [蛮] …幻の財宝だと？
+   ...A legendary treasure?
+>> 7BC758.25 | [クレイマン] そう…奪われたのは一夜にして海中に / 没したという『︀失われた大陸』︀の財宝だ
+   Yes... The treasure of the 'Lost Continent,' which sank into the sea in a single night.
+>> 7BC758.30 | [蛮] なんだそりゃ、 / アトランティスかなんかか？
+   What's that, Atlantis or something?
+>> 7BC758.33 | [蛮] ンなモン迷信に決まってンだろ？
+   Stuff like that's gotta be a myth, right?
+>> 7BC758.37 | [ヘヴン] そうとも言い切れないわね
+   You can't be so sure about that.
+>> 7BC758.39 | [ヘヴン] この前二人が奪還したＤＶＤロムには / その大陸に関する論文が入ってるのよ
+   The DVD-ROM you two retrieved the other day holds a paper about that continent.
+>> 7BC758.44 | [クレイマン] そう…『︀失われた大陸』︀の存在は / 科学的に実証されつつあるのだよ
+   Yes... The 'Lost Continent' is gradually being proven to exist by science.
+>> 7BC758.47 | [クレイマン] だがその存在を巡り、二つの大学が / みにくい争いを繰り広げているのだ
+   But two universities are waging an ugly dispute over its existence.
+>> 7BC758.52 | [蛮] で、どっちかが妨害工作してンのかよ / 大学のメンツを保つのも楽じゃねーな
+   So one's sabotaging the other? Saving face ain't easy for colleges, huh.
+>> 7BC758.57 | [クレイマン] 財宝は巡り巡って、近日中に裏の / オークションにかけられることになった
+   Passed from hand to hand, it will soon go up at a secret auction.
+>> 7BC758.60 | [クレイマン] 二人にはその機会に財宝を / 奪り還していただきたい
+   I'd like you two to take the treasure back at that opportunity.
+>> 7BC758.65 | [蛮] …なんかやる気しねーなぁ / どうせニセモノだって、そんなモン
+   ...I'm just not feeling it. It's gotta be a fake anyway.
+>> 7BC758.70 | [銀次] ちょ、ちょっと蛮ちゃん！
+   H-hey, Ban-chan!
+>> 7BC758.72 | [銀次] クレイマンさん、オークションは / どこで開かれるんですか？
+   Clayman-san, where's the auction being held?
+>> 7BC758.77 | [クレイマン] 新浜島（にいはまじま）だよ
+   On Niihama Island.
+>> 7BC758.81 | [蛮] なに！？ / もともとナンパ島ってことで有名なのに
+   What?! You mean that island, already famous as a pick-up spot,
+>> 7BC758.84 | [蛮] 温泉もわいちまったとかで / ギャルに大人気のあの新浜島か！？
+   that's now a huge hit with girls since hot springs sprang up there? Niihama Island?!
+>> 7BC758.89 | [クレイマン] そう…どうかな？ / 引き受けていただけるのかい？
+   Yes... So, what do you say? Will you take the job?
+>> 7BC758.94 | [蛮] もちろんだ！
+   Of course!
+>> 7BC758.97 | [蛮] ゲットバッカーズ！ / この依頼、確かに引き受けた！！
+   GetBackers! This job... consider it done!!
+>> 7BC758.100 | [蛮] 待ってろよ、水着ギャルども！ / ブハハハハ！
+   Wait for me, bikini babes! Bwahahaha!
+>> 7BC758.105 | [銀次] ば、蛮ちゃんってば、 / 変わり身早すぎだよ～…
+   B-Ban-chan, you changed your mind way too fast~...
+>> 7BC758.110 | [夏実] （…どっちもどっちですよね？）
+   (...They're both as bad as each other, aren't they?)
+>> 7BC758.114 | [波児] （ああ…確かにな…）
+   (Yeah... They sure are...)
+>> 7BD004.3 | [銀次] 蛮ちゃん…船に乗ってる時から / 思ってたんだけどさ
+   Ban-chan... I've been thinking this since we were on the boat, but...
+>> 7BD004.6 | [銀次] …寒くない？
+   ...isn't it cold?
+>> 7BD004.10 | [蛮] ………
+   ......
+>> 7BD004.14 | [銀次] こんなに寒かったら、 / 海水浴なんてできるはずないよね…
+   If it's this cold, there's no way anyone's going swimming in the sea...
+>> 7BD004.19 | [蛮] 降りそそぐ太陽…俺の水着ギャル………
+   The blazing sun... my bikini babes.........
+>> 7BD004.23 | [卑弥呼] 今は春よ！ / 水着ギャルなんているわけないじゃない
+   It's spring! Of course there aren't any bikini babes.
+>> 7BD004.28 | [花月] ………
+   ......
+>> 7BD004.30 | [花月] …オークションまでは / まだ時間がありますよね
+   ...We still have some time before the auction, don't we?
+>> 7BD004.33 | [花月] 僕と十兵衛は別行動を取らせて / いただきたいのですがよろしいですか？
+   Would it be alright if Juubei and I went off on our own?
+>> 7BD004.38 | [銀次] あれ、どこ行くの？
+   Huh, where are you going?
+>> 7BD004.42 | [花月] 目の治療に効くという温泉があるので / 行ってみようと思うんです
+   There's a hot spring said to be good for the eyes. I thought we'd try it.
+>> 7BD004.47 | [銀次] そっかあ、それはいいかもね / 行ってらっしゃい！
+   Oh, that sounds like a good idea! See you later!
+>> 7BD354.3 | [蛮] …そうか、 / 浴衣ギャルの線が残っていたな！
+   ...That's right, there's still the yukata babes!
+>> 7BD354.6 | [蛮] よっしゃ、こっちも温泉だ！ / 行くぜ、銀次！！
+   Alright, we're hitting the hot springs too! Let's go, Ginji!!
+>> 7BD354.11 | [銀次] 蛮ちゃーん、待ってよー！！
+   Ban-chaaan, wait for meee!!
+>> 7BD438.3 | [笑師] ギャルと聞いては黙っとれませんなあ！ / ワイらも行きましょか、士度はん！！
+   Can't keep quiet when I hear "babes"! Let's go too, Shido-han!!
+>> 7BD438.8 | [士度] 俺は別に温泉なんぞに興味はねえよ
+   I've got no interest in some hot spring.
+>> 7BD438.12 | [笑師] またまた！ / 士度はんものぞきたいくせに！！
+   Oh, come on! You wanna peek too, Shido-han!!
+>> 7BD438.15 | [笑師] ほな、行きましょか～！
+   Alrighty, let's get goin'~!
+>> 7BD574.3 | [卑弥呼] …なんなの、アイツら
+   ...What is with those guys?
+>> 7BD574.5 | [卑弥呼] 仕事で来てるってのに / 全然緊迫感ないじゃない
+   We're here on a job, and they're not taking it seriously at all.
+>> 7BD574.10 | [赤屍] 作戦開始時刻までは / まだ時間がありますからね
+   There is still time before the operation begins.
+>> 7BD574.13 | [赤屍] 仕方ないですよ…
+   It cannot be helped...
+>> 7BD574.17 | [卑弥呼] …じゃ、あたしも時間まで / その辺をブラブラして来ようかな
+   ...Then I guess I'll go wander around for a while too, until it's time.
+>> 7BD574.20 | [卑弥呼] あなたはどうするの、ジャッカル？
+   What about you, Jackal?
+>> 7BD574.24 | [赤屍] 私は会場の下見でもしようかと / 思っていますので、お構いなく
+   I thought I might scout out the venue, so do not mind me.
+>> 7BD574.29 | [卑弥呼] そう…じゃ、後でね
+   I see... Later, then.
+>> 7BD794.3 | [赤屍] …この気配、やはりあの方が / 近付いてきているようですね
+   ...This presence... It seems that person is drawing near after all.
+>> 7BD794.6 | [赤屍] 今回も楽しい仕事になりそうだ… / ククク…
+   This should be another fun job... Heh heh heh...
+>> 7BD840.3 | [蛮] おい、猿マワシ…嬢ちゃんと / いうものがありながらのぞきかよ
+   Hey, monkey-wrangler... You've got the young lady, and you're still going peeping?
+>> 7BD840.6 | [蛮] ったく、節操ねぇヤローだぜ…
+   Jeez, you got no shame...
+>> 7BD840.10 | [士度] うるせえ、 / 俺はムリヤリ連れて来られただけだ
+   Shut up. I just got dragged here against my will.
+>> 7BD840.15 | [笑師] またまた！ / ムリせんでエエて、士度はん！！
+   Oh, come on! No need to act tough, Shido-han!!
+>> 7BD840.20 | [銀次] ねえねえ、 / 寒いから早く温泉に入ろうよ～
+   Hey, hey, it's cold, so let's hurry and get in the hot spring~
+>> 7BD840.25 | [蛮] よっしゃ、露天風呂に行くとするか！
+   Alright, let's hit the open-air bath!
+>> 7BDA20.3 | [銀次] わ～い、露天風呂だ～！！
+   Yaaay, an open-air bath~!!
+>> 7BDA20.7 | [笑師] （アカンて！ / 静かにせんとのぞきがバレまっせ！）
+   (No, no! Keep it down or they'll catch us peekin'!)
+>> 7BDA20.12 | [銀次] （ゴメ～ン…）
+   (Sorryyy...)
+>> 7BDA20.16 | [蛮] （さてさて、どんな浴衣ギャルが / 温泉に入っているのかな～？）
+   (Now then, what kind of yukata babes are in the bath~?)
+>> 7BDB5C.3 | [蛮] （って、こっちは男湯かよ / 気持ち悪ぃモン見ちまったぜ…
+   (Wait, this is the men's bath? Ugh, I saw something gross...
+>> 7BDB5C.6 | [蛮] …ん？　なンか聞こえるな…）
+   ...Hm? I hear something...)
+>> 7BDB5C.10 | [富豪Ａ] …今回は護り屋の『弥勒』という者を / 雇っていますので、警備は万全ですよ
+   ...This time we've hired a protector called 'Miroku,' so security is airtight.
+>> 7BDB5C.15 | [蛮] （！　弥勒だと…！？）
+   (! Miroku...?!)
+>> 7BDB5C.19 | [富豪Ｂ] それはそれは…しかし、あの財宝の / ことを知られてしまうことになるが？
+   My, my... But won't he end up learning about that treasure?
+>> 7BDB5C.25 | [富豪Ａ] ですので、今回の仕事が終わり次第、 / 護り屋は始末させていただきますよ
+   Which is why, as soon as this job is over, we'll be disposing of the protector.
+>> 7BDB5C.28 | [富豪Ａ] 口封じのために…ね
+   To keep him quiet... you see.
+>> 7BDB5C.32 | [富豪Ｂ] それはそれは…そういえば荷物が / 到着する時間が早まったのでしたね
+   My, my... Come to think of it, the cargo's arrival time was moved up, wasn't it?
+>> 7BDB5C.35 | [富豪Ｂ] そろそろ届く頃ではありませんか？
+   Shouldn't it be arriving about now?

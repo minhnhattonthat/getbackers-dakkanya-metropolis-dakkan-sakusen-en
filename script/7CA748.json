@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "銀次さん、僕たちも行きますよ",
-  "en": ""
+  "en": "Ginji-san, we're coming too."
  },
  {
   "id": "7CA748.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "今回の事件、",
-  "en": ""
+  "en": "I'm rather curious to see how this incident"
  },
  {
   "id": "7CA748.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "その行く末が少々気になりますからね　",
-  "en": ""
+  "en": "will turn out."
  },
  {
   "id": "7CA748.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "十兵衛　",
   "jp": "これはＭＡＫＵＢＥＸの命でもある",
-  "en": ""
+  "en": "This is also MakubeX's order. We shall lend"
  },
  {
   "id": "7CA748.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "十兵衛　",
   "jp": "助太刀致そう",
-  "en": ""
+  "en": "you our aid."
  },
  {
   "id": "7CA748.13",
@@ -66,6 +66,6 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "カヅっちゃん、十兵衛…　",
-  "en": ""
+  "en": "Kazu-chan, Juubei..."
  }
 ]

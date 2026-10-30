@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "どうしよう、",
-  "en": ""
+  "en": "What do we do? We have to hurry and"
  },
  {
   "id": "7CE2B4.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "早く先に進まなくちゃならないのに…　",
-  "en": ""
+  "en": "keep going..."
  },
  {
   "id": "7CE2B4.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "それなら、　",
-  "en": ""
+  "en": "In that case, why not leave this to me?"
  },
  {
   "id": "7CE2B4.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "ここはオレに任せてもらおうかな　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CE2B4.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "えっ、でも…",
-  "en": ""
+  "en": "Huh? But..."
  },
  {
   "id": "7CE2B4.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "鏡　",
   "jp": "急ぐんだろ？",
-  "en": ""
+  "en": "You're in a hurry, right?"
  },
  {
   "id": "7CE2B4.19",
@@ -88,7 +88,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7CE2B4.23",
@@ -96,6 +96,6 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "ありがと、鏡さん！！",
-  "en": ""
+  "en": "Thanks, Kagami-san!!"
  }
 ]

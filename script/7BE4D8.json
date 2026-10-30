@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "十兵衛　",
   "jp": "待て！　",
-  "en": ""
+  "en": "Wait! This fight is not over yet!!"
  },
  {
   "id": "7BE4D8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "十兵衛　",
   "jp": "勝負はまだついておらんぞ！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BE4D8.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "弥勒",
   "jp": "すみませんが、あまり時間がないんです",
-  "en": ""
+  "en": "I'm sorry, but I don't have much time. I'll"
  },
  {
   "id": "7BE4D8.9",
@@ -43,6 +43,6 @@
   "box": 2,
   "speaker": "弥勒",
   "jp": "ここで失礼させていただきますよ　",
-  "en": ""
+  "en": "be taking my leave here."
  }
 ]

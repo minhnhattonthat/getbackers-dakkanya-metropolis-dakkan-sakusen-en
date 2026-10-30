@@ -56,7 +56,11 @@ LONG warnings (guessed slots) don't block OK: list them in your report.
 Never edit `glossary.md`. For a recurring name or term not in it, pick a form, use it consistently, and report it.
 
 ## Notes from earlier batches
-(none yet)
+- Wave-1 rulings (monkey trainer, mascot suit, Ukyuu, mob names, room keys, -han/-dono/-kun...): glossary.md
+  "Decisions from earlier batches". Item names in dialogue must match the menu (script/menu.json).
+- Keep reveals hidden: Saionji's gender until 79B0D8 (no "he"), Al as client/puppeteer, TARE as artificial life.
+- Adapted puzzles must stay solvable in English with the same answer (7BB278 riddle -> WHITE).
+- Name-card boxes (a lone name line before a shout) are just the name.
 
 ## Report (reply with only this)
 Files written and entry count per batch; then any lines: `NEW TERM: jp -> en`, `UNSURE: id - note`,

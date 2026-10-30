@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ＴＡＲＥ",
   "jp": "ウキュ～…ウキュキュ～…",
-  "en": ""
+  "en": "Ukyuu~... Ukyukyuu~..."
  },
  {
   "id": "7D3550.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "アルくんとはぐれて寂しかったんだね…",
-  "en": ""
+  "en": "You were lonely after getting separated"
  },
  {
   "id": "7D3550.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "もう大丈夫だよ、ＴＡＲＥ",
-  "en": ""
+  "en": "from Al-kun, huh... It's okay now, TARE."
  },
  {
   "id": "7D3550.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "さて、と",
-  "en": ""
+  "en": "Well, then."
  },
  {
   "id": "7D3550.14",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "これ以上騒ぎが大きくならねえうちに　",
-  "en": ""
+  "en": "Let's send this thing back before the"
  },
  {
   "id": "7D3550.15",
@@ -66,6 +66,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "そいつを還しちまうとするか！",
-  "en": ""
+  "en": "ruckus gets any bigger!"
  }
 ]

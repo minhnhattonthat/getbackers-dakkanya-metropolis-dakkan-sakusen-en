@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "…ン？　",
-  "en": ""
+  "en": "...Hm? Whoa! Is that...?!"
  },
  {
   "id": "792B68.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "おぉーっ！　ソレは！！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "792B68.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "おっ、こいつは手つかずの",
-  "en": ""
+  "en": "Whoa, it's an untouched deluxe bento box!"
  },
  {
   "id": "792B68.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "デラックス幕の内弁当じゃねえかよ！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "792B68.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "しかも賞味期限はまだ昨日！　",
-  "en": ""
+  "en": "And it only expired yesterday!"
  },
  {
   "id": "792B68.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "やったね、蛮ちゃん！",
-  "en": ""
+  "en": "We did it, Ban-chan! We finally get to eat a"
  },
  {
   "id": "792B68.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "やっとまともな食事にありつけるよ！　",
-  "en": ""
+  "en": "real meal!"
  },
  {
   "id": "792B68.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "どれ、　",
-  "en": ""
+  "en": "Now then, starting with this plump fried"
  },
  {
   "id": "792B68.21",
@@ -97,6 +97,6 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "まずはプリプリのエビフライから…",
-  "en": ""
+  "en": "shrimp..."
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "夏実",
   "jp": "いらっしゃ…",
-  "en": ""
+  "en": "Welco... Eek! Ginji-san, Al-kun?!"
  },
  {
   "id": "7C982C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "夏実",
   "jp": "きゃっ！　銀次さん、アルくん！？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C982C.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "夏実",
   "jp": "どうしたんですか…一体！？　",
-  "en": ""
+  "en": "What on earth happened to you?!"
  },
  {
   "id": "7C982C.8",
@@ -43,6 +43,6 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "…はは…ちょっと…コンセント借りるよ",
-  "en": ""
+  "en": "...Haha... Just... lemme borrow an outlet."
  }
 ]

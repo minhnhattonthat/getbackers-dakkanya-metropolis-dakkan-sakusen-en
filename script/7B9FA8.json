@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "セレクトボタンで",
-  "en": ""
+  "en": "Press SELECT to switch parties."
  },
  {
   "id": "7B9FA8.3",
@@ -13,6 +13,6 @@
   "box": 1,
   "speaker": "",
   "jp": "パーティを切り替えることができます　",
-  "en": ""
+  "en": " "
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "…あれ、なんだろう？",
-  "en": ""
+  "en": "...Huh, what's that?"
  },
  {
   "id": "795830.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "さっきアル君にもらった石が　",
-  "en": ""
+  "en": "The stone Al-kun gave me earlier looks like"
  },
  {
   "id": "795830.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "光ってるみたいなんだけど…　",
-  "en": ""
+  "en": "it's glowing..."
  },
  {
   "id": "795830.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "どれ、見せてみな？　",
-  "en": ""
+  "en": "Here, lemme see."
  },
  {
   "id": "795830.12",
@@ -51,7 +51,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "... Looks like the word \"Earth\" is showing"
  },
  {
   "id": "795830.13",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "土って字が浮かんでるように見えるな　",
-  "en": ""
+  "en": "up on it."
  },
  {
   "id": "795830.15",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "さっきアル君がオレは雷の、蛮ちゃんは",
-  "en": ""
+  "en": "Earlier Al-kun said I've got Thunder power"
  },
  {
   "id": "795830.18",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "無の力を持ってるって言ってたよね",
-  "en": ""
+  "en": "and Ban-chan's got Void power, right?"
  },
  {
   "id": "795830.20",
@@ -90,7 +90,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "…てことは士度は土の力を",
-  "en": ""
+  "en": "...So does that mean Shido has the power"
  },
  {
   "id": "795830.21",
@@ -98,7 +98,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "持ってるってことなのかな？　",
-  "en": ""
+  "en": "of Earth?"
  },
  {
   "id": "795830.23",
@@ -113,7 +113,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "土！！　",
-  "en": ""
+  "en": "Earth!! Bwahahaha! That suits you!"
  },
  {
   "id": "795830.26",
@@ -121,7 +121,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "ブハハハハッ！　お似合いだぜ！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "795830.28",
@@ -136,6 +136,6 @@
   "box": 8,
   "speaker": "士度",
   "jp": "うるせーんだよ、ウニ頭！",
-  "en": ""
+  "en": "Shut up, urchin head!"
  }
 ]

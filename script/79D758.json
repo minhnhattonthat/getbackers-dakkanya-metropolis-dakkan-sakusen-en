@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "79D758.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "なにしてんだろ、あの人？？　",
-  "en": ""
+  "en": "What's that guy doing??"
  },
  {
   "id": "79D758.7",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ケータイで仲間と",
-  "en": ""
+  "en": "Looks like he's calling his buddies on his"
  },
  {
   "id": "79D758.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "連絡取ってるらしいな…　",
-  "en": ""
+  "en": "cell..."
  },
  {
   "id": "79D758.12",
@@ -51,6 +51,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "バレてんぞ、コラ！！",
-  "en": ""
+  "en": "You're busted, punk!!"
  }
 ]

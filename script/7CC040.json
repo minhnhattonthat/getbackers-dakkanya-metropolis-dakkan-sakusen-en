@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ＭＡＩ　",
   "jp": "その人たちは私たちのために　",
-  "en": ""
+  "en": "Those people aren't fighting for our sake,"
  },
  {
   "id": "7CC040.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "ＭＡＩ　",
   "jp": "戦ってくれているわけじゃないけど…　",
-  "en": ""
+  "en": "but..."
  },
  {
   "id": "7CC040.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "ＭＡＩ　",
   "jp": "それでもやっぱり新宿の街を　",
-  "en": ""
+  "en": "even so, they're fighting to take back the"
  },
  {
   "id": "7CC040.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "ＭＡＩ　",
   "jp": "奪り還すために戦ってくれているのです",
-  "en": ""
+  "en": "city of Shinjuku."
  },
  {
   "id": "7CC040.9",
@@ -44,6 +44,6 @@
   "box": 3,
   "speaker": "ＭＡＩ　",
   "jp": "私はその人たちのために歌を歌います　",
-  "en": ""
+  "en": "I'll sing this song for them."
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あれ？　開かないみたいだよ？",
-  "en": ""
+  "en": "Huh? It won't open."
  },
  {
   "id": "7AD5E8.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "ン？　こりゃカギがかかってんな…",
-  "en": ""
+  "en": "Hm? It's locked..."
  },
  {
   "id": "7AD5E8.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "力づくで開けてもいいが、",
-  "en": ""
+  "en": "We could force it open, but if they call the"
  },
  {
   "id": "7AD5E8.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "警察呼ばれると後がマズいからな…",
-  "en": ""
+  "en": "cops, that'll mean trouble later..."
  },
  {
   "id": "7AD5E8.12",
@@ -51,6 +51,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "メンドくせーが、カギを探すとするか　",
-  "en": ""
+  "en": "What a pain, but let's go find the key."
  }
 ]

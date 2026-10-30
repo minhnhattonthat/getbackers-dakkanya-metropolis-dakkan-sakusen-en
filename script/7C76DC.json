@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "なんだ、こりゃ？",
-  "en": ""
+  "en": "What the hell? We can't use the stairs!!"
  },
  {
   "id": "7C76DC.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "階段使えねーじゃねえかよ！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C76DC.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "こういう大きなビルって　",
-  "en": ""
+  "en": "A big building like this should have"
  },
  {
   "id": "7C76DC.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "非常階段があるんじゃないかしら？",
-  "en": ""
+  "en": "emergency stairs, don't you think?"
  },
  {
   "id": "7C76DC.11",
@@ -51,6 +51,6 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "それを探しましょう！",
-  "en": ""
+  "en": "Let's look for them!"
  }
 ]

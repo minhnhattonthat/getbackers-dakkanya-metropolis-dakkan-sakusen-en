@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "！　この手応え…",
-  "en": ""
+  "en": "! The way that felt... Yeah, that thing ain't"
  },
  {
   "id": "7B92D8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "やっぱ人間じゃねえって感じだな　",
-  "en": ""
+  "en": "human."
  },
  {
   "id": "7B92D8.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "確かに、あの物体からは　",
-  "en": ""
+  "en": "Indeed. I sense nothing like life coming"
  },
  {
   "id": "7B92D8.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "生命のようなものが感じられん",
-  "en": ""
+  "en": "from that thing."
  },
  {
   "id": "7B92D8.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "人間じゃないとしたらなんだろう？",
-  "en": ""
+  "en": "If they're not human, what are they?"
  },
  {
   "id": "7B92D8.14",
@@ -66,7 +66,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ロボットとかなのかな！？",
-  "en": ""
+  "en": "Robots or something?!"
  },
  {
   "id": "7B92D8.16",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "知らねえな…",
-  "en": ""
+  "en": "Beats me... Well, we'll find out once we"
  },
  {
   "id": "7B92D8.19",
@@ -89,6 +89,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "ま、倒してみりゃ分かるってモンだぜ！",
-  "en": ""
+  "en": "beat 'em!"
  }
 ]

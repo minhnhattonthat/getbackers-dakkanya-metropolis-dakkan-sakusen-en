@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "士度",
   "jp": "いきなり銃口を向けるとはな…",
-  "en": ""
+  "en": "Pointing a gun at us right off the bat..."
  },
  {
   "id": "7ADB98.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "ま、",
-  "en": ""
+  "en": "Well, if that's how you wanna play it, that"
  },
  {
   "id": "7ADB98.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "そっちがそのつもりなら話は早ェ！",
-  "en": ""
+  "en": "makes this easy!"
  },
  {
   "id": "7ADB98.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "山城",
   "jp": "フン、うるさいネズミどもめ…",
-  "en": ""
+  "en": "Hmph, noisy rats... I'll shut you up myself!!"
  },
  {
   "id": "7ADB98.11",
@@ -51,6 +51,6 @@
   "box": 3,
   "speaker": "山城",
   "jp": "ワシが黙らせてやる！！　",
-  "en": ""
+  "en": " "
  }
 ]

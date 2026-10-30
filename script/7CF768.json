@@ -4,7 +4,7 @@
   "kind": "name",
   "box": 0,
   "jp": "民Ａ",
-  "en": "Local A"
+  "en": "Wanderer A"
  },
  {
   "id": "7CF768.3",
@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "民Ａ",
   "jp": "侵入者カ…コノ場デ消シテヤル",
-  "en": ""
+  "en": "Intruders... I erase you here and now."
  },
  {
   "id": "7CF768.5",
@@ -27,14 +27,14 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "待って、話を聞いてよ！！",
-  "en": ""
+  "en": "Wait, just hear us out!!"
  },
  {
   "id": "7CF768.9",
   "kind": "name",
   "box": 2,
   "jp": "民Ａ",
-  "en": "Local A"
+  "en": "Wanderer A"
  },
  {
   "id": "7CF768.11",
@@ -42,14 +42,14 @@
   "box": 3,
   "speaker": "民Ａ",
   "jp": "侵入者ガナニ言ウカ！",
-  "en": ""
+  "en": "Intruders, what you say?!"
  },
  {
   "id": "7CF768.14",
   "kind": "name",
   "box": 3,
   "jp": "民Ｂ",
-  "en": "Local B"
+  "en": "Wanderer B"
  },
  {
   "id": "7CF768.16",
@@ -57,7 +57,7 @@
   "box": 4,
   "speaker": "民Ｂ",
   "jp": "待テ！　ソノ人タチ…あるノ知リ合イダ",
-  "en": ""
+  "en": "Wait! Those people... they are Al's friends."
  },
  {
   "id": "7CF768.18",
@@ -65,7 +65,7 @@
   "box": 5,
   "speaker": "民Ｂ",
   "jp": "…話、聞コウ",
-  "en": ""
+  "en": "...We listen."
  },
  {
   "id": "7CF768.20",
@@ -80,7 +80,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "やれやれ、　",
-  "en": ""
+  "en": "Sheesh. Glad there's somebody here who's"
  },
  {
   "id": "7CF768.23",
@@ -88,7 +88,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "話の分かるヤツがいて良かったぜ…",
-  "en": ""
+  "en": "reasonable..."
  },
  {
   "id": "7CF768.25",
@@ -96,7 +96,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "で、アンタは",
-  "en": ""
+  "en": "So how much do you know about us?"
  },
  {
   "id": "7CF768.26",
@@ -104,14 +104,14 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "どこまで俺たちのこと知ってンだ？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CF768.28",
   "kind": "name",
   "box": 7,
   "jp": "民Ｂ",
-  "en": "Local B"
+  "en": "Wanderer B"
  },
  {
   "id": "7CF768.30",
@@ -119,7 +119,7 @@
   "box": 8,
   "speaker": "民Ｂ",
   "jp": "ダイタイノ事、あるカラ聞イテル　",
-  "en": ""
+  "en": "Most things, we hear from Al."
  },
  {
   "id": "7CF768.32",
@@ -127,7 +127,7 @@
   "box": 9,
   "speaker": "民Ｂ",
   "jp": "我々ハあるノ考エニ賛同シテルカラナ　",
-  "en": ""
+  "en": "We agree with Al's thinking, after all."
  },
  {
   "id": "7CF768.34",
@@ -142,14 +142,14 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "なら俺たちに協力してくんねーか？",
-  "en": ""
+  "en": "Then how about helping us out?"
  },
  {
   "id": "7CF768.38",
   "kind": "name",
   "box": 10,
   "jp": "民Ｂ",
-  "en": "Local B"
+  "en": "Wanderer B"
  },
  {
   "id": "7CF768.40",
@@ -157,7 +157,7 @@
   "box": 11,
   "speaker": "民Ｂ",
   "jp": "イイダロウ…ナニガ望ミダ？　",
-  "en": ""
+  "en": "Very well... What you want?"
  },
  {
   "id": "7CF768.42",
@@ -172,7 +172,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "液体窒素が欲しい",
-  "en": ""
+  "en": "I want liquid nitrogen."
  },
  {
   "id": "7CF768.46",
@@ -180,7 +180,7 @@
   "box": 13,
   "speaker": "蛮　",
   "jp": "このビルには爆弾が　",
-  "en": ""
+  "en": "There's a bomb planted in this building..."
  },
  {
   "id": "7CF768.47",
@@ -188,7 +188,7 @@
   "box": 13,
   "speaker": "蛮　",
   "jp": "仕掛けられているからな…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CF768.49",
@@ -196,14 +196,14 @@
   "box": 14,
   "speaker": "蛮　",
   "jp": "そいつを黙らせるのに必要だ　",
-  "en": ""
+  "en": "We need it to shut that thing up."
  },
  {
   "id": "7CF768.51",
   "kind": "name",
   "box": 14,
   "jp": "民Ｂ",
-  "en": "Local B"
+  "en": "Wanderer B"
  },
  {
   "id": "7CF768.53",
@@ -211,7 +211,7 @@
   "box": 15,
   "speaker": "民Ｂ",
   "jp": "液体窒素カ…",
-  "en": ""
+  "en": "Liquid nitrogen..."
  },
  {
   "id": "7CF768.55",
@@ -226,14 +226,14 @@
   "box": 16,
   "speaker": "銀次",
   "jp": "ない…とか？",
-  "en": ""
+  "en": "You... don't have any?"
  },
  {
   "id": "7CF768.59",
   "kind": "name",
   "box": 16,
   "jp": "民Ｂ",
-  "en": "Local B"
+  "en": "Wanderer B"
  },
  {
   "id": "7CF768.61",
@@ -241,7 +241,7 @@
   "box": 17,
   "speaker": "民Ｂ",
   "jp": "イヤ、倉庫ノ中ニ入ッテルガ…",
-  "en": ""
+  "en": "No, it is in warehouse... But the one with"
  },
  {
   "id": "7CF768.62",
@@ -249,7 +249,7 @@
   "box": 17,
   "speaker": "民Ｂ",
   "jp": "ソノカギ持ッテル者ノ姿ガ見エナイ",
-  "en": ""
+  "en": "the key, I do not see him."
  },
  {
   "id": "7CF768.64",
@@ -264,14 +264,14 @@
   "box": 18,
   "speaker": "銀次",
   "jp": "えっ、どこかに行っちゃったの？　",
-  "en": ""
+  "en": "Huh? Did he go somewhere?"
  },
  {
   "id": "7CF768.68",
   "kind": "name",
   "box": 18,
   "jp": "民Ｂ",
-  "en": "Local B"
+  "en": "Wanderer B"
  },
  {
   "id": "7CF768.70",
@@ -279,7 +279,7 @@
   "box": 19,
   "speaker": "民Ｂ",
   "jp": "下ニ様子見ニ行ッタキリ　",
-  "en": ""
+  "en": "He go down to look around, and he not"
  },
  {
   "id": "7CF768.71",
@@ -287,7 +287,7 @@
   "box": 19,
   "speaker": "民Ｂ",
   "jp": "戻ッテコナイノダ",
-  "en": ""
+  "en": "come back."
  },
  {
   "id": "7CF768.73",
@@ -302,7 +302,7 @@
   "box": 20,
   "speaker": "銀次",
   "jp": "どうする、蛮ちゃん？",
-  "en": ""
+  "en": "What do we do, Ban-chan?"
  },
  {
   "id": "7CF768.77",
@@ -317,6 +317,6 @@
   "box": 21,
   "speaker": "蛮　",
   "jp": "探しにいくしかなさそうだな…",
-  "en": ""
+  "en": "Looks like we've got no choice but to go\nfind him..."
  }
 ]

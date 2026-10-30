@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "士度",
   "jp": "…ここにもなにか仕掛けが",
-  "en": ""
+  "en": "...Looks like there's some kind of trick here"
  },
  {
   "id": "7BEFF8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "士度",
   "jp": "ありそうな感じだな　",
-  "en": ""
+  "en": "too."
  },
  {
   "id": "7BEFF8.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "ん～、あそこにマネキンありますやん　",
-  "en": ""
+  "en": "Hmm, there's a mannequin over there."
  },
  {
   "id": "7BEFF8.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "それに服着せてみせるんちゃいますか？",
-  "en": ""
+  "en": "Maybe we gotta dress it up?"
  },
  {
   "id": "7BEFF8.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "士度",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7BEFF8.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "いやいや、変ですて！",
-  "en": ""
+  "en": "No, no, it IS weird! Only that one's left like"
  },
  {
   "id": "7BEFF8.18",
@@ -81,6 +81,6 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "一つだけあんなんなっとるのも！！",
-  "en": ""
+  "en": "that!!"
  }
 ]

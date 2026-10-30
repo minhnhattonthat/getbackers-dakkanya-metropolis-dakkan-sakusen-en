@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "や、やめてよ！　蛮ちゃん！！",
-  "en": ""
+  "en": "S-stop it, Ban-chan!! That's dangerous!!"
  },
  {
   "id": "7BAA90.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "危ないじゃん！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BAA90.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "オメーがちょろちょろ移動するから",
-  "en": ""
+  "en": "It's your fault for scurrying around all"
  },
  {
   "id": "7BAA90.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "いけねーんだろうが！",
-  "en": ""
+  "en": "over the place!"
  },
  {
   "id": "7BAA90.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "赤屍",
   "jp": "クス…　",
-  "en": ""
+  "en": "Heh..."
  },
  {
   "id": "7BAA90.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "赤屍",
   "jp": "なんにせよ、",
-  "en": ""
+  "en": "In any case, now we understand how the"
  },
  {
   "id": "7BAA90.16",
@@ -74,6 +74,6 @@
   "box": 4,
   "speaker": "赤屍",
   "jp": "これでスイッチの構造が分かりましたね",
-  "en": ""
+  "en": "switches work."
  }
 ]

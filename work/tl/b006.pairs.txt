@@ -1,0 +1,528 @@
+>> 67FB44.2 | ユストスＳＳ： / ………
+   Iustus SS: / ...
+>> 67FBCC.2 | ユストスＳＳ： / ………
+   Iustus SS: / ...
+>> 67FBCC.24 | [土]無効バリアをはった！
+   Put up an Earth-proof barrier!
+>> 67FDDC.2 | レーフォＳＳ： / ………
+   Lefo SS: / ...
+>> 67FE64.2 | レーフォＳＳ： / ………
+   Lefo SS: / ...
+>> 67FE64.24 | [火]無効バリアをはった！
+   Put up a Fire-proof barrier!
+>> 680074.2 | アムルーＳＳ： / ………
+   Amoureux SS: / ...
+>> 6800FC.2 | アムルーＳＳ： / ………
+   Amoureux SS: / ...
+>> 680208.2 | ラトリスＳＳ： / ………
+   Ratrice SS: / ...
+>> 680290.2 | ラトリスＳＳ： / ………
+   Ratrice SS: / ...
+>> 6803FC.2 | ジュノーＳＳ： / ………
+   Junon SS: / ...
+>> 680484.2 | ジュノーＳＳ： / ………！！
+   Junon SS: / ...!!
+>> 6805F4.2 | ジュノーＳＳ： / ………
+   Junon SS: / ...
+>> 68067C.2 | ユピテルＳＳ： / ………
+   Jupiter SS: / ...
+>> 680704.2 | ユピテルＳＳ： / ………
+   Jupiter SS: / ...
+>> 680870.2 | ユピテルＳＳ： / ………
+   Jupiter SS: / ...
+>> 6808F8.2 | ユピテルＳＳ： / ………！！
+   Jupiter SS: / ...!!
+>> 680A68.2 | ディラＳＳ： / ………
+   Dira SS: / ...
+>> 680AEC.2 | ディラＳＳ： / ………！！
+   Dira SS: / ...!!
+>> 680B74.2 | ディラＳＳ： / ………
+   Dira SS: / ...
+>> 680CDC.2 | ランスＳＳ： / ………
+   Rance SS: / ...
+>> 680D60.2 | ランスＳＳ： / ………
+   Rance SS: / ...
+>> 680DE4.2 | ランスＳＳ： / ………
+   Rance SS: / ...
+>> 680EEC.2 | モンドＳＳ： / ………
+   Monde SS: / ...
+>> 680F70.2 | モンドＳＳ： / ………
+   Monde SS: / ...
+>> 680FF4.2 | レイユＳＳ： / ………
+   Reille SS: / ...
+>> 681078.2 | レイユＳＳ： / ………！！
+   Reille SS: / ...!!
+>> 681100.2 | ゲメンＳＳ： / ………
+   Gement SS: / ...
+>> 681184.2 | ゲメンＳＳ： / ………
+   Gement SS: / ...
+>> 6812EC.2 | ディブルＳＳ： / ………
+   Diable SS: / ...
+>> 681374.2 | ディブルＳＳ： / ………
+   Diable SS: / ...
+>> 6813FC.2 | リュネＳＳ： / ………
+   Lune SS: / ...
+>> 681480.2 | リュネＳＳ： / ………
+   Lune SS: / ...
+>> 681514.2 | テューヌＳＳ： / ………
+   Tune SS: / ...
+>> 68159C.2 | テューヌＳＳ： / ………
+   Tune SS: / ...
+>> 681700.2 | モールＳＳ： / ………
+   Mort SS: / ...
+>> 681784.2 | モールＳＳ： / ………
+   Mort SS: / ...
+>> 681784.21 | 特殊効果が無効化された！！
+   Special effects were nullified!!
+>> 681968.2 | トワールＳＳ： / ………
+   Toile SS: / ...
+>> 6819F0.2 | トワールＳＳ： / ………
+   Toile SS: / ...
+>> 681AFC.12 | 蛮： / スネークバイト！
+   Ban: / Snake Bite!
+>> 681D48.10 | 銀次： / そろそろ終わりにしよう
+   Ginji: / Let's end this.
+>> 681FE4.6 | 卑弥呼： / 加速香！
+   Himiko: / Speed Perfume!
+>> 6822BC.7 | 赤屍： / ブラッディ・ハリケーン
+   Akabane: / Bloody Hurricane.
+>> 6824A4.7 | 花月： / 風鳥院流絃術　雫
+   Kazuki: / Fuchoin school string art: Dewdrop!
+>> 682658.6 | 士度： / 百獣擬態　餓狼擬
+   Shido: / Beast Mimicry: Wolf Mimic!
+>> 68280C.9 | 笑師： / 呑み込め　洪水の如く！
+   Emishi: / Swallow 'em like a flood!
+>> 682A38.11 | 十兵衛： / 筧流針術　鳳仙花！
+   Juubei: / Kakei school needle art: Balsam Burst!
+>> 682C6C.17 | 鏡： / ダイヤモンド・ダスト
+   Kagami: / Diamond Dust.
+>> 6E5CD8.20 | [銀次] サ、サソリが…
+   Th-the scorpions...
+>> 6E5CD8.24 | [蛮] クソッ！　こんなところで…
+   Damn it! Not in a place like this...
+>> 6E5CD8.32 | [士度] クッ…
+   Ngh...
+>> 6E5CD8.40 | [蛮] ガアアアアアアアッ！！
+   GAAAAAAAAAAH!!
+>> 6E5CD8.44 | [銀次] わあああああああっ！！
+   WAAAAAAAAAAH!!
+>> 6E5CD8.48 | [士度] ぐわああああああっ！！
+   GWAAAAAAAAAH!!
+>> 6E5CD8.52 | [蛭田] ハハハハ！　ボクを怒らせるから / こんなことになるんだ！
+   Hahahaha! This is what you get for making me angry!
+>> 6E5CD8.55 | [蛭田] お前らなんか、 / ボクがちょっと本気になれば…
+   If I got even a little serious, guys like you would...
+>> 6E5CD8.71 | [蛭田] …えっ！？　ど、どういうこと？ / サソリが…大きなサソリが…
+   ...Huh?! Wh-what's going on? The scorpions... the giant scorpions...
+>> 6E5CD8.76 | [蛭田] か、体が動かない！ / …パパ！　助けて、パパァ！！
+   I-I can't move! ...Papa! Help me, Papaaa!!
+>> 6E5CD8.81 | [蛭田] ギャアアアアアッ！！
+   GYAAAAAAAAH!!
+>> 6E5CD8.83 | [蛭田] 蛮
+   Ban
+>> 6E5CD8.86 | [蛭田] ジャスト、１分だ
+   Just one minute.
+>> 6E6628.23 | [卑弥呼] 馬車サン、後ろからうるさいのが / 追いかけて来たみたいよ
+   Driver-san, looks like some noisy pests are chasing us from behind.
+>> 6E6628.28 | [馬車] ナメてもらっては困るきに、 / あんなポンコツには追いつかせんぜよ
+   Don't you underestimate me. I won't let that heap of junk catch up!
+>> 6E6628.33 | [卑弥呼] ジャッカル、あなたはあいつらと / 戦いたいでしょうけど、
+   Jackal, I know you'd love to fight them, but...
+>> 6E6628.36 | [卑弥呼] ここで追いつかれるわけには行かないわ / 一気に突き放すわよ
+   we can't let them catch us here. Let's leave them in the dust.
+>> 6E6628.41 | [赤屍] ここはあなたにお任せしますよ、 / レディ・ポイズン…
+   I will leave this to you, Lady Poison...
+>> 6E6628.46 | [馬車] 消えろ！　奪還屋！！
+   Get lost, GetBackers!!
+>> 6E6D18.36 | 蛮
+   Ban
+>> 6E6D18.39 | ジャスト、１分だ
+   Just one minute.
+>> 6E719C.16 | ツルコ
+   Tsuruko
+>> 6E719C.18 | ♪ねえ、おぼえているかしら？
+   ♪Tell me, do you remember?
+>> 6E719C.28 | ♪舞台の上で咲く花は
+   ♪The flower that blooms upon the stage
+>> 6E719C.38 | ♪匂い立つよなラフレシア
+   ♪is a rafflesia, rich with fragrance
+>> 6E719C.48 | ♪あなたはそう教えてくれた
+   ♪That is what you taught me
+>> 6E719C.58 | ♪だけど花にはなれないわたし
+   ♪But I can never be a flower
+>> 6E719C.68 | ♪今夜もまとうこの姿
+   ♪Tonight again I wear this guise
+>> 6E719C.78 | ♪ああ
+   ♪Ahh...
+>> 6E719C.82 | ♪燃えて抱いてそして照らされて
+   ♪Burning, embraced, and bathed in light
+>> 6E719C.92 | ♪女は今日も仁王立ち
+   ♪Today again this woman stands tall
+>> 6E719C.102 | ♪人生はスパンコール
+   ♪Life Is Sequins
+>> 6E719C.112 | ♪あなたあなたあなた信じて
+   ♪You, you, you, I believe in you
+>> 6E719C.130 | ♪御堂筋
+   ♪Midosuji
+>> 6E719C.142 | [銀次] （も、もう限界だよ～！ / この歌、いつまで続くんだろ…
+   (I-I can't take it anymore~! How long is this song gonna go on...?
+>> 6E719C.145 | [銀次] 助けて、蛮ちゃ～～～～ん！！）
+   Help me, Ban-chaaaaaan!!)
+>> 6E7AB4.19 | [ＭＡＩ] ………
+   ...
+>> 6E7AB4.21 | [ＭＡＩ] あ…これは高校時代の私？ / それにマドカがいる…
+   Oh... is this me back in high school? And Madoka's here...
+>> 6E7AB4.24 | [ＭＡＩ] そうだ…高校の時、いつもマドカの / バイオリンの伴奏だけで歌ってたんだ…
+   That's right... in high school, I always sang with only Madoka's violin backing me...
+>> 6E7AB4.27 | [ＭＡＩ] 私が作った曲を…
+   Songs I wrote myself...
+>> 6E7AB4.29 | [ＭＡＩ] 楽しかったな…
+   That was fun...
+>> 6E7AB4.31 | [ＭＡＩ] そう、あの時はとても楽しかった…
+   Yes, back then it was so much fun...
+>> 6E7AB4.33 | [ＭＡＩ] とても………
+   So very......
+>> 6E7DE4.30 | [銀次] 捕まえた！
+   Gotcha!
+>> 6E7DE4.32 | [銀次] 後は最大電磁力で… / ひっつけえええええっ！！
+   Now, full electromagnetic power... Stiiiiiick!!
+>> 6E7DE4.52 | [銀次] ………
+   ...
+>> 6E7DE4.71 | [銀次] …………
+   ....
+>> 6E7DE4.90 | [銀次] ……………
+   .....
+>> 6E7DE4.109 | [銀次] ………………
+   ......
+>> 6E7DE4.128 | [銀次] …………………
+   .......
+>> 6E7DE4.147 | [銀次] ……………………
+   ........
+>> 6E7DE4.166 | [銀次] ………………………っ！
+   .........!
+>> 6E7DE4.206 | [銀次] …………………………やった！！
+   ..........I did it!!
+>> 6E7DE4.208 | [銀次] …なんとか止まったケド… / オレももう…限界………
+   ...I managed to stop it, but... I'm at my... limit, too......
+>> 6E8C58.99 | [ジェンド] お…おお…なんということだ！ / これは…これは全て一族の者の屍！！
+   Oh... oh... what is this?! These... these are all corpses of my clan!!
+>> 6E8C58.104 | [アル] これは一族の未来の姿… / みな、あなたのせいで死んでいくのです
+   This is your clan's future... All of them die because of you.
+>> 6E8C58.109 | [ジェンド] なぜだ！ / どうしてこんなことに…？
+   Why?! How did it come to this...?
+>> 6E8C58.112 | [ジェンド] 余はこれ以上なにも / 失いたくなかっただけだ！
+   I only wished to lose nothing more!
+>> 6E8C58.115 | [ジェンド] それなのに…なぜ…
+   And yet... why...
+>> 6E8C58.119 | [アル] 人のすむ土地をうばうことは… / 誰かのしあわせをうばうことは
+   Stealing the land where people live... stealing someone's happiness...
+>> 6E8C58.122 | [アル] 間違ったことだったのです
+   was wrong.
+>> 6E8C58.126 | [ジェンド] では、どうしろというのだ！
+   Then what would you have me do?!
+>> 6E8C58.128 | [ジェンド] この地上をいつまでも / さすらい続けろというのか！？
+   Wander this earth forever?!
+>> 6E8C58.131 | [ジェンド] その間にも屍はさらに増えていく / …不幸な者が次々に増えていくのだぞ！
+   All the while, the corpses keep piling up... ever more of our people fall into misery!
+>> 6E8C58.134 | [ジェンド] これ以上、一族の者に苦しい思いを / させるわけにはいかないのだ…！！
+   I cannot let my clan suffer any more than they have...!!
+>> 6E8C58.140 | [アル] ………
+   ...
+>> 6E8C58.148 | [ジェンド] はっ！？ / アル…どこへ行くというのだ！？
+   Huh?! Al... where are you going?!
+>> 6E8C58.151 | [ジェンド] ………
+   ...
+>> 6E8C58.153 | [ジェンド] …そうか、 / 余はお前を殺してしまったのだったな…
+   ...I see. I killed you, did I not...
+>> 6E8C58.156 | [ジェンド] なぜこんなことになってしまったのだ…
+   How did it ever come to this...
+>> 6E8C58.158 | [ジェンド] お前は誰よりも忠義を / 示してくれたというのに………
+   You showed me more loyalty than anyone......
+>> 6E8C58.161 | [ジェンド] ………
+   ...
+>> 6E8C58.163 | [ジェンド] …………
+   ....
+>> 6E8C58.165 | [ジェンド] ……………
+   .....
+>> 6E8C58.167 | [ジェンド] 許せ、アル…余は愚かであった
+   Forgive me, Al... I was a fool.
+>> 6E8C58.169 | [ジェンド] だが… / 今更気付いたところでもう遅いのだな
+   But... realizing it now, it is far too late.
+>> 6E8C58.172 | [ジェンド] 多くの一族の者を死に追いやり、 / 苦しませ、どうしてこの地上に
+   Having driven so many of my clan to death and suffering, how could I
+>> 6E8C58.175 | [ジェンド] 安住の地を築けるというのか………
+   ever build them a peaceful home on this earth......
+>> 788A6C.2 | 十薬を手に入れた！
+   Got Houttuynia!
+>> 788AAC.2 | 威霊仙を手に入れた！
+   Got Clematis Root!
+>> 788AEC.2 | 延命草を手に入れた！
+   Got Enmei Herb!
+>> 788B2C.2 | 霊芝を手に入れた！
+   Got Reishi!
+>> 788B6C.2 | 牛黄を手に入れた！
+   Got Bezoar!
+>> 788BAC.2 | 土木香を手に入れた！
+   Got Elecampane!
+>> 788BEC.2 | 芍薬を手に入れた！
+   Got Peony Root!
+>> 788C2C.2 | 冬虫夏草を手に入れた！
+   Got Cordyceps!
+>> 788C70.2 | 蓬莱の玉を手に入れた！
+   Got a Horai Jewel!
+>> 788CB4.2 | ペンデュＣを手に入れた！
+   Got the Pendu Card!
+>> 788CF8.2 | ジュノーＣを手に入れた！
+   Got the Junon Card!
+>> 788D3C.2 | ラトリスＣを手に入れた！
+   Got the Ratrice Card!
+>> 788D80.2 | アムルーＣを手に入れた！
+   Got the Amoureux Card!
+>> 788DC4.2 | ユストスＣを手に入れた！
+   Got the Iustus Card!
+>> 788E08.2 | エルミトＣを手に入れた！
+   Got the Hermite Card!
+>> 788E4C.2 | レーフォＣを手に入れた！
+   Got the Lefo Card!
+>> 788E90.2 | ユピテルＣを手に入れた！
+   Got the Jupiter Card!
+>> 788ED4.2 | ランスＣを手に入れた！
+   Got the Rance Card!
+>> 788F18.2 | ディラＣを手に入れた！
+   Got the Dira Card!
+>> 788F5C.2 | リュネＣを手に入れた！
+   Got the Lune Card!
+>> 788FA0.2 | レイユＣを手に入れた！
+   Got the Reille Card!
+>> 788FE4.2 | モンドＣを手に入れた！
+   Got the Monde Card!
+>> 789028.2 | ゲメンＣを手に入れた！
+   Got the Gement Card!
+>> 78906C.2 | シャリオＣを手に入れた！
+   Got the Chariot Card!
+>> 7890B0.2 | ディアブルＣを手に入れた！
+   Got the Diable Card!
+>> 7890F8.2 | コーヒー券を手に入れた！
+   Got a Coffee Ticket!
+>> 78913C.2 | ばんぎんのＭを手に入れた！
+   Got the Ban-Gin Memory!
+>> 789184.2 | ばんひみのＭを手に入れた！
+   Got the Ban-Himi Memory!
+>> 7891CC.2 | ばんばねのＭを手に入れた！
+   Got the Ban-Bane Memory!
+>> 789214.2 | ばんかづのＭを手に入れた！
+   Got the Ban-Kazu Memory!
+>> 78925C.2 | ばんしどのＭを手に入れた！
+   Got the Ban-Shido Memory!
+>> 7892A4.2 | ばんえみのＭを手に入れた！
+   Got the Ban-Emi Memory!
+>> 7892EC.2 | ばんじゅのＭを手に入れた！
+   Got the Ban-Ju Memory!
+>> 789334.2 | ばんかがのＭを手に入れた！
+   Got the Ban-Kaga Memory!
+>> 78937C.2 | ひみぎんのＭを手に入れた！
+   Got the Himi-Gin Memory!
+>> 7893C4.2 | ばねぎんのＭを手に入れた！
+   Got the Bane-Gin Memory!
+>> 78940C.2 | かづぎんのＭを手に入れた！
+   Got the Kazu-Gin Memory!
+>> 789454.2 | しどぎんのＭを手に入れた！
+   Got the Shido-Gin Memory!
+>> 78949C.2 | えみぎんのＭを手に入れた！
+   Got the Emi-Gin Memory!
+>> 7894E4.2 | じゅぎんのＭを手に入れた！
+   Got the Ju-Gin Memory!
+>> 78952C.2 | かがぎんのＭを手に入れた！
+   Got the Kaga-Gin Memory!
+>> 789574.2 | ばねひみのＭを手に入れた！
+   Got the Bane-Himi Memory!
+>> 7895BC.2 | かづひみのＭを手に入れた！
+   Got the Kazu-Himi Memory!
+>> 789604.2 | しどひみのＭを手に入れた！
+   Got the Shido-Himi Memory!
+>> 78964C.2 | えみひみのＭを手に入れた！
+   Got the Emi-Himi Memory!
+>> 789694.2 | じゅひみのＭを手に入れた！
+   Got the Ju-Himi Memory!
+>> 7896DC.2 | かがひみのＭを手に入れた！
+   Got the Kaga-Himi Memory!
+>> 789724.2 | ばねかづのＭを手に入れた！
+   Got the Bane-Kazu Memory!
+>> 78976C.2 | ばねしどのＭを手に入れた！
+   Got the Bane-Shido Memory!
+>> 7897B4.2 | ばねえみのＭを手に入れた！
+   Got the Bane-Emi Memory!
+>> 7897FC.2 | ばねじゅのＭを手に入れた！
+   Got the Bane-Ju Memory!
+>> 789844.2 | ばねかがのＭを手に入れた！
+   Got the Bane-Kaga Memory!
+>> 78988C.2 | しどかづのＭを手に入れた！
+   Got the Shido-Kazu Memory!
+>> 7898D4.2 | えみかづのＭを手に入れた！
+   Got the Emi-Kazu Memory!
+>> 78991C.2 | じゅかづのＭを手に入れた！
+   Got the Ju-Kazu Memory!
+>> 789964.2 | かがかづのＭを手に入れた！
+   Got the Kaga-Kazu Memory!
+>> 7899AC.2 | しどえみのＭを手に入れた！
+   Got the Shido-Emi Memory!
+>> 7899F4.2 | しどじゅのＭを手に入れた！
+   Got the Shido-Ju Memory!
+>> 789A3C.2 | しどかがのＭを手に入れた！
+   Got the Shido-Kaga Memory!
+>> 789A84.2 | えみじゅのＭを手に入れた！
+   Got the Emi-Ju Memory!
+>> 789ACC.2 | えみかがのＭを手に入れた！
+   Got the Emi-Kaga Memory!
+>> 789B14.2 | じゅかがのＭを手に入れた！
+   Got the Ju-Kaga Memory!
+>> 789B5C.2 | 幕の内弁当を手に入れた！
+   Got a makunouchi bento!
+>> 789BA0.2 | 体育館のカギを手に入れた！
+   Got the Gym Key!
+>> 789BE8.2 | 控え室のカギを手に入れた！
+   Got the Dressing Room Key!
+>> 789C30.2 | 社長室のカギを手に入れた！
+   Got the President's Office Key!
+>> 789C78.2 | Ｐのキグルミを手に入れた！
+   Got the P Costume!
+>> 789CC0.2 | Ｈのキグルミを手に入れた！
+   Got the H Costume!
+>> 789D08.2 | ＤＶＤロムを手に入れた！
+   Got the DVD-ROM!
+>> 789D4C.2 | 宝玉（小）を手に入れた！
+   Got a Small Orb!
+>> 789D90.2 | 書斎のカギを手に入れた！
+   Got the Study Key!
+>> 789DD4.2 | 宝玉（大）を手に入れた！
+   Got a Large Orb!
+>> 789E18.2 | 配電室のカギを手に入れた！
+   Got the Power Room Key!
+>> 789E60.2 | カードキー１を手に入れた！
+   Got Card Key 1!
+>> 789EA8.2 | カードキー２を手に入れた！
+   Got Card Key 2!
+>> 789EF0.2 | カードキー３を手に入れた！
+   Got Card Key 3!
+>> 789F38.2 | ゲームソフトを手に入れた！
+   Got the Game Software!
+>> 789F80.2 | コーヒーを手に入れた！
+   Got a Coffee!
+>> 789FC4.2 | コーヒー１を手に入れた！
+   Got Coffee 1!
+>> 78A008.2 | コーヒー２を手に入れた！
+   Got Coffee 2!
+>> 78A04C.2 | カフェオレを手に入れた！
+   Got a Cafe au Lait!
+>> 78A090.2 | オレンジジュースを手に入れた！
+   Got an Orange Juice!
+>> 78A0DC.2 | ウーロン茶を手に入れた！
+   Got an Oolong Tea!
+>> 78A120.2 | レモンティーを手に入れた！
+   Got a Lemon Tea!
+>> 78A168.2 | ミルクティーを手に入れた！
+   Got a Milk Tea!
+>> 78A1B0.2 | 野菜ジュースを手に入れた！
+   Got a Vegetable Juice!
+>> 78A1F8.2 | チューリップを手に入れた！
+   Got Tulips!
+>> 78A240.2 | ひまわりを手に入れた！
+   Got Sunflowers!
+>> 78A284.2 | ガーベラを手に入れた！
+   Got Gerberas!
+>> 78A2C8.2 | ラベンダーを手に入れた！
+   Got Lavender!
+>> 78A30C.2 | ユリを手に入れた！
+   Got Lilies!
+>> 78A34C.2 | バラを手に入れた！
+   Got Roses!
+>> 78A38C.2 | ハデな着物を手に入れた！
+   Got the Flashy Kimono!
+>> 78A3D0.2 | せいそな着物を手に入れた！
+   Got the Demure Kimono!
+>> 78A418.2 | ハカマを手に入れた！
+   Got the Hakama!
+>> 78A458.2 | ハデなドレスを手に入れた！
+   Got the Flashy Dress!
+>> 78A4A0.2 | せいそなドレスを手に入れた！
+   Got the Demure Dress!
+>> 78A4E8.2 | タキシードを手に入れた！
+   Got the Tuxedo!
+>> 78A52C.2 | 衣装部屋の鍵を手に入れた！
+   Got the Wardrobe Key!
+>> 78A574.2 | ぼうしを手に入れた！
+   Got the Hat!
+>> 78A5B4.2 | スカートを手に入れた！
+   Got the Skirt!
+>> 78A5F8.2 | 倉庫のカギを手に入れた！
+   Got the Storeroom Key!
+>> 78A63C.2 | 厨房のカギを手に入れた！
+   Got the Kitchen Key!
+>> 78A680.2 | ライターを手に入れた！
+   Got the Lighter!
+>> 78A6C4.2 | 本を手に入れた！
+   Got the Book!
+>> 78A700.2 | キーメモリーを手に入れた！
+   Got the Key Memory!
+>> 78A748.2 | パスコード１を手に入れた！
+   Got Passcode 1!
+>> 78A790.2 | パスコード２を手に入れた！
+   Got Passcode 2!
+>> 78A7D8.2 | パスコード３を手に入れた！
+   Got Passcode 3!
+>> 78A820.2 | ベッドルームキーを手に入れた！
+   Got the Bedroom Key!
+>> 78A86C.2 | 大広間のカギを手に入れた！
+   Got the Great Hall Key!
+>> 78A8B4.2 | 液体窒素を手に入れた！
+   Got the Liquid Nitrogen!
+>> 78A8F8.2 | ＴＳＣのオマケを手に入れた！
+   Got the TSC Bonus!
+>> 78A940.2 | 使用不可能になっている…！
+   It's unusable...!
+>> 78A99C.2 | 非常トビラのロックを解除した！
+   Unlocked the emergency door!
+>> 78A9E8.2 | なにも起こらなかった…
+   Nothing happened...
+>> 78AA2C.3 | [写真屋] 旅の記念に写真いかがですカ？
+   Photo for souvenir of your trip, yes?
+>> 78AA80.4 | 写真とるカ？
+   Take photo?
+>> 78AAD0.2 | カギがかかっている…
+   It's locked...
+>> 78AB10.2 | カギが開いた！
+   The lock opened!
+>> 78AB4C.3 | [蛮] やっぱブルマンに限るな…
+   Nothing beats Blue Mountain...
+>> 78AB4C.5 | [蛮] よっしゃ、行くとするか！！
+   All right, let's get moving!!
+>> 78ABC4.3 | [銀次] 復っ活～～～！！
+   I'm baaack~~~!!
+>> 78ABC4.5 | [銀次] 元気になったし、行こうか！！
+   I'm all better, so let's go!!
+>> 78AC34.3 | [卑弥呼] ふう、落ち着けたわね…
+   Phew, that calmed me down...
+>> 78AC34.5 | [卑弥呼] じゃあ、行きましょうか！！
+   Well then, let's go!!
+>> 78ACB0.3 | [赤屍] 体力も回復しましたし、行きましょうか
+   My strength has recovered as well. Shall we go?
+>> 78AD0C.3 | [花月] 疲れも取れましたね…
+   That took the fatigue away...
+>> 78AD0C.5 | [花月] さあ、行きましょう
+   Now, let's go.
+>> 78AD78.3 | [士度] 疲れもとれたし、行くとするか
+   Fatigue's gone. Let's get going.
+>> 78ADCC.3 | [笑師] ん～、うまいコーヒーやったなぁ～
+   Mmm~, that was some good coffee~
+>> 78ADCC.5 | [笑師] ほな、後半戦行きましょか！！
+   Now then, on to the second half!!
+>> 78AE4C.3 | [十兵衛] 人心地ついたな…
+   I feel human again...
+>> 78AE4C.5 | [十兵衛] では参ろうか
+   Then let us go.
+>> 78AEB0.3 | [鏡] 一休みできたね…
+   That was a nice break...
+>> 78AEB0.5 | [鏡] じゃあ、そろそろ行こうか
+   Well, shall we get going?
+>> 78AF1C.4 | [蛮] 話し掛けンじゃねーよ
+   Don't talk to me.

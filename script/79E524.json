@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "体育館のカギを借ります　",
-  "en": ""
+  "en": "Borrowing the gym key. -Hanayama, 3-A"
  },
  {
   "id": "79E524.3",
@@ -13,7 +13,7 @@
   "box": 1,
   "speaker": "",
   "jp": "３－Ａ　花山",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79E524.5",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "…カギは３－Ａにあるみたいですね",
-  "en": ""
+  "en": "...It seems the key is in 3-A. Let's go!"
  },
  {
   "id": "79E524.8",
@@ -36,6 +36,6 @@
   "box": 2,
   "speaker": "花月",
   "jp": "行ってみましょう！　",
-  "en": ""
+  "en": " "
  }
 ]

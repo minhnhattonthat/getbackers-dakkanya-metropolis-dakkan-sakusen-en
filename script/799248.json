@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "属性ハ全部デ九種類アリマス　",
-  "en": ""
+  "en": "Elements, there are nine kinds in all."
  },
  {
   "id": "799248.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "アル",
   "jp": "火、風、土、水、砂、雷、闇、光、無…",
-  "en": ""
+  "en": "Fire, Wind, Earth, Water, Sand, Thunder,\nDark, Light, Void..."
  },
  {
   "id": "799248.7",
@@ -28,7 +28,7 @@
   "box": 3,
   "speaker": "アル",
   "jp": "強サヲヤジルシデ表スト、",
-  "en": ""
+  "en": "Strength as arrows: Fire -> Water -> Wind"
  },
  {
   "id": "799248.8",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "アル",
   "jp": "火→水→風→土→砂→雷→火トナリマス",
-  "en": ""
+  "en": "-> Earth -> Sand -> Thunder -> Fire."
  },
  {
   "id": "799248.10",
@@ -44,7 +44,7 @@
   "box": 4,
   "speaker": "アル",
   "jp": "光ト闇ハ対立シマス　",
-  "en": ""
+  "en": "Light and Dark oppose each other. Each is"
  },
  {
   "id": "799248.11",
@@ -52,7 +52,7 @@
   "box": 4,
   "speaker": "アル",
   "jp": "光ハ闇ニ強ク、闇ハ光ニ強イデス　",
-  "en": ""
+  "en": "strong against the other."
  },
  {
   "id": "799248.13",
@@ -60,6 +60,6 @@
   "box": 5,
   "speaker": "アル",
   "jp": "無ハ他ノ影響受ケマセンヨ",
-  "en": ""
+  "en": "Void, it does not get affected by the\nothers."
  }
 ]

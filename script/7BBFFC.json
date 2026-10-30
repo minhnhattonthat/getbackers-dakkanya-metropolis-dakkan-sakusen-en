@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "わ～い、抜けた抜けた～！！　",
-  "en": ""
+  "en": "Yaaay, we made it through, we made it~!!"
  },
  {
   "id": "7BBFFC.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "赤屍さん、どんどん先に進みましょう！",
-  "en": ""
+  "en": "Akabane-san, let's keep going on ahead!"
  },
  {
   "id": "7BBFFC.7",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "赤屍",
   "jp": "それは構いませんが…他の方々が　",
-  "en": ""
+  "en": "I do not mind... but the others might not"
  },
  {
   "id": "7BBFFC.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "赤屍",
   "jp": "出られなくなるかも知れませんよ？",
-  "en": ""
+  "en": "be able to get out."
  },
  {
   "id": "7BBFFC.12",
@@ -51,7 +51,7 @@
   "box": 4,
   "speaker": "赤屍",
   "jp": "それでもよろしいのですか？　",
-  "en": ""
+  "en": "Is that really alright with you?"
  },
  {
   "id": "7BBFFC.14",
@@ -66,6 +66,6 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "あ…やっぱりここで待ちましょう…",
-  "en": ""
+  "en": "Oh... L-let's wait here after all..."
  }
 ]

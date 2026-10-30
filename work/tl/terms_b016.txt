@@ -6,21 +6,23 @@
 マクベス	MakubeX	avoid: Macbeth
 蛮ちゃん	Ban-chan
 アル	Al
-蛮	Ban
-士度	Shido
-笑師	Emishi
-十兵衛	Juubei
-アル	Al
-ヘヴン	Hevn
-社員	Employee
-ＭＡＩ	MAI
-マクベス	MakubeX
-？？？	???
-ツルコ	Tsuruko
-マドカ	Madoka
-ハカマ	Hakama
-シズク	Shizuku
-ナミヲ	Namio
-ロクロー	Rokuro
+山城芸能プロ	Yamashiro Productions
 奪還屋	GetBackers ; retriever ; retrieval	avoid: Dakkanya
 属性	element	avoid: attribute
+坂本茉衣	Mai Sakamoto
+蛮	Ban	(name tag)
+銀次	Ginji	(name tag)
+士度	Shido	(name tag)
+笑師	Emishi	(name tag)
+卑弥呼	Himiko	(name tag)
+十兵衛	Juubei	(name tag)
+アル	Al	(name tag)
+ヘヴン	Hevn	(name tag)
+波児	Paul	(name tag)
+夏実	Natsumi	(name tag)
+社員	Employee	(name tag)
+スタッフ	Staff	(name tag)
+？？？	???	(name tag)
+マドカ	Madoka	(name tag)
+おばさん	Lady	(name tag)
+ロクロー	Rokuro	(name tag)

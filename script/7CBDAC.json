@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "波児",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7CBDAC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "夏実",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7CBDAC.12",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "ＭＡＩ　",
   "jp": "みなさん…この声が聞こえますか？",
-  "en": ""
+  "en": "Everyone... can you hear my voice? I'm"
  },
  {
   "id": "7CBDAC.15",
@@ -50,6 +50,6 @@
   "box": 3,
   "speaker": "ＭＡＩ　",
   "jp": "私はＭＡＩ、坂本茉衣です",
-  "en": ""
+  "en": "MAI. Mai Sakamoto."
  }
 ]

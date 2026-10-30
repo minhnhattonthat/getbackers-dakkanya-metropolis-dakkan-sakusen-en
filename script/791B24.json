@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ん？　誰もいねえな…",
-  "en": ""
+  "en": "Hm? Nobody's here..."
  },
  {
   "id": "791B24.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "なあ夏実ちゃん、",
-  "en": ""
+  "en": "Hey, Natsumi-chan, has anybody come in"
  },
  {
   "id": "791B24.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "あれから誰か入ってこなかったか？",
-  "en": ""
+  "en": "since then?"
  },
  {
   "id": "791B24.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "夏実",
   "jp": "いえ、誰も来てませんけど？　",
-  "en": ""
+  "en": "No, nobody's come in."
  },
  {
   "id": "791B24.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "あれ、おかしいなあ…",
-  "en": ""
+  "en": "Huh, that's weird... I told them to wait"
  },
  {
   "id": "791B24.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ここで待っててって言ったんだけどな…",
-  "en": ""
+  "en": "here..."
  },
  {
   "id": "791B24.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ま、そのうち来るって",
-  "en": ""
+  "en": "Eh, they'll show up eventually."
  },
  {
   "id": "791B24.21",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "それより待ってる間に",
-  "en": ""
+  "en": "More importantly, let's play that game"
  },
  {
   "id": "791B24.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "そのゲームやらしてもらおうぜ",
-  "en": ""
+  "en": "while we wait."
  },
  {
   "id": "791B24.24",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "えっ、そんなことしていいの？",
-  "en": ""
+  "en": "Huh? Are we allowed to do that?"
  },
  {
   "id": "791B24.28",
@@ -127,7 +127,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "ちょっとだけだって！",
-  "en": ""
+  "en": "Just for a bit! C'mon, let me see it."
  },
  {
   "id": "791B24.31",
@@ -135,6 +135,6 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "どれ、貸してみな？　",
-  "en": ""
+  "en": " "
  }
 ]

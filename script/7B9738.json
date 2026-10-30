@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "？？？　",
   "jp": "防がれただと？　",
-  "en": ""
+  "en": "It was blocked?"
  },
  {
   "id": "7B9738.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "？？？　",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7B9738.7",
@@ -28,7 +28,7 @@
   "box": 3,
   "speaker": "？？？　",
   "jp": "…あれの仕業か　",
-  "en": ""
+  "en": "...So that thing is behind this. Very well. I"
  },
  {
   "id": "7B9738.8",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "？？？　",
   "jp": "まあいい、今回のところは見逃してやる",
-  "en": ""
+  "en": "shall let you go, for now."
  },
  {
   "id": "7B9738.10",
@@ -44,6 +44,6 @@
   "box": 4,
   "speaker": "？？？　",
   "jp": "さらばだ、また会おう",
-  "en": ""
+  "en": "Farewell. We shall meet again."
  }
 ]

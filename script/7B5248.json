@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "社員",
   "jp": "パスを探してる？",
-  "en": ""
+  "en": "Looking for a pass? No, no, you already"
  },
  {
   "id": "7B5248.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "社員",
   "jp": "ダメダメ、一つ持ってるじゃないですか",
-  "en": ""
+  "en": "have one."
  },
  {
   "id": "7B5248.6",
@@ -28,6 +28,6 @@
   "box": 2,
   "speaker": "社員",
   "jp": "パスは二つは持てないんですよ",
-  "en": ""
+  "en": "You can't carry two passes, you know."
  }
 ]

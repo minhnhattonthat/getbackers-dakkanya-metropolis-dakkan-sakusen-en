@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あっ！　またアルくんに　",
-  "en": ""
+  "en": "Ah! The stone Al-kun gave me is glowing"
  },
  {
   "id": "79FBE4.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "もらった石が光ってるよ！",
-  "en": ""
+  "en": "again!"
  },
  {
   "id": "79FBE4.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "今度は水っていう字が見える気がする…",
-  "en": ""
+  "en": "This time I think I can see the character\nfor \"water\"..."
  },
  {
   "id": "79FBE4.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ってことはコイツは水属性ってことか？",
-  "en": ""
+  "en": "So that means this guy's Water element?"
  },
  {
   "id": "79FBE4.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "まあ、それっぽいわな",
-  "en": ""
+  "en": "Well, figures."
  },
  {
   "id": "79FBE4.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "花月",
   "jp": "？　ともかく先に進みましょう",
-  "en": ""
+  "en": "? In any case, let's move on."
  },
  {
   "id": "79FBE4.17",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "花月",
   "jp": "僕が探ってみた感じでは　",
-  "en": ""
+  "en": "From what I've found, Saionji seems to be"
  },
  {
   "id": "79FBE4.18",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "花月",
   "jp": "西園寺は体育館にいるようです",
-  "en": ""
+  "en": "in the gym."
  },
  {
   "id": "79FBE4.20",
@@ -90,7 +90,7 @@
   "box": 6,
   "speaker": "花月",
   "jp": "体育館にはカギがかかっていますから、",
-  "en": ""
+  "en": "The gym is locked, so let's start by finding"
  },
  {
   "id": "79FBE4.21",
@@ -98,7 +98,7 @@
   "box": 6,
   "speaker": "花月",
   "jp": "まずはカギを探すとしましょう",
-  "en": ""
+  "en": "the key."
  },
  {
   "id": "79FBE4.23",
@@ -113,7 +113,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "カギがありそうな場所っていやあ…",
-  "en": ""
+  "en": "A place where a key might be... Eh, let's"
  },
  {
   "id": "79FBE4.26",
@@ -121,6 +121,6 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "ま、行ってみっか！　",
-  "en": ""
+  "en": "just go!"
  }
 ]

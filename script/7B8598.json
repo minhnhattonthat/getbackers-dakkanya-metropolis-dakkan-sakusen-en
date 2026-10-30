@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "！？",
-  "en": ""
+  "en": "?! The stone Al-kun gave me is glowing..."
  },
  {
   "id": "7B8598.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "アルくんにもらった石が光ってる…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B8598.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "これって闇…だよね　",
-  "en": ""
+  "en": "This is Dark... right? Ha ha... That kinda"
  },
  {
   "id": "7B8598.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "ハハ…赤屍さんらしいかも…　",
-  "en": ""
+  "en": "suits Akabane-san..."
  },
  {
   "id": "7B8598.9",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "赤屍",
   "jp": "どうかしましたか、銀次クン？",
-  "en": ""
+  "en": "Is something the matter, Ginji-kun?"
  },
  {
   "id": "7B8598.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "い、いえ、なんでもありません…　",
-  "en": ""
+  "en": "N-no, nothing at all... Ha ha ha..."
  },
  {
   "id": "7B8598.16",
@@ -74,6 +74,6 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ハハハ…",
-  "en": ""
+  "en": " "
  }
 ]

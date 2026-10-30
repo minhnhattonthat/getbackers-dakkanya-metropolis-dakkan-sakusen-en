@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…オイ、銀次はどうした？",
-  "en": ""
+  "en": "...Hey, where's Ginji?"
  },
  {
   "id": "7BEA28.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "それが…はぐれてしもたんですわ　",
-  "en": ""
+  "en": "Well, see... we got separated."
  },
  {
   "id": "7BEA28.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "なに！？　…あのバカ！　",
-  "en": ""
+  "en": "What?! ...That idiot!"
  },
  {
   "id": "7BEA28.13",
@@ -50,7 +50,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "銀次を追うぞ！！",
-  "en": ""
+  "en": "We're going after Ginji!!"
  },
  {
   "id": "7BEA28.15",
@@ -65,7 +65,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "せや！　あそこの温泉は　",
-  "en": ""
+  "en": "Oh yeah! They say that hot spring over"
  },
  {
   "id": "7BEA28.18",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "疲労回復に効果あるそうでっせ！　",
-  "en": ""
+  "en": "there's good for gettin' over fatigue!"
  },
  {
   "id": "7BEA28.20",
@@ -81,7 +81,7 @@
   "box": 6,
   "speaker": "笑師",
   "jp": "疲れたら一休みするのもエエかもな",
-  "en": ""
+  "en": "Might not be a bad idea to take a\nbreather if you get tired."
  },
  {
   "id": "7BEA28.22",
@@ -96,6 +96,6 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "ンなこたいいから、急ぐぞ！！",
-  "en": ""
+  "en": "Forget that, just hurry up!!"
  }
 ]

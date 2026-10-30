@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "十兵衛　",
   "jp": "この場所は地脈の関係か、",
-  "en": ""
+  "en": "Something about the earth's flow here"
  },
  {
   "id": "7BA79C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "十兵衛　",
   "jp": "癒しの効果が現われているようだな",
-  "en": ""
+  "en": "seems to have a healing effect."
  },
  {
   "id": "7BA79C.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "ほんとだ！　",
-  "en": ""
+  "en": "It's true! My body feels lighter somehow..."
  },
  {
   "id": "7BA79C.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "なんだか体が軽くなってく…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BA79C.12",
@@ -51,6 +51,6 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "体力が回復した！",
-  "en": ""
+  "en": "HP restored!"
  }
 ]

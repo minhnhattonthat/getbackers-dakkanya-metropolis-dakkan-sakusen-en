@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ま、世の中には謎になってるから　",
-  "en": ""
+  "en": "Well, some things in this world are more"
  },
  {
   "id": "7CC600.5",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "面白ェってモンがあるだろうしな　",
-  "en": ""
+  "en": "fun because they stay a mystery."
  },
  {
   "id": "7CC600.7",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "だね！　",
-  "en": ""
+  "en": "Yeah!"
  },
  {
   "id": "7CC600.11",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "アルくんからはお金で買えないものを　",
-  "en": ""
+  "en": "And I kinda feel like Al-kun gave us lots of"
  },
  {
   "id": "7CC600.12",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "たくさんもらったような気もするし…　",
-  "en": ""
+  "en": "stuff money can't buy..."
  },
  {
   "id": "7CC600.14",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "ま、そういうことにしておくか",
-  "en": ""
+  "en": "Well, let's leave it at that."
  },
  {
   "id": "7CC600.18",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "じゃ、いつものアレ…いこうよ！　",
-  "en": ""
+  "en": "Then let's do our usual thing!"
  },
  {
   "id": "7CC600.23",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "蛮　",
-  "en": ""
+  "en": "Ban"
  },
  {
   "id": "7CC600.24",
@@ -97,7 +97,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "銀次",
-  "en": ""
+  "en": "Ginji"
  },
  {
   "id": "7CC600.26",
@@ -105,6 +105,6 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "…まいどあり！！",
-  "en": ""
+  "en": "...Thanks for your business!!"
  }
 ]

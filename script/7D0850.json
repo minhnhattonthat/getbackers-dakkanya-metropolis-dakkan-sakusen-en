@@ -12,14 +12,14 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "おい、倉庫のカギ持ってねえか？　",
-  "en": ""
+  "en": "Hey, you got the warehouse key?"
  },
  {
   "id": "7D0850.5",
   "kind": "name",
   "box": 1,
   "jp": "民Ｅ",
-  "en": "Local E"
+  "en": "Wanderer E"
  },
  {
   "id": "7D0850.7",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "民Ｅ",
   "jp": "持ッテマスガ…アナタガタハ？",
-  "en": ""
+  "en": "I have it, but... who are you?"
  },
  {
   "id": "7D0850.9",
@@ -42,14 +42,14 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "オレたちはアルくんの友達です",
-  "en": ""
+  "en": "We're Al-kun's friends."
  },
  {
   "id": "7D0850.13",
   "kind": "name",
   "box": 3,
   "jp": "民Ｅ",
-  "en": "Local E"
+  "en": "Wanderer E"
  },
  {
   "id": "7D0850.15",
@@ -57,7 +57,7 @@
   "box": 4,
   "speaker": "民Ｅ",
   "jp": "ソウデスカ…アナタタチガ…　",
-  "en": ""
+  "en": "I see... So you are the ones..."
  },
  {
   "id": "7D0850.17",
@@ -65,7 +65,7 @@
   "box": 5,
   "speaker": "民Ｅ",
   "jp": "かぎガ必要ナンデスネ？　",
-  "en": ""
+  "en": "You need key, yes?"
  },
  {
   "id": "7D0850.19",
@@ -73,7 +73,7 @@
   "box": 6,
   "speaker": "民Ｅ",
   "jp": "オ渡シシマショウ",
-  "en": ""
+  "en": "I give it to you."
  },
  {
   "id": "7D0850.23",
@@ -81,7 +81,7 @@
   "box": 7,
   "speaker": "民Ｅ",
   "jp": "倉庫のカギを手に入れた！",
-  "en": ""
+  "en": "Got the Warehouse Key!"
  },
  {
   "id": "7D0850.25",
@@ -96,6 +96,6 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "ありがと！　",
-  "en": ""
+  "en": "Thanks!"
  }
 ]

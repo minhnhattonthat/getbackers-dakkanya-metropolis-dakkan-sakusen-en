@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "エ、エレベーターが…止まった！？",
-  "en": ""
+  "en": "Th-the elevator... stopped?!"
  },
  {
   "id": "7C7AC8.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "みたいだね？",
-  "en": ""
+  "en": "Seems that way?"
  },
  {
   "id": "7C7AC8.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ヤバい！　閉じ込められた！！",
-  "en": ""
+  "en": "Oh no! We're trapped!! Wh-wh-what do we"
  },
  {
   "id": "7C7AC8.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ど、ど、どうしよう！？　",
-  "en": ""
+  "en": "do?!"
  },
  {
   "id": "7C7AC8.14",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "助けて、蛮ちゃ～～～～～ん！！　",
-  "en": ""
+  "en": "Help me, Ban-chaaaaaaan!!"
  },
  {
   "id": "7C7AC8.16",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "でもどこかの階に止まってるみたいだよ",
-  "en": ""
+  "en": "But it seems to have stopped at a floor."
  },
  {
   "id": "7C7AC8.19",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "降りられるんじゃないかな？　",
-  "en": ""
+  "en": "We can get off, don't you think?"
  },
  {
   "id": "7C7AC8.21",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7C7AC8.25",
@@ -104,6 +104,6 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "よ、良かった………　",
-  "en": ""
+  "en": "Th-thank goodness......"
  }
 ]

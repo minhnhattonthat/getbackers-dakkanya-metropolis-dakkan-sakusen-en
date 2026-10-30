@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "社員",
   "jp": "まだまだだね…　",
-  "en": ""
+  "en": "Still a long way to go... Feels like you two"
  },
  {
   "id": "7B4688.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "社員",
   "jp": "二人の息が合ってないって感じかな",
-  "en": ""
+  "en": "aren't in sync at all."
  },
  {
   "id": "7B4688.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "社員",
   "jp": "でもま、がんばってたから",
-  "en": ""
+  "en": "But hey, you tried hard, so here's a little"
  },
  {
   "id": "7B4688.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "社員",
   "jp": "これあげちゃおうかな！　",
-  "en": ""
+  "en": "something!"
  },
  {
   "id": "7B4688.11",
@@ -44,7 +44,7 @@
   "box": 3,
   "speaker": "社員",
   "jp": "威霊仙を手に入れた！",
-  "en": ""
+  "en": "Got Clematis Root!"
  },
  {
   "id": "7B4688.13",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7B4688.17",
@@ -67,7 +67,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "ガッカリや…",
-  "en": ""
+  "en": "What a letdown..."
  },
  {
   "id": "7B4688.19",
@@ -82,7 +82,7 @@
   "box": 6,
   "speaker": "士度",
   "jp": "…まあ、そのなんだ、",
-  "en": ""
+  "en": "...Well, uh, y'know... Don't let it get you"
  },
  {
   "id": "7B4688.22",
@@ -90,6 +90,6 @@
   "box": 6,
   "speaker": "士度",
   "jp": "気を落とすなって",
-  "en": ""
+  "en": "down."
  }
 ]

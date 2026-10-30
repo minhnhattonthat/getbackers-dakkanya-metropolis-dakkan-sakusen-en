@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…やべーぞ、銀次",
-  "en": ""
+  "en": "...We're in trouble, Ginji."
  },
  {
   "id": "799380.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "やばいね、蛮ちゃん　",
-  "en": ""
+  "en": "Big trouble, Ban-chan. We haven't eaten"
  },
  {
   "id": "799380.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "もう５日間マトモなもの食べてないよ…",
-  "en": ""
+  "en": "anything decent in 5 days..."
  },
  {
   "id": "799380.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "こうなったら次の依頼は　",
-  "en": ""
+  "en": "This time, no matter what, our next job's"
  },
  {
   "id": "799380.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "なにがなんでも金持ちを捕まえてだな！",
-  "en": ""
+  "en": "gotta come from a rich client!"
  },
  {
   "id": "799380.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "…あン？",
-  "en": ""
+  "en": "...Huh? Isn't that Al over there?"
  },
  {
   "id": "799380.16",
@@ -74,6 +74,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "あそこにいンのアルじゃねえか？　",
-  "en": ""
+  "en": " "
  }
 ]

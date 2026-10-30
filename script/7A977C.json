@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "横取り屋だ！",
-  "en": ""
+  "en": "It's the Poachers! What're they doing"
  },
  {
   "id": "7A977C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "どうしてこんな所にいるんだろ？　",
-  "en": ""
+  "en": "here?"
  },
  {
   "id": "7A977C.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "…どうやらハカマの他にも衣装を　",
-  "en": ""
+  "en": "...Looks like Hakama's not the only one"
  },
  {
   "id": "7A977C.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "狙ってるヤツがいるみたいだな…　",
-  "en": ""
+  "en": "after the costume..."
  },
  {
   "id": "7A977C.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "横取りされちゃモトも子もねェ",
-  "en": ""
+  "en": "If they swipe it out from under us, it's all"
  },
  {
   "id": "7A977C.12",
@@ -59,7 +59,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "けちらすぞ！！　",
-  "en": ""
+  "en": "for nothing. Scatter 'em!!"
  },
  {
   "id": "7A977C.14",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "花月",
   "jp": "でも、卑弥呼さんたちを追い掛けるなら",
-  "en": ""
+  "en": "But if we're chasing Himiko-san and the"
  },
  {
   "id": "7A977C.17",
@@ -82,7 +82,7 @@
   "box": 4,
   "speaker": "花月",
   "jp": "あまり相手をしない方がよさそうですね",
-  "en": ""
+  "en": "others, we'd best not linger with them."
  },
  {
   "id": "7A977C.19",
@@ -97,6 +97,6 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "よし、追い掛けるぞ！！　",
-  "en": ""
+  "en": "Right, after 'em!!"
  }
 ]

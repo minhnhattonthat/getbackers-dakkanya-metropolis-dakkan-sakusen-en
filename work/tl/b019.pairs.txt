@@ -1,0 +1,364 @@
+>> 7B3B90.3 | [士度] まあな
+   Yeah, kinda.
+>> 7B3B90.7 | [笑師] （まあなってアンタ！！）
+   ("Kinda"?! C'mon, man!!)
+>> 7B3C0C.3 | [士度] 喜んでねえよ！ / 怒ってんだろうが！！
+   I'm not enjoying it! I'm pissed off!!
+>> 7B3C0C.8 | [笑師] そないに怒らんでもエエやんか～
+   Aw, no need to get so mad~
+>> 7B3CB0.3 | [士度] 服の下にバニーガールの衣装を / 着てるからな
+   'Cause I'm wearing a bunny girl outfit under my clothes.
+>> 7B3CB0.8 | [笑師] （えっ！ / 士度はん、おかしゅうなっとる！？）
+   (Wha?! Shido-han's gone off the deep end?!)
+>> 7B3D68.3 | [笑師] ま、気ぃ取り直して次いきましょか！
+   Well, let's shake it off and move on to the next one!
+>> 7B3D68.5 | [笑師] コアラ、カンガルーがアカンかったら / 次はなんでっしゃろなあ…？
+   If koalas and kangaroos are no good, what's next, I wonder...?
+>> 7B3D68.8 | [笑師] そや、ペンギンとかエエんちゃう？
+   I know! How 'bout a penguin?
+>> 7B3D68.12 | [士度] ま、ウサギに比べたらマシだがな
+   Well, it beats a rabbit.
+>> 7B3D68.16 | [笑師] よっしゃ、ならさっそく擬態してぇな！
+   Alright! Then go on, do your mimicry thing!
+>> 7B3D68.20 | [士度] なるか！
+   Like hell I will!
+>> 7B3D68.24 | [笑師] なにイヤがっとりますのん / モグラにはなったくせに～
+   What're ya so against it for? You turned into a mole easy enough~
+>> 7B3D68.29 | [士度] モグラにはなっても / ペンギンにはならねえ！
+   I'll turn into a mole, but I won't turn into a penguin!
+>> 7B3D68.34 | [笑師] なんでぇな、同じようなモンやん / 士度はんはホンマいけずやな～
+   Why not? It's basically the same thing! Shido-han, you're such a meanie~
+>> 7B3D68.39 | [士度] とにかく、ならねえ！！
+   Anyway, I'm not doing it!!
+>> 7B3D68.43 | [笑師] なんでやねん！
+   Oh, c'mon!
+>> 7B3D68.45 | [笑師] ええ～い、しゃーないわ / こうなったらワイ一人の力で！
+   Ugh, fine, can't be helped. Then I'll do it all on my own!
+>> 7B3D68.48 | [笑師] ………あっ！
+   ......Oh!
+>> 7B3D68.50 | [笑師] ア、アカン！　士度はん！！ / 大事なこと忘れとったわ！
+   Oh no! Shido-han!! I forgot somethin' important!
+>> 7B3D68.55 | [士度] …なんだよ？
+   ...What?
+>> 7B3D68.59 | [笑師] ワイら… / もうペンギンになっとるんやった！
+   We're... already penguins!
+>> 7B4174.3 | [笑師] ども、ありがとうございました～！！
+   Thank you, thank you very much~!!
+>> 7B41D0.3 | [社員] キミたち、 / オーディション受けにきたの？
+   You guys here for the audition?
+>> 7B41D0.8 | [笑師] せや！ / お笑い芸人目指してんねん
+   Yup! We're aimin' to be comedians!
+>> 7B41D0.13 | [社員] じゃあちょっとコントやってみてよ / 俺、審査員だから見てあげるよ
+   Then go on, do a skit for me. I'm one of the judges, so I'll watch.
+>> 7B41D0.18 | [笑師] （よっしゃ！ / チャンスやで、士度はん！！）
+   (Alright! This is our chance, Shido-han!!)
+>> 7B41D0.23 | [士度] （俺には関係ねえ）
+   (Got nothing to do with me.)
+>> 7B41D0.27 | [笑師] （エエから、エエから！！）
+   (Never mind that, never mind that!!)
+>> 7B4398.3 | [社員] へ～、やるじゃん！ / これならデビューできるかもね
+   Huh, not bad! You two might actually make your debut with this.
+>> 7B4398.6 | [社員] じゃ、未来のスターに / これあげちゃおうかな！
+   So, here's a little something for our future stars!
+>> 7B4398.11 | [社員] しどえみのＭを手に入れた！
+   Got the Shido-Emi Memory!
+>> 7B4398.15 | [笑師] やったで、士度はーーん！！ / もう二人でコンビ組むしかないな！！
+   We did it, Shido-haaan!! Now we've gotta form a duo for sure!!
+>> 7B4398.20 | [士度] …絶対、組まねえ
+   ...Not a chance.
+>> 7B4518.3 | [社員] う～ん、 / これからの努力次第ってとこかな？
+   Hmm, I'd say it all depends on how hard you work from here?
+>> 7B4518.6 | [社員] じゃ、がんばれってことで / これあげちゃおうかな！
+   So, as a "keep at it," here's a little something!
+>> 7B4518.11 | [社員] 冬虫夏草を手に入れた！
+   Got Cordyceps!
+>> 7B4518.15 | [笑師] こうなったら毎日練習するしかないな！ / がんばっていこか、士度はん！
+   Now we've just gotta practice every day! Let's give it our all, Shido-han!
+>> 7B4518.20 | [士度] しねえよ
+   We're not.
+>> 7B4688.3 | [社員] まだまだだね… / 二人の息が合ってないって感じかな
+   Still a long way to go... Feels like you two aren't in sync at all.
+>> 7B4688.6 | [社員] でもま、がんばってたから / これあげちゃおうかな！
+   But hey, you tried hard, so here's a little something!
+>> 7B4688.11 | [社員] 威霊仙を手に入れた！
+   Got Clematis Root!
+>> 7B4688.15 | [笑師] ………
+   ......
+>> 7B4688.17 | [笑師] ガッカリや…
+   What a letdown...
+>> 7B4688.21 | [士度] …まあ、そのなんだ、 / 気を落とすなって
+   ...Well, uh, y'know... Don't let it get you down.
+>> 7B47F8.3 | [社員] がんばってお笑い芸人になってよ！
+   Keep at it and become comedians!
+>> 7B484C.3 | [蛮] こいつが今回のターゲットか、ふむふむ / ちっと色気が足りねえな…
+   So this is our target this time, huh? Hmm, hmm... She's a bit short on sex appeal...
+>> 7B48C0.3 | [銀次] わあ～、ＭＡＩちゃんだー！ / サインとかもらえないかな～？
+   Wow, it's MAI-chan! Think I could get her autograph or something~?
+>> 7B4930.3 | [卑弥呼] アイドルってのも退屈そうな職業ね…
+   Being an idol sounds like a pretty boring job...
+>> 7B498C.3 | [赤屍] ………
+   ......
+>> 7B49C8.3 | [花月] この人…ずいぶんと表情が固いですね
+   This person... her expression is awfully stiff.
+>> 7B4A20.3 | [士度] これがＭＡＩか…
+   So this is MAI...
+>> 7B4A64.3 | [笑師] このポスターもらえへんかな…
+   Think they'd let me have this poster...?
+>> 7B4AB4.3 | [十兵衛] ………
+   ......
+>> 7B4AF4.3 | [鏡] ふうん、知らないなあ
+   Hmm, never heard of her.
+>> 7B4B3C.3 | [蛮] って、こりゃハカマじゃねえかよ / アイツもここの所属かよ…
+   Wait, this is Hakama! She's signed with this place too?
+>> 7B4BAC.3 | [銀次] あれー、ハカマさんもここの人？ / 世間は狭いよね～
+   Huh, Hakama-san's with this agency too? Small world, huh~
+>> 7B4C14.3 | [卑弥呼] …前の依頼人だわ
+   ...She's a former client.
+>> 7B4C5C.3 | [赤屍] ………
+   ......
+>> 7B4C98.3 | [花月] この人は確か…
+   This person is, if I recall...
+>> 7B4CDC.3 | [士度] どこかで見たような顔だな…
+   I've seen that face somewhere...
+>> 7B4D2C.3 | [笑師] おぉ！　この人、知っとるで！ / 紋之月ハカマやんか！！
+   Ooh! I know her! It's Hakama Monnotsuki!!
+>> 7B4D98.3 | [十兵衛] ………
+   ......
+>> 7B4DD8.3 | [鏡] へえ、有名なんだ？
+   Huh, she's famous?
+>> 7B4E20.3 | [蛮] パスコード１がねえと / 開かないようだな…
+   Looks like it won't open without Passcode 1...
+>> 7B4E80.3 | [銀次] う～ん、 / パスコード２がないと開かないみたい
+   Hmm, looks like it won't open without Passcode 2.
+>> 7B4EE4.3 | [士度] 開くにはパスコード３が必要らしいな…
+   Seems I need Passcode 3 to open it...
+>> 7B4F3C.3 | [蛮] ここだけ違うカギになってるみてえだな
+   Looks like this one takes a different key.
+>> 7B4F94.3 | [社員] 私はもうパスは持ってませんよ
+   I don't have a pass anymore.
+>> 7B4FE4.3 | [社員] おや、新人のお笑い芸人さんですか？
+   Oh, are you a new comedian?
+>> 7B4FE4.7 | [十兵衛] ウ、ウム… / ところでパスコードを持っておらんか？
+   Y-yes, hm... By the way, do you have a passcode?
+>> 7B4FE4.12 | [社員] ええ、パスコード１なら / 持ってますよ
+   Yes, I have Passcode 1.
+>> 7B4FE4.17 | [十兵衛] ではスマンが転送してもらいたい
+   Then forgive me, but I would ask you to transfer it to me.
+>> 7B4FE4.21 | [社員] ええ、いいですよ
+   Sure, no problem.
+>> 7B4FE4.25 | [社員] パスコード１を手に入れた！
+   Got Passcode 1!
+>> 7B4FE4.29 | [社員] ところでアナタ、お笑い芸人にしては / 表情が固いですね
+   By the way, your expression is awfully stiff for a comedian.
+>> 7B4FE4.32 | [社員] もっとお笑いを勉強した方がいいですよ
+   You should study comedy a bit more.
+>> 7B4FE4.36 | [十兵衛] ム………
+   Hmm......
+>> 7B5248.3 | [社員] パスを探してる？ / ダメダメ、一つ持ってるじゃないですか
+   Looking for a pass? No, no, you already have one.
+>> 7B5248.6 | [社員] パスは二つは持てないんですよ
+   You can't carry two passes, you know.
+>> 7B52DC.3 | [社員] パスを探してるの？ / で、でも一つ持ってるじゃないか
+   Y-you're looking for a pass? B-but you already have one!
+>> 7B52DC.6 | [社員] パスは二つは持てないんだよ…
+   You can't carry two passes...
+>> 7B5370.3 | [女子社員] パスを探してるの？ / 私、持ってるから渡してもいいけど…
+   Looking for a pass? I've got one, so I could give it to you, but...
+>> 7B5370.6 | [女子社員] でもダメよ、 / パスは一つしか持てないもの
+   No, sorry. You can only carry one pass.
+>> 7B541C.2 | パスコードを持っているので / 中のパスを取ることができない！
+   You're carrying a passcode, so you can't take the pass inside!
+>> 7B5488.3 | [蛮] こいつ、確かＮホールの時の… / シズクだったっけか？
+   This one's from that N Hall job... Shizuku, was it?
+>> 7B54F0.3 | [銀次] あっ、この人Ｎホールの時の！ / えっと…ダレだったっけ…？？？
+   Oh, she's from N Hall! Um... who was she again...???
+>> 7B5564.3 | [卑弥呼] 染川シズク？ / 知らないわね…
+   Shizuku Somekawa? Never heard of her...
+>> 7B55BC.3 | [赤屍] ………
+   ......
+>> 7B55F8.3 | [花月] この人…Ｎホールで会いましたね / …確かシズクさんでしたよね？
+   We met this lady at N Hall... It was Shizuku-san, wasn't it?
+>> 7B566C.3 | [士度] コイツ、Ｎホールん時のヤツだな / シズクとかそんな名前だったな…
+   She's from that N Hall thing. Shizuku or something like that...
+>> 7B56E4.3 | [笑師] おおっ、シズクはんや～ / おしとやかな感じでエエなあ！
+   Ooh, it's Shizuku-han~ So graceful and ladylike, I love it!
+>> 7B5750.3 | [十兵衛] …染川シズク殿か………
+   ...Shizuku Somekawa-dono, is it......
+>> 7B57A0.3 | [鏡] ふうん、こんな人もいるんだね
+   Hmm, so there are people like this here too.
+>> 7B57F0.2 | 目指せ、お笑いの星！！
+   Aim for comedy stardom!!
+>> 7B57F0.4 | 山城プロでは未来のお笑いスターを / 探しています！
+   Yamashiro Productions is looking for the comedy stars of tomorrow!
+>> 7B57F0.7 | オーディション、 / 一次審査はキグルミコント！
+   Audition round one: a costume skit!
+>> 7B57F0.10 | 君もレッツ☆トライ！！
+   You too, give it a try!!
+>> 7B58D4.3 | [マネージャー] ＭＡＩを探してる？
+   You're looking for MAI?
+>> 7B58D4.5 | [マネージャー] うーん、さっき社長に呼ばれてたから / 社長室にいるんじゃないのかな？
+   Hmm, the president called for her a little while ago, so maybe she's in his office?
+>> 7B5978.3 | [秘書] 山城芸能プロへようこそ！
+   Welcome to Yamashiro Productions!
+>> 7B59C4.3 | [おばさん] アンタたち、若手の芸人さんかい？ / 苦労してそうだから、これあげるよ
+   You two young comedians? Looks like you've had it rough, so here, take this.
+>> 7B59C4.8 | [おばさん] 冬虫夏草を手に入れた！
+   Got Cordyceps!
+>> 7B5A7C.3 | [おばさん] がんばって、りっぱな芸人になっとくれ
+   Hang in there and become fine comedians, you hear?
+>> 7B5AD8.3 | [マネージャー] きみたち、 / ハカマがどこにいるか知らないかい？
+   Hey, you two. Know where Hakama is?
+>> 7B5AD8.6 | [マネージャー] …まったく、 / すぐに逃げ出すんだからなあ
+   ...Honestly, she's always running off.
+>> 7B5B80.3 | [スタッフ] もうすぐ『ザ☆シグナルズ』の / コンサートだよ…ああ、忙しい…
+   'The Signals' concert is coming up soon... Ugh, so busy...
+>> 7B5B80.6 | [スタッフ] あれ、知らないの？
+   Huh, you don't know them?
+>> 7B5B80.8 | [スタッフ] ひかる、あきら、かけるの / 美少年３人組グループだよ
+   They're a trio of pretty boys: Hikaru, Akira and Kakeru!
+>> 7B5C58.3 | [女子社員] あら、あなたたちカッコいいわねぇ / シグナルズの追加メンバーに入らない？
+   My, aren't you two handsome! Want to join the Signals as new members?
+>> 7B5CD8.3 | [専務] うちの所属タレントたちは / みなワガママで困るな…
+   All the talent signed with us are so spoiled. It's a real headache...
+>> 7B5D40.3 | [鏡] やあ、久しぶりだね
+   Hey, long time no see.
+>> 7B5D40.7 | [蛮] …って、テメーここでなにしてンだよ
+   ...Wait, what the hell are you doing here?
+>> 7B5D40.9 | [蛮] もしかして、オーディション受けに / 来たってんじゃねえだろうな？
+   Don't tell me you came here for the audition?
+>> 7B5D40.14 | [鏡] まさか… / ちょっと調べてることがあってね
+   Hardly... I'm just looking into something.
+>> 7B5D40.19 | [銀次] えっ、ＭＡＩちゃんのことを / 観察してるとか…？
+   Huh? Like, are you observing MAI-chan or something...?
+>> 7B5D40.24 | [鏡] 違うよ / オレが調べてるのはあの『民』のことさ
+   No. What I'm looking into is those 'People.'
+>> 7B5D40.29 | [蛮] …あの民だあ！？ / なんのことだよ、そりゃあ
+   ..."Those People"?! What the hell's that supposed to mean?
+>> 7B5D40.34 | [鏡] そうか、 / 君たちはまだ知らないんだったね
+   I see. You two don't know yet, do you?
+>> 7B5D40.37 | [鏡] でもいずれ分かるはずだよ / オレの言ってることが…ね
+   But you'll understand soon enough. What I'm talking about, that is...
+>> 7B5D40.42 | [蛮] ………
+   ......
+>> 7B5D40.46 | [鏡] 君たちの健闘を祈るよ
+   Good luck to you both.
+>> 7B6054.3 | [蛮] …ったく、いちいちムカつくヤローだぜ
+   ...Tch. That guy pisses me off every single time.
+>> 7B60B0.3 | [女子高生] 私ってばあ、アイドルにならないかって / スカウトされまくりで困るのよね～
+   Like, I keep getting scouted to be an idol, it's soooo annoying~
+>> 7B60B0.6 | [女子高生] で、もーウザいから自分から / 来てやったってワケなのよ、分かるぅ？
+   So, like, it got so annoying I just came here myself, y'know?
+>> 7B6180.3 | [Ｃメンバー] ＭＡＩちゃんて可愛いよなあ～…
+   MAI-chan's so cute, man...
+>> 7B61DC.3 | [花月] 西園寺！ / なぜ君がこんな所に…！？
+   Saionji! Why are you in a place like this...?!
+>> 7B61DC.8 | [西園寺] なにって… / オーディションを受けにきたんですよ
+   Why? I came to audition, of course.
+>> 7B61DC.11 | [西園寺] 花月もどうですか、いっしょに
+   How about you, Kazuki? Join me.
+>> 7B61DC.15 | [蛮] なんだよ、 / テメーもお笑い芸人目指してンのか？
+   What, you're aiming to be a comedian too?
+>> 7B61DC.20 | [西園寺] 違いますよ、 / アイドルの方のオーディションです
+   No, no. I'm here for the idol audition.
+>> 7B61DC.25 | [蛮] …アイドルねえ
+   ...An idol, huh.
+>> 7B61DC.29 | [西園寺] あっ、でも銀次さんの弟子になるという / 夢を捨てたわけじゃありませんから！
+   Oh, but that doesn't mean I've given up my dream of becoming Ginji-san's disciple!
+>> 7B61DC.32 | [西園寺] 銀次さん、お願いします！！
+   Ginji-san, I beg of you!!
+>> 7B61DC.36 | [銀次] えっ！　あ、あう… / そ、そのうちね…そのうち………
+   Huh?! Uh, umm... S-some day... Some day......
+>> 7B648C.3 | [スタッフ] やれやれ…うちの会社は / オーディションが多くて疲れるよ…
+   Jeez... this company holds so many auditions, I'm wiped out...
+>> 7B6500.3 | [学生] お笑いの一次審査はキグルミかあ… / なんにしようかなあ…
+   So round one for comedy is a costume, huh... What should I go with...?
+>> 7B6500.6 | [学生] さっきハリネズミの人を見たけど / あれはどうかと思うしなあ…
+   I saw a hedgehog guy a while ago, but I dunno about that...
+>> 7B65B8.3 | [ツルコ] あら…あなたがたは………
+   Oh my... it's you......
+>> 7B65B8.7 | [蛮] なんだよ、アンタもここの所属なのか？
+   What, you're signed with this place too?
+>> 7B65B8.11 | [ツルコ] 違いますよ / この前の衣装の件でちょっと…
+   Oh no. I'm here about the costume from the other day...
+>> 7B65B8.16 | [銀次] 大変でしたもんね～、あの時！
+   That was really something, back then~!
+>> 7B65B8.20 | [ツルコ] ええ…ですので、 / またなにかありましたらお願いしますね
+   Yes... So if anything else comes up, I'll be counting on you.
+>> 7B65B8.23 | [ツルコ] 銀次さん
+   Ginji-san.
+>> 7B65B8.27 | [銀次] …で、電撃ですか？
+   ...F-for the Electric Shock?
+>> 7B65B8.31 | [ツルコ] そうです、電撃です
+   That's right. The Electric Shock.
+>> 7B65B8.35 | [銀次] ………
+   ......
+>> 7B65B8.37 | [銀次] （あれは…もう絶対ヤダよ～！！）
+   (I am never, ever doing that again~!!)
+>> 7B6818.3 | [笑師] …ア、アカン…こいつはアカンて！ / お笑いのセンス、まるでナシや！！
+   ...N-no good... This guy's no good at all! Zero sense of humor!!
+>> 7B6818.8 | [士度] …しかも聞き覚えのあるこの声は…
+   ...And that voice sounds awfully familiar...
+>> 7B68D8.3 | [アル] いらっしゃい！　蛮さん、銀さん！！
+   Welcome! Ban-san, Gin-san!!
+>> 7B68D8.7 | [銀次] あれ、ずいぶん日本語がうまくなったね / アルくん
+   Hey, your Japanese got a lot better, Al-kun.
+>> 7B68D8.12 | [ヘヴン] ハーイ、お二人さん♥
+   Hi there, you two♥
+>> 7B68D8.16 | [蛮] おうヘヴン、頭数揃えて / どうしたってンだ？　仕事か？
+   Yo, Hevn. What's with rounding up the whole crew? A job?
+>> 7B68D8.21 | [ヘヴン] まーね、でもちょっと待ってて / 詳しい話は残りの一人が来てから話すわ
+   Sort of. But hang on a sec. I'll fill you in once the last one gets here.
+>> 7B68D8.26 | [蛮] 残りの一人？
+   The last one?
+>> 7B68D8.30 | [ヘヴン] けっこうやっかいな仕事なのよ
+   It's a pretty nasty job.
+>> 7B68D8.32 | [ヘヴン] 依頼人からは / 万全を尽くすように言われてるわ
+   The client told me to make sure we take every precaution.
+>> 7B68D8.37 | [蛮] ちょっと待て、イヤな予感してきたぜ / まさかソイツは…
+   Hold on, I've got a bad feeling about this. Don't tell me it's...
+>> 7B6B90.3 | [銀次] …あ、赤屍さん！！
+   ...A-Akabane-san!!
+>> 7B6B90.7 | [赤屍] クス…またお会いできましたね / ゲットバッカーズのお二人さん？
+   Heh... We meet again, don't we, GetBackers?
+>> 7B6B90.12 | [蛮] 会えたところでうれしかねぇがな…
+   Meeting you is nothing to be happy about...
+>> 7B6B90.16 | [ヘヴン] 今回はこのメンバーで / チームを組んでもらうわ
+   This time I want you all to team up as this group.
+>> 7B6B90.21 | [蛮] ヘッ、上等だ！ / 俺らもプロだ、組む相手は選ばねえよ
+   Heh, fine by me! We're pros too. We don't get picky about partners.
+>> 7B6B90.24 | [蛮] …ただし、裏切った場合は容赦しねえ
+   ...But if you double-cross us, no mercy.
+>> 7B6B90.28 | [赤屍] クス…
+   Heh...
+>> 7B6B90.32 | [ヘヴン] キマリね！ / さっそく依頼の話を始めさせてもらうわ
+   Then it's settled! Let me get right to the job.
+>> 7B6B90.35 | [ヘヴン] 今回、奪還してもらいたいものはこれよ
+   What I need you to retrieve this time is this.
+>> 7B6B90.39 | [花月] これは…ＤＶＤロムですね？
+   This is... a DVD-ROM?
+>> 7B6B90.43 | [ヘヴン] そうよ、ある学会で公表される予定の / 論文が記録されているものなの
+   Right. It holds a paper to be presented at a certain academic conference.
+>> 7B6B90.46 | [ヘヴン] それが海外から運んでいる途中で / 横取り屋に奪われてしまったのよ
+   It was on its way here from overseas when Poachers stole it.
+>> 7B6B90.51 | [蛮] 横取り屋だァ？　ンな連中、 / 俺たちだけでも十分じゃねえかよ
+   Poachers?! Small fry like that, the two of us could handle 'em alone!
+>> 7B6B90.56 | [ヘヴン] それが依頼品を運ぶとき、腕利きの / 護り屋たちを雇ってたらしいんだけど
+   Thing is, they'd hired some skilled protectors to guard it on the way.
+>> 7B6B90.59 | [ヘヴン] 横取り屋以外の何者かの手によって、 / みんな病院送りにされたそうよ
+   But someone other than the Poachers put every one of them in the hospital.
+>> 7B6B90.62 | [ヘヴン] 彼らは口を揃えてこう言ってるわ / ヤツらは人間以上だった…ってね
+   And they all say the same thing: "They were more than human..."
+>> 7B6B90.67 | [銀次] えっ、 / それって敵は人間じゃないってこと？
+   Huh? You mean the enemy isn't human?
+>> 7B6B90.72 | [ヘヴン] その辺りの確証は取れていないのよ / でもその代わり、報酬は一人２００万よ
+   I haven't been able to confirm that. But in exchange, the pay is 2 million yen each.
+>> 7B6B90.77 | [蛮] …ハッ、２００万くれてやるから / 得体も知れねぇヤツらと戦えってか？
+   ...Hah! So it's "here's 2 million, now go fight who-knows-what"?
+>> 7B6B90.82 | [銀次] いけるよね、蛮ちゃん / みんなもいるんだし！！
+   We can do it, right, Ban-chan? Everyone's here with us!!
+>> 7B6B90.87 | [蛮] あったりめーだ！
+   Damn right!
+>> 7B6B90.90 | [蛮] ゲットバッカーズ！ / この依頼、確かに引き受けた！！
+   GetBackers! This job... consider it done!!
+>> 7B6B90.95 | [ヘヴン] そうこなくっちゃね♥ / じゃ、さっそく場所へ案内するわ
+   That's what I like to hear♥ Okay, let me take you to the place.

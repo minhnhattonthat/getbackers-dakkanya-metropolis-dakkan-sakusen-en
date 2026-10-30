@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "休息場所がある…",
-  "en": ""
+  "en": "There's a place to rest..."
  },
  {
   "id": "7C94C0.5",
@@ -13,6 +13,6 @@
   "box": 2,
   "speaker": "",
   "jp": "体力が回復した！！　",
-  "en": ""
+  "en": "HP restored!!"
  }
 ]

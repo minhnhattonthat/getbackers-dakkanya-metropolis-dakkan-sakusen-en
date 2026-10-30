@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "…あれ、ケータイ鳴ってる？　",
-  "en": ""
+  "en": "...Huh, is my cell ringing?"
  },
  {
   "id": "7CDC1C.7",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "マクベス",
   "jp": "お久しぶりです、銀次さん",
-  "en": ""
+  "en": "It's been a while, Ginji-san."
  },
  {
   "id": "7CDC1C.11",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "どうしたの、ＭＡＫＵＢＥＸ？",
-  "en": ""
+  "en": "What's up, MakubeX?"
  },
  {
   "id": "7CDC1C.15",
@@ -57,7 +57,7 @@
   "box": 4,
   "speaker": "マクベス",
   "jp": "アルファタワー絡みの裏情報が",
-  "en": ""
+  "en": "I've got some inside info involving Alpha"
  },
  {
   "id": "7CDC1C.18",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "マクベス",
   "jp": "あるんですよ",
-  "en": ""
+  "en": "Tower."
  },
  {
   "id": "7CDC1C.20",
@@ -80,7 +80,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "えっ…それってヤバいこと？　",
-  "en": ""
+  "en": "Huh... Is it something bad?"
  },
  {
   "id": "7CDC1C.24",
@@ -95,7 +95,7 @@
   "box": 6,
   "speaker": "マクベス",
   "jp": "ええ…　",
-  "en": ""
+  "en": "Yes..."
  },
  {
   "id": "7CDC1C.28",
@@ -103,7 +103,7 @@
   "box": 7,
   "speaker": "マクベス",
   "jp": "そのビル、爆弾が仕掛けられてますよ　",
-  "en": ""
+  "en": "There's a bomb planted in that building."
  },
  {
   "id": "7CDC1C.30",
@@ -118,7 +118,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "…爆弾！？　",
-  "en": ""
+  "en": "...A bomb?!"
  },
  {
   "id": "7CDC1C.34",
@@ -126,7 +126,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "ど、どういうこと！？",
-  "en": ""
+  "en": "Wh-What do you mean?!"
  },
  {
   "id": "7CDC1C.36",
@@ -141,7 +141,7 @@
   "box": 10,
   "speaker": "マクベス",
   "jp": "そのビルを占拠した人々を",
-  "en": ""
+  "en": "They mean to wipe out the building's"
  },
  {
   "id": "7CDC1C.39",
@@ -149,7 +149,7 @@
   "box": 10,
   "speaker": "マクベス",
   "jp": "爆弾で一網打尽にするつもりなんですよ",
-  "en": ""
+  "en": "occupiers in one blow with a bomb."
  },
  {
   "id": "7CDC1C.41",
@@ -157,7 +157,7 @@
   "box": 11,
   "speaker": "マクベス",
   "jp": "政府内のある人物が　",
-  "en": ""
+  "en": "It seems someone in the government has"
  },
  {
   "id": "7CDC1C.42",
@@ -165,7 +165,7 @@
   "box": 11,
   "speaker": "マクベス",
   "jp": "強攻策をとったようですね…　",
-  "en": ""
+  "en": "opted for drastic measures..."
  },
  {
   "id": "7CDC1C.44",
@@ -173,7 +173,7 @@
   "box": 12,
   "speaker": "マクベス",
   "jp": "爆弾は時限式のＲＤＸ爆弾です",
-  "en": ""
+  "en": "It's a time-fused RDX bomb."
  },
  {
   "id": "7CDC1C.46",
@@ -188,7 +188,7 @@
   "box": 13,
   "speaker": "銀次",
   "jp": "ＲＤＸ？？？",
-  "en": ""
+  "en": "RDX???"
  },
  {
   "id": "7CDC1C.50",
@@ -203,7 +203,7 @@
   "box": 14,
   "speaker": "蛮　",
   "jp": "威力の高い爆薬のことだ　",
-  "en": ""
+  "en": "It's a high-powered explosive."
  },
  {
   "id": "7CDC1C.54",
@@ -211,7 +211,7 @@
   "box": 15,
   "speaker": "蛮　",
   "jp": "支柱に仕掛けられているとするなら、　",
-  "en": ""
+  "en": "If it's planted in the support pillars, it"
  },
  {
   "id": "7CDC1C.55",
@@ -219,7 +219,7 @@
   "box": 15,
   "speaker": "蛮　",
   "jp": "このビルくれェ破壊できんだろうな？　",
-  "en": ""
+  "en": "could take out a building like this, right?"
  },
  {
   "id": "7CDC1C.57",
@@ -234,7 +234,7 @@
   "box": 16,
   "speaker": "マクベス",
   "jp": "できるでしょうね…簡単に",
-  "en": ""
+  "en": "It could... easily."
  },
  {
   "id": "7CDC1C.61",
@@ -249,7 +249,7 @@
   "box": 17,
   "speaker": "銀次",
   "jp": "そんな…",
-  "en": ""
+  "en": "No... That's just wrong!!"
  },
  {
   "id": "7CDC1C.64",
@@ -257,7 +257,7 @@
   "box": 17,
   "speaker": "銀次",
   "jp": "そんなことって間違ってるよ！！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CDC1C.66",
@@ -265,7 +265,7 @@
   "box": 18,
   "speaker": "銀次",
   "jp": "阻止しなきゃ！　ね、蛮ちゃん！！",
-  "en": ""
+  "en": "We have to stop it! Right, Ban-chan?!"
  },
  {
   "id": "7CDC1C.68",
@@ -280,7 +280,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "当ったり前だ！　俺たちの仕事の　",
-  "en": ""
+  "en": "Damn straight! No way I'm letting anybody"
  },
  {
   "id": "7CDC1C.71",
@@ -288,7 +288,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "ジャマされてたまるかってんだ！！",
-  "en": ""
+  "en": "mess with our job!!"
  },
  {
   "id": "7CDC1C.73",
@@ -303,7 +303,7 @@
   "box": 20,
   "speaker": "マクベス",
   "jp": "…お二人ならそう言うと思ったんです　",
-  "en": ""
+  "en": "...I knew you two would say that."
  },
  {
   "id": "7CDC1C.77",
@@ -311,7 +311,7 @@
   "box": 21,
   "speaker": "マクベス",
   "jp": "爆弾はかなり上の階に仕掛けられている",
-  "en": ""
+  "en": "The bomb seems to be planted somewhere"
  },
  {
   "id": "7CDC1C.78",
@@ -319,7 +319,7 @@
   "box": 21,
   "speaker": "マクベス",
   "jp": "みたいですが、　",
-  "en": ""
+  "en": "on the upper floors,"
  },
  {
   "id": "7CDC1C.80",
@@ -327,7 +327,7 @@
   "box": 22,
   "speaker": "マクベス",
   "jp": "爆弾にセットされた時間までは",
-  "en": ""
+  "en": "but there should still be some time before"
  },
  {
   "id": "7CDC1C.81",
@@ -335,7 +335,7 @@
   "box": 22,
   "speaker": "マクベス",
   "jp": "まだ猶予があるはずです　",
-  "en": ""
+  "en": "it's set to go off."
  },
  {
   "id": "7CDC1C.83",
@@ -343,7 +343,7 @@
   "box": 23,
   "speaker": "マクベス",
   "jp": "必ず見つけ出して下さい　",
-  "en": ""
+  "en": "Please find it, no matter what."
  },
  {
   "id": "7CDC1C.85",
@@ -358,7 +358,7 @@
   "box": 24,
   "speaker": "銀次",
   "jp": "うん！　",
-  "en": ""
+  "en": "Okay! Thanks, MakubeX."
  },
  {
   "id": "7CDC1C.88",
@@ -366,7 +366,7 @@
   "box": 24,
   "speaker": "銀次",
   "jp": "ありがとう、ＭＡＫＵＢＥＸ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CDC1C.90",
@@ -374,7 +374,7 @@
   "box": 25,
   "speaker": "銀次",
   "jp": "じゃあ、見つけたらまた連絡するから　",
-  "en": ""
+  "en": "I'll call you again once we find it."
  },
  {
   "id": "7CDC1C.94",
@@ -382,7 +382,7 @@
   "box": 26,
   "speaker": "銀次",
   "jp": "じゃあ、エレベーターで　",
-  "en": ""
+  "en": "Okay, let's take the elevator and hurry"
  },
  {
   "id": "7CDC1C.95",
@@ -390,6 +390,6 @@
   "box": 26,
   "speaker": "銀次",
   "jp": "上の階へ急ごう！！　",
-  "en": ""
+  "en": "upstairs!!"
  }
 ]

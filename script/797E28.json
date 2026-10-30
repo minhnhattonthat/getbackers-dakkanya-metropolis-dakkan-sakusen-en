@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "話題の新メニュー『裏バーガー』登場！",
-  "en": ""
+  "en": "Hot new menu item 'Ura Burger' is here!"
  },
  {
   "id": "797E28.3",
@@ -13,7 +13,7 @@
   "box": 1,
   "speaker": "",
   "jp": "今だけ３９円！　",
-  "en": ""
+  "en": "Only 39 yen for a limited time!"
  },
  {
   "id": "797E28.5",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "ジャンクフードって　",
-  "en": ""
+  "en": "I'm not a fan of junk food..."
  },
  {
   "id": "797E28.8",
@@ -36,6 +36,6 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "好きじゃないのよね…",
-  "en": ""
+  "en": " "
  }
 ]

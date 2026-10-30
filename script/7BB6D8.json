@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "２５→２→１８　",
-  "en": ""
+  "en": "25 -> 2 -> 18"
  },
  {
   "id": "7BB6D8.4",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "な、なんや？　分からへん",
-  "en": ""
+  "en": "Wh-what's this? I don't get it."
  },
  {
   "id": "7BB6D8.8",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "どうもこの順番になにかしろって　",
-  "en": ""
+  "en": "It seems we're meant to do something in"
  },
  {
   "id": "7BB6D8.11",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "ことみたいだね…",
-  "en": ""
+  "en": "this order..."
  },
  {
   "id": "7BB6D8.13",
@@ -58,6 +58,6 @@
   "box": 4,
   "speaker": "十兵衛　",
   "jp": "辺りを探る必要がありそうだな…　",
-  "en": ""
+  "en": "It seems we must search the area..."
  }
 ]

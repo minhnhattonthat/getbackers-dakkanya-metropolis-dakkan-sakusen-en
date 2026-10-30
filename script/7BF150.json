@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "卑弥呼　",
   "jp": "とりあえずこれだけはかせてみたけど…",
-  "en": ""
+  "en": "I put these on its legs for now... but"
  },
  {
   "id": "7BF150.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "卑弥呼　",
   "jp": "他のものはここにはなさそうね",
-  "en": ""
+  "en": "nothing else seems to be here."
  },
  {
   "id": "7BF150.6",
@@ -35,6 +35,6 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "残りは別の部屋ってことか…　",
-  "en": ""
+  "en": "So the rest is in another room..."
  }
 ]

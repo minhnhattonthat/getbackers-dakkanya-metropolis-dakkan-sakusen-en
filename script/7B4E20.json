@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "パスコード１がねえと",
-  "en": ""
+  "en": "Looks like it won't open without Passcode"
  },
  {
   "id": "7B4E20.4",
@@ -20,6 +20,6 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "開かないようだな…　",
-  "en": ""
+  "en": "1..."
  }
 ]

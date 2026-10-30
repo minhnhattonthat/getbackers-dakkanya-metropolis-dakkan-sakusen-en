@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "十兵衛、なにしてるんだい？　",
-  "en": ""
+  "en": "Juubei, what are you doing?"
  },
  {
   "id": "7AD1C0.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "か、花月！！",
-  "en": ""
+  "en": "K-Kazuki!!"
  },
  {
   "id": "7AD1C0.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "まだＭＡＫＵＢＥＸに",
-  "en": ""
+  "en": "You still haven't forgotten how MakubeX"
  },
  {
   "id": "7AD1C0.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "冗談が通じないって言われたこと、",
-  "en": ""
+  "en": "said you can't take a joke,"
  },
  {
   "id": "7AD1C0.14",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "花月",
   "jp": "忘れてなかったんだね",
-  "en": ""
+  "en": "have you?"
  },
  {
   "id": "7AD1C0.16",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "十兵衛　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7AD1C0.20",
@@ -88,7 +88,7 @@
   "box": 6,
   "speaker": "花月",
   "jp": "十兵衛…キミのそういうまっすぐな所、",
-  "en": ""
+  "en": "Juubei... I think that earnest side of you is"
  },
  {
   "id": "7AD1C0.23",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "花月",
   "jp": "僕は素晴らしいと思うよ　",
-  "en": ""
+  "en": "wonderful."
  },
  {
   "id": "7AD1C0.25",
@@ -104,7 +104,7 @@
   "box": 7,
   "speaker": "花月",
   "jp": "でもその気持ちをそろそろ",
-  "en": ""
+  "en": "But it's about time you pointed that"
  },
  {
   "id": "7AD1C0.26",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "花月",
   "jp": "別の方向に向けないとね　",
-  "en": ""
+  "en": "feeling in a different direction."
  },
  {
   "id": "7AD1C0.28",
@@ -127,7 +127,7 @@
   "box": 8,
   "speaker": "十兵衛　",
   "jp": "…スマン、花月！",
-  "en": ""
+  "en": "...Forgive me, Kazuki!"
  },
  {
   "id": "7AD1C0.32",
@@ -142,7 +142,7 @@
   "box": 9,
   "speaker": "笑師",
   "jp": "（おおっ！　かたくなだった　",
-  "en": ""
+  "en": "(Whoa! Stubborn ol' Juubei-han, givin' in"
  },
  {
   "id": "7AD1C0.35",
@@ -150,7 +150,7 @@
   "box": 9,
   "speaker": "笑師",
   "jp": "十兵衛はんがこないに簡単に…）　",
-  "en": ""
+  "en": "that easy...)"
  },
  {
   "id": "7AD1C0.37",
@@ -158,7 +158,7 @@
   "box": 10,
   "speaker": "笑師",
   "jp": "ま、これで勢ぞろいっちゅーことやな！",
-  "en": ""
+  "en": "Well, that means the whole gang's here!"
  },
  {
   "id": "7AD1C0.38",
@@ -166,7 +166,7 @@
   "box": 10,
   "speaker": "笑師",
   "jp": "ほな、行きましょか！！　",
-  "en": ""
+  "en": "Let's get goin'!!"
  },
  {
   "id": "7AD1C0.40",
@@ -181,7 +181,7 @@
   "box": 11,
   "speaker": "蛮　",
   "jp": "オメーがしきるんじゃねえよ、",
-  "en": ""
+  "en": "Who made you the boss, comedy boy?!"
  },
  {
   "id": "7AD1C0.43",
@@ -189,6 +189,6 @@
   "box": 11,
   "speaker": "蛮　",
   "jp": "お笑いヤロー！　",
-  "en": ""
+  "en": " "
  }
 ]

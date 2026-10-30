@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "スタッフ",
   "jp": "ああ、違ってるみたいだね…　",
-  "en": ""
+  "en": "Ah, looks like that's wrong... This is the"
  },
  {
   "id": "7AA1A4.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "スタッフ",
   "jp": "最後だからハリキっていこうよ！！",
-  "en": ""
+  "en": "last one, so let's give it our all!!"
  },
  {
   "id": "7AA1A4.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "スタッフ",
   "jp": "じゃ、よく聞いてね　",
-  "en": ""
+  "en": "Okay, listen carefully."
  },
  {
   "id": "7AA1A4.8",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "スタッフ",
   "jp": "まずツルコさんだけど、この人の衣装は",
-  "en": ""
+  "en": "First, Tsuruko-san -- her costume hasn't"
  },
  {
   "id": "7AA1A4.9",
@@ -44,7 +44,7 @@
   "box": 3,
   "speaker": "スタッフ",
   "jp": "届いてないから置かなくていいよ　",
-  "en": ""
+  "en": "arrived, so you don't need to place one."
  },
  {
   "id": "7AA1A4.11",
@@ -52,7 +52,7 @@
   "box": 4,
   "speaker": "スタッフ",
   "jp": "次にキキョウさんだけど、",
-  "en": ""
+  "en": "Next, Kikyo-san gets the flashy kimono."
  },
  {
   "id": "7AA1A4.12",
@@ -60,7 +60,7 @@
   "box": 4,
   "speaker": "スタッフ",
   "jp": "この人はハデな着物ね",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AA1A4.14",
@@ -68,7 +68,7 @@
   "box": 5,
   "speaker": "スタッフ",
   "jp": "ああ見えてけっこうハデ好きなんだよね",
-  "en": ""
+  "en": "She might not look it, but she really loves\nflashy stuff."
  },
  {
   "id": "7AA1A4.16",
@@ -76,7 +76,7 @@
   "box": 6,
   "speaker": "スタッフ",
   "jp": "次のシズクさんはせいそな着物",
-  "en": ""
+  "en": "Shizuku-san's next: the demure kimono."
  },
  {
   "id": "7AA1A4.17",
@@ -84,7 +84,7 @@
   "box": 6,
   "speaker": "スタッフ",
   "jp": "せいそな着物の似合う女性っていいよね",
-  "en": ""
+  "en": "Gotta love a gal in a demure kimono."
  },
  {
   "id": "7AA1A4.19",
@@ -92,7 +92,7 @@
   "box": 7,
   "speaker": "スタッフ",
   "jp": "で、次のナミヲさんは男物のハカマだ　",
-  "en": ""
+  "en": "Then Namio-san gets the men's hakama."
  },
  {
   "id": "7AA1A4.21",
@@ -100,7 +100,7 @@
   "box": 8,
   "speaker": "スタッフ",
   "jp": "間違えてハカマさんのところにハカマ　",
-  "en": ""
+  "en": "Don't go delivering the hakama to"
  },
  {
   "id": "7AA1A4.22",
@@ -108,7 +108,7 @@
   "box": 8,
   "speaker": "スタッフ",
   "jp": "届けないようにね",
-  "en": ""
+  "en": "Hakama-san by mistake."
  },
  {
   "id": "7AA1A4.24",
@@ -116,7 +116,7 @@
   "box": 9,
   "speaker": "スタッフ",
   "jp": "ナミヲさんの方だからね　",
-  "en": ""
+  "en": "It goes to Namio-san, got it?"
  },
  {
   "id": "7AA1A4.26",
@@ -124,7 +124,7 @@
   "box": 10,
   "speaker": "スタッフ",
   "jp": "お次のココロさんはハデな…　",
-  "en": ""
+  "en": "Next up, Kokoro-san gets the flashy... oh,"
  },
  {
   "id": "7AA1A4.27",
@@ -132,7 +132,7 @@
   "box": 10,
   "speaker": "スタッフ",
   "jp": "ああ違うな、せいそなドレスの方ね",
-  "en": ""
+  "en": "no, the demure dress."
  },
  {
   "id": "7AA1A4.29",
@@ -140,7 +140,7 @@
   "box": 11,
   "speaker": "スタッフ",
   "jp": "次のロクローさんはタキシード",
-  "en": ""
+  "en": "Next, Rokuro-san gets the tuxedo."
  },
  {
   "id": "7AA1A4.31",
@@ -148,7 +148,7 @@
   "box": 12,
   "speaker": "スタッフ",
   "jp": "最後にハカマさんが…",
-  "en": ""
+  "en": "And last, Hakama-san gets..."
  },
  {
   "id": "7AA1A4.33",
@@ -156,7 +156,7 @@
   "box": 13,
   "speaker": "スタッフ",
   "jp": "あれ？　ハカマさんも衣装が　",
-  "en": ""
+  "en": "Huh? Hakama-san's costume hadn't arrived"
  },
  {
   "id": "7AA1A4.34",
@@ -164,7 +164,7 @@
   "box": 13,
   "speaker": "スタッフ",
   "jp": "届いてないんだっけな？　",
-  "en": ""
+  "en": "either, right?"
  },
  {
   "id": "7AA1A4.36",
@@ -172,7 +172,7 @@
   "box": 14,
   "speaker": "スタッフ",
   "jp": "ツルコさんとハカマさんのどっちが",
-  "en": ""
+  "en": "I forget whether it's Tsuruko-san or"
  },
  {
   "id": "7AA1A4.37",
@@ -180,7 +180,7 @@
   "box": 14,
   "speaker": "スタッフ",
   "jp": "ハデなドレスなのか忘れちゃったな",
-  "en": ""
+  "en": "Hakama-san who gets the flashy dress."
  },
  {
   "id": "7AA1A4.39",
@@ -188,7 +188,7 @@
   "box": 15,
   "speaker": "スタッフ",
   "jp": "まあいいや、てきとうにやってよ　",
-  "en": ""
+  "en": "Oh well, just do whatever."
  },
  {
   "id": "7AA1A4.41",
@@ -196,7 +196,7 @@
   "box": 16,
   "speaker": "スタッフ",
   "jp": "衣装はイベントアイテムの中に",
-  "en": ""
+  "en": "I'll put the costumes in your Event items."
  },
  {
   "id": "7AA1A4.42",
@@ -204,7 +204,7 @@
   "box": 16,
   "speaker": "スタッフ",
   "jp": "入れておくよ",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AA1A4.44",
@@ -212,7 +212,7 @@
   "box": 17,
   "speaker": "スタッフ",
   "jp": "アイテムは机の手前からじゃないと",
-  "en": ""
+  "en": "You can only place items from the front"
  },
  {
   "id": "7AA1A4.45",
@@ -220,6 +220,6 @@
   "box": 17,
   "speaker": "スタッフ",
   "jp": "置けないから気をつけてね",
-  "en": ""
+  "en": "of the desk, so be careful."
  }
 ]

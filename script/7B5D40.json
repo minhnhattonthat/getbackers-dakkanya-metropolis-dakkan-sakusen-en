@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "鏡　",
   "jp": "やあ、久しぶりだね　",
-  "en": ""
+  "en": "Hey, long time no see."
  },
  {
   "id": "7B5D40.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "…って、テメーここでなにしてンだよ　",
-  "en": ""
+  "en": "...Wait, what the hell are you doing here?"
  },
  {
   "id": "7B5D40.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "もしかして、オーディション受けに",
-  "en": ""
+  "en": "Don't tell me you came here for the"
  },
  {
   "id": "7B5D40.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "来たってんじゃねえだろうな？",
-  "en": ""
+  "en": "audition?"
  },
  {
   "id": "7B5D40.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "鏡　",
   "jp": "まさか…",
-  "en": ""
+  "en": "Hardly... I'm just looking into something."
  },
  {
   "id": "7B5D40.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "鏡　",
   "jp": "ちょっと調べてることがあってね　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B5D40.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "えっ、ＭＡＩちゃんのことを　",
-  "en": ""
+  "en": "Huh? Like, are you observing MAI-chan or"
  },
  {
   "id": "7B5D40.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "観察してるとか…？　",
-  "en": ""
+  "en": "something...?"
  },
  {
   "id": "7B5D40.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "鏡　",
   "jp": "違うよ　",
-  "en": ""
+  "en": "No. What I'm looking into is those 'People.'"
  },
  {
   "id": "7B5D40.25",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "鏡　",
   "jp": "オレが調べてるのはあの『民』のことさ",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B5D40.27",
@@ -127,7 +127,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "…あの民だあ！？",
-  "en": ""
+  "en": "...\"Those People\"?! What the hell's that"
  },
  {
   "id": "7B5D40.30",
@@ -135,7 +135,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "なんのことだよ、そりゃあ",
-  "en": ""
+  "en": "supposed to mean?"
  },
  {
   "id": "7B5D40.32",
@@ -150,7 +150,7 @@
   "box": 8,
   "speaker": "鏡　",
   "jp": "そうか、",
-  "en": ""
+  "en": "I see. You two don't know yet, do you?"
  },
  {
   "id": "7B5D40.35",
@@ -158,7 +158,7 @@
   "box": 8,
   "speaker": "鏡　",
   "jp": "君たちはまだ知らないんだったね　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B5D40.37",
@@ -166,7 +166,7 @@
   "box": 9,
   "speaker": "鏡　",
   "jp": "でもいずれ分かるはずだよ",
-  "en": ""
+  "en": "But you'll understand soon enough. What"
  },
  {
   "id": "7B5D40.38",
@@ -174,7 +174,7 @@
   "box": 9,
   "speaker": "鏡　",
   "jp": "オレの言ってることが…ね",
-  "en": ""
+  "en": "I'm talking about, that is..."
  },
  {
   "id": "7B5D40.40",
@@ -189,7 +189,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7B5D40.44",
@@ -204,6 +204,6 @@
   "box": 11,
   "speaker": "鏡　",
   "jp": "君たちの健闘を祈るよ",
-  "en": ""
+  "en": "Good luck to you both."
  }
 ]

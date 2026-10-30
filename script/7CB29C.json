@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "クレイマン　",
   "jp": "さすらいの民が　",
-  "en": ""
+  "en": "Will the Wandering People win a land to"
  },
  {
   "id": "7CB29C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "クレイマン　",
   "jp": "安住の地を手に入れるのか、　",
-  "en": ""
+  "en": "settle,"
  },
  {
   "id": "7CB29C.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "クレイマン　",
   "jp": "それともゲットバッカーズが　",
-  "en": ""
+  "en": "or will the GetBackers take it back..."
  },
  {
   "id": "7CB29C.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "クレイマン　",
   "jp": "奪り還すのか…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CB29C.9",
@@ -44,6 +44,6 @@
   "box": 3,
   "speaker": "クレイマン　",
   "jp": "どっちになるんだろうね？",
-  "en": ""
+  "en": "Which way will it go, I wonder?"
  }
 ]

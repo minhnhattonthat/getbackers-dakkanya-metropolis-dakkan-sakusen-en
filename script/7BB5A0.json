@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "１８→２３→２　",
-  "en": ""
+  "en": "18 -> 23 -> 2"
  },
  {
   "id": "7BB5A0.4",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "なんだ、こりゃ？",
-  "en": ""
+  "en": "What the hell is this?"
  },
  {
   "id": "7BB5A0.8",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "この順番になにかしろって",
-  "en": ""
+  "en": "Doesn't it mean we're supposed to do"
  },
  {
   "id": "7BB5A0.11",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "ことじゃないかしら？",
-  "en": ""
+  "en": "something in this order?"
  },
  {
   "id": "7BB5A0.13",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "なにか？",
-  "en": ""
+  "en": "Do something?"
  },
  {
   "id": "7BB5A0.17",
@@ -73,6 +73,6 @@
   "box": 5,
   "speaker": "士度",
   "jp": "辺りを探ってみた方がよさそうだな…　",
-  "en": ""
+  "en": "We'd better search the area..."
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "鏡　",
   "jp": "追いついたみたいだね？　",
-  "en": ""
+  "en": "Looks like I caught up?"
  },
  {
   "id": "7CEF1C.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "あれ、鏡さん！　",
-  "en": ""
+  "en": "Huh, Kagami-san!"
  },
  {
   "id": "7CEF1C.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "他のみんなは！？",
-  "en": ""
+  "en": "What about everyone else?!"
  },
  {
   "id": "7CEF1C.11",
@@ -50,7 +50,7 @@
   "box": 4,
   "speaker": "鏡　",
   "jp": "さあ…誰とも会わなかったよ　",
-  "en": ""
+  "en": "Who knows... I didn't run into anyone."
  },
  {
   "id": "7CEF1C.15",
@@ -58,7 +58,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "もっとも、戦闘中異空間に引き込まれる",
-  "en": ""
+  "en": "Then again, it felt like I got pulled into"
  },
  {
   "id": "7CEF1C.16",
@@ -66,7 +66,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "感じがしたからね…　",
-  "en": ""
+  "en": "another dimension during the fight..."
  },
  {
   "id": "7CEF1C.18",
@@ -74,7 +74,7 @@
   "box": 6,
   "speaker": "鏡　",
   "jp": "会おうとしても会えないと思うけど",
-  "en": ""
+  "en": "so I doubt you could meet them even if\nyou tried."
  },
  {
   "id": "7CEF1C.20",
@@ -89,6 +89,6 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  }
 ]

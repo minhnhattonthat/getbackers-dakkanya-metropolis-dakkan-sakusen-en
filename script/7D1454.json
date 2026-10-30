@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "たっだいま～！　",
-  "en": ""
+  "en": "We're ho~me!"
  },
  {
   "id": "7D1454.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "ねえねえ、ヘヴンさん聞いてよ！　",
-  "en": ""
+  "en": "Hey, hey, Hevn-san, listen to this!"
  },
  {
   "id": "7D1454.7",
@@ -28,7 +28,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "蛮ちゃんたら、アルくんと",
-  "en": ""
+  "en": "When Ban-chan said goodbye to Al-kun, he"
  },
  {
   "id": "7D1454.8",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "別れる時に泣いちゃってさ～　",
-  "en": ""
+  "en": "went and cried~"
  },
  {
   "id": "7D1454.10",
@@ -51,7 +51,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "そりゃテメーじゃねえかよ！　",
-  "en": ""
+  "en": "That was you, dammit! Quit spouting"
  },
  {
   "id": "7D1454.13",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "ったく、ホラ吹いてンじゃねーよ　",
-  "en": ""
+  "en": "nonsense!"
  },
  {
   "id": "7D1454.15",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "ヘヴン　",
   "jp": "アラ、鬼の目にも涙ね",
-  "en": ""
+  "en": "My, even a demon sheds tears."
  },
  {
   "id": "7D1454.19",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "…オイ、俺の話聞いてんのかよ？　",
-  "en": ""
+  "en": "...Hey, are you even listening to me?"
  },
  {
   "id": "7D1454.23",
@@ -104,7 +104,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "でも、寂しくなっちゃうよね～",
-  "en": ""
+  "en": "But it's gonna get lonely, huh~? Al-kun"
  },
  {
   "id": "7D1454.26",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "昨日までここにアルくんがいたのにさ…",
-  "en": ""
+  "en": "was here till just yesterday..."
  },
  {
   "id": "7D1454.28",
@@ -127,7 +127,7 @@
   "box": 8,
   "speaker": "夏実",
   "jp": "そのアルくんから手紙が届いてますよ　",
-  "en": ""
+  "en": "Actually, a letter came from that very\nAl-kun."
  },
  {
   "id": "7D1454.32",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "夏実",
   "jp": "蛮　",
-  "en": ""
+  "en": "Ban"
  },
  {
   "id": "7D1454.33",
@@ -143,7 +143,7 @@
   "box": 8,
   "speaker": "夏実",
   "jp": "銀次",
-  "en": ""
+  "en": "Ginji"
  },
  {
   "id": "7D1454.35",
@@ -151,7 +151,7 @@
   "box": 9,
   "speaker": "夏実",
   "jp": "は、早っ！！",
-  "en": ""
+  "en": "Th-That was fast!!"
  },
  {
   "id": "7D1454.37",
@@ -166,7 +166,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "ヤツとは",
-  "en": ""
+  "en": "We only just said goodbye to the guy a"
  },
  {
   "id": "7D1454.40",
@@ -174,7 +174,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "ついさっき別れたばかりなんだぜ！？　",
-  "en": ""
+  "en": "minute ago!"
  },
  {
   "id": "7D1454.42",
@@ -189,7 +189,7 @@
   "box": 11,
   "speaker": "夏実",
   "jp": "二人がここに来るちょっと前に",
-  "en": ""
+  "en": "Something like a pigeon brought it just a"
  },
  {
   "id": "7D1454.45",
@@ -197,7 +197,7 @@
   "box": 11,
   "speaker": "夏実",
   "jp": "ハトみたいなのが運んできましたよ？　",
-  "en": ""
+  "en": "little before you two got here."
  },
  {
   "id": "7D1454.47",
@@ -212,7 +212,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "（…ハトみたいなの！？）",
-  "en": ""
+  "en": "(...Something LIKE a pigeon?!)"
  },
  {
   "id": "7D1454.51",
@@ -227,7 +227,7 @@
   "box": 13,
   "speaker": "銀次",
   "jp": "ねえ蛮ちゃん、読んでみてよ　",
-  "en": ""
+  "en": "Hey, Ban-chan, read it out!"
  },
  {
   "id": "7D1454.55",
@@ -242,7 +242,7 @@
   "box": 14,
   "speaker": "蛮　",
   "jp": "まあ待ってろって…なになに？",
-  "en": ""
+  "en": "Hold your horses... Let's see here?"
  },
  {
   "id": "7D1454.59",
@@ -250,7 +250,7 @@
   "box": 15,
   "speaker": "蛮　",
   "jp": "『︀ボクうっかりしてて",
-  "en": ""
+  "en": "'I was careless, and I left TARE behind."
  },
  {
   "id": "7D1454.60",
@@ -258,7 +258,7 @@
   "box": 15,
   "speaker": "蛮　",
   "jp": "ＴＡＲＥ置いてきちゃった",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7D1454.62",
@@ -266,7 +266,7 @@
   "box": 16,
   "speaker": "蛮　",
   "jp": "お願いです、ＴＡＲＥ見つけて下さい！",
-  "en": ""
+  "en": "Please, find TARE for me!"
  },
  {
   "id": "7D1454.64",
@@ -274,7 +274,7 @@
   "box": 17,
   "speaker": "蛮　",
   "jp": "ほっといたらＴＡＲＥなにするか　",
-  "en": ""
+  "en": "If you leave TARE alone, nobody knows"
  },
  {
   "id": "7D1454.65",
@@ -282,7 +282,7 @@
   "box": 17,
   "speaker": "蛮　",
   "jp": "分からない…あぶないヨ！",
-  "en": ""
+  "en": "what TARE will do... It is dangerous!"
  },
  {
   "id": "7D1454.67",
@@ -290,7 +290,7 @@
   "box": 18,
   "speaker": "蛮　",
   "jp": "アルより』︀　",
-  "en": ""
+  "en": "From Al'"
  },
  {
   "id": "7D1454.69",
@@ -298,7 +298,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7D1454.71",
@@ -313,7 +313,7 @@
   "box": 20,
   "speaker": "銀次",
   "jp": "ＴＡＲＥってそんなに危険なのかな？　",
-  "en": ""
+  "en": "Is TARE really that dangerous?"
  },
  {
   "id": "7D1454.75",
@@ -321,7 +321,7 @@
   "box": 21,
   "speaker": "銀次",
   "jp": "どうする、蛮ちゃん？",
-  "en": ""
+  "en": "What do we do, Ban-chan?"
  },
  {
   "id": "7D1454.77",
@@ -336,7 +336,7 @@
   "box": 22,
   "speaker": "蛮　",
   "jp": "じょーだんじゃねえっつーの、",
-  "en": ""
+  "en": "Gimme a break, we ain't errand boys!"
  },
  {
   "id": "7D1454.80",
@@ -344,7 +344,7 @@
   "box": 22,
   "speaker": "蛮　",
   "jp": "俺たちは便利屋じゃねんだよ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7D1454.83",
@@ -359,7 +359,7 @@
   "box": 23,
   "speaker": "銀次",
   "jp": "…あれ、ケータイ鳴ってる？　",
-  "en": ""
+  "en": "...Huh, is my cell ringing?"
  },
  {
   "id": "7D1454.88",
@@ -374,7 +374,7 @@
   "box": 24,
   "speaker": "マクベス",
   "jp": "銀次さん、無事でなによりです",
-  "en": ""
+  "en": "Ginji-san, I'm glad you're safe."
  },
  {
   "id": "7D1454.92",
@@ -389,7 +389,7 @@
   "box": 25,
   "speaker": "銀次",
   "jp": "うん、ありがと…で、どしたの？　",
-  "en": ""
+  "en": "Yeah, thanks... So, what's up?"
  },
  {
   "id": "7D1454.96",
@@ -404,7 +404,7 @@
   "box": 26,
   "speaker": "マクベス",
   "jp": "ええ…この前の電波ジャックのこと",
-  "en": ""
+  "en": "Well... Do you remember the broadcast"
  },
  {
   "id": "7D1454.99",
@@ -412,7 +412,7 @@
   "box": 26,
   "speaker": "マクベス",
   "jp": "覚えてますか？　",
-  "en": ""
+  "en": "hijack the other day?"
  },
  {
   "id": "7D1454.101",
@@ -427,7 +427,7 @@
   "box": 27,
   "speaker": "銀次",
   "jp": "ああ、あれってＭＡＫＵＢＥＸが　",
-  "en": ""
+  "en": "Oh, so that was you, MakubeX?"
  },
  {
   "id": "7D1454.104",
@@ -435,7 +435,7 @@
   "box": 27,
   "speaker": "銀次",
   "jp": "やってくれたの？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7D1454.106",
@@ -450,7 +450,7 @@
   "box": 28,
   "speaker": "マクベス",
   "jp": "そうなんですけど…　",
-  "en": ""
+  "en": "It was, but... there was a little mishap at"
  },
  {
   "id": "7D1454.109",
@@ -458,7 +458,7 @@
   "box": 28,
   "speaker": "マクベス",
   "jp": "ちょっとその時に手違いがありましてね",
-  "en": ""
+  "en": "the time."
  },
  {
   "id": "7D1454.111",
@@ -473,7 +473,7 @@
   "box": 29,
   "speaker": "銀次",
   "jp": "手違い…？？？　",
-  "en": ""
+  "en": "A mishap...???"
  },
  {
   "id": "7D1454.115",
@@ -488,7 +488,7 @@
   "box": 30,
   "speaker": "マクベス",
   "jp": "タワーのシステムにウィルスがあって、",
-  "en": ""
+  "en": "There was a virus in the tower's system,"
  },
  {
   "id": "7D1454.118",
@@ -496,7 +496,7 @@
   "box": 30,
   "speaker": "マクベス",
   "jp": "あなたたちのＶＲがコピーされたんです",
-  "en": ""
+  "en": "and your VR data got copied."
  },
  {
   "id": "7D1454.120",
@@ -511,7 +511,7 @@
   "box": 31,
   "speaker": "銀次",
   "jp": "ええっ！？　",
-  "en": ""
+  "en": "Whaaat?!"
  },
  {
   "id": "7D1454.124",
@@ -526,7 +526,7 @@
   "box": 32,
   "speaker": "マクベス",
   "jp": "今は僕の方でデータ流出を",
-  "en": ""
+  "en": "I've managed to stop the data leak on my"
  },
  {
   "id": "7D1454.127",
@@ -534,7 +534,7 @@
   "box": 32,
   "speaker": "マクベス",
   "jp": "抑えられたんですけど…　",
-  "en": ""
+  "en": "end for now, but..."
  },
  {
   "id": "7D1454.129",
@@ -542,7 +542,7 @@
   "box": 33,
   "speaker": "マクベス",
   "jp": "実体化しちゃったものは物理的に　",
-  "en": ""
+  "en": "anything that's already materialized has"
  },
  {
   "id": "7D1454.130",
@@ -550,7 +550,7 @@
   "box": 33,
   "speaker": "マクベス",
   "jp": "取り除かないといけないんです",
-  "en": ""
+  "en": "to be removed physically."
  },
  {
   "id": "7D1454.132",
@@ -565,7 +565,7 @@
   "box": 34,
   "speaker": "銀次",
   "jp": "………あう　",
-  "en": ""
+  "en": "......Uhh."
  },
  {
   "id": "7D1454.136",
@@ -580,7 +580,7 @@
   "box": 35,
   "speaker": "マクベス",
   "jp": "…というわけで、",
-  "en": ""
+  "en": "...So, I'd like to hire you two for a job."
  },
  {
   "id": "7D1454.139",
@@ -588,7 +588,7 @@
   "box": 35,
   "speaker": "マクベス",
   "jp": "お二人に仕事を依頼したいと思いまして",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7D1454.141",
@@ -596,7 +596,7 @@
   "box": 36,
   "speaker": "マクベス",
   "jp": "そうですね…アルファタワーの平和を　",
-  "en": ""
+  "en": "Let's see... How about you retrieve the"
  },
  {
   "id": "7D1454.142",
@@ -604,7 +604,7 @@
   "box": 36,
   "speaker": "マクベス",
   "jp": "奪還するということでどうですか？",
-  "en": ""
+  "en": "peace of Alpha Tower?"
  },
  {
   "id": "7D1454.144",
@@ -612,7 +612,7 @@
   "box": 37,
   "speaker": "マクベス",
   "jp": "依頼料はこの前の電波ジャックの　",
-  "en": ""
+  "en": "As for your fee, I'll wipe out what you"
  },
  {
   "id": "7D1454.145",
@@ -620,7 +620,7 @@
   "box": 37,
   "speaker": "マクベス",
   "jp": "仕事料をチャラにするってことで…",
-  "en": ""
+  "en": "owe me for that broadcast hijack..."
  },
  {
   "id": "7D1454.147",
@@ -628,7 +628,7 @@
   "box": 38,
   "speaker": "マクベス",
   "jp": "では、お願いします　",
-  "en": ""
+  "en": "Well then, I'm counting on you."
  },
  {
   "id": "7D1454.151",
@@ -643,7 +643,7 @@
   "box": 39,
   "speaker": "銀次",
   "jp": "…ってことなんだけど、蛮ちゃん………",
-  "en": ""
+  "en": "...So that's the deal, Ban-chan......"
  },
  {
   "id": "7D1454.155",
@@ -658,7 +658,7 @@
   "box": 40,
   "speaker": "蛮　",
   "jp": "冗談じゃねえってンだよ！！　",
-  "en": ""
+  "en": "Are you kidding me?!"
  },
  {
   "id": "7D1454.159",
@@ -666,7 +666,7 @@
   "box": 41,
   "speaker": "蛮　",
   "jp": "だいたい電波ジャックのことなんざ、　",
-  "en": ""
+  "en": "And we don't know a damn thing about"
  },
  {
   "id": "7D1454.160",
@@ -674,7 +674,7 @@
   "box": 41,
   "speaker": "蛮　",
   "jp": "俺たちは知らねえぞ！！　",
-  "en": ""
+  "en": "any broadcast hijack!!"
  },
  {
   "id": "7D1454.162",
@@ -689,7 +689,7 @@
   "box": 42,
   "speaker": "ヘヴン　",
   "jp": "あっ、それね…　",
-  "en": ""
+  "en": "Oh, about that... I'm the one who asked"
  },
  {
   "id": "7D1454.165",
@@ -697,7 +697,7 @@
   "box": 42,
   "speaker": "ヘヴン　",
   "jp": "私がＭＡＫＵＢＥＸクンにお願いしたの",
-  "en": ""
+  "en": "MakubeX-kun to do it."
  },
  {
   "id": "7D1454.167",
@@ -705,7 +705,7 @@
   "box": 43,
   "speaker": "ヘヴン　",
   "jp": "依頼料はあんたたちから出るからって♥",
-  "en": ""
+  "en": "I told him you two would pay the fee♥"
  },
  {
   "id": "7D1454.169",
@@ -720,7 +720,7 @@
   "box": 44,
   "speaker": "蛮　",
   "jp": "…なンだ、そりゃ？　",
-  "en": ""
+  "en": "...The hell?"
  },
  {
   "id": "7D1454.173",
@@ -735,7 +735,7 @@
   "box": 45,
   "speaker": "ヘヴン　",
   "jp": "あんたたち、アルくんの国のすっごい　",
-  "en": ""
+  "en": "Weren't you boys supposed to get some"
  },
  {
   "id": "7D1454.176",
@@ -743,7 +743,7 @@
   "box": 45,
   "speaker": "ヘヴン　",
   "jp": "お宝が手に入るはずだったじゃない？　",
-  "en": ""
+  "en": "super treasure from Al-kun's country?"
  },
  {
   "id": "7D1454.178",
@@ -751,7 +751,7 @@
   "box": 46,
   "speaker": "ヘヴン　",
   "jp": "それ位お手のものかなーと思って　",
-  "en": ""
+  "en": "So I figured that'd be a piece of cake for\nyou."
  },
  {
   "id": "7D1454.180",
@@ -766,7 +766,7 @@
   "box": 47,
   "speaker": "夏実",
   "jp": "そういえばどうしたんですか、お宝？　",
-  "en": ""
+  "en": "Come to think of it, what happened to the\ntreasure?"
  },
  {
   "id": "7D1454.184",
@@ -774,7 +774,7 @@
   "box": 47,
   "speaker": "夏実",
   "jp": "蛮　",
-  "en": ""
+  "en": "Ban"
  },
  {
   "id": "7D1454.185",
@@ -782,7 +782,7 @@
   "box": 47,
   "speaker": "夏実",
   "jp": "銀次",
-  "en": ""
+  "en": "Ginji"
  },
  {
   "id": "7D1454.187",
@@ -790,7 +790,7 @@
   "box": 48,
   "speaker": "夏実",
   "jp": "………………",
-  "en": ""
+  "en": ".........."
  },
  {
   "id": "7D1454.189",
@@ -805,7 +805,7 @@
   "box": 49,
   "speaker": "蛮　",
   "jp": "…拾いに行くぞ、銀次！　",
-  "en": ""
+  "en": "...We're going to go fish it out, Ginji!"
  },
  {
   "id": "7D1454.193",
@@ -813,7 +813,7 @@
   "box": 50,
   "speaker": "蛮　",
   "jp": "ＤＶＤロムってのは　",
-  "en": ""
+  "en": "A DVD-ROM won't die just from getting a"
  },
  {
   "id": "7D1454.194",
@@ -821,7 +821,7 @@
   "box": 50,
   "speaker": "蛮　",
   "jp": "水にぬれたくれェで死にゃしねえ！！　",
-  "en": ""
+  "en": "little wet!!"
  },
  {
   "id": "7D1454.196",
@@ -836,7 +836,7 @@
   "box": 51,
   "speaker": "銀次",
   "jp": "ム…ムリだよ、蛮ちゃん！",
-  "en": ""
+  "en": "N-No way, Ban-chan! Give it up and let's go"
  },
  {
   "id": "7D1454.199",
@@ -844,7 +844,7 @@
   "box": 51,
   "speaker": "銀次",
   "jp": "あきらめてアルファタワーに行こうよ！",
-  "en": ""
+  "en": "to Alpha Tower!"
  },
  {
   "id": "7D1454.201",
@@ -859,7 +859,7 @@
   "box": 52,
   "speaker": "蛮　",
   "jp": "クソッ！　なんで俺たちがこんな目に…",
-  "en": ""
+  "en": "Damn it! Why do we get stuck with this?!"
  },
  {
   "id": "7D1454.205",
@@ -874,7 +874,7 @@
   "box": 53,
   "speaker": "波児",
   "jp": "ま、近頃騒がしいのは",
-  "en": ""
+  "en": "Well, the place that's been noisy lately is"
  },
  {
   "id": "7D1454.208",
@@ -882,7 +882,7 @@
   "box": 53,
   "speaker": "波児",
   "jp": "アルファタワーＴＨＲＥＥの方だ　",
-  "en": ""
+  "en": "Alpha Tower Three."
  },
  {
   "id": "7D1454.210",
@@ -890,7 +890,7 @@
   "box": 54,
   "speaker": "波児",
   "jp": "ＴＡＲＥもＶＲもそこにいるだろうよ　",
-  "en": ""
+  "en": "I bet both TARE and the VRs are there."
  },
  {
   "id": "7D1454.212",
@@ -905,6 +905,6 @@
   "box": 55,
   "speaker": "蛮　",
   "jp": "あのヤロー、やっぱ疫病神だったな…　",
-  "en": ""
+  "en": "That brat really was a jinx after all..."
  }
 ]

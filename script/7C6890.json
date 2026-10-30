@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "！　お前は！！　",
-  "en": ""
+  "en": "! It's you!!"
  },
  {
   "id": "7C6890.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "ジェンド",
   "jp": "さあ、アルよ",
-  "en": ""
+  "en": "Now, Al. Show me your loyalty."
  },
  {
   "id": "7C6890.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "ジェンド",
   "jp": "お前の忠誠心を余に示すのだ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C6890.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "ジェンド",
   "jp": "その者共を地獄に葬り去れ",
-  "en": ""
+  "en": "Send these people to hell."
  },
  {
   "id": "7C6890.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "アル",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7C6890.16",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "ジェンド",
   "jp": "忘れたのか？　故郷を失った我らが",
-  "en": ""
+  "en": "Have you forgotten? How long we"
  },
  {
   "id": "7C6890.19",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "ジェンド",
   "jp": "どれだけ放浪の旅を続けたか…",
-  "en": ""
+  "en": "wandered after losing our homeland..."
  },
  {
   "id": "7C6890.21",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "ジェンド",
   "jp": "どれだけの同胞が",
-  "en": ""
+  "en": "How many of our brethren died along the"
  },
  {
   "id": "7C6890.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "ジェンド",
   "jp": "旅の途中で死んでいったか…　",
-  "en": ""
+  "en": "way..."
  },
  {
   "id": "7C6890.24",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "アル",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7C6890.28",
@@ -127,7 +127,7 @@
   "box": 8,
   "speaker": "ジェンド",
   "jp": "思い出せ、　",
-  "en": ""
+  "en": "Remember the death cries of those who"
  },
  {
   "id": "7C6890.31",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "ジェンド",
   "jp": "死んでいった者たちの断末魔を！　",
-  "en": ""
+  "en": "perished!"
  },
  {
   "id": "7C6890.33",
@@ -143,7 +143,7 @@
   "box": 9,
   "speaker": "ジェンド",
   "jp": "我らの国を勝ち取るために戦うのだ！！",
-  "en": ""
+  "en": "Fight to win a nation of our own!!"
  },
  {
   "id": "7C6890.35",
@@ -158,7 +158,7 @@
   "box": 10,
   "speaker": "アル",
   "jp": "…行きますよ",
-  "en": ""
+  "en": "...Here I come, Ban-san... Gin-san!"
  },
  {
   "id": "7C6890.38",
@@ -166,7 +166,7 @@
   "box": 10,
   "speaker": "アル",
   "jp": "蛮さん…銀さん！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C6890.40",
@@ -181,7 +181,7 @@
   "box": 11,
   "speaker": "銀次",
   "jp": "アルくん、ダメだよ！",
-  "en": ""
+  "en": "Al-kun, don't! This is wrong!!"
  },
  {
   "id": "7C6890.43",
@@ -189,7 +189,7 @@
   "box": 11,
   "speaker": "銀次",
   "jp": "間違ってるよ、こんなの！！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C6890.45",
@@ -204,7 +204,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "よせ銀次、言うだけムダだ",
-  "en": ""
+  "en": "Stop it, Ginji, talking's no use. He's already"
  },
  {
   "id": "7C6890.48",
@@ -212,7 +212,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "アイツはもう覚悟決めてンだよ！　",
-  "en": ""
+  "en": "made up his mind!"
  },
  {
   "id": "7C6890.50",
@@ -220,6 +220,6 @@
   "box": 13,
   "speaker": "蛮　",
   "jp": "行くぞ！！　",
-  "en": ""
+  "en": "Here we go!!"
  }
 ]

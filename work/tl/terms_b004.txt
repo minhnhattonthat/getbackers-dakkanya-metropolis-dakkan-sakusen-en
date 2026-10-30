@@ -26,36 +26,10 @@
 レディ・ポイズン	Lady Poison
 アル	Al
 ジェンド	Jend
-蛮	Ban
-銀次	Ginji
-士度	Shido
-笑師	Emishi
-花月	Kazuki
-卑弥呼	Himiko
-赤屍	Akabane
-鏡	Kagami
-十兵衛	Juubei
-アル	Al
-夏実	Natsumi
-ジェンド	Jend
-蛭田	Hiruta
-弥勒	Miroku
-ＭＡＩ	MAI
-西園寺	Saionji
-スタッフ	Staff
-Ｃメンバー	C Member
-ＴＡＲＥ	TARE
-横取り屋	Poacher
-Ｓサービス	S-Service
-山城	Yamashiro
-使用人	Servant
-青樹	Aoki
-綾峰	Ayamine
-警備員	Guard
 奪還屋	GetBackers ; retriever ; retrieval	avoid: Dakkanya
 ゲットバッカーズ	GetBackers	avoid: Get Backers
 奪い屋	Snatcher
-雷帝	Thunder Emperor	avoid: Raitei
+雷帝	Thunder Emperor	avoid: Raitei; Lightning Emperor
 スネークバイト	Snake Bite
 解毒香	Antidote Perfume
 火炎香	Flame Perfume
@@ -77,6 +51,14 @@
 鳳仙花	Balsam Burst
 土蜘蛛	Earth Spider
 ダイヤモンド・ダスト	Diamond Dust
+横取り屋	Poacher	avoid: Grabber
+ザ☆シグナルズ	The Signals
+ＴＡＲＥ	TARE
+毒香水	Poison Perfume
+百獣擬態	Beast Mimicry
+塔	Tower
+フローラルつる子	Floral Tsuruko
+人生はスパンコール	Life Is Sequins
 ルマ	Lemat
 バタリー	Batary
 ジュノー	Junon	avoid: Juno

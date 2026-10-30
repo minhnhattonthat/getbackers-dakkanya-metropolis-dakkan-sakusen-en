@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ったく、二度とここにゃ昇らねえと",
-  "en": ""
+  "en": "Man, I thought I'd never climb this place"
  },
  {
   "id": "7D2364.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "思ってたんだけどな…",
-  "en": ""
+  "en": "again..."
  },
  {
   "id": "7D2364.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "蛮ちゃん…１階から昇るの？　",
-  "en": ""
+  "en": "Ban-chan... are we climbing from the 1st\nfloor?"
  },
  {
   "id": "7D2364.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ま、ここは８０階から下は",
-  "en": ""
+  "en": "Well, word is everything below the 80th"
  },
  {
   "id": "7D2364.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "殆ど出来てねえって話だからな…　",
-  "en": ""
+  "en": "floor is barely built here..."
  },
  {
   "id": "7D2364.15",
@@ -66,6 +66,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "とりあえず８０階まで行くとするか",
-  "en": ""
+  "en": "Let's head up to the 80th floor for now."
  }
 ]

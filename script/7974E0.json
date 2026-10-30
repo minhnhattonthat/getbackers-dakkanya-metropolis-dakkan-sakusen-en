@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "ネコをもらって下さい！　",
-  "en": ""
+  "en": "Please adopt a cat!"
  },
  {
   "id": "7974E0.4",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7974E0.8",
@@ -28,6 +28,6 @@
   "box": 3,
   "speaker": "士度",
   "jp": "（マドカに相談してみるか…）",
-  "en": ""
+  "en": "(Maybe I'll ask Madoka about it...)"
  }
 ]

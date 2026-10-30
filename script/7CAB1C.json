@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "…ううっ………　",
-  "en": ""
+  "en": "...Ugh......"
  },
  {
   "id": "7CAB1C.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "ヘヴン　",
   "jp": "ダメよ、動こうとしちゃ…",
-  "en": ""
+  "en": "No, don't try to move... What is it?"
  },
  {
   "id": "7CAB1C.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "ヘヴン　",
   "jp": "どうしたの？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CAB1C.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "アル",
   "jp": "ＭＡＩさんのうた…　",
-  "en": ""
+  "en": "MAI-san's song... I want Jend-sama to"
  },
  {
   "id": "7CAB1C.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "アル",
   "jp": "ジェンド様に聞かせたいです　",
-  "en": ""
+  "en": "hear it."
  },
  {
   "id": "7CAB1C.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "アル",
   "jp": "あれ聞いたら…ジェンド様も…",
-  "en": ""
+  "en": "If he hears that... Jend-sama too..."
  },
  {
   "id": "7CAB1C.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "ヘヴン　",
   "jp": "分かったわ、そういうことが　",
-  "en": ""
+  "en": "Got it. I know someone who might be able"
  },
  {
   "id": "7CAB1C.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "ヘヴン　",
   "jp": "できそうな人に心当たりがあるから…　",
-  "en": ""
+  "en": "to pull that off..."
  },
  {
   "id": "7CAB1C.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "ヘヴン　",
   "jp": "任せておいて♥　",
-  "en": ""
+  "en": "Leave it to me♥"
  },
  {
   "id": "7CAB1C.24",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "波児",
   "jp": "ヘヴンちゃん、ＭＡＫＵＢＥＸの　",
-  "en": ""
+  "en": "Hevn-chan, you planning to go see"
  },
  {
   "id": "7CAB1C.27",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "波児",
   "jp": "ところに行くつもりかい？",
-  "en": ""
+  "en": "MakubeX?"
  },
  {
   "id": "7CAB1C.29",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "夏実",
   "jp": "無限城へ？　",
-  "en": ""
+  "en": "To the Infinity Fortress? Hevn-san, there"
  },
  {
   "id": "7CAB1C.32",
@@ -143,7 +143,7 @@
   "box": 8,
   "speaker": "夏実",
   "jp": "ヘヴンさん、外は敵がいっぱいです！　",
-  "en": ""
+  "en": "are enemies all over out there!"
  },
  {
   "id": "7CAB1C.34",
@@ -151,7 +151,7 @@
   "box": 9,
   "speaker": "夏実",
   "jp": "危険ですよ！！　",
-  "en": ""
+  "en": "It's dangerous!!"
  },
  {
   "id": "7CAB1C.36",
@@ -166,7 +166,7 @@
   "box": 10,
   "speaker": "ヘヴン　",
   "jp": "大丈夫よ、私もプロの仲介屋なんだから",
-  "en": ""
+  "en": "Don't worry, I'm a pro broker too. I'll"
  },
  {
   "id": "7CAB1C.39",
@@ -174,6 +174,6 @@
   "box": 10,
   "speaker": "ヘヴン　",
   "jp": "なんとかしてみせるわ…じゃあね♥",
-  "en": ""
+  "en": "manage somehow... Bye now♥"
  }
 ]

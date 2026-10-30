@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "秘書",
   "jp": "どうしたの、忘れちゃったの？",
-  "en": ""
+  "en": "What's wrong, did you forget? Want me to"
  },
  {
   "id": "7B043C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "秘書",
   "jp": "もう一回説明してあげようか？",
-  "en": ""
+  "en": "explain it again?"
  },
  {
   "id": "7B043C.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "秘書",
   "jp": "ウチの会社はキーメモリーを使って",
-  "en": ""
+  "en": "Our company uses Key Memories to open"
  },
  {
   "id": "7B043C.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "秘書",
   "jp": "それぞれのトビラをあけるのよ",
-  "en": ""
+  "en": "each door."
  },
  {
   "id": "7B043C.9",
@@ -44,7 +44,7 @@
   "box": 3,
   "speaker": "秘書",
   "jp": "でも一つのキーメモリーには　",
-  "en": ""
+  "en": "But one Key Memory can only hold one"
  },
  {
   "id": "7B043C.10",
@@ -52,7 +52,7 @@
   "box": 3,
   "speaker": "秘書",
   "jp": "一つのパスしか入れられないの",
-  "en": ""
+  "en": "pass."
  },
  {
   "id": "7B043C.12",
@@ -60,7 +60,7 @@
   "box": 4,
   "speaker": "秘書",
   "jp": "パスっていうのは暗証番号のことね",
-  "en": ""
+  "en": "A pass means a PIN, by the way."
  },
  {
   "id": "7B043C.14",
@@ -68,7 +68,7 @@
   "box": 5,
   "speaker": "秘書",
   "jp": "トビラって色別になってるでしょ？",
-  "en": ""
+  "en": "The doors are color-coded, right? Each"
  },
  {
   "id": "7B043C.15",
@@ -76,7 +76,7 @@
   "box": 5,
   "speaker": "秘書",
   "jp": "色別に違うパスが必要なのよ　",
-  "en": ""
+  "en": "color needs a different pass."
  },
  {
   "id": "7B043C.17",
@@ -84,7 +84,7 @@
   "box": 6,
   "speaker": "秘書",
   "jp": "黄色いトビラを開くには　",
-  "en": ""
+  "en": "To open the yellow doors, you need"
  },
  {
   "id": "7B043C.18",
@@ -92,7 +92,7 @@
   "box": 6,
   "speaker": "秘書",
   "jp": "パスコード１が　",
-  "en": ""
+  "en": "Passcode 1,"
  },
  {
   "id": "7B043C.20",
@@ -100,7 +100,7 @@
   "box": 7,
   "speaker": "秘書",
   "jp": "青いトビラを開くには",
-  "en": ""
+  "en": "to open the blue doors, you need"
  },
  {
   "id": "7B043C.21",
@@ -108,7 +108,7 @@
   "box": 7,
   "speaker": "秘書",
   "jp": "パスコード２が　",
-  "en": ""
+  "en": "Passcode 2,"
  },
  {
   "id": "7B043C.23",
@@ -116,7 +116,7 @@
   "box": 8,
   "speaker": "秘書",
   "jp": "赤いトビラを開くには",
-  "en": ""
+  "en": "and to open the red doors, you need"
  },
  {
   "id": "7B043C.24",
@@ -124,7 +124,7 @@
   "box": 8,
   "speaker": "秘書",
   "jp": "パスコード３が必要なのよ",
-  "en": ""
+  "en": "Passcode 3."
  },
  {
   "id": "7B043C.26",
@@ -132,7 +132,7 @@
   "box": 9,
   "speaker": "秘書",
   "jp": "そうそう、キーメモリーに記憶された　",
-  "en": ""
+  "en": "Oh, right -- a pass stored in a Key"
  },
  {
   "id": "7B043C.27",
@@ -140,6 +140,6 @@
   "box": 9,
   "speaker": "秘書",
   "jp": "パスは一度使うと消えちゃうわよ　",
-  "en": ""
+  "en": "Memory gets erased once you use it."
  }
 ]

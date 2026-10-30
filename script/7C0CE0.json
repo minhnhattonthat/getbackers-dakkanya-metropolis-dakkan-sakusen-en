@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "弥勒",
   "jp": "…なぜトドメを刺さない？",
-  "en": ""
+  "en": "...Why don't you finish me?"
  },
  {
   "id": "7C0CE0.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "なんか知らねーが、　",
-  "en": ""
+  "en": "No idea why, but sounds like you looked"
  },
  {
   "id": "7C0CE0.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "銀次が世話ンなったらしいしな",
-  "en": ""
+  "en": "out for Ginji."
  },
  {
   "id": "7C0CE0.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "今回はこの辺でカンベンしといてやるぜ",
-  "en": ""
+  "en": "So I'll let you off this time."
  },
  {
   "id": "7C0CE0.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "弥勒",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7C0CE0.16",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ただし、次に会った時は容赦しねえがな",
-  "en": ""
+  "en": "But next time we meet, no mercy."
  },
  {
   "id": "7C0CE0.20",
@@ -81,7 +81,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "…さてと、依頼品はどこなんだ？　",
-  "en": ""
+  "en": "...Now then, where's the goods?"
  },
  {
   "id": "7C0CE0.22",
@@ -96,6 +96,6 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "なんか金庫に入ってるみたいだったよ！",
-  "en": ""
+  "en": "Looked like it was in some kind of safe!"
  }
 ]

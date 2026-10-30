@@ -9,15 +9,21 @@
 ヘヴン	Hevn	avoid: Heaven
 ドクタージャッカル	Dr. Jackal
 アル	Al
-蛮	Ban
-銀次	Ginji
-士度	Shido
-笑師	Emishi
-花月	Kazuki
-卑弥呼	Himiko
-赤屍	Akabane
-十兵衛	Juubei
-アル	Al
-ヘヴン	Hevn
-横取り屋	Poacher
 スネークバイト	Snake Bite
+横取り屋	Poacher	avoid: Grabber
+ＤＶＤロム	DVD-ROM
+石	stone
+蛮	Ban	(name tag)
+銀次	Ginji	(name tag)
+士度	Shido	(name tag)
+笑師	Emishi	(name tag)
+花月	Kazuki	(name tag)
+卑弥呼	Himiko	(name tag)
+赤屍	Akabane	(name tag)
+十兵衛	Juubei	(name tag)
+アル	Al	(name tag)
+ヘヴン	Hevn	(name tag)
+波児	Paul	(name tag)
+夏実	Natsumi	(name tag)
+？？？	???	(name tag)
+横取り屋	Poacher	(name tag)

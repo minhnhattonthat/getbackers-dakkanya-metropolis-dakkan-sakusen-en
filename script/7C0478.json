@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "この本棚…一冊だけ本が欠けてますね　",
-  "en": ""
+  "en": "This bookshelf... just one book is missing."
  },
  {
   "id": "7C0478.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "ちょっと不自然に思えますが　",
-  "en": ""
+  "en": "It seems a little unnatural."
  },
  {
   "id": "7C0478.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "どうも、本を探す必要がありそうだな？",
-  "en": ""
+  "en": "Looks like we need to go find a book, huh?"
  },
  {
   "id": "7C0478.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "本…？　",
-  "en": ""
+  "en": "A book...? Is it in the storeroom or"
  },
  {
   "id": "7C0478.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "物置とかにあるのかしら？",
-  "en": ""
+  "en": "something?"
  },
  {
   "id": "7C0478.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "今までの傾向からすると、",
-  "en": ""
+  "en": "Judging by how things have gone so far,"
  },
  {
   "id": "7C0478.18",
@@ -81,6 +81,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "考えも付かない場所にありそうだがな…",
-  "en": ""
+  "en": "it'll be someplace we'd never think of..."
  }
 ]

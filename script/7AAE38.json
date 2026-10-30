@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あ、士度とマドカちゃんだ～！",
-  "en": ""
+  "en": "Oh, it's Shido and Madoka-chan~! Yoo-hoo!"
  },
  {
   "id": "7AAE38.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "ヤッホー！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AAE38.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "…なんだ、出かけるのか？",
-  "en": ""
+  "en": "...What, you heading out?"
  },
  {
   "id": "7AAE38.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "ヘヴン　",
   "jp": "そうよー、この子たちはこれから　",
-  "en": ""
+  "en": "That's right~ As of now, these boys are"
  },
  {
   "id": "7AAE38.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "ヘヴン　",
   "jp": "私の召使いになるのよ、ネ♥　",
-  "en": ""
+  "en": "my servants. Right♥?"
  },
  {
   "id": "7AAE38.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "蛮ちゃんが払えもしないくせに、　",
-  "en": ""
+  "en": "Ban-chan can't even pay, but he swore"
  },
  {
   "id": "7AAE38.18",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ヘヴンさんに借りたガソリン代を　",
-  "en": ""
+  "en": "he'd pay back Hevn-san's gas money..."
  },
  {
   "id": "7AAE38.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "１０倍にして返すなんて言うからさ～…",
-  "en": ""
+  "en": "...ten times over~..."
  },
  {
   "id": "7AAE38.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "チッ、依頼料さえマトモに入ってれば　",
-  "en": ""
+  "en": "Tch, if we'd just gotten a decent fee for"
  },
  {
   "id": "7AAE38.25",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "こんなコトには…",
-  "en": ""
+  "en": "once, this wouldn't..."
  },
  {
   "id": "7AAE38.27",
@@ -127,7 +127,7 @@
   "box": 7,
   "speaker": "ヘヴン　",
   "jp": "というわけで、二人には今日一日　",
-  "en": ""
+  "en": "And so, you two are going to work your"
  },
  {
   "id": "7AAE38.30",
@@ -135,7 +135,7 @@
   "box": 7,
   "speaker": "ヘヴン　",
   "jp": "タップリと働いてもらいますからね",
-  "en": ""
+  "en": "fingers to the bone for me all day today."
  },
  {
   "id": "7AAE38.32",
@@ -143,6 +143,6 @@
   "box": 8,
   "speaker": "ヘヴン　",
   "jp": "ホーホホホホッ！",
-  "en": ""
+  "en": "Oh-ho-ho-ho-ho!"
  }
 ]

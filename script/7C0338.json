@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ん？　こりゃオイルライターだな…",
-  "en": ""
+  "en": "Hm? This is an oil lighter..."
  },
  {
   "id": "7C0338.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "それで灯りを灯せそうね　",
-  "en": ""
+  "en": "Looks like we can light something with it."
  },
  {
   "id": "7C0338.11",
@@ -35,6 +35,6 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "ライターを手に入れた！　",
-  "en": ""
+  "en": "Got the Lighter!"
  }
 ]

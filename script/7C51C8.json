@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "ばんかがのＭ、かがぎんのＭを",
-  "en": ""
+  "en": "Obtained Ban-Kaga Memory and Kaga-Gin"
  },
  {
   "id": "7C51C8.4",
@@ -13,7 +13,7 @@
   "box": 1,
   "speaker": "",
   "jp": "手に入れた！",
-  "en": ""
+  "en": "Memory!"
  },
  {
   "id": "7C51C8.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "クス…なかなかやるね",
-  "en": ""
+  "en": "Heh... Not bad."
  },
  {
   "id": "7C51C8.10",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "鏡　",
   "jp": "もっとキミたちのことを　",
-  "en": ""
+  "en": "I'd like to observe you two a little more."
  },
  {
   "id": "7C51C8.11",
@@ -44,7 +44,7 @@
   "box": 3,
   "speaker": "鏡　",
   "jp": "観察させて欲しいな　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C51C8.13",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "今のは小手調べのつもりかよ　",
-  "en": ""
+  "en": "Was that supposed to be a warm-up?"
  },
  {
   "id": "7C51C8.16",
@@ -67,7 +67,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "…なに企んでやがる？",
-  "en": ""
+  "en": "...What are you plotting?"
  },
  {
   "id": "7C51C8.19",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "言ったろ？　観察だって…",
-  "en": ""
+  "en": "Didn't I tell you? Observation..."
  },
  {
   "id": "7C51C8.23",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7C51C8.27",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "蛮ちゃん、　",
-  "en": ""
+  "en": "Ban-chan, right now, isn't it better to"
  },
  {
   "id": "7C51C8.30",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "今は仲間が一人でも多い方が良くない？",
-  "en": ""
+  "en": "have as many friends as we can get?"
  },
  {
   "id": "7C51C8.32",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "冗談じゃねえ！　",
-  "en": ""
+  "en": "No way in hell! Like I'd drag along some"
  },
  {
   "id": "7C51C8.35",
@@ -143,7 +143,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "ンな得体も知れねえヤツ連れていけるか",
-  "en": ""
+  "en": "guy we know nothing about."
  },
  {
   "id": "7C51C8.37",
@@ -158,7 +158,7 @@
   "box": 9,
   "speaker": "鏡　",
   "jp": "でも、オレを仲間にしないと　",
-  "en": ""
+  "en": "But unless I join you, you'll never beat"
  },
  {
   "id": "7C51C8.40",
@@ -166,7 +166,7 @@
   "box": 9,
   "speaker": "鏡　",
   "jp": "あの王様に勝つことはできないよ　",
-  "en": ""
+  "en": "that king."
  },
  {
   "id": "7C51C8.42",
@@ -181,6 +181,6 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "…なんだと？",
-  "en": ""
+  "en": "...What?"
  }
 ]

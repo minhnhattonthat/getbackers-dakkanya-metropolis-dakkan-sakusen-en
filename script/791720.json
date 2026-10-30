@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "な、なんでしょうか、あの人は？　",
-  "en": ""
+  "en": "Wh-what's with that guy?"
  },
  {
   "id": "791720.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "さあな…",
-  "en": ""
+  "en": "Beats me..."
  },
  {
   "id": "791720.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "なんだか知らねーが、",
-  "en": ""
+  "en": "No idea what his deal is, but he was nice"
  },
  {
   "id": "791720.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ごていねいにヒントまでもらったんだ　",
-  "en": ""
+  "en": "enough to give us a hint."
  },
  {
   "id": "791720.12",
@@ -51,6 +51,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "ここいらをくまなく探してみようぜ",
-  "en": ""
+  "en": "Let's search every inch of this area."
  }
 ]

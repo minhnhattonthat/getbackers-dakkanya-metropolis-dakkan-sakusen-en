@@ -1,0 +1,374 @@
+>> 7ACFBC.3 | [十兵衛] 髪がハンガリー！
+   My hair is full of Greece!
+>> 7ACFBC.5 | [十兵衛] これどいつんだ？　フランス…？
+   Kenya tell me whose this is? France...?
+>> 7AD034.3 | [笑師] 国シリーズや… / アカン、ますます停滞しとる
+   The country series... No good, he's slumpin' even worse.
+>> 7AD034.8 | [銀次] （…今のダジャレ、 / 意味分かんなかったんだけど…？）
+   (...I didn't get that pun just now...?)
+>> 7AD034.13 | [笑師] （せやから、今のは髪が半がりだって / ことと国のハンガリーを…）
+   (See, it's "hair full of grease" and the country, Greece...)
+>> 7AD034.18 | [蛮] （よせって、ダジャレの説明ほど / ムナシイものはねーぞ…）
+   (Drop it. Nothing's emptier than explaining a pun...)
+>> 7AD1C0.3 | [花月] 十兵衛、なにしてるんだい？
+   Juubei, what are you doing?
+>> 7AD1C0.7 | [十兵衛] か、花月！！
+   K-Kazuki!!
+>> 7AD1C0.11 | [花月] まだＭＡＫＵＢＥＸに / 冗談が通じないって言われたこと、
+   You still haven't forgotten how MakubeX said you can't take a joke,
+>> 7AD1C0.14 | [花月] 忘れてなかったんだね
+   have you?
+>> 7AD1C0.18 | [十兵衛] ………
+   ...
+>> 7AD1C0.22 | [花月] 十兵衛…キミのそういうまっすぐな所、 / 僕は素晴らしいと思うよ
+   Juubei... I think that earnest side of you is wonderful.
+>> 7AD1C0.25 | [花月] でもその気持ちをそろそろ / 別の方向に向けないとね
+   But it's about time you pointed that feeling in a different direction.
+>> 7AD1C0.30 | [十兵衛] …スマン、花月！
+   ...Forgive me, Kazuki!
+>> 7AD1C0.34 | [笑師] （おおっ！　かたくなだった / 十兵衛はんがこないに簡単に…）
+   (Whoa! Stubborn ol' Juubei-han, givin' in that easy...)
+>> 7AD1C0.37 | [笑師] ま、これで勢ぞろいっちゅーことやな！ / ほな、行きましょか！！
+   Well, that means the whole gang's here! Let's get goin'!!
+>> 7AD1C0.42 | [蛮] オメーがしきるんじゃねえよ、 / お笑いヤロー！
+   Who made you the boss, comedy boy?!
+>> 7AD4C4.3 | [銀次] あっ… / アルくんにもらった石が反応してるよ
+   Oh... The stone Al-kun gave me is reacting.
+>> 7AD4C4.8 | [蛮] どれどれ、こんどはなんの字だ？
+   Let's see, what character is it this time?
+>> 7AD4C4.10 | [蛮] …こりゃ、風か？
+   ...Is that "Wind"?
+>> 7AD4C4.14 | [花月] 風…十兵衛がですか？ / 確かにそんな感じではありますが…
+   Wind... Juubei, you mean? He does have that air about him, but...
+>> 7AD5E8.3 | [銀次] あれ？　開かないみたいだよ？
+   Huh? It won't open.
+>> 7AD5E8.7 | [蛮] ン？　こりゃカギがかかってんな…
+   Hm? It's locked...
+>> 7AD5E8.9 | [蛮] 力づくで開けてもいいが、 / 警察呼ばれると後がマズいからな…
+   We could force it open, but if they call the cops, that'll mean trouble later...
+>> 7AD5E8.12 | [蛮] メンドくせーが、カギを探すとするか
+   What a pain, but let's go find the key.
+>> 7AD6F8.3 | [士度] ！？
+   !?
+>> 7AD6F8.5 | [士度] 誰か来たぞ、隠れろ！！
+   Someone's coming, hide!!
+>> 7AD758.3 | [社員Ａ] 今日はなんだか騒がしいな…
+   Sure is noisy today...
+>> 7AD758.7 | [社員Ｂ] ＭＡＩと話をさせろって騒いでた連中が / 内部に侵入したって話だからな…
+   Word is, the bunch raising a fuss about talking to MAI got inside...
+>> 7AD758.12 | [社員Ａ] なんだ、ソイツら / ＭＡＩを引き抜くつもりなのか？
+   What, they're trying to lure MAI away?
+>> 7AD758.17 | [社員Ｂ] ま、なにがあってもＭＡＩは / 移籍なんかしないさ
+   Eh, no matter what happens, MAI won't switch agencies.
+>> 7AD758.20 | [社員Ｂ] バラされたくないような家の事情を / 全てウチの社長が握ってるわけだからな
+   Our boss has his hands on every family secret she'd hate to see leaked.
+>> 7AD758.25 | [社員Ａ] それって社長のパソコンに / 入ってんだろ？
+   That stuff's on the boss's computer, right?
+>> 7AD758.28 | [社員Ａ] 怖ェ話だよなー
+   Scary stuff, huh.
+>> 7AD988.3 | [士度] そういうことだったのか…
+   So that's how it is...
+>> 7AD9D8.3 | [山城] …なんだ、貴様ら？
+   ...Who the devil are you?
+>> 7AD9D8.7 | [士度] あんたが山城だな？ / ＭＡＩに会わせてもらおうか
+   You're Yamashiro, right? Let us see MAI.
+>> 7AD9D8.12 | [山城] なるほど、貴様らが騒ぎを / 起こしていた連中か…
+   I see, so you're the ones who've been causing the commotion...
+>> 7AD9D8.15 | [山城] まったく、うるさいネズミどもだ
+   Honestly, what noisy rats.
+>> 7ADAF8.3 | [山城] 犬のようにかぎ回ったりしなければ / 長生きできたものを
+   If you hadn't gone sniffing around like dogs, you might have lived long lives.
+>> 7ADAF8.8 | [笑師] …アカン！！
+   ...Uh-oh!!
+>> 7ADB98.3 | [士度] いきなり銃口を向けるとはな…
+   Pointing a gun at us right off the bat...
+>> 7ADB98.5 | [士度] ま、 / そっちがそのつもりなら話は早ェ！
+   Well, if that's how you wanna play it, that makes this easy!
+>> 7ADB98.10 | [山城] フン、うるさいネズミどもめ… / ワシが黙らせてやる！！
+   Hmph, noisy rats... I'll shut you up myself!!
+>> 7ADC7C.3 | [士度] このパソコンにＭＡＩってヤツの / 弱味が入ってるんだったな…
+   This computer's got the dirt on MAI, right...
+>> 7ADC7C.8 | [銀次] よーし！　だったらオレの電撃で！！
+   All right! Then I'll use my Electric Shock!!
+>> 7ADD3C.3 | [笑師] おおっ、さっすが雷帝やな！ / これでパソコンもめちゃめちゃや
+   Whoa, that's the Thunder Emperor for ya! That computer's totally fried.
+>> 7ADDB4.3 | [ＭＡＩ] …あなたたちは誰！？
+   ...Who are you people?!
+>> 7ADDB4.7 | [士度] アンタがＭＡＩか…
+   So you're MAI...
+>> 7ADDB4.9 | [士度] マドカに頼まれて、 / アンタをここから連れ出しに来たぜ
+   Madoka asked me to get you out of here.
+>> 7ADDB4.14 | [銀次] パソコンも壊しちゃったし、 / これでキミも自由になれるよ！
+   We busted the computer too, so now you can be free!
+>> 7ADDB4.19 | [蛮] 聞き分けのねえ社長もボコッといたしな
+   And we roughed up that pigheaded boss of yours.
+>> 7ADDB4.23 | [ＭＡＩ] …なに言ってるの、あなたたち？
+   ...What are you people talking about?
+>> 7ADDB4.25 | [ＭＡＩ] 私がここを出て自由になれる？ / なに勘違いしてるの？
+   Me, leave here and be free? What makes you think that?
+>> 7ADDB4.30 | [銀次] …え？
+   ...Huh?
+>> 7ADDB4.34 | [ＭＡＩ] 私は弱味を握られてるから / ここにいるんじゃないわ
+   I'm not here because they've got dirt on me.
+>> 7ADDB4.37 | [ＭＡＩ] 自分で望んでここにいるのよ！ / 勝手なことしないで！！
+   I'm here because I want to be! Don't go meddling in my life!!
+>> 7ADDB4.42 | [士度] ………
+   ...
+>> 7ADDB4.46 | [ＭＡＩ] こんなことして、週刊誌がかぎつけたら / どうしてくれるのよ？
+   What if a tabloid sniffs this out? What are you going to do then?
+>> 7ADDB4.49 | [ＭＡＩ] スキャンダルに巻き込まれたら歌わせて / もらえなくなるかも知れないのに…
+   If I get caught up in a scandal, they might not let me sing anymore...
+>> 7ADDB4.54 | [蛮] あのつまンねー歌をか？
+   Those boring songs?
+>> 7ADDB4.58 | [ＭＡＩ] …なんですって？
+   ...Excuse me?
+>> 7ADDB4.62 | [蛮] いや、歌がつまンねーんじゃねえ / アンタがつまらなそうに歌ってんだよ
+   Nah, the songs aren't boring. You look bored singing 'em.
+>> 7ADDB4.65 | [蛮] 気付いてなかったのかよ？
+   Didn't you notice?
+>> 7AE26C.4 | [蛮] 夢は見れたかよ？
+   Enjoy the dream?
+>> 7AE26C.8 | [ＭＡＩ] ！！
+   !!
+>> 7AE26C.12 | [蛮] 今のがアンタの本心だったハズだ / ＭＡＩじゃなく、坂本茉衣のな
+   That's what you really feel. Not MAI -- Mai Sakamoto.
+>> 7AE26C.17 | [ＭＡＩ] …たとえそれが本心だったとしても、 / 今の私はここにいるしかないのよ！
+   ...Even if that's how I really feel, right now I have no choice but to stay here!
+>> 7AE26C.20 | [ＭＡＩ] 私の作った歌は誰にも / 認められなかったわ…だから…
+   Nobody ever accepted the songs I wrote... So...
+>> 7AE26C.25 | [蛮] だからって自分が好きでもねえ曲を有名 / な先生が作ったからって歌うってのか？
+   So you'll sing songs you don't like just 'cause a famous composer wrote 'em?
+>> 7AE26C.28 | [蛮] なンか違うんじゃねえか、ソレ？
+   Doesn't that seem kinda off to you?
+>> 7AE26C.32 | [ＭＡＩ] ………
+   ...
+>> 7AE4BC.3 | [アル] …ア、オトリコミ中デスカ？
+   ...Ah, you are busy now?
+>> 7AE4BC.7 | [銀次] あれ、アルくん！ / どうしてこんなところに！？
+   Huh, Al-kun! What are you doing here?!
+>> 7AE4BC.12 | [アル] ウン、ボク、歌ヲ歌ッテモライタクテ…
+   Yes, I, want someone to sing song...
+>> 7AE4BC.14 | [アル] ア、アノ人！
+   Ah, that person!
+>> 7AE5C0.3 | [アル] アナタノ歌声、トッテモステキ！
+   Your singing voice, very lovely!
+>> 7AE5C0.5 | [アル] ボク、アナタニ歌ッテモライタイ曲、 / 持ッテキタ
+   I bring song, I want you to sing.
+>> 7AE5C0.11 | [ＭＡＩ] ………
+   ...
+>> 7AE5C0.15 | [笑師] なんや、あんさん？　そないな曲、 / 有名人がいきなり歌うてくれるわけ…
+   What's this, kid? A big star ain't gonna just up and sing a tune like that...
+>> 7AE5C0.20 | [士度] 黙ってろ、笑師！
+   Shut it, Emishi!
+>> 7AE5C0.24 | [ＭＡＩ] ………
+   ...
+>> 7AE5C0.26 | [ＭＡＩ] …………
+   ....
+>> 7AE5C0.28 | [ＭＡＩ] ……………
+   .....
+>> 7AE5C0.30 | [ＭＡＩ] ………………
+   ......
+>> 7AE5C0.34 | [ＭＡＩ] …ステキな曲ね
+   ...What a lovely melody.
+>> 7AE5C0.38 | [アル] ウン、コレ、ボクノ国ノ曲！ / デモ歌ヲ忘レチャッタ…
+   Yes, this, song of my country! But I forget the words...
+>> 7AE5C0.41 | [アル] ダカラアナタニ歌ツクッテホシクテ！
+   So I want you make the words!
+>> 7AE5C0.45 | [ＭＡＩ] この曲を…私が？
+   For this melody... me?
+>> 7AE5C0.49 | [アル] ウン、アナタノ声、トテモキレイ！
+   Yes, your voice, very beautiful!
+>> 7AE5C0.51 | [アル] デモ歌ッテイル声、 / スゴクキュウクツソウ
+   But your singing voice, sound very squeezed.
+>> 7AE5C0.54 | [アル] ダカラノビノビスル曲歌エバイイ思ウヨ / コノ曲、ノビノビスルヨ
+   So sing free song, is good, I think. This song, very free.
+>> 7AE5C0.59 | [ＭＡＩ] …この曲、最初に私がマドカと / 二人で作った曲に似てる…
+   ...This melody... it's like the first song Madoka and I wrote together...
+>> 7AE5C0.62 | [ＭＡＩ] ホントにこの歌を私が作ってもいいの？
+   Can I really be the one to write this song?
+>> 7AE5C0.66 | [アル] ウン、ソノおるごーるアゲルネ！
+   Yes, I give you that music box!
+>> 7AE5C0.70 | [ＭＡＩ] ありがとう…
+   Thank you...
+>> 7AE5C0.72 | [ＭＡＩ] …マドカにも伝えておいて、 / ありがとうって…
+   ...Please tell Madoka too... "thank you"...
+>> 7AEA9C.3 | [笑師] ！！
+   !!
+>> 7AEA9C.5 | [笑師] （士度はん！ / あないな所に十兵衛はんが！！）
+   (Shido-han! Juubei-han's over there!!)
+>> 7AEA9C.10 | [士度] （…ここに来ていたことは花月に / 知られねー方がいいんじゃねえか？）
+   (...Better not let Kazuki find out he came here, right?)
+>> 7AEA9C.15 | [笑師] よっしゃ！ / ここはワイらで隠しときましょか！！
+   All right! Let's keep him hidden ourselves!!
+>> 7AEBD4.3 | [銀次] あっ、十兵衛だ～！ / なにしてんの、こんなところで？
+   Oh, it's Juubei~! What're you doing in a place like this?
+>> 7AEBD4.8 | [花月] …十兵衛！！
+   ...Juubei!!
+>> 7AEBD4.12 | [十兵衛] 雷帝！　花月！！ / い、いや、俺は別に…
+   Thunder Emperor! Kazuki!! N-no, I'm not...
+>> 7AEBD4.17 | [笑師] せ、せや！　十兵衛はんは別に / お笑いオーディションを受けるために
+   R-right! It's not like Juubei-han would try out for a comedy audition,
+>> 7AEBD4.20 | [笑師] わざわざハリネズミのキグルミ着て / こないなところに来たりせえへんて！
+   or put on a hedgehog costume and come all the way here for it!
+>> 7AEBD4.23 | [笑師] なあ！！
+   Right?!
+>> 7AED94.3 | [士度] …オイ、笑師
+   ...Hey, Emishi.
+>> 7AED94.7 | [笑師] …あっ！
+   ...Ah!
+>> 7AED94.9 | [笑師] （アカン、バラしてもーた！）
+   (Dang, I blew it!)
+>> 7AEE2C.3 | [ＤＪ] …事務所移籍後、初のシングルと / なりますこの曲からＭＡＩは
+   ...This song is MAI's first single since switching agencies,
+>> 7AEE2C.6 | [ＤＪ] シンガーソングライターとして / 活動していくそうです
+   and from here on, she'll be working as a singer-songwriter.
+>> 7AEE2C.9 | [ＤＪ] ではそのＭＡＩの新曲…
+   And now, MAI's new song...
+>> 7AEE2C.14 | [銀次] …奪還成功、だね
+   ...Retrieval complete, huh.
+>> 7AEE2C.18 | [蛮] だな
+   Yep.
+>> 7AEE2C.20 | [蛮] しっかし、あのガンコ女の説得にゃー / 手ェ焼かされたぜ…
+   Man, talking that stubborn woman around was a real pain...
+>> 7AEE2C.25 | [銀次] でもこっちの曲の方がいいもんネー
+   But this song's way better, huh~
+>> 7AEE2C.29 | [アル] ネー
+   Yeah~
+>> 7AEE2C.33 | [波児] あの後調べてみたんだがな、あの子の / 作った曲は本当は評判が良かったらしい
+   I looked into it later. Turns out that girl's own songs actually got good reviews.
+>> 7AEE2C.36 | [波児] どうも山城が事実を曲げて / ＭＡＩに伝えていたらしいな
+   Looks like Yamashiro twisted the facts when he told MAI.
+>> 7AEE2C.41 | [銀次] えっ、なんのために？
+   Huh? Why would he do that?
+>> 7AEE2C.45 | [蛮] その方が操りやすいからだろ…
+   'Cause it makes her easier to control...
+>> 7AEE2C.47 | [蛮] 好き勝手に曲を作られるよりは、流行に / 合わせた曲を歌わせた方がいい…ってな
+   Better to make her sing what's trendy than let her write what she likes, right?
+>> 7AEE2C.50 | [蛮] 嬢ちゃんが気付かなかったら、 / 才能をつぶされちまってたかもな…
+   If the young lady hadn't noticed, her talent might've been crushed...
+>> 7AEE2C.55 | [銀次] あれ、 / そういえば士度とマドカちゃんは？
+   Hey, speaking of which, where are Shido and Madoka-chan?
+>> 7AEE2C.60 | [夏実] 士度さんとマドカさんなら、 / ホラ、あそこに…
+   Shido-san and Madoka-san? Look, over there...
+>> 7AF290.3 | [士度] こっちの歌の方が確かにいいかもな… / そうだろ、マドカ？
+   This song really might be better... Right, Madoka?
+>> 7AF290.8 | [マドカ] …ええ！
+   ...Yes!
+>> 7AF290.12 | [士度] ………
+   ...
+>> 7AF290.14 | [士度] （…俺はお前の笑顔を / 奪り還したかったのかも知れねえな）
+   (...Maybe what I wanted to take back was your smile.)
+>> 7AF290.19 | [マドカ] ？　どうかしました？
+   ? Is something wrong?
+>> 7AF290.23 | [士度] …なんでもねえよ！
+   ...It's nothing!
+>> 7AF410.3 | [波児] コーヒーでも飲んでくか？
+   Want a cup of coffee before you go?
+>> 7AF45C.4 | [夏実] ケガしないようにね！
+   Don't get hurt, okay!
+>> 7AF4B0.3 | [十兵衛] 俺に構うな！！
+   Leave me alone!!
+>> 7AF4FC.3 | [笑師] おっ、清掃終わったんちゃいまっか？ / ようやっと通れますなぁ
+   Oh, looks like the cleanin's done, ain't it? We can finally get through.
+>> 7AF574.3 | [蛮] よォ、ねーちゃん / カギがどこにあるか知らねェか？
+   Yo, miss. Know where the key is?
+>> 7AF574.8 | [秘書] ええ、カギぃ？ / ああ、キーメモリーのことぉ？
+   Huh, a key~? Oh, you mean the Key Memory~?
+>> 7AF574.11 | [秘書] たぶん、もう一人の秘書のコが / 持ってたと思うけどぉ？
+   I think the other secretary girl had it~?
+>> 7AF574.16 | [銀次] もう一人のコってどこにいるの？
+   Where's the other girl?
+>> 7AF574.20 | [秘書] 化粧直しするって言ってたから、 / トイレにいると思うけどぉ？
+   She said she was fixing her makeup, so she's probably in the restroom~?
+>> 7AF718.3 | [秘書] なぁに、キミたち？ / オーディション受けにきたの？
+   What is it, you guys? Here for the audition?
+>> 7AF780.3 | [秘書] だからぁ、 / もう一人のコはトイレにいるんだってば
+   Like I said~, the other girl's in the restroom.
+>> 7AF7E8.3 | [卑弥呼] ねえ、カギ持ってないかしら？
+   Say, you wouldn't have a key, would you?
+>> 7AF7E8.7 | [秘書] カギ？　ああ、キーメモリーのこと？ / 持ってるけど…
+   A key? Oh, you mean the Key Memory? I have it, but...
+>> 7AF7E8.10 | [秘書] あなた見ない顔ね、新人のコ？
+   I haven't seen your face before. Are you new?
+>> 7AF7E8.14 | [卑弥呼] そんなところね…
+   Something like that...
+>> 7AF7E8.18 | [秘書] そう、じゃあまだ知らないかも / しれないから教えてあげるわね
+   Oh, then you might not know yet, so I'll fill you in.
+>> 7AF7E8.21 | [秘書] ウチの会社はキーメモリーを使って / それぞれのトビラをあけるのよ
+   Our company uses Key Memories to open each door.
+>> 7AF7E8.24 | [秘書] でも一つのキーメモリーには / 一つのパスしか入れられないの
+   But one Key Memory can only hold one pass.
+>> 7AF7E8.29 | [卑弥呼] パスってなにかしら？
+   What's a pass?
+>> 7AF7E8.33 | [秘書] パスコード…つまり暗証番号ね
+   A passcode... a PIN, basically.
+>> 7AF7E8.35 | [秘書] トビラって色別になってるでしょ？ / 色別に違うパスが必要なのよ
+   The doors are color-coded, right? Each color needs a different pass.
+>> 7AF7E8.38 | [秘書] 黄色いトビラを開くには / パスコード１が
+   To open the yellow doors, you need Passcode 1,
+>> 7AF7E8.41 | [秘書] 青いトビラを開くには / パスコード２が
+   to open the blue doors, you need Passcode 2,
+>> 7AF7E8.44 | [秘書] 赤いトビラを開くには / パスコード３が必要なのよ
+   and to open the red doors, you need Passcode 3.
+>> 7AF7E8.49 | [卑弥呼] …ずいぶん管理が厳しいのね
+   ...Pretty strict security, huh.
+>> 7AF7E8.53 | [秘書] そうね… / ちょっとやりすぎだと思うけど
+   I know... I think it's a bit much.
+>> 7AF7E8.56 | [秘書] そうそう、キーメモリーに記憶された / パスは一度使うと消えちゃうわよ
+   Oh, right -- a pass stored in a Key Memory gets erased once you use it.
+>> 7AF7E8.61 | [卑弥呼] えっ…どういうこと？
+   What... what do you mean?
+>> 7AF7E8.65 | [秘書] 別の部屋を開けるには新しいパスを / 登録しないとダメなのよ
+   To open another room, you have to register a new pass.
+>> 7AF7E8.68 | [秘書] それじゃガンバってね、 / 新人秘書さん
+   Well, good luck, new secretary.
+>> 7AF7E8.73 | [秘書] キーメモリーと / パスコード１を手に入れた！
+   Got the Key Memory and Passcode 1!
+>> 7AF7E8.78 | [蛮] よっしゃ、でかした卑弥呼！ / 秘書と思ってもらえたし、良かったな！
+   All right, nice work, Himiko! She took you for a secretary, good for you!
+>> 7AF7E8.83 | [卑弥呼] ちょっと、なによそれ？ / バカにしないでよね！
+   Hey, what's that supposed to mean? Don't make fun of me!
+>> 7AFE0C.3 | [花月] すみませんが、 / カギを貸していただけませんか？
+   Excuse me, but might I borrow the key?
+>> 7AFE0C.8 | [秘書] カギ？　ああ、キーメモリーのこと？ / 持ってるけど…
+   A key? Oh, you mean the Key Memory? I have it, but...
+>> 7AFE0C.11 | [秘書] あなた見ない顔ね、新人のコ？
+   I haven't seen your face before. Are you new?
+>> 7AFE0C.15 | [花月] ええ、まあ…
+   Yes, well...
+>> 7AFE0C.19 | [秘書] そう、じゃあまだ知らないかも / しれないから教えてあげるわね
+   Oh, then you might not know yet, so I'll fill you in.
+>> 7AFE0C.22 | [秘書] ウチの会社はキーメモリーを使って / それぞれのトビラをあけるのよ
+   Our company uses Key Memories to open each door.
+>> 7AFE0C.25 | [秘書] でも一つのキーメモリーには / 一つのパスしか入れられないの
+   But one Key Memory can only hold one pass.
+>> 7AFE0C.30 | [花月] パス…？ / 暗証番号のことですか？
+   A pass...? You mean a PIN?
+>> 7AFE0C.35 | [秘書] そう、トビラって色が違うでしょ？ / 色別に違うパスが必要なのよ
+   Right. The doors are different colors, see? Each color needs a different pass.
+>> 7AFE0C.38 | [秘書] 黄色いトビラを開くには / パスコード１が
+   To open the yellow doors, you need Passcode 1,
+>> 7AFE0C.41 | [秘書] 青いトビラを開くには / パスコード２が
+   to open the blue doors, you need Passcode 2,
+>> 7AFE0C.44 | [秘書] 赤いトビラを開くには / パスコード３が必要なのよ
+   and to open the red doors, you need Passcode 3.
+>> 7AFE0C.49 | [花月] 管理体制が厳しいんですね
+   Your security is quite strict, I see.
+>> 7AFE0C.53 | [秘書] そうね… / ちょっとやりすぎだと思うけど
+   I know... I think it's a bit much.
+>> 7AFE0C.56 | [秘書] そうそう、キーメモリーに記憶された / パスは一度使うと消えちゃうわよ
+   Oh, right -- a pass stored in a Key Memory gets erased once you use it.
+>> 7AFE0C.61 | [花月] そのつど記憶させないと / ダメということですか？
+   So it has to be stored again each time?
+>> 7AFE0C.66 | [秘書] そうなの、別の部屋を開けるには / 新しいパスを登録しないとダメなのよ
+   That's right. To open another room, you have to register a new pass.
+>> 7AFE0C.69 | [秘書] それじゃガンバってね、 / 新人秘書さん
+   Well, good luck, new secretary.
+>> 7AFE0C.74 | [秘書] キーメモリーと / パスコード１を手に入れた！
+   Got the Key Memory and Passcode 1!
+>> 7AFE0C.79 | [花月] どうも間違われたようですね…
+   It seems I've been taken for something I'm not...
+>> 7AFE0C.83 | [銀次] でもカギも手に入ったし、 / 良かったよね！
+   But we got the key, so that's good!
+>> 7AFE0C.88 | [花月] そうですね…
+   I suppose so...

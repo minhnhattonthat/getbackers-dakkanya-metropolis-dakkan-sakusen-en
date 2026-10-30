@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "おい、波児　",
-  "en": ""
+  "en": "Hey, Paul. Has Ginji shown up?"
  },
  {
   "id": "78FF14.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "銀次のヤツ来てねえか？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "78FF14.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "波児",
   "jp": "いや、今日はまだ来てないぜ　",
-  "en": ""
+  "en": "Nope, he hasn't come by yet today."
  },
  {
   "id": "78FF14.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "波児",
   "jp": "一緒じゃなかったのか？　",
-  "en": ""
+  "en": "Weren't you two together?"
  },
  {
   "id": "78FF14.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ここで待ち合わせってことに　",
-  "en": ""
+  "en": "We were supposed to meet up here..."
  },
  {
   "id": "78FF14.14",
@@ -66,7 +66,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "なってンだけどな…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "78FF14.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "どこ行きやがったんだ？　アイツ…",
-  "en": ""
+  "en": "Where the hell'd he run off to, that guy...?"
  },
  {
   "id": "78FF14.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "夏実",
   "jp": "あ、そういえば銀次さんをさっき外で　",
-  "en": ""
+  "en": "Oh, come to think of it, I saw Ginji-san"
  },
  {
   "id": "78FF14.21",
@@ -97,7 +97,7 @@
   "box": 5,
   "speaker": "夏実",
   "jp": "見かけましたよ　",
-  "en": ""
+  "en": "outside a little while ago."
  },
  {
   "id": "78FF14.23",
@@ -105,7 +105,7 @@
   "box": 6,
   "speaker": "夏実",
   "jp": "ね、ヘヴンさん？",
-  "en": ""
+  "en": "Right, Hevn-san?"
  },
  {
   "id": "78FF14.25",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "ヘヴン　",
   "jp": "そうね、",
-  "en": ""
+  "en": "That's right. He was running off in a big"
  },
  {
   "id": "78FF14.28",
@@ -128,7 +128,7 @@
   "box": 7,
   "speaker": "ヘヴン　",
   "jp": "なんだか大急ぎで走ってたけど…　",
-  "en": ""
+  "en": "hurry, though..."
  },
  {
   "id": "78FF14.30",
@@ -143,7 +143,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "大急ぎで走ってた？　",
-  "en": ""
+  "en": "Running in a big hurry?"
  },
  {
   "id": "78FF14.34",
@@ -151,6 +151,6 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "…まあいいわ、銀次探してくるぜ　",
-  "en": ""
+  "en": "...Whatever. I'll go find Ginji."
  }
 ]

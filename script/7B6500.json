@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "学生",
   "jp": "お笑いの一次審査はキグルミかあ…",
-  "en": ""
+  "en": "So round one for comedy is a mascot suit,"
  },
  {
   "id": "7B6500.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "学生",
   "jp": "なんにしようかなあ…",
-  "en": ""
+  "en": "huh... What should I go with...?"
  },
  {
   "id": "7B6500.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "学生",
   "jp": "さっきハリネズミの人を見たけど　",
-  "en": ""
+  "en": "I saw a hedgehog guy a while ago, but I"
  },
  {
   "id": "7B6500.7",
@@ -36,6 +36,6 @@
   "box": 2,
   "speaker": "学生",
   "jp": "あれはどうかと思うしなあ…　",
-  "en": ""
+  "en": "dunno about that..."
  }
 ]

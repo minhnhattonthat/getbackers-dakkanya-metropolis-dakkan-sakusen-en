@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "十兵衛　",
   "jp": "エレベーターが停止したようだな…",
-  "en": ""
+  "en": "The elevator seems to have stopped..."
  },
  {
   "id": "7C81DC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "アカン！",
-  "en": ""
+  "en": "Oh no! It's 'cause I went an' thought"
  },
  {
   "id": "7C81DC.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "ワイが変なこと考えたばっかりに！！　",
-  "en": ""
+  "en": "somethin' weird!!"
  },
  {
   "id": "7C81DC.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "笑師",
   "jp": "すんまへん！！　",
-  "en": ""
+  "en": "Sorry!!"
  },
  {
   "id": "7C81DC.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "花月",
   "jp": "変なこと？　",
-  "en": ""
+  "en": "Something weird?"
  },
  {
   "id": "7C81DC.16",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "いや～、花月はんと十兵衛はんの　",
-  "en": ""
+  "en": "Well, ya see, Kazuki-han an' Juubei-han"
  },
  {
   "id": "7C81DC.19",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "仲がよろしもんで、ワイが一人ぼっ…　",
-  "en": ""
+  "en": "get along so well, I'm all alo..."
  },
  {
   "id": "7C81DC.21",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "笑師",
   "jp": "あわわ…なんでもあらへん",
-  "en": ""
+  "en": "Whoa whoa... It's nothin'!"
  },
  {
   "id": "7C81DC.23",
@@ -104,7 +104,7 @@
   "box": 7,
   "speaker": "花月",
   "jp": "？　",
-  "en": ""
+  "en": "?"
  },
  {
   "id": "7C81DC.27",
@@ -112,7 +112,7 @@
   "box": 8,
   "speaker": "花月",
   "jp": "とにかくエレベーターはどこかの階に　",
-  "en": ""
+  "en": "Anyway, it seems the elevator stopped at"
  },
  {
   "id": "7C81DC.28",
@@ -120,7 +120,7 @@
   "box": 8,
   "speaker": "花月",
   "jp": "停止したみたいだね…",
-  "en": ""
+  "en": "some floor..."
  },
  {
   "id": "7C81DC.30",
@@ -128,6 +128,6 @@
   "box": 9,
   "speaker": "花月",
   "jp": "降りてみよう",
-  "en": ""
+  "en": "Let's get off."
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "！　幅寄せだと！？　",
-  "en": ""
+  "en": "! They're running us off the road?!"
  },
  {
   "id": "7A0EBC.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "あいつら、一歩間違えば　",
-  "en": ""
+  "en": "One wrong move and they'll go over into"
  },
  {
   "id": "7A0EBC.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "自分らも谷底へ落ちるんだぞ！",
-  "en": ""
+  "en": "the gorge too!"
  },
  {
   "id": "7A0EBC.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ヤ、ヤバいよ、蛮ちゃん！",
-  "en": ""
+  "en": "Th-this is bad, Ban-chan! At this rate..."
  },
  {
   "id": "7A0EBC.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "このままじゃ…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7A0EBC.13",
@@ -66,6 +66,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "ダメだ！　間に合わねえ！！　",
-  "en": ""
+  "en": "No good! We won't make it!!"
  }
 ]

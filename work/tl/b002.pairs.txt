@@ -1,0 +1,1192 @@
+>> M09E10C | 卑弥呼＆十兵衛４
+   Himiko & Juubei 4
+>> M09E11E | 卑弥呼＆十兵衛５
+   Himiko & Juubei 5
+>> M09E130 | 卑弥呼＆十兵衛７
+   Himiko & Juubei 7
+>> M09E142 | 卑弥呼＆十兵衛８
+   Himiko & Juubei 8
+>> M09E154 | 卑弥呼＆鏡７
+   Himiko & Kagami 7
+>> M09E162 | 卑弥呼＆鏡８
+   Himiko & Kagami 8
+>> M09E170 | 赤屍＆士度５
+   Akabane & Shido 5
+>> M09E17E | 赤屍＆士度７
+   Akabane & Shido 7
+>> M09E18C | 赤屍＆士度８
+   Akabane & Shido 8
+>> M09E19A | 赤屍＆笑師５
+   Akabane & Emishi 5
+>> M09E1A8 | 赤屍＆笑師７
+   Akabane & Emishi 7
+>> M09E1B6 | 赤屍＆笑師８
+   Akabane & Emishi 8
+>> M09E1C4 | 赤屍＆花月５
+   Akabane & Kazuki 5
+>> M09E1D2 | 赤屍＆花月７
+   Akabane & Kazuki 7
+>> M09E1E0 | 赤屍＆花月８
+   Akabane & Kazuki 8
+>> M09E1EE | 赤屍＆十兵衛５
+   Akabane & Juubei 5
+>> M09E1FE | 赤屍＆十兵衛７
+   Akabane & Juubei 7
+>> M09E20E | 赤屍＆十兵衛８
+   Akabane & Juubei 8
+>> M09E21E | 赤屍＆鏡７
+   Akabane & Kagami 7
+>> M09E22A | 赤屍＆鏡８
+   Akabane & Kagami 8
+>> M09E236 | 士度＆花月２
+   Shido & Kazuki 2
+>> M09E244 | 士度＆花月３
+   Shido & Kazuki 3
+>> M09E252 | 士度＆花月４
+   Shido & Kazuki 4
+>> M09E260 | 士度＆花月５
+   Shido & Kazuki 5
+>> M09E26E | 士度＆花月７
+   Shido & Kazuki 7
+>> M09E27C | 士度＆花月８
+   Shido & Kazuki 8
+>> M09E28A | 士度＆笑師４
+   Shido & Emishi 4
+>> M09E298 | 士度＆笑師５
+   Shido & Emishi 5
+>> M09E2A6 | 士度＆笑師６
+   Shido & Emishi 6
+>> M09E2B4 | 士度＆笑師７
+   Shido & Emishi 7
+>> M09E2C2 | 士度＆笑師８
+   Shido & Emishi 8
+>> M09E2D0 | 士度＆十兵衛４
+   Shido & Juubei 4
+>> M09E2E0 | 士度＆十兵衛５
+   Shido & Juubei 5
+>> M09E2F0 | 士度＆十兵衛７
+   Shido & Juubei 7
+>> M09E300 | 士度＆十兵衛８
+   Shido & Juubei 8
+>> M09E310 | 士度＆鏡７
+   Shido & Kagami 7
+>> M09E31C | 士度＆鏡８
+   Shido & Kagami 8
+>> M09E328 | 笑師＆花月４
+   Emishi & Kazuki 4
+>> M09E336 | 笑師＆花月５
+   Emishi & Kazuki 5
+>> M09E344 | 笑師＆花月７
+   Emishi & Kazuki 7
+>> M09E352 | 笑師＆花月８
+   Emishi & Kazuki 8
+>> M09E360 | 笑師＆十兵衛４
+   Emishi & Juubei 4
+>> M09E370 | 笑師＆十兵衛５
+   Emishi & Juubei 5
+>> M09E380 | 笑師＆十兵衛７
+   Emishi & Juubei 7
+>> M09E390 | 笑師＆十兵衛８
+   Emishi & Juubei 8
+>> M09E3A0 | 笑師＆鏡７
+   Emishi & Kagami 7
+>> M09E3AC | 笑師＆鏡８
+   Emishi & Kagami 8
+>> M09E3B8 | 花月＆十兵衛４
+   Kazuki & Juubei 4
+>> M09E3C8 | 花月＆十兵衛５
+   Kazuki & Juubei 5
+>> M09E3D8 | 花月＆十兵衛６
+   Kazuki & Juubei 6
+>> M09E3E8 | 花月＆十兵衛７
+   Kazuki & Juubei 7
+>> M09E3F8 | 花月＆十兵衛８
+   Kazuki & Juubei 8
+>> M09E408 | 花月＆鏡７
+   Kazuki & Kagami 7
+>> M09E414 | 花月＆鏡８
+   Kazuki & Kagami 8
+>> M09E420 | 十兵衛＆鏡７
+   Juubei & Kagami 7
+>> M09E42E | 十兵衛＆鏡８
+   Juubei & Kagami 8
+>> M09E43C | おまけ２
+   Bonus 2
+>> M09E446 | おまけ３
+   Bonus 3
+>> M09E450 | おまけ４
+   Bonus 4
+>> M09E45A | おまけ５
+   Bonus 5
+>> M09E464 | おまけ６
+   Bonus 6
+>> M09E46E | おまけ７
+   Bonus 7
+>> M09E478 | おまけ８
+   Bonus 8
+>> M09E482 | おまけ９
+   Bonus 9
+>> M09E48C | おまけ１０
+   Bonus 10
+>> M09E498 | おまけ１１
+   Bonus 11
+>> M09E4A4 | おまけ１２
+   Bonus 12
+>> M09E4B0 | おまけ１３
+   Bonus 13
+>> M09E4BC | おまけ１４
+   Bonus 14
+>> M09E4C8 | おまけ１５
+   Bonus 15
+>> M09E4D4 | おまけ１６
+   Bonus 16
+>> M09E4F4 | オプション
+   Options
+>> M09E4FE | 戦闘速度
+   Battle Speed
+>> M09E508 | ＢＧＭ
+   Music
+>> M09E510 | ＳＥ　
+   Sound
+>> M09E518 | ボイス
+   Voice
+>> M09E520 | 速・・・・・・・・遅
+   Fast........Slow
+>> M09E536 | 戦闘表示速度の設定
+   Set the battle display speed.
+>> M09E54A | ＢＧＭ、ＳＥ。左右で変更。 / Ａボタンでリクエスト。Ｒボタンで停止
+   Music, sound. Left/Right: change. / A Button: play. R Button: stop.
+>> M09E58C | ボイス。左右で変更。 / Ａボタンでリクエスト。Ｒボタンで停止
+   Voice. Left/Right: change. / A Button: play. R Button: stop.
+>> M09E62A | オープニング
+   Opening
+>> M09E638 | マップ１
+   Map 1
+>> M09E642 | マップ２
+   Map 2
+>> M09E64C | マップ３
+   Map 3
+>> M09E656 | マップ４
+   Map 4
+>> M09E660 | マップ５
+   Map 5
+>> M09E66A | さすらい１
+   Wandering 1
+>> M09E676 | さすらい２
+   Wandering 2
+>> M09E682 | イベント１
+   Event 1
+>> M09E68E | イベント２
+   Event 2
+>> M09E69A | イベント３
+   Event 3
+>> M09E6A6 | イベント４
+   Event 4
+>> M09E6B2 | イベント５
+   Event 5
+>> M09E6BE | イベント６
+   Event 6
+>> M09E6CA | 戦闘１
+   Battle 1
+>> M09E6D2 | 戦闘２
+   Battle 2
+>> M09E6DA | 戦闘３
+   Battle 3
+>> M09E6E2 | 戦闘４
+   Battle 4
+>> M09E6EA | ゲームオーバー
+   Game Over
+>> M09E6FA | エンディング
+   Ending
+>> M09E708 | ＡＣＴスタート
+   ACT Start
+>> M09E718 | オルゴールバージョン
+   Music Box Version
+>> M09E72E | コント
+   Comedy Skit
+>> M09E736 | 戦闘勝利
+   Victory
+>> M09E740 | 戦闘負け
+   Defeat
+>> M09E74A | レベルアップ
+   Level Up
+>> M09E758 | おばけピアノ１
+   Ghost Piano 1
+>> M09E768 | おばけピアノ２
+   Ghost Piano 2
+>> M09E778 | おばけピアノ３
+   Ghost Piano 3
+>> M09E788 | 機械音ＢＧＭ
+   Machine Noise BGM
+>> M09E796 | 合体技成功
+   Combo Success
+>> M09E7A2 | 放電
+   Discharge
+>> M09E7A8 | 蛇の声
+   Snake Hiss
+>> M09E7B0 | 点滅
+   Blink
+>> M09E7B6 | 発光
+   Glow
+>> M09E7BC | 小打撃
+   Light Hit
+>> M09E7C4 | 風切音
+   Whoosh
+>> M09E7CC | 雷
+   Thunder
+>> M09E7D0 | 音波
+   Sound Wave
+>> M09E7D6 | バリア
+   Barrier
+>> M09E7DE | ステータスアップ
+   Status Up
+>> M09E7F0 | 拳銃攻撃
+   Gunshot
+>> M09E7FA | 毒攻撃
+   Poison Attack
+>> M09E802 | まひ攻撃
+   Paralysis Attack
+>> M09E80C | 混乱攻撃
+   Confusion Attack
+>> M09E816 | ヒット１
+   Hit 1
+>> M09E820 | ヒット２
+   Hit 2
+>> M09E82A | ヒット３
+   Hit 3
+>> M09E834 | 絃
+   String
+>> M09E838 | 鞭
+   Whip
+>> M09E83C | 殺傷攻撃
+   Lethal Attack
+>> M09E846 | 爆発
+   Explosion
+>> M09E84C | ハリケーン
+   Hurricane
+>> M09E858 | 光が収東
+   Light Gathers
+>> M09E862 | 振動
+   Rumble
+>> M09E868 | 狼の声
+   Wolf Howl
+>> M09E870 | 回復
+   Heal
+>> M09E876 | ステータス異常回復
+   Ailment Cure
+>> M09E88A | ガラスが割れる
+   Glass Shatters
+>> M09E89A | ガラスにひび
+   Glass Cracks
+>> M09E8A8 | 確定
+   Confirm
+>> M09E8AE | キャンセル
+   Cancel
+>> M09E8BA | カーソル
+   Cursor
+>> M09E8C4 | バトルシンク発生
+   Battle Sync Start
+>> M09E8D6 | バトルシンク成功
+   Battle Sync Success
+>> M09E8E8 | バトルシンク失敗
+   Battle Sync Fail
+>> M09E8FA | アイテムゲット１
+   Item Get 1
+>> M09E90C | アイテムゲット２
+   Item Get 2
+>> M09E91E | エラー
+   Error
+>> M09E926 | 機械
+   Machine
+>> M09E92C | 腹の虫
+   Stomach Growl
+>> M09E934 | こおりつく
+   Freeze
+>> M09E940 | ＧＢＡ
+   GBA
+>> M09E948 | ドア
+   Door
+>> M09E94E | おばけ
+   Ghost
+>> M09E956 | ピアノ単音
+   Piano Note
+>> M09E962 | 加速１
+   Accelerate 1
+>> M09E96A | 加速２
+   Accelerate 2
+>> M09E972 | ブレーキ
+   Brake
+>> M09E97C | ドア２
+   Door 2
+>> M09E984 | 落下
+   Fall
+>> M09E98A | 雷２
+   Thunder 2
+>> M09E990 | ぽかっ
+   Bonk
+>> M09E998 | カギ
+   Key
+>> M09E99E | マリオネット
+   Marionette
+>> M09E9AC | スイッチ
+   Switch
+>> M09E9B6 | エレベーター１
+   Elevator 1
+>> M09E9C6 | エレベーター２
+   Elevator 2
+>> M09E9D6 | エレベータードア
+   Elevator Door
+>> M09E9E8 | 船
+   Ship
+>> M09E9EC | モニター
+   Monitor
+>> M09E9F6 | バトルシンクＣ１
+   Battle Sync C1
+>> M09EA08 | バトルシンクＣ２
+   Battle Sync C2
+>> M09EA1A | ばかうけ
+   Big Laugh
+>> M09EA24 | ややうけ
+   Some Laughs
+>> M09EA2E | どっちらけ
+   Total Flop
+>> M09EA3A | ラジオのスイッチ
+   Radio Switch
+>> M09EA4C | バリア２
+   Barrier 2
+>> M09EA56 | ケイ帯着信音
+   Cell Phone Ring
+>> M09EA64 | ケイ帯スイッチ
+   Cell Phone Switch
+>> M09EA74 | ホワイトアウト
+   Whiteout
+>> M09EA84 | 波
+   Waves
+>> M09EA88 | うめき声
+   Groan
+>> M09EA92 | 美堂蛮
+   Ban Mido
+>> M09EA9A | 天野銀次
+   Ginji Amano
+>> M09EAA4 | 工藤卑弥呼
+   Himiko Kudo
+>> M09EAB0 | 赤屍蔵人
+   Kurodo Akabane
+>> M09EABA | 風鳥院花月
+   Kazuki Fuchoin
+>> M09EAC6 | 冬木士度
+   Shido Fuyuki
+>> M09EAD0 | 笑師春樹
+   Emishi Haruki
+>> M09EADA | 筧十兵衛
+   Juubei Kakei
+>> M09EAE4 | 鏡形而
+   Kyoji Kagami
+>> M09EAEC | 弥勒雪彦
+   Yukihiko Miroku
+>> M09EAF6 | アル・カ・ナ
+   Ar-ca-na
+>> M09EB04 | ジェンド・ロン
+   Jend Long
+>> M09EB14 | ＴＡＲＥ
+   TARE
+>> M09EB1E | 水城夏実
+   Natsumi Mizuki
+>> M09EB28 | いどう
+   Move
+>> M09EB2E | ＡＣＴ
+   ACT
+>> M09EB34 | 現在位置：
+   Now at:
+>> M09EB3E | 移動先：
+   Go to:
+>> M09EB46 | ホンキー　 / 　　トンク
+   Honky Tonk
+>> M09EB5E | 繁華街　　 / 　　　　　
+   Downtown
+>> M09EB76 | 繁華街　　 / 　　　　　
+   Downtown
+>> M09EB8E | 廃校　　　 / 　　　　　
+   Abandoned School
+>> M09EBA6 | Ｎホール　 / 　　　　　
+   N Hall
+>> M09EBBE | 山城芸能　 / 　　　ビル
+   Yamashiro Productions
+>> M09EBD6 | 地下洞窟　 / 　　　　　
+   Underground Cave
+>> M09EBEE | 新浜島　　 / 　　　　　
+   Niihama Island
+>> M09EC06 | アルファ　 / 　タワー１
+   Alpha Tower 1
+>> M09EC1E | アルファ　 / 　タワー２
+   Alpha Tower 2
+>> M09EC36 | アルファ　 / 　タワー３
+   Alpha Tower 3
+>> M09EC76 | セーブ
+   Save
+>> M09EC7C | ロード
+   Load
+>> M09EC82 | 番
+   :
+>> M09EC86 | 現在
+   Now
+>> M09EC8C | ＡＣＴ
+   ACT
+>> M09EC94 | ＮＯ　ＤＡＴＡ
+   NO DATA
+>> M09ECA4 | 警告！Ａボタンで上書きします
+   Warning! Press A to overwrite.
+>> M09ECC2 | 書き込みエラーです
+   Write error.
+>> 3D7DE4.1 | 攻撃
+   Attack
+>> 3D7DE4.2 | 防御
+   Defend
+>> 3D7DE4.3 | アイテム
+   Item
+>> 3D7DE4.4 | チェンジ
+   Change
+>> 3D7DE4.5 | 逃げる
+   Run
+>> 3D7DE4.6 | 通常
+   Normal
+>> 3D7DE4.7 | 必殺技
+   Special
+>> 3D7DE4.8 | だ！
+   appears!
+>> 3D7DE4.9 | たちだ！
+   and company appear!
+>> 3D7DE4.10 | は毒をうけた！
+   was poisoned!
+>> 3D7DE4.11 | の身体はマヒした！
+   is paralyzed!
+>> 3D7DE4.12 | は混乱した！
+   is confused!
+>> 3D7DE4.13 | を倒した！
+   was defeated!
+>> 3D7DE4.14 | ＥＸＰ
+   EXP
+>> 3D7DE4.15 | 入手！
+   obtained!
+>> 3D7DE4.16 | はレベルアップした！
+   leveled up!
+>> 3D7DE4.17 | ＨＰ　＋
+   HP +
+>> 3D7DE4.18 | すばやさ　＋
+   Speed +
+>> 3D7DE4.19 | 攻撃力＋
+   Attack +
+>> 3D7DE4.20 | 防御力　　＋
+   Defense +
+>> 3D7DE4.21 | 戦いに敗れた…
+   The battle was lost...
+>> 3D7DE4.22 | なんとか逃げきれた
+   Managed to escape.
+>> 3D7DE4.23 | 逃げそこなった
+   Couldn't escape.
+>> 3D7DE4.24 | 毒に侵されてダメージ！
+   Poison damage!
+>> 3D7DE4.25 | マヒで動けない！
+   Paralyzed and can't move!
+>> 3D7DE4.26 | を習得した！
+   learned!
+>> 3D7DE4.27 | 』属性攻撃無効
+   ' element attacks nullified
+>> 3D7DE4.28 | 『
+   '
+>> 3D7DE4.29 | ゲット！
+   acquired!
+>> 3D7DE4.30 | は
+   --
+>> 3D7DE4.31 | 』属性バリアを破った！
+   ' element barrier broken!
+>> 3D7DE4.33 | ベノムファング
+   Venom Fang
+>> 3D7DE4.34 | スネークバイト
+   Snake Bite
+>> 3D7DE4.35 | サイドワインダー
+   Sidewinder
+>> 3D7DE4.36 | 蛇遣い座解放
+   Ophiuchus Unleashed
+>> 3D7DE4.37 | 電撃
+   Electric Shock
+>> 3D7DE4.38 | イナズマキック
+   Lightning Kick
+>> 3D7DE4.39 | 電磁フィールド
+   EM Field
+>> 3D7DE4.40 | 雷帝降臨
+   Thunder Emperor Descends
+>> 3D7DE4.41 | 解毒香
+   Antidote Perfume
+>> 3D7DE4.42 | 回復香
+   Healing Perfume
+>> 3D7DE4.43 | 火炎香
+   Flame Perfume
+>> 3D7DE4.44 | 加速香
+   Speed Perfume
+>> 3D7DE4.45 | 赤い剣
+   Bloody Sword
+>> 3D7DE4.46 | 赤い楯
+   Bloody Shield
+>> 3D7DE4.47 | 赤い十字架
+   Bloody Cross
+>> 3D7DE4.48 | 赤い暴風
+   Bloody Hurricane
+>> 3D7DE4.49 | 繭玉の楯
+   Cocoon Shield
+>> 3D7DE4.50 | 秋雨
+   Autumn Rain
+>> 3D7DE4.51 | 絃呪縛
+   String Bind
+>> 3D7DE4.52 | 雫
+   Dewdrop
+>> 3D7DE4.53 | 猿擬
+   Ape Mimic
+>> 3D7DE4.54 | 土竜擬
+   Mole Mimic
+>> 3D7DE4.55 | 虎爪擬
+   Tiger Claw Mimic
+>> 3D7DE4.56 | 餓狼擬
+   Wolf Mimic
+>> 3D7DE4.57 | 捕らえよ　毒蛇の如く
+   Seize, like a viper
+>> 3D7DE4.58 | 絡みつけ　流砂の如く
+   Coil, like quicksand
+>> 3D7DE4.59 | 消えよ　砂嵐とともに
+   Vanish with the sandstorm
+>> 3D7DE4.60 | 呑み込め　洪水の如く
+   Swallow, like a flood
+>> 3D7DE4.61 | 毒蛾
+   Poison Moth
+>> 3D7DE4.62 | 鬼灯
+   Lantern Plant
+>> 3D7DE4.63 | 鳳仙花
+   Balsam Burst
+>> 3D7DE4.64 | 土蜘蛛
+   Earth Spider
+>> 3D7DE4.65 | 鏡像
+   Mirror Image
+>> 3D7DE4.66 | 鏡刃
+   Mirror Blade
+>> 3D7DE4.67 | 鏡光
+   Mirror Light
+>> 3D7DE4.68 | ダイヤモンド・ダスト
+   Diamond Dust
+>> 3D7DE4.70 | 　敵
+   Enemy
+>> 3D7DE4.71 | 　味方
+   Ally
+>> 3D7DE4.72 | 　単体
+   One
+>> 3D7DE4.73 | 　全体
+   All
+>> 3D7DE4.74 | 　一度
+   Once
+>> 3D7DE4.75 | 一定時間
+   For a while
+>> 3D7DE4.76 | 即死
+   Instant KO
+>> 3D7DE4.77 | 回復
+   Heal
+>> 3D7DE4.78 | 無効化
+   Nullify
+>> 3D7DE4.79 | ＨＰ
+   HP
+>> 3D7DE4.80 | ＭＰ
+   MP
+>> 3D7DE4.81 | 戦闘不能
+   KO
+>> 3D7DE4.82 | 毒
+   Poison
+>> 3D7DE4.83 | マヒ
+   Paralysis
+>> 3D7DE4.84 | 混乱
+   Confusion
+>> 3D7DE4.85 | 状態異常
+   Status ailment
+>> 3D7DE4.86 | 毒
+   Poison
+>> 3D7DE4.87 | マヒ
+   Paralysis
+>> 3D7DE4.88 | 混乱
+   Confusion
+>> 3D7DE4.89 | （小）
+   (Small)
+>> 3D7DE4.90 | （中）
+   (Medium)
+>> 3D7DE4.91 | （大）
+   (Large)
+>> 3D7DE4.92 | 全
+   Full
+>> 3D7DE4.93 | [無]
+   Void
+>> 3D7DE4.94 | [雷]
+   Thunder
+>> 3D7DE4.95 | [火]
+   Fire
+>> 3D7DE4.96 | [闇]
+   Dark
+>> 3D7DE4.97 | [水]
+   Water
+>> 3D7DE4.98 | [土]
+   Earth
+>> 3D7DE4.99 | [砂]
+   Sand
+>> 3D7DE4.100 | [風]
+   Wind
+>> 3D7DE4.101 | [光]
+   Light
+>> 3D7DE4.102 | 攻撃
+   Attack
+>> 3D7DE4.103 | 特殊
+   Special
+>> 3D7DE4.104 | 防御力ＵＰ
+   Defense UP
+>> 3D7DE4.105 | 回避率ＵＰ
+   Evasion UP
+>> 3D7DE4.107 | 素早さＵＰ
+   Speed UP
+>> 3D7DE4.108 | 攻撃力ＵＰ
+   Attack UP
+>> 3D7DE4.110 | 十薬
+   Houttuynia
+>> 3D7DE4.111 | 威霊仙
+   Clematis Root
+>> 3D7DE4.112 | 延命草
+   Enmei Herb
+>> 3D7DE4.113 | 霊芝
+   Reishi
+>> 3D7DE4.114 | 牛黄
+   Bezoar
+>> 3D7DE4.115 | 土木香
+   Elecampane
+>> 3D7DE4.116 | 芍薬
+   Peony Root
+>> 3D7DE4.117 | 冬虫夏草
+   Cordyceps
+>> 3D7DE4.118 | 蓬莱の玉
+   Horai Jewel
+>> 3D7DE4.119 | ペンデュＣ
+   Pendu Card
+>> 3D7DE4.120 | ジュノーＣ
+   Junon Card
+>> 3D7DE4.121 | ラトリスＣ
+   Ratrice Card
+>> 3D7DE4.122 | アムルーＣ
+   Amoureux Card
+>> 3D7DE4.123 | ユストスＣ
+   Iustus Card
+>> 3D7DE4.124 | エルミトＣ
+   Hermite Card
+>> 3D7DE4.125 | レーフォＣ
+   Lefo Card
+>> 3D7DE4.126 | ユピテルＣ
+   Jupiter Card
+>> 3D7DE4.127 | ランスＣ
+   Rance Card
+>> 3D7DE4.128 | ディラＣ
+   Dira Card
+>> 3D7DE4.129 | リュネＣ
+   Lune Card
+>> 3D7DE4.130 | レイユＣ
+   Reille Card
+>> 3D7DE4.131 | モンドＣ
+   Monde Card
+>> 3D7DE4.132 | ゲメンＣ
+   Gement Card
+>> 3D7DE4.133 | シャリオＣ
+   Chariot Card
+>> 3D7DE4.134 | ディブルＣ
+   Diable Card
+>> 3D7DE4.136 | 美堂　蛮
+   Ban Mido
+>> 3D7DE4.137 | 天野　銀次
+   Ginji Amano
+>> 3D7DE4.138 | 工藤　卑弥呼
+   Himiko Kudo
+>> 3D7DE4.139 | 赤屍　蔵人
+   Kurodo Akabane
+>> 3D7DE4.140 | 風鳥院　花月
+   Kazuki Fuchoin
+>> 3D7DE4.141 | 冬木　士度
+   Shido Fuyuki
+>> 3D7DE4.142 | 笑師　春樹
+   Emishi Haruki
+>> 3D7DE4.143 | 筧　十兵衛
+   Juubei Kakei
+>> 3D7DE4.144 | 鏡　形而
+   Kyoji Kagami
+>> 3D7DE4.145 | ルマ
+   Lemat
+>> 3D7DE4.146 | バタリー
+   Batary
+>> 3D7DE4.147 | ジュノー
+   Junon
+>> 3D7DE4.148 | ラトリス
+   Ratrice
+>> 3D7DE4.149 | レンプレル
+   Lempereur
+>> 3D7DE4.150 | レンプレル
+   Lempereur
+>> 3D7DE4.151 | ユピテル
+   Jupiter
+>> 3D7DE4.152 | アムルー
+   Amoureux
+>> 3D7DE4.153 | シャリオ
+   Chariot
+>> 3D7DE4.154 | ユストス
+   Iustus
+>> 3D7DE4.155 | エルミト
+   Hermite
+>> 3D7DE4.156 | テューヌ
+   Tune
+>> 3D7DE4.157 | レーフォ
+   Lefo
+>> 3D7DE4.158 | ペンデュ
+   Pendu
+>> 3D7DE4.159 | モール
+   Mort
+>> 3D7DE4.160 | ランス
+   Rance
+>> 3D7DE4.161 | ディブル
+   Diable
+>> 3D7DE4.162 | ディラ
+   Dira
+>> 3D7DE4.163 | トワール
+   Toile
+>> 3D7DE4.164 | リュネ
+   Lune
+>> 3D7DE4.165 | レイユ
+   Reille
+>> 3D7DE4.166 | ゲメン
+   Gement
+>> 3D7DE4.167 | モンド
+   Monde
+>> 3D7DE4.168 | 使用人見習い
+   Servant Trainee
+>> 3D7DE4.169 | 使用人補佐
+   Servant Aide
+>> 3D7DE4.170 | 使用人リーダー
+   Servant Leader
+>> 3D7DE4.171 | 使用人頭
+   Head Servant
+>> 3D7DE4.172 | 蛭田　秀夫
+   Hideo Hiruta
+>> 3D7DE4.173 | ＣＡＶジュニア
+   CAV Junior
+>> 3D7DE4.174 | ＣＡＶロウ
+   CAV Low
+>> 3D7DE4.175 | ＣＡＶハイ
+   CAV High
+>> 3D7DE4.176 | ＣＡＶヘッド
+   CAV Head
+>> 3D7DE4.177 | 西園寺　薫
+   Kaoru Saionji
+>> 3D7DE4.178 | 三級警備員
+   Class 3 Guard
+>> 3D7DE4.179 | 二級警備員
+   Class 2 Guard
+>> 3D7DE4.180 | 一級警備員
+   Class 1 Guard
+>> 3D7DE4.181 | 警備長
+   Guard Chief
+>> 3D7DE4.182 | マッスルファイター龍
+   Muscle Fighter Dragon
+>> 3D7DE4.183 | マッスルファイター虎
+   Muscle Fighter Tiger
+>> 3D7DE4.184 | お笑い芸人弟子
+   Comedian Apprentice
+>> 3D7DE4.185 | お笑い芸人師匠
+   Comedian Master
+>> 3D7DE4.186 | アイドルひかる
+   Idol Hikaru
+>> 3D7DE4.187 | アイドルあきら
+   Idol Akira
+>> 3D7DE4.188 | 山城　龍三
+   Ryuzo Yamashiro
+>> 3D7DE4.189 | 横取り屋弟
+   Poacher Little Bro
+>> 3D7DE4.190 | 横取り屋兄
+   Poacher Big Bro
+>> 3D7DE4.191 | 横取り屋長兄
+   Poacher Eldest Bro
+>> 3D7DE4.192 | 横取り屋父
+   Poacher Dad
+>> 3D7DE4.193 | Ｓサービス田中
+   S-Service Tanaka
+>> 3D7DE4.194 | Ｓサービス鈴木
+   S-Service Suzuki
+>> 3D7DE4.195 | Ｓサービス佐藤
+   S-Service Sato
+>> 3D7DE4.196 | Ｓサービス山本
+   S-Service Yamamoto
+>> 3D7DE4.197 | 弥勒　雪彦
+   Yukihiko Miroku
+>> 3D7DE4.198 | 弥勒　雪彦
+   Yukihiko Miroku
+>> 3D7DE4.199 | ＴＡＲＥ
+   TARE
+>> 3D7DE4.200 | 奪い屋見習い
+   Snatcher Trainee
+>> 3D7DE4.201 | 奪い屋補佐
+   Snatcher Aide
+>> 3D7DE4.202 | 奪い屋リーダー
+   Snatcher Leader
+>> 3D7DE4.203 | 奪い屋頭
+   Snatcher Boss
+>> 3D7DE4.204 | 横取り屋弟
+   Poacher Little Bro
+>> 3D7DE4.205 | 横取り屋兄
+   Poacher Big Bro
+>> 3D7DE4.206 | アイドルかける
+   Idol Kakeru
+>> 3D7DE4.207 | 蛭田　秀夫
+   Hideo Hiruta
+>> 3D7DE4.208 | 蛭田　秀夫
+   Hideo Hiruta
+>> 3D7DE4.209 | バタリーａ
+   Batary a
+>> 3D7DE4.210 | バタリーｂ
+   Batary b
+>> 3D7DE4.211 | モンドａ
+   Monde a
+>> 3D7DE4.212 | モンドｂ
+   Monde b
+>> 3D7DE4.213 | モンドｃ
+   Monde c
+>> 3D7DE4.214 | モンドｄ
+   Monde d
+>> 3D7DE4.215 | モンドｅ
+   Monde e
+>> 3D7DE4.216 | モンドｆ
+   Monde f
+>> 3D7DE4.217 | モンドｇ
+   Monde g
+>> 3D7DE4.218 | モンドｈ
+   Monde h
+>> 3D7DE4.219 | モンドｉ
+   Monde i
+>> 3D7DE4.220 | リュネａ
+   Lune a
+>> 3D7DE4.221 | レンプレルａ
+   Lempereur a
+>> 3D7DE4.222 | レンプレルｂ
+   Lempereur b
+>> 3D7DE4.223 | レイユＳ
+   Reille S
+>> 3D7DE4.224 | リュネＳ
+   Lune S
+>> 3D7DE4.225 | ゲメンＳ
+   Gement S
+>> 3D7DE4.226 | ユピテルＳ
+   Jupiter S
+>> 3D7DE4.227 | ジュノーＳ
+   Junon S
+>> 3D7DE4.228 | ランスＳ
+   Rance S
+>> 3D7DE4.229 | モンドＳ
+   Monde S
+>> 3D7DE4.230 | ラトリスＳ
+   Ratrice S
+>> 3D7DE4.231 | ディラＳ
+   Dira S
+>> 3D7DE4.232 | 西園寺　薫
+   Kaoru Saionji
+>> 3D7DE4.233 | 弥勒　雪彦
+   Yukihiko Miroku
+>> 3D7DE4.234 | 工藤　卑弥呼
+   Himiko Kudo
+>> 3D7DE4.235 | 美堂　蛮（ＶＲ）
+   Ban Mido (VR)
+>> 3D7DE4.236 | 天野　銀次（ＶＲ）
+   Ginji Amano (VR)
+>> 3D7DE4.237 | 工藤　卑弥呼（ＶＲ）
+   Himiko Kudo (VR)
+>> 3D7DE4.238 | 赤屍　蔵人（ＶＲ）
+   Kurodo Akabane (VR)
+>> 3D7DE4.239 | 風鳥院　花月（ＶＲ）
+   Kazuki Fuchoin (VR)
+>> 3D7DE4.240 | 冬木　士度（ＶＲ）
+   Shido Fuyuki (VR)
+>> 3D7DE4.241 | 笑師　春樹（ＶＲ）
+   Emishi Haruki (VR)
+>> 3D7DE4.242 | 筧　十兵衛（ＶＲ）
+   Juubei Kakei (VR)
+>> 3D7DE4.243 | 鏡　形而（ＶＲ）
+   Kyoji Kagami (VR)
+>> 3D7DE4.244 | 使用人リーダー
+   Servant Leader
+>> 3D7DE4.245 | 使用人頭
+   Head Servant
+>> 3D7DE4.246 | エルミトＳＳ
+   Hermite SS
+>> 3D7DE4.247 | シャリオＳＳ
+   Chariot SS
+>> 3D7DE4.248 | ペンデュＳＳ
+   Pendu SS
+>> 3D7DE4.249 | ユストスＳＳ
+   Iustus SS
+>> 3D7DE4.250 | レーフォＳＳ
+   Lefo SS
+>> 3D7DE4.251 | アムルーＳＳ
+   Amoureux SS
+>> 3D7DE4.252 | ラトリスＳＳ
+   Ratrice SS
+>> 3D7DE4.253 | ジュノーＳＳ
+   Junon SS
+>> 3D7DE4.254 | ユピテルＳＳ
+   Jupiter SS
+>> 3D7DE4.255 | ディラＳＳ
+   Dira SS
+>> 3D7DE4.256 | ランスＳＳ
+   Rance SS
+>> 3D7DE4.257 | モンドＳＳ
+   Monde SS
+>> 3D7DE4.258 | レイユＳＳ
+   Reille SS
+>> 3D7DE4.259 | ゲメンＳＳ
+   Gement SS
+>> 3D7DE4.260 | ディブルＳＳ
+   Diable SS
+>> 3D7DE4.261 | リュネＳＳ
+   Lune SS
+>> 3D7DE4.262 | テューヌＳＳ
+   Tune SS
+>> 3D7DE4.263 | モールＳＳ
+   Mort SS
+>> 3D7DE4.264 | トワールＳＳ
+   Toile SS
+>> 3D7DE4.265 | 美堂　蛮
+   Ban Mido
+>> 3D7DE4.266 | 天野　銀次
+   Ginji Amano
+>> 3D7DE4.267 | 工藤　卑弥呼
+   Himiko Kudo
+>> 3D7DE4.268 | 赤屍　蔵人
+   Kurodo Akabane
+>> 3D7DE4.269 | 風鳥院　花月
+   Kazuki Fuchoin
+>> 3D7DE4.270 | 冬木　士度
+   Shido Fuyuki
+>> 3D7DE4.271 | 笑師　春樹
+   Emishi Haruki
+>> 3D7DE4.272 | 筧　十兵衛
+   Juubei Kakei
+>> 3D7DE4.273 | 鏡　形而
+   Kyoji Kagami
+>> 3D7DE4.275 | 蛮：
+   Ban:
+>> 3D7DE4.276 | 遅ェよ！
+   Too slow!
+>> 3D7DE4.277 | 動きが見えるぜ
+   I can see your every move.
+>> 3D7DE4.278 | トロい動きだな、オイ
+   Man, you're sluggish.
+>> 3D7DE4.279 | かすりもしねえ
+   Didn't even graze me.
+>> 3D7DE4.280 | フン、笑わせるぜ
+   Hmph, don't make me laugh.
+>> 3D7DE4.281 | ハッ、そんなもんかよ？
+   Ha! That all you got?
+>> 3D7DE4.282 | かすったか？
+   Was that supposed to hurt?
+>> 3D7DE4.283 | 遊びじゃねンだぞ
+   This ain't a game, y'know.
+>> 3D7DE4.284 | やる気あンのか？
+   Are you even trying?
+>> 3D7DE4.285 | ま、当てただけ褒めてやるよ
+   Well, I'll give you credit for landing one.
+>> 3D7DE4.286 | クソッ！
+   Damn!
+>> 3D7DE4.287 | ちっとは面白くなってきたな！
+   Now it's getting a little fun!
+>> 3D7DE4.288 | クッ、なかなかやるじゃねェかよ
+   Tch, you're not half bad.
+>> 3D7DE4.289 | こんなモンでチョーシに乗るなよ
+   Don't get cocky over a hit like that.
+>> 3D7DE4.290 | まだまだってトコだな
+   You've still got a ways to go.
+>> 3D7DE4.291 | がああっ！
+   Gaaah!
+>> 3D7DE4.292 | …面白ェじゃねえかよ！
+   ...Now this is getting interesting!
+>> 3D7DE4.293 | やられるわけにはいかねえんだ！
+   I can't go down here!
+>> 3D7DE4.294 | まだだ！　まだ終わらせねえ！
+   Not yet! This ain't over yet!
+>> 3D7DE4.295 | テメー、１０倍にして返してやる！
+   I'll pay you back 10 times over, punk!
+>> 3D7DE4.296 | チッ！　油断しちまったぜ！
+   Tch! I let my guard down!
+>> 3D7DE4.297 | 銀次：
+   Ginji:
+>> 3D7DE4.298 | セーフ！
+   Safe!
+>> 3D7DE4.299 | ふう、危なかった…
+   Phew, that was close...
+>> 3D7DE4.300 | 見えるよ！
+   I can see it!
+>> 3D7DE4.301 | ムダだよ！
+   No use!
+>> 3D7DE4.302 | 悪いね、当らないよ！
+   Sorry, you can't hit me!
+>> 3D7DE4.303 | あ、あれ？
+   Huh? Wha?
+>> 3D7DE4.304 | 軽い軽い！
+   That was nothing!
+>> 3D7DE4.305 | まだまだ！
+   I'm not done yet!
+>> 3D7DE4.306 | あっ！　当っちゃったか…
+   Ah! It hit me...
+>> 3D7DE4.307 | よけられなかった？
+   I couldn't dodge it?
+>> 3D7DE4.308 | ぐっ！
+   Ugh!
+>> 3D7DE4.309 | これくらいだったら！
+   I can take this much!
+>> 3D7DE4.310 | うっ！　ドジっちゃったな…
+   Ow! I goofed up...
+>> 3D7DE4.311 | …まだいけるよね？
+   ...I can still keep going, right?
+>> 3D7DE4.312 | このままじゃヤバいかな？
+   This is getting kinda bad, huh?
+>> 3D7DE4.313 | わあああっ！
+   Waaah!
+>> 3D7DE4.314 | ああっ！　このままじゃ…
+   Ahh! At this rate...
+>> 3D7DE4.315 | ま、まだ負けられない…！！
+   I-I can't lose yet...!!
+>> 3D7DE4.316 | まだ戦える！　まだやれるよ！
+   I can still fight! I can still go!
+>> 3D7DE4.317 | やられるわけにはいかないんだぁ！
+   I can't go down heeere!
+>> 3D7DE4.318 | 蛮ちゃん、ごめん！
+   Ban-chan, I'm sorry!
+>> 3D7DE4.319 | 卑弥呼：
+   Himiko:
+>> 3D7DE4.320 | おあいにくさま
+   Too bad for you.
+>> 3D7DE4.321 | レディ・ポイズンを甘く見ないで
+   Don't underestimate Lady Poison.
+>> 3D7DE4.322 | 甘いわね
+   Too soft.
+>> 3D7DE4.323 | つまらない攻撃ね
+   What a boring attack.
+>> 3D7DE4.324 | それで攻撃してるつもり？
+   You call that an attack?
+>> 3D7DE4.325 | フン、こんなもの？
+   Hmph, is that it?
+>> 3D7DE4.326 | 手加減でもしてるつもり？
+   Are you holding back or something?
+>> 3D7DE4.327 | あら、それが本気なの？
+   Oh my, is that really your best?
+>> 3D7DE4.328 | 笑わせないでよ
+   Don't make me laugh.
+>> 3D7DE4.329 | こんなの傷のうちにも入らないわ
+   That doesn't even count as a scratch.
+>> 3D7DE4.330 | ああっ！
+   Ahh!
+>> 3D7DE4.331 | なによ、こんなもの！
+   Hmph, this is nothing!
+>> 3D7DE4.332 | 避けられなかった？
+   I couldn't dodge it?
+>> 3D7DE4.333 | まだいけるわ！
+   I can still go on!
+>> 3D7DE4.334 | 当てたからっていい気にならないで
+   Don't get smug just because you hit me.
+>> 3D7DE4.335 | くっ！　このままじゃ…
+   Ngh! At this rate...
+>> 3D7DE4.336 | きゃああっ！！
+   Kyaaah!!
+>> 3D7DE4.337 | まだよ！　まだ負けられないわ！
+   Not yet! I can't lose yet!
+>> 3D7DE4.338 | なんなの、この力…！？
+   What is this power...?!
+>> 3D7DE4.339 | ここでやられるわけには…！
+   I can't go down here...!
+>> 3D7DE4.340 | キャアアア！
+   Aaaaah!
+>> 3D7DE4.341 | 赤屍：
+   Akabane:
+>> 3D7DE4.342 | 退屈ですよ、キミは
+   You bore me.
+>> 3D7DE4.343 | どこを狙っているのですか？
+   Where are you aiming?
+>> 3D7DE4.344 | 私はここですよ
+   I am right here.
+>> 3D7DE4.345 | ………
+   ...
+>> 3D7DE4.346 | 見えますよ
+   I can see it.
+>> 3D7DE4.347 | こんなものですか？
+   Is this all?
+>> 3D7DE4.348 | つまらないですね…
+   How dull...
+>> 3D7DE4.349 | この程度で私に挑むとはね…
+   To challenge me with only this much...
+>> 3D7DE4.350 | あなたでは役不足ですよ
+   You are no match for me.
+>> 3D7DE4.351 | まだまだですよ
+   Not nearly enough.
+>> 3D7DE4.352 | まあまあですね…
+   Not bad...
+>> 3D7DE4.353 | それがあなたの実力ですか？
+   Is that the extent of your ability?
+>> 3D7DE4.354 | 少しは楽しめそうですね…
+   This may prove a little entertaining...
+>> 3D7DE4.355 | クス…
+   Heh...
+>> 3D7DE4.356 | 私を失望させないでいただきたい
+   I would ask that you not disappoint me.
+>> 3D7DE4.357 | これは面白い…
+   How interesting...
+>> 3D7DE4.358 | この私をここまで追い詰めるとは…ね
+   To push me this far... my, my.
+>> 3D7DE4.359 | ここまでやるとは…面白い
+   To go this far... Interesting.
+>> 3D7DE4.360 | ククク…やはり戦いはこうでないと…
+   Heh heh heh... A fight should be like this...
+>> 3D7DE4.361 | これは…面白い展開になってきましたね
+   My... this is becoming quite interesting.
+>> 3D7DE4.362 | 面白い…実に、ね
+   Interesting... truly.
+>> 3D7DE4.363 | 花月：
+   Kazuki:
+>> 3D7DE4.364 | 見くびるな
+   Don't underestimate me.
+>> 3D7DE4.365 | 身の程を知るがいい
+   Know your place.
+>> 3D7DE4.366 | それでは僕を捕らえることはできない
+   That will never be enough to catch me.
+>> 3D7DE4.367 | 甘いな…
+   Too naive...
+>> 3D7DE4.368 | 読めるぞ
+   I can read you.
+>> 3D7DE4.369 | こんなものか？
+   Is that all?
+>> 3D7DE4.370 | この程度で戦いを挑むとは…
+   You challenge me with only this...?
+>> 3D7DE4.371 | 笑わせるな
+   Don't make me laugh.
+>> 3D7DE4.372 | 甘く見られたものだな
+   It seems I've been underestimated.
+>> 3D7DE4.373 | フ…まるで遊びだな
+   Heh... This is mere child's play.
+>> 3D7DE4.374 | くっ！
+   Ngh!
+>> 3D7DE4.375 | この程度なら、まだ！
+   This much, I can still take!
+>> 3D7DE4.376 | 油断してしまったか…
+   I let my guard down...
+>> 3D7DE4.377 | なかなかの腕のようですね
+   You seem quite skilled.
+>> 3D7DE4.378 | これ以上はまずいか…？
+   Any more of this would be bad...?
+>> 3D7DE4.379 | ぐあっ！！
+   Gah!!
+>> 3D7DE4.380 | まさか、こんな…
+   No, this can't be...
+>> 3D7DE4.381 | ここまで追い詰められるなんて…
+   To be driven this far...
+>> 3D7DE4.382 | 負けられない！風鳥院流の名にかけて！
+   I can't lose! On the Fuchoin school's name!

@@ -5,7 +5,7 @@
   "box": 0,
   "speaker": "",
   "jp": "攻撃　　",
-  "en": ""
+  "en": "Attack"
  },
  {
   "id": "3D7DE4.2",
@@ -13,7 +13,7 @@
   "box": 0,
   "speaker": "",
   "jp": "防御　　",
-  "en": ""
+  "en": "Defend"
  },
  {
   "id": "3D7DE4.3",
@@ -21,7 +21,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アイテム",
-  "en": ""
+  "en": "Item"
  },
  {
   "id": "3D7DE4.4",
@@ -29,7 +29,7 @@
   "box": 0,
   "speaker": "",
   "jp": "チェンジ",
-  "en": ""
+  "en": "Change"
  },
  {
   "id": "3D7DE4.5",
@@ -37,7 +37,7 @@
   "box": 0,
   "speaker": "",
   "jp": "逃げる　",
-  "en": ""
+  "en": "Run"
  },
  {
   "id": "3D7DE4.6",
@@ -45,7 +45,7 @@
   "box": 0,
   "speaker": "",
   "jp": "通常　　",
-  "en": ""
+  "en": "Normal"
  },
  {
   "id": "3D7DE4.7",
@@ -53,7 +53,7 @@
   "box": 0,
   "speaker": "",
   "jp": "必殺技　",
-  "en": ""
+  "en": "Special"
  },
  {
   "id": "3D7DE4.8",
@@ -61,7 +61,7 @@
   "box": 0,
   "speaker": "",
   "jp": "だ！",
-  "en": ""
+  "en": "appears!"
  },
  {
   "id": "3D7DE4.9",
@@ -69,7 +69,7 @@
   "box": 0,
   "speaker": "",
   "jp": "たちだ！",
-  "en": ""
+  "en": "and company appear!"
  },
  {
   "id": "3D7DE4.10",
@@ -77,7 +77,7 @@
   "box": 0,
   "speaker": "",
   "jp": "は毒をうけた！　",
-  "en": ""
+  "en": "was poisoned!"
  },
  {
   "id": "3D7DE4.11",
@@ -85,7 +85,7 @@
   "box": 0,
   "speaker": "",
   "jp": "の身体はマヒした！　",
-  "en": ""
+  "en": "was paralyzed!"
  },
  {
   "id": "3D7DE4.12",
@@ -93,7 +93,7 @@
   "box": 0,
   "speaker": "",
   "jp": "は混乱した！",
-  "en": ""
+  "en": "became confused!"
  },
  {
   "id": "3D7DE4.13",
@@ -101,7 +101,7 @@
   "box": 0,
   "speaker": "",
   "jp": "を倒した！　",
-  "en": ""
+  "en": "was defeated!"
  },
  {
   "id": "3D7DE4.14",
@@ -109,7 +109,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＥＸＰ　",
-  "en": ""
+  "en": "EXP"
  },
  {
   "id": "3D7DE4.15",
@@ -117,7 +117,7 @@
   "box": 0,
   "speaker": "",
   "jp": "入手！　",
-  "en": ""
+  "en": "obtained!"
  },
  {
   "id": "3D7DE4.16",
@@ -125,7 +125,7 @@
   "box": 0,
   "speaker": "",
   "jp": "はレベルアップした！",
-  "en": ""
+  "en": "leveled up!"
  },
  {
   "id": "3D7DE4.17",
@@ -133,7 +133,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＨＰ　＋",
-  "en": ""
+  "en": "HP +"
  },
  {
   "id": "3D7DE4.18",
@@ -141,7 +141,7 @@
   "box": 0,
   "speaker": "",
   "jp": "すばやさ　＋",
-  "en": ""
+  "en": "Speed +"
  },
  {
   "id": "3D7DE4.19",
@@ -149,7 +149,7 @@
   "box": 0,
   "speaker": "",
   "jp": "攻撃力＋",
-  "en": ""
+  "en": "Attack +"
  },
  {
   "id": "3D7DE4.20",
@@ -157,7 +157,7 @@
   "box": 0,
   "speaker": "",
   "jp": "防御力　　＋",
-  "en": ""
+  "en": "Defense +"
  },
  {
   "id": "3D7DE4.21",
@@ -165,7 +165,7 @@
   "box": 0,
   "speaker": "",
   "jp": "戦いに敗れた…　",
-  "en": ""
+  "en": "The battle was lost..."
  },
  {
   "id": "3D7DE4.22",
@@ -173,7 +173,7 @@
   "box": 0,
   "speaker": "",
   "jp": "なんとか逃げきれた　",
-  "en": ""
+  "en": "Managed to escape."
  },
  {
   "id": "3D7DE4.23",
@@ -181,7 +181,7 @@
   "box": 0,
   "speaker": "",
   "jp": "逃げそこなった　",
-  "en": ""
+  "en": "Couldn't escape."
  },
  {
   "id": "3D7DE4.24",
@@ -189,7 +189,7 @@
   "box": 0,
   "speaker": "",
   "jp": "毒に侵されてダメージ！　",
-  "en": ""
+  "en": "Poison damage!"
  },
  {
   "id": "3D7DE4.25",
@@ -197,7 +197,7 @@
   "box": 0,
   "speaker": "",
   "jp": "マヒで動けない！",
-  "en": ""
+  "en": "Paralyzed and can't move!"
  },
  {
   "id": "3D7DE4.26",
@@ -205,7 +205,7 @@
   "box": 0,
   "speaker": "",
   "jp": "を習得した！",
-  "en": ""
+  "en": "learned!"
  },
  {
   "id": "3D7DE4.27",
@@ -213,7 +213,7 @@
   "box": 0,
   "speaker": "",
   "jp": "』属性攻撃無効　",
-  "en": ""
+  "en": "' element attack nullified"
  },
  {
   "id": "3D7DE4.28",
@@ -221,7 +221,7 @@
   "box": 0,
   "speaker": "",
   "jp": "『　",
-  "en": ""
+  "en": "'"
  },
  {
   "id": "3D7DE4.29",
@@ -229,7 +229,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ゲット！",
-  "en": ""
+  "en": "acquired!"
  },
  {
   "id": "3D7DE4.30",
@@ -237,7 +237,7 @@
   "box": 0,
   "speaker": "",
   "jp": "は　",
-  "en": ""
+  "en": "--"
  },
  {
   "id": "3D7DE4.31",
@@ -245,7 +245,7 @@
   "box": 0,
   "speaker": "",
   "jp": "』属性バリアを破った！　",
-  "en": ""
+  "en": "' element barrier broken!"
  },
  {
   "id": "3D7DE4.33",
@@ -253,7 +253,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ベノムファング　　　",
-  "en": ""
+  "en": "Venom Fang"
  },
  {
   "id": "3D7DE4.34",
@@ -261,7 +261,7 @@
   "box": 0,
   "speaker": "",
   "jp": "スネークバイト　　　",
-  "en": ""
+  "en": "Snake Bite"
  },
  {
   "id": "3D7DE4.35",
@@ -269,7 +269,7 @@
   "box": 0,
   "speaker": "",
   "jp": "サイドワインダー　　",
-  "en": ""
+  "en": "Sidewinder"
  },
  {
   "id": "3D7DE4.36",
@@ -277,7 +277,7 @@
   "box": 0,
   "speaker": "",
   "jp": "蛇遣い座解放　　　　",
-  "en": ""
+  "en": "Ophiuchus Unleashed"
  },
  {
   "id": "3D7DE4.37",
@@ -285,7 +285,7 @@
   "box": 0,
   "speaker": "",
   "jp": "電撃　　　　　　　　",
-  "en": ""
+  "en": "Electric Shock"
  },
  {
   "id": "3D7DE4.38",
@@ -293,7 +293,7 @@
   "box": 0,
   "speaker": "",
   "jp": "イナズマキック　　　",
-  "en": ""
+  "en": "Lightning Kick"
  },
  {
   "id": "3D7DE4.39",
@@ -301,7 +301,7 @@
   "box": 0,
   "speaker": "",
   "jp": "電磁フィールド　　　",
-  "en": ""
+  "en": "EM Field"
  },
  {
   "id": "3D7DE4.40",
@@ -309,7 +309,7 @@
   "box": 0,
   "speaker": "",
   "jp": "雷帝降臨　　　　　　",
-  "en": ""
+  "en": "Thunder Emperor Descends"
  },
  {
   "id": "3D7DE4.41",
@@ -317,7 +317,7 @@
   "box": 0,
   "speaker": "",
   "jp": "解毒香　　　　　　　",
-  "en": ""
+  "en": "Antidote Perfume"
  },
  {
   "id": "3D7DE4.42",
@@ -325,7 +325,7 @@
   "box": 0,
   "speaker": "",
   "jp": "回復香　　　　　　　",
-  "en": ""
+  "en": "Healing Perfume"
  },
  {
   "id": "3D7DE4.43",
@@ -333,7 +333,7 @@
   "box": 0,
   "speaker": "",
   "jp": "火炎香　　　　　　　",
-  "en": ""
+  "en": "Flame Perfume"
  },
  {
   "id": "3D7DE4.44",
@@ -341,7 +341,7 @@
   "box": 0,
   "speaker": "",
   "jp": "加速香　　　　　　　",
-  "en": ""
+  "en": "Speed Perfume"
  },
  {
   "id": "3D7DE4.45",
@@ -349,7 +349,7 @@
   "box": 0,
   "speaker": "",
   "jp": "赤い剣　　　　　　　",
-  "en": ""
+  "en": "Bloody Sword"
  },
  {
   "id": "3D7DE4.46",
@@ -357,7 +357,7 @@
   "box": 0,
   "speaker": "",
   "jp": "赤い楯　　　　　　　",
-  "en": ""
+  "en": "Bloody Shield"
  },
  {
   "id": "3D7DE4.47",
@@ -365,7 +365,7 @@
   "box": 0,
   "speaker": "",
   "jp": "赤い十字架　　　　　",
-  "en": ""
+  "en": "Bloody Cross"
  },
  {
   "id": "3D7DE4.48",
@@ -373,7 +373,7 @@
   "box": 0,
   "speaker": "",
   "jp": "赤い暴風　　　　　　",
-  "en": ""
+  "en": "Bloody Hurricane"
  },
  {
   "id": "3D7DE4.49",
@@ -381,7 +381,7 @@
   "box": 0,
   "speaker": "",
   "jp": "繭玉の楯　　　　　　",
-  "en": ""
+  "en": "Cocoon Shield"
  },
  {
   "id": "3D7DE4.50",
@@ -389,7 +389,7 @@
   "box": 0,
   "speaker": "",
   "jp": "秋雨　　　　　　　　",
-  "en": ""
+  "en": "Autumn Rain"
  },
  {
   "id": "3D7DE4.51",
@@ -397,7 +397,7 @@
   "box": 0,
   "speaker": "",
   "jp": "絃呪縛　　　　　　　",
-  "en": ""
+  "en": "String Bind"
  },
  {
   "id": "3D7DE4.52",
@@ -405,7 +405,7 @@
   "box": 0,
   "speaker": "",
   "jp": "雫　　　　　　　　　",
-  "en": ""
+  "en": "Dewdrop"
  },
  {
   "id": "3D7DE4.53",
@@ -413,7 +413,7 @@
   "box": 0,
   "speaker": "",
   "jp": "猿擬　　　　　　　　",
-  "en": ""
+  "en": "Ape Mimic"
  },
  {
   "id": "3D7DE4.54",
@@ -421,7 +421,7 @@
   "box": 0,
   "speaker": "",
   "jp": "土竜擬　　　　　　　",
-  "en": ""
+  "en": "Mole Mimic"
  },
  {
   "id": "3D7DE4.55",
@@ -429,7 +429,7 @@
   "box": 0,
   "speaker": "",
   "jp": "虎爪擬　　　　　　　",
-  "en": ""
+  "en": "Tiger Claw Mimic"
  },
  {
   "id": "3D7DE4.56",
@@ -437,7 +437,7 @@
   "box": 0,
   "speaker": "",
   "jp": "餓狼擬　　　　　　　",
-  "en": ""
+  "en": "Wolf Mimic"
  },
  {
   "id": "3D7DE4.57",
@@ -445,7 +445,7 @@
   "box": 0,
   "speaker": "",
   "jp": "捕らえよ　毒蛇の如く",
-  "en": ""
+  "en": "Seize, like a viper"
  },
  {
   "id": "3D7DE4.58",
@@ -453,7 +453,7 @@
   "box": 0,
   "speaker": "",
   "jp": "絡みつけ　流砂の如く",
-  "en": ""
+  "en": "Coil, like quicksand"
  },
  {
   "id": "3D7DE4.59",
@@ -461,7 +461,7 @@
   "box": 0,
   "speaker": "",
   "jp": "消えよ　砂嵐とともに",
-  "en": ""
+  "en": "Vanish with the sandstorm"
  },
  {
   "id": "3D7DE4.60",
@@ -469,7 +469,7 @@
   "box": 0,
   "speaker": "",
   "jp": "呑み込め　洪水の如く",
-  "en": ""
+  "en": "Swallow, like a flood"
  },
  {
   "id": "3D7DE4.61",
@@ -477,7 +477,7 @@
   "box": 0,
   "speaker": "",
   "jp": "毒蛾　　　　　　　　",
-  "en": ""
+  "en": "Poison Moth"
  },
  {
   "id": "3D7DE4.62",
@@ -485,7 +485,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鬼灯　　　　　　　　",
-  "en": ""
+  "en": "Lantern Plant"
  },
  {
   "id": "3D7DE4.63",
@@ -493,7 +493,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鳳仙花　　　　　　　",
-  "en": ""
+  "en": "Balsam Burst"
  },
  {
   "id": "3D7DE4.64",
@@ -501,7 +501,7 @@
   "box": 0,
   "speaker": "",
   "jp": "土蜘蛛　　　　　　　",
-  "en": ""
+  "en": "Earth Spider"
  },
  {
   "id": "3D7DE4.65",
@@ -509,7 +509,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鏡像　　　　　　　　",
-  "en": ""
+  "en": "Mirror Image"
  },
  {
   "id": "3D7DE4.66",
@@ -517,7 +517,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鏡刃　　　　　　　　",
-  "en": ""
+  "en": "Mirror Blade"
  },
  {
   "id": "3D7DE4.67",
@@ -525,7 +525,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鏡光　　　　　　　　",
-  "en": ""
+  "en": "Mirror Light"
  },
  {
   "id": "3D7DE4.68",
@@ -533,7 +533,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ダイヤモンド・ダスト",
-  "en": ""
+  "en": "Diamond Dust"
  },
  {
   "id": "3D7DE4.70",
@@ -541,7 +541,7 @@
   "box": 0,
   "speaker": "",
   "jp": "　敵　　",
-  "en": ""
+  "en": "Enemy"
  },
  {
   "id": "3D7DE4.71",
@@ -549,7 +549,7 @@
   "box": 0,
   "speaker": "",
   "jp": "　味方　",
-  "en": ""
+  "en": "Ally"
  },
  {
   "id": "3D7DE4.72",
@@ -557,7 +557,7 @@
   "box": 0,
   "speaker": "",
   "jp": "　単体　",
-  "en": ""
+  "en": "One"
  },
  {
   "id": "3D7DE4.73",
@@ -565,7 +565,7 @@
   "box": 0,
   "speaker": "",
   "jp": "　全体　",
-  "en": ""
+  "en": "All"
  },
  {
   "id": "3D7DE4.74",
@@ -573,7 +573,7 @@
   "box": 0,
   "speaker": "",
   "jp": "　一度　",
-  "en": ""
+  "en": "Once"
  },
  {
   "id": "3D7DE4.75",
@@ -581,7 +581,7 @@
   "box": 0,
   "speaker": "",
   "jp": "一定時間",
-  "en": ""
+  "en": "For a while"
  },
  {
   "id": "3D7DE4.76",
@@ -589,7 +589,7 @@
   "box": 0,
   "speaker": "",
   "jp": "即死",
-  "en": ""
+  "en": "Instant KO"
  },
  {
   "id": "3D7DE4.77",
@@ -597,7 +597,7 @@
   "box": 0,
   "speaker": "",
   "jp": "回復",
-  "en": ""
+  "en": "Heal"
  },
  {
   "id": "3D7DE4.78",
@@ -605,7 +605,7 @@
   "box": 0,
   "speaker": "",
   "jp": "無効化　",
-  "en": ""
+  "en": "Nullify"
  },
  {
   "id": "3D7DE4.79",
@@ -613,7 +613,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＨＰ",
-  "en": ""
+  "en": "HP"
  },
  {
   "id": "3D7DE4.80",
@@ -621,7 +621,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＭＰ",
-  "en": ""
+  "en": "MP"
  },
  {
   "id": "3D7DE4.81",
@@ -629,7 +629,7 @@
   "box": 0,
   "speaker": "",
   "jp": "戦闘不能",
-  "en": ""
+  "en": "KO"
  },
  {
   "id": "3D7DE4.82",
@@ -637,7 +637,7 @@
   "box": 0,
   "speaker": "",
   "jp": "毒　",
-  "en": ""
+  "en": "Poison"
  },
  {
   "id": "3D7DE4.83",
@@ -645,7 +645,7 @@
   "box": 0,
   "speaker": "",
   "jp": "マヒ",
-  "en": ""
+  "en": "Paralysis"
  },
  {
   "id": "3D7DE4.84",
@@ -653,7 +653,7 @@
   "box": 0,
   "speaker": "",
   "jp": "混乱",
-  "en": ""
+  "en": "Confusion"
  },
  {
   "id": "3D7DE4.85",
@@ -661,7 +661,7 @@
   "box": 0,
   "speaker": "",
   "jp": "状態異常",
-  "en": ""
+  "en": "Status ailment"
  },
  {
   "id": "3D7DE4.86",
@@ -669,7 +669,7 @@
   "box": 0,
   "speaker": "",
   "jp": "毒　",
-  "en": ""
+  "en": "Poison"
  },
  {
   "id": "3D7DE4.87",
@@ -677,7 +677,7 @@
   "box": 0,
   "speaker": "",
   "jp": "マヒ",
-  "en": ""
+  "en": "Paralysis"
  },
  {
   "id": "3D7DE4.88",
@@ -685,7 +685,7 @@
   "box": 0,
   "speaker": "",
   "jp": "混乱",
-  "en": ""
+  "en": "Confusion"
  },
  {
   "id": "3D7DE4.89",
@@ -693,7 +693,7 @@
   "box": 0,
   "speaker": "",
   "jp": "（小）　",
-  "en": ""
+  "en": "(Small)"
  },
  {
   "id": "3D7DE4.90",
@@ -701,7 +701,7 @@
   "box": 0,
   "speaker": "",
   "jp": "（中）　",
-  "en": ""
+  "en": "(Medium)"
  },
  {
   "id": "3D7DE4.91",
@@ -709,7 +709,7 @@
   "box": 0,
   "speaker": "",
   "jp": "（大）　",
-  "en": ""
+  "en": "(Large)"
  },
  {
   "id": "3D7DE4.92",
@@ -717,7 +717,7 @@
   "box": 0,
   "speaker": "",
   "jp": "全　",
-  "en": ""
+  "en": "Full"
  },
  {
   "id": "3D7DE4.93",
@@ -725,7 +725,7 @@
   "box": 0,
   "speaker": "",
   "jp": "[無]　",
-  "en": ""
+  "en": "Void"
  },
  {
   "id": "3D7DE4.94",
@@ -733,7 +733,7 @@
   "box": 0,
   "speaker": "",
   "jp": "[雷]　",
-  "en": ""
+  "en": "Thunder"
  },
  {
   "id": "3D7DE4.95",
@@ -741,7 +741,7 @@
   "box": 0,
   "speaker": "",
   "jp": "[火]　",
-  "en": ""
+  "en": "Fire"
  },
  {
   "id": "3D7DE4.96",
@@ -749,7 +749,7 @@
   "box": 0,
   "speaker": "",
   "jp": "[闇]　",
-  "en": ""
+  "en": "Dark"
  },
  {
   "id": "3D7DE4.97",
@@ -757,7 +757,7 @@
   "box": 0,
   "speaker": "",
   "jp": "[水]　",
-  "en": ""
+  "en": "Water"
  },
  {
   "id": "3D7DE4.98",
@@ -765,7 +765,7 @@
   "box": 0,
   "speaker": "",
   "jp": "[土]　",
-  "en": ""
+  "en": "Earth"
  },
  {
   "id": "3D7DE4.99",
@@ -773,7 +773,7 @@
   "box": 0,
   "speaker": "",
   "jp": "[砂]　",
-  "en": ""
+  "en": "Sand"
  },
  {
   "id": "3D7DE4.100",
@@ -781,7 +781,7 @@
   "box": 0,
   "speaker": "",
   "jp": "[風]　",
-  "en": ""
+  "en": "Wind"
  },
  {
   "id": "3D7DE4.101",
@@ -789,7 +789,7 @@
   "box": 0,
   "speaker": "",
   "jp": "[光]　",
-  "en": ""
+  "en": "Light"
  },
  {
   "id": "3D7DE4.102",
@@ -797,7 +797,7 @@
   "box": 0,
   "speaker": "",
   "jp": "攻撃",
-  "en": ""
+  "en": "Attack"
  },
  {
   "id": "3D7DE4.103",
@@ -805,7 +805,7 @@
   "box": 0,
   "speaker": "",
   "jp": "特殊",
-  "en": ""
+  "en": "Effect"
  },
  {
   "id": "3D7DE4.104",
@@ -813,7 +813,7 @@
   "box": 0,
   "speaker": "",
   "jp": "防御力ＵＰ　",
-  "en": ""
+  "en": "Defense UP"
  },
  {
   "id": "3D7DE4.105",
@@ -821,7 +821,7 @@
   "box": 0,
   "speaker": "",
   "jp": "回避率ＵＰ　",
-  "en": ""
+  "en": "Evasion UP"
  },
  {
   "id": "3D7DE4.106",
@@ -837,7 +837,7 @@
   "box": 0,
   "speaker": "",
   "jp": "素早さＵＰ　",
-  "en": ""
+  "en": "Speed UP"
  },
  {
   "id": "3D7DE4.108",
@@ -845,7 +845,7 @@
   "box": 0,
   "speaker": "",
   "jp": "攻撃力ＵＰ　",
-  "en": ""
+  "en": "Attack UP"
  },
  {
   "id": "3D7DE4.110",
@@ -853,7 +853,7 @@
   "box": 0,
   "speaker": "",
   "jp": "十薬　　　　",
-  "en": ""
+  "en": "Houttuynia"
  },
  {
   "id": "3D7DE4.111",
@@ -861,7 +861,7 @@
   "box": 0,
   "speaker": "",
   "jp": "威霊仙　　　",
-  "en": ""
+  "en": "Clematis Root"
  },
  {
   "id": "3D7DE4.112",
@@ -869,7 +869,7 @@
   "box": 0,
   "speaker": "",
   "jp": "延命草　　　",
-  "en": ""
+  "en": "Enmei Herb"
  },
  {
   "id": "3D7DE4.113",
@@ -877,7 +877,7 @@
   "box": 0,
   "speaker": "",
   "jp": "霊芝　　　　",
-  "en": ""
+  "en": "Reishi"
  },
  {
   "id": "3D7DE4.114",
@@ -885,7 +885,7 @@
   "box": 0,
   "speaker": "",
   "jp": "牛黄　　　　",
-  "en": ""
+  "en": "Bezoar"
  },
  {
   "id": "3D7DE4.115",
@@ -893,7 +893,7 @@
   "box": 0,
   "speaker": "",
   "jp": "土木香　　　",
-  "en": ""
+  "en": "Elecampane"
  },
  {
   "id": "3D7DE4.116",
@@ -901,7 +901,7 @@
   "box": 0,
   "speaker": "",
   "jp": "芍薬　　　　",
-  "en": ""
+  "en": "Peony Root"
  },
  {
   "id": "3D7DE4.117",
@@ -909,7 +909,7 @@
   "box": 0,
   "speaker": "",
   "jp": "冬虫夏草　　",
-  "en": ""
+  "en": "Cordyceps"
  },
  {
   "id": "3D7DE4.118",
@@ -917,7 +917,7 @@
   "box": 0,
   "speaker": "",
   "jp": "蓬莱の玉　　",
-  "en": ""
+  "en": "Horai Jewel"
  },
  {
   "id": "3D7DE4.119",
@@ -925,7 +925,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ペンデュＣ　",
-  "en": ""
+  "en": "Pendu Card"
  },
  {
   "id": "3D7DE4.120",
@@ -933,7 +933,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ジュノーＣ　",
-  "en": ""
+  "en": "Junon Card"
  },
  {
   "id": "3D7DE4.121",
@@ -941,7 +941,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ラトリスＣ　",
-  "en": ""
+  "en": "Ratrice Card"
  },
  {
   "id": "3D7DE4.122",
@@ -949,7 +949,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アムルーＣ　",
-  "en": ""
+  "en": "Amoureux Card"
  },
  {
   "id": "3D7DE4.123",
@@ -957,7 +957,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ユストスＣ　",
-  "en": ""
+  "en": "Iustus Card"
  },
  {
   "id": "3D7DE4.124",
@@ -965,7 +965,7 @@
   "box": 0,
   "speaker": "",
   "jp": "エルミトＣ　",
-  "en": ""
+  "en": "Hermite Card"
  },
  {
   "id": "3D7DE4.125",
@@ -973,7 +973,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レーフォＣ　",
-  "en": ""
+  "en": "Lefo Card"
  },
  {
   "id": "3D7DE4.126",
@@ -981,7 +981,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ユピテルＣ　",
-  "en": ""
+  "en": "Jupiter Card"
  },
  {
   "id": "3D7DE4.127",
@@ -989,7 +989,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ランスＣ　　",
-  "en": ""
+  "en": "Rance Card"
  },
  {
   "id": "3D7DE4.128",
@@ -997,7 +997,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディラＣ　　",
-  "en": ""
+  "en": "Dira Card"
  },
  {
   "id": "3D7DE4.129",
@@ -1005,7 +1005,7 @@
   "box": 0,
   "speaker": "",
   "jp": "リュネＣ　　",
-  "en": ""
+  "en": "Lune Card"
  },
  {
   "id": "3D7DE4.130",
@@ -1013,7 +1013,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レイユＣ　　",
-  "en": ""
+  "en": "Reille Card"
  },
  {
   "id": "3D7DE4.131",
@@ -1021,7 +1021,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドＣ　　",
-  "en": ""
+  "en": "Monde Card"
  },
  {
   "id": "3D7DE4.132",
@@ -1029,7 +1029,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ゲメンＣ　　",
-  "en": ""
+  "en": "Gement Card"
  },
  {
   "id": "3D7DE4.133",
@@ -1037,7 +1037,7 @@
   "box": 0,
   "speaker": "",
   "jp": "シャリオＣ　",
-  "en": ""
+  "en": "Chariot Card"
  },
  {
   "id": "3D7DE4.134",
@@ -1045,7 +1045,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディブルＣ　",
-  "en": ""
+  "en": "Diable Card"
  },
  {
   "id": "3D7DE4.136",
@@ -1053,7 +1053,7 @@
   "box": 0,
   "speaker": "",
   "jp": "美堂　蛮",
-  "en": ""
+  "en": "Ban Mido"
  },
  {
   "id": "3D7DE4.137",
@@ -1061,7 +1061,7 @@
   "box": 0,
   "speaker": "",
   "jp": "天野　銀次　",
-  "en": ""
+  "en": "Ginji Amano"
  },
  {
   "id": "3D7DE4.138",
@@ -1069,7 +1069,7 @@
   "box": 0,
   "speaker": "",
   "jp": "工藤　卑弥呼",
-  "en": ""
+  "en": "Himiko Kudo"
  },
  {
   "id": "3D7DE4.139",
@@ -1077,7 +1077,7 @@
   "box": 0,
   "speaker": "",
   "jp": "赤屍　蔵人　",
-  "en": ""
+  "en": "Kurodo Akabane"
  },
  {
   "id": "3D7DE4.140",
@@ -1085,7 +1085,7 @@
   "box": 0,
   "speaker": "",
   "jp": "風鳥院　花月",
-  "en": ""
+  "en": "Kazuki Fuchoin"
  },
  {
   "id": "3D7DE4.141",
@@ -1093,7 +1093,7 @@
   "box": 0,
   "speaker": "",
   "jp": "冬木　士度　",
-  "en": ""
+  "en": "Shido Fuyuki"
  },
  {
   "id": "3D7DE4.142",
@@ -1101,7 +1101,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑師　春樹　",
-  "en": ""
+  "en": "Emishi Haruki"
  },
  {
   "id": "3D7DE4.143",
@@ -1109,7 +1109,7 @@
   "box": 0,
   "speaker": "",
   "jp": "筧　十兵衛　",
-  "en": ""
+  "en": "Juubei Kakei"
  },
  {
   "id": "3D7DE4.144",
@@ -1117,7 +1117,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鏡　形而",
-  "en": ""
+  "en": "Kyoji Kagami"
  },
  {
   "id": "3D7DE4.145",
@@ -1125,7 +1125,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ルマ",
-  "en": ""
+  "en": "Lemat"
  },
  {
   "id": "3D7DE4.146",
@@ -1133,7 +1133,7 @@
   "box": 0,
   "speaker": "",
   "jp": "バタリー",
-  "en": ""
+  "en": "Batary"
  },
  {
   "id": "3D7DE4.147",
@@ -1141,7 +1141,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ジュノー",
-  "en": ""
+  "en": "Junon"
  },
  {
   "id": "3D7DE4.148",
@@ -1149,7 +1149,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ラトリス",
-  "en": ""
+  "en": "Ratrice"
  },
  {
   "id": "3D7DE4.149",
@@ -1157,7 +1157,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レンプレル　",
-  "en": ""
+  "en": "Lempereur"
  },
  {
   "id": "3D7DE4.150",
@@ -1165,7 +1165,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レンプレル　",
-  "en": ""
+  "en": "Lempereur"
  },
  {
   "id": "3D7DE4.151",
@@ -1173,7 +1173,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ユピテル",
-  "en": ""
+  "en": "Jupiter"
  },
  {
   "id": "3D7DE4.152",
@@ -1181,7 +1181,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アムルー",
-  "en": ""
+  "en": "Amoureux"
  },
  {
   "id": "3D7DE4.153",
@@ -1189,7 +1189,7 @@
   "box": 0,
   "speaker": "",
   "jp": "シャリオ",
-  "en": ""
+  "en": "Chariot"
  },
  {
   "id": "3D7DE4.154",
@@ -1197,7 +1197,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ユストス",
-  "en": ""
+  "en": "Iustus"
  },
  {
   "id": "3D7DE4.155",
@@ -1205,7 +1205,7 @@
   "box": 0,
   "speaker": "",
   "jp": "エルミト",
-  "en": ""
+  "en": "Hermite"
  },
  {
   "id": "3D7DE4.156",
@@ -1213,7 +1213,7 @@
   "box": 0,
   "speaker": "",
   "jp": "テューヌ",
-  "en": ""
+  "en": "Tune"
  },
  {
   "id": "3D7DE4.157",
@@ -1221,7 +1221,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レーフォ",
-  "en": ""
+  "en": "Lefo"
  },
  {
   "id": "3D7DE4.158",
@@ -1229,7 +1229,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ペンデュ",
-  "en": ""
+  "en": "Pendu"
  },
  {
   "id": "3D7DE4.159",
@@ -1237,7 +1237,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モール　",
-  "en": ""
+  "en": "Mort"
  },
  {
   "id": "3D7DE4.160",
@@ -1245,7 +1245,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ランス　",
-  "en": ""
+  "en": "Rance"
  },
  {
   "id": "3D7DE4.161",
@@ -1253,7 +1253,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディブル",
-  "en": ""
+  "en": "Diable"
  },
  {
   "id": "3D7DE4.162",
@@ -1261,7 +1261,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディラ　",
-  "en": ""
+  "en": "Dira"
  },
  {
   "id": "3D7DE4.163",
@@ -1269,7 +1269,7 @@
   "box": 0,
   "speaker": "",
   "jp": "トワール",
-  "en": ""
+  "en": "Toile"
  },
  {
   "id": "3D7DE4.164",
@@ -1277,7 +1277,7 @@
   "box": 0,
   "speaker": "",
   "jp": "リュネ　",
-  "en": ""
+  "en": "Lune"
  },
  {
   "id": "3D7DE4.165",
@@ -1285,7 +1285,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レイユ　",
-  "en": ""
+  "en": "Reille"
  },
  {
   "id": "3D7DE4.166",
@@ -1293,7 +1293,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ゲメン　",
-  "en": ""
+  "en": "Gement"
  },
  {
   "id": "3D7DE4.167",
@@ -1301,7 +1301,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンド　",
-  "en": ""
+  "en": "Monde"
  },
  {
   "id": "3D7DE4.168",
@@ -1309,7 +1309,7 @@
   "box": 0,
   "speaker": "",
   "jp": "使用人見習い",
-  "en": ""
+  "en": "Servant Trainee"
  },
  {
   "id": "3D7DE4.169",
@@ -1317,7 +1317,7 @@
   "box": 0,
   "speaker": "",
   "jp": "使用人補佐　",
-  "en": ""
+  "en": "Servant Assistant"
  },
  {
   "id": "3D7DE4.170",
@@ -1325,7 +1325,7 @@
   "box": 0,
   "speaker": "",
   "jp": "使用人リーダー　",
-  "en": ""
+  "en": "Servant Leader"
  },
  {
   "id": "3D7DE4.171",
@@ -1333,7 +1333,7 @@
   "box": 0,
   "speaker": "",
   "jp": "使用人頭",
-  "en": ""
+  "en": "Head Servant"
  },
  {
   "id": "3D7DE4.172",
@@ -1341,7 +1341,7 @@
   "box": 0,
   "speaker": "",
   "jp": "蛭田　秀夫　",
-  "en": ""
+  "en": "Hideo Hiruta"
  },
  {
   "id": "3D7DE4.173",
@@ -1349,7 +1349,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＣＡＶジュニア　",
-  "en": ""
+  "en": "CAV Junior"
  },
  {
   "id": "3D7DE4.174",
@@ -1357,7 +1357,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＣＡＶロウ　",
-  "en": ""
+  "en": "CAV Low"
  },
  {
   "id": "3D7DE4.175",
@@ -1365,7 +1365,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＣＡＶハイ　",
-  "en": ""
+  "en": "CAV High"
  },
  {
   "id": "3D7DE4.176",
@@ -1373,7 +1373,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＣＡＶヘッド",
-  "en": ""
+  "en": "CAV Head"
  },
  {
   "id": "3D7DE4.177",
@@ -1381,7 +1381,7 @@
   "box": 0,
   "speaker": "",
   "jp": "西園寺　薫　",
-  "en": ""
+  "en": "Kaoru Saionji"
  },
  {
   "id": "3D7DE4.178",
@@ -1389,7 +1389,7 @@
   "box": 0,
   "speaker": "",
   "jp": "三級警備員　",
-  "en": ""
+  "en": "Class 3 Guard"
  },
  {
   "id": "3D7DE4.179",
@@ -1397,7 +1397,7 @@
   "box": 0,
   "speaker": "",
   "jp": "二級警備員　",
-  "en": ""
+  "en": "Class 2 Guard"
  },
  {
   "id": "3D7DE4.180",
@@ -1405,7 +1405,7 @@
   "box": 0,
   "speaker": "",
   "jp": "一級警備員　",
-  "en": ""
+  "en": "Class 1 Guard"
  },
  {
   "id": "3D7DE4.181",
@@ -1413,7 +1413,7 @@
   "box": 0,
   "speaker": "",
   "jp": "警備長　",
-  "en": ""
+  "en": "Guard Chief"
  },
  {
   "id": "3D7DE4.182",
@@ -1421,7 +1421,7 @@
   "box": 0,
   "speaker": "",
   "jp": "マッスルファイター龍",
-  "en": ""
+  "en": "Muscle Fighter Dragon"
  },
  {
   "id": "3D7DE4.183",
@@ -1429,7 +1429,7 @@
   "box": 0,
   "speaker": "",
   "jp": "マッスルファイター虎",
-  "en": ""
+  "en": "Muscle Fighter Tiger"
  },
  {
   "id": "3D7DE4.184",
@@ -1437,7 +1437,7 @@
   "box": 0,
   "speaker": "",
   "jp": "お笑い芸人弟子　",
-  "en": ""
+  "en": "Comedian Apprentice"
  },
  {
   "id": "3D7DE4.185",
@@ -1445,7 +1445,7 @@
   "box": 0,
   "speaker": "",
   "jp": "お笑い芸人師匠　",
-  "en": ""
+  "en": "Comedian Master"
  },
  {
   "id": "3D7DE4.186",
@@ -1453,7 +1453,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アイドルひかる　",
-  "en": ""
+  "en": "Idol Hikaru"
  },
  {
   "id": "3D7DE4.187",
@@ -1461,7 +1461,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アイドルあきら　",
-  "en": ""
+  "en": "Idol Akira"
  },
  {
   "id": "3D7DE4.188",
@@ -1469,7 +1469,7 @@
   "box": 0,
   "speaker": "",
   "jp": "山城　龍三　",
-  "en": ""
+  "en": "Ryuzo Yamashiro"
  },
  {
   "id": "3D7DE4.189",
@@ -1477,7 +1477,7 @@
   "box": 0,
   "speaker": "",
   "jp": "横取り屋弟　",
-  "en": ""
+  "en": "Poacher Little Bro"
  },
  {
   "id": "3D7DE4.190",
@@ -1485,7 +1485,7 @@
   "box": 0,
   "speaker": "",
   "jp": "横取り屋兄　",
-  "en": ""
+  "en": "Poacher Big Bro"
  },
  {
   "id": "3D7DE4.191",
@@ -1493,7 +1493,7 @@
   "box": 0,
   "speaker": "",
   "jp": "横取り屋長兄",
-  "en": ""
+  "en": "Poacher Eldest Bro"
  },
  {
   "id": "3D7DE4.192",
@@ -1501,7 +1501,7 @@
   "box": 0,
   "speaker": "",
   "jp": "横取り屋父　",
-  "en": ""
+  "en": "Poacher Dad"
  },
  {
   "id": "3D7DE4.193",
@@ -1509,7 +1509,7 @@
   "box": 0,
   "speaker": "",
   "jp": "Ｓサービス田中　",
-  "en": ""
+  "en": "S-Service Tanaka"
  },
  {
   "id": "3D7DE4.194",
@@ -1517,7 +1517,7 @@
   "box": 0,
   "speaker": "",
   "jp": "Ｓサービス鈴木　",
-  "en": ""
+  "en": "S-Service Suzuki"
  },
  {
   "id": "3D7DE4.195",
@@ -1525,7 +1525,7 @@
   "box": 0,
   "speaker": "",
   "jp": "Ｓサービス佐藤　",
-  "en": ""
+  "en": "S-Service Sato"
  },
  {
   "id": "3D7DE4.196",
@@ -1533,7 +1533,7 @@
   "box": 0,
   "speaker": "",
   "jp": "Ｓサービス山本　",
-  "en": ""
+  "en": "S-Service Yamamoto"
  },
  {
   "id": "3D7DE4.197",
@@ -1541,7 +1541,7 @@
   "box": 0,
   "speaker": "",
   "jp": "弥勒　雪彦　",
-  "en": ""
+  "en": "Yukihiko Miroku"
  },
  {
   "id": "3D7DE4.198",
@@ -1549,7 +1549,7 @@
   "box": 0,
   "speaker": "",
   "jp": "弥勒　雪彦　",
-  "en": ""
+  "en": "Yukihiko Miroku"
  },
  {
   "id": "3D7DE4.199",
@@ -1557,7 +1557,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＴＡＲＥ",
-  "en": ""
+  "en": "TARE"
  },
  {
   "id": "3D7DE4.200",
@@ -1565,7 +1565,7 @@
   "box": 0,
   "speaker": "",
   "jp": "奪い屋見習い",
-  "en": ""
+  "en": "Snatcher Trainee"
  },
  {
   "id": "3D7DE4.201",
@@ -1573,7 +1573,7 @@
   "box": 0,
   "speaker": "",
   "jp": "奪い屋補佐　",
-  "en": ""
+  "en": "Snatcher Assistant"
  },
  {
   "id": "3D7DE4.202",
@@ -1581,7 +1581,7 @@
   "box": 0,
   "speaker": "",
   "jp": "奪い屋リーダー　",
-  "en": ""
+  "en": "Snatcher Leader"
  },
  {
   "id": "3D7DE4.203",
@@ -1589,7 +1589,7 @@
   "box": 0,
   "speaker": "",
   "jp": "奪い屋頭",
-  "en": ""
+  "en": "Snatcher Boss"
  },
  {
   "id": "3D7DE4.204",
@@ -1597,7 +1597,7 @@
   "box": 0,
   "speaker": "",
   "jp": "横取り屋弟　",
-  "en": ""
+  "en": "Poacher Little Bro"
  },
  {
   "id": "3D7DE4.205",
@@ -1605,7 +1605,7 @@
   "box": 0,
   "speaker": "",
   "jp": "横取り屋兄　",
-  "en": ""
+  "en": "Poacher Big Bro"
  },
  {
   "id": "3D7DE4.206",
@@ -1613,7 +1613,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アイドルかける　",
-  "en": ""
+  "en": "Idol Kakeru"
  },
  {
   "id": "3D7DE4.207",
@@ -1621,7 +1621,7 @@
   "box": 0,
   "speaker": "",
   "jp": "蛭田　秀夫　",
-  "en": ""
+  "en": "Hideo Hiruta"
  },
  {
   "id": "3D7DE4.208",
@@ -1629,7 +1629,7 @@
   "box": 0,
   "speaker": "",
   "jp": "蛭田　秀夫　",
-  "en": ""
+  "en": "Hideo Hiruta"
  },
  {
   "id": "3D7DE4.209",
@@ -1637,7 +1637,7 @@
   "box": 0,
   "speaker": "",
   "jp": "バタリーａ　",
-  "en": ""
+  "en": "Batary A"
  },
  {
   "id": "3D7DE4.210",
@@ -1645,7 +1645,7 @@
   "box": 0,
   "speaker": "",
   "jp": "バタリーｂ　",
-  "en": ""
+  "en": "Batary B"
  },
  {
   "id": "3D7DE4.211",
@@ -1653,7 +1653,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドａ",
-  "en": ""
+  "en": "Monde A"
  },
  {
   "id": "3D7DE4.212",
@@ -1661,7 +1661,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドｂ",
-  "en": ""
+  "en": "Monde B"
  },
  {
   "id": "3D7DE4.213",
@@ -1669,7 +1669,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドｃ",
-  "en": ""
+  "en": "Monde C"
  },
  {
   "id": "3D7DE4.214",
@@ -1677,7 +1677,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドｄ",
-  "en": ""
+  "en": "Monde D"
  },
  {
   "id": "3D7DE4.215",
@@ -1685,7 +1685,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドｅ",
-  "en": ""
+  "en": "Monde E"
  },
  {
   "id": "3D7DE4.216",
@@ -1693,7 +1693,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドｆ",
-  "en": ""
+  "en": "Monde F"
  },
  {
   "id": "3D7DE4.217",
@@ -1701,7 +1701,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドｇ",
-  "en": ""
+  "en": "Monde G"
  },
  {
   "id": "3D7DE4.218",
@@ -1709,7 +1709,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドｈ",
-  "en": ""
+  "en": "Monde H"
  },
  {
   "id": "3D7DE4.219",
@@ -1717,7 +1717,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドｉ",
-  "en": ""
+  "en": "Monde I"
  },
  {
   "id": "3D7DE4.220",
@@ -1725,7 +1725,7 @@
   "box": 0,
   "speaker": "",
   "jp": "リュネａ",
-  "en": ""
+  "en": "Lune A"
  },
  {
   "id": "3D7DE4.221",
@@ -1733,7 +1733,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レンプレルａ",
-  "en": ""
+  "en": "Lempereur A"
  },
  {
   "id": "3D7DE4.222",
@@ -1741,7 +1741,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レンプレルｂ",
-  "en": ""
+  "en": "Lempereur B"
  },
  {
   "id": "3D7DE4.223",
@@ -1749,7 +1749,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レイユＳ",
-  "en": ""
+  "en": "Reille S"
  },
  {
   "id": "3D7DE4.224",
@@ -1757,7 +1757,7 @@
   "box": 0,
   "speaker": "",
   "jp": "リュネＳ",
-  "en": ""
+  "en": "Lune S"
  },
  {
   "id": "3D7DE4.225",
@@ -1765,7 +1765,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ゲメンＳ",
-  "en": ""
+  "en": "Gement S"
  },
  {
   "id": "3D7DE4.226",
@@ -1773,7 +1773,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ユピテルＳ　",
-  "en": ""
+  "en": "Jupiter S"
  },
  {
   "id": "3D7DE4.227",
@@ -1781,7 +1781,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ジュノーＳ　",
-  "en": ""
+  "en": "Junon S"
  },
  {
   "id": "3D7DE4.228",
@@ -1789,7 +1789,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ランスＳ",
-  "en": ""
+  "en": "Rance S"
  },
  {
   "id": "3D7DE4.229",
@@ -1797,7 +1797,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドＳ",
-  "en": ""
+  "en": "Monde S"
  },
  {
   "id": "3D7DE4.230",
@@ -1805,7 +1805,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ラトリスＳ　",
-  "en": ""
+  "en": "Ratrice S"
  },
  {
   "id": "3D7DE4.231",
@@ -1813,7 +1813,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディラＳ",
-  "en": ""
+  "en": "Dira S"
  },
  {
   "id": "3D7DE4.232",
@@ -1821,7 +1821,7 @@
   "box": 0,
   "speaker": "",
   "jp": "西園寺　薫　",
-  "en": ""
+  "en": "Kaoru Saionji"
  },
  {
   "id": "3D7DE4.233",
@@ -1829,7 +1829,7 @@
   "box": 0,
   "speaker": "",
   "jp": "弥勒　雪彦　",
-  "en": ""
+  "en": "Yukihiko Miroku"
  },
  {
   "id": "3D7DE4.234",
@@ -1837,7 +1837,7 @@
   "box": 0,
   "speaker": "",
   "jp": "工藤　卑弥呼",
-  "en": ""
+  "en": "Himiko Kudo"
  },
  {
   "id": "3D7DE4.235",
@@ -1845,7 +1845,7 @@
   "box": 0,
   "speaker": "",
   "jp": "美堂　蛮（ＶＲ）",
-  "en": ""
+  "en": "Ban Mido (VR)"
  },
  {
   "id": "3D7DE4.236",
@@ -1853,7 +1853,7 @@
   "box": 0,
   "speaker": "",
   "jp": "天野　銀次（ＶＲ）　",
-  "en": ""
+  "en": "Ginji Amano (VR)"
  },
  {
   "id": "3D7DE4.237",
@@ -1861,7 +1861,7 @@
   "box": 0,
   "speaker": "",
   "jp": "工藤　卑弥呼（ＶＲ）",
-  "en": ""
+  "en": "Himiko Kudo (VR)"
  },
  {
   "id": "3D7DE4.238",
@@ -1869,7 +1869,7 @@
   "box": 0,
   "speaker": "",
   "jp": "赤屍　蔵人（ＶＲ）　",
-  "en": ""
+  "en": "Kurodo Akabane (VR)"
  },
  {
   "id": "3D7DE4.239",
@@ -1877,7 +1877,7 @@
   "box": 0,
   "speaker": "",
   "jp": "風鳥院　花月（ＶＲ）",
-  "en": ""
+  "en": "Kazuki Fuchoin (VR)"
  },
  {
   "id": "3D7DE4.240",
@@ -1885,7 +1885,7 @@
   "box": 0,
   "speaker": "",
   "jp": "冬木　士度（ＶＲ）　",
-  "en": ""
+  "en": "Shido Fuyuki (VR)"
  },
  {
   "id": "3D7DE4.241",
@@ -1893,7 +1893,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑師　春樹（ＶＲ）　",
-  "en": ""
+  "en": "Emishi Haruki (VR)"
  },
  {
   "id": "3D7DE4.242",
@@ -1901,7 +1901,7 @@
   "box": 0,
   "speaker": "",
   "jp": "筧　十兵衛（ＶＲ）　",
-  "en": ""
+  "en": "Juubei Kakei (VR)"
  },
  {
   "id": "3D7DE4.243",
@@ -1909,7 +1909,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鏡　形而（ＶＲ）",
-  "en": ""
+  "en": "Kyoji Kagami (VR)"
  },
  {
   "id": "3D7DE4.244",
@@ -1917,7 +1917,7 @@
   "box": 0,
   "speaker": "",
   "jp": "使用人リーダー　",
-  "en": ""
+  "en": "Servant Leader"
  },
  {
   "id": "3D7DE4.245",
@@ -1925,7 +1925,7 @@
   "box": 0,
   "speaker": "",
   "jp": "使用人頭",
-  "en": ""
+  "en": "Head Servant"
  },
  {
   "id": "3D7DE4.246",
@@ -1933,7 +1933,7 @@
   "box": 0,
   "speaker": "",
   "jp": "エルミトＳＳ",
-  "en": ""
+  "en": "Hermite SS"
  },
  {
   "id": "3D7DE4.247",
@@ -1941,7 +1941,7 @@
   "box": 0,
   "speaker": "",
   "jp": "シャリオＳＳ",
-  "en": ""
+  "en": "Chariot SS"
  },
  {
   "id": "3D7DE4.248",
@@ -1949,7 +1949,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ペンデュＳＳ",
-  "en": ""
+  "en": "Pendu SS"
  },
  {
   "id": "3D7DE4.249",
@@ -1957,7 +1957,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ユストスＳＳ",
-  "en": ""
+  "en": "Iustus SS"
  },
  {
   "id": "3D7DE4.250",
@@ -1965,7 +1965,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レーフォＳＳ",
-  "en": ""
+  "en": "Lefo SS"
  },
  {
   "id": "3D7DE4.251",
@@ -1973,7 +1973,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アムルーＳＳ",
-  "en": ""
+  "en": "Amoureux SS"
  },
  {
   "id": "3D7DE4.252",
@@ -1981,7 +1981,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ラトリスＳＳ",
-  "en": ""
+  "en": "Ratrice SS"
  },
  {
   "id": "3D7DE4.253",
@@ -1989,7 +1989,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ジュノーＳＳ",
-  "en": ""
+  "en": "Junon SS"
  },
  {
   "id": "3D7DE4.254",
@@ -1997,7 +1997,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ユピテルＳＳ",
-  "en": ""
+  "en": "Jupiter SS"
  },
  {
   "id": "3D7DE4.255",
@@ -2005,7 +2005,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディラＳＳ　",
-  "en": ""
+  "en": "Dira SS"
  },
  {
   "id": "3D7DE4.256",
@@ -2013,7 +2013,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ランスＳＳ　",
-  "en": ""
+  "en": "Rance SS"
  },
  {
   "id": "3D7DE4.257",
@@ -2021,7 +2021,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドＳＳ　",
-  "en": ""
+  "en": "Monde SS"
  },
  {
   "id": "3D7DE4.258",
@@ -2029,7 +2029,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レイユＳＳ　",
-  "en": ""
+  "en": "Reille SS"
  },
  {
   "id": "3D7DE4.259",
@@ -2037,7 +2037,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ゲメンＳＳ　",
-  "en": ""
+  "en": "Gement SS"
  },
  {
   "id": "3D7DE4.260",
@@ -2045,7 +2045,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディブルＳＳ",
-  "en": ""
+  "en": "Diable SS"
  },
  {
   "id": "3D7DE4.261",
@@ -2053,7 +2053,7 @@
   "box": 0,
   "speaker": "",
   "jp": "リュネＳＳ　",
-  "en": ""
+  "en": "Lune SS"
  },
  {
   "id": "3D7DE4.262",
@@ -2061,7 +2061,7 @@
   "box": 0,
   "speaker": "",
   "jp": "テューヌＳＳ",
-  "en": ""
+  "en": "Tune SS"
  },
  {
   "id": "3D7DE4.263",
@@ -2069,7 +2069,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モールＳＳ　",
-  "en": ""
+  "en": "Mort SS"
  },
  {
   "id": "3D7DE4.264",
@@ -2077,7 +2077,7 @@
   "box": 0,
   "speaker": "",
   "jp": "トワールＳＳ",
-  "en": ""
+  "en": "Toile SS"
  },
  {
   "id": "3D7DE4.265",
@@ -2085,7 +2085,7 @@
   "box": 0,
   "speaker": "",
   "jp": "美堂　蛮　　",
-  "en": ""
+  "en": "Ban Mido"
  },
  {
   "id": "3D7DE4.266",
@@ -2093,7 +2093,7 @@
   "box": 0,
   "speaker": "",
   "jp": "天野　銀次　",
-  "en": ""
+  "en": "Ginji Amano"
  },
  {
   "id": "3D7DE4.267",
@@ -2101,7 +2101,7 @@
   "box": 0,
   "speaker": "",
   "jp": "工藤　卑弥呼",
-  "en": ""
+  "en": "Himiko Kudo"
  },
  {
   "id": "3D7DE4.268",
@@ -2109,7 +2109,7 @@
   "box": 0,
   "speaker": "",
   "jp": "赤屍　蔵人　",
-  "en": ""
+  "en": "Kurodo Akabane"
  },
  {
   "id": "3D7DE4.269",
@@ -2117,7 +2117,7 @@
   "box": 0,
   "speaker": "",
   "jp": "風鳥院　花月",
-  "en": ""
+  "en": "Kazuki Fuchoin"
  },
  {
   "id": "3D7DE4.270",
@@ -2125,7 +2125,7 @@
   "box": 0,
   "speaker": "",
   "jp": "冬木　士度　",
-  "en": ""
+  "en": "Shido Fuyuki"
  },
  {
   "id": "3D7DE4.271",
@@ -2133,7 +2133,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑師　春樹　",
-  "en": ""
+  "en": "Emishi Haruki"
  },
  {
   "id": "3D7DE4.272",
@@ -2141,7 +2141,7 @@
   "box": 0,
   "speaker": "",
   "jp": "筧　十兵衛　",
-  "en": ""
+  "en": "Juubei Kakei"
  },
  {
   "id": "3D7DE4.273",
@@ -2149,7 +2149,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鏡　形而　　",
-  "en": ""
+  "en": "Kyoji Kagami"
  },
  {
   "id": "3D7DE4.275",
@@ -2157,7 +2157,7 @@
   "box": 0,
   "speaker": "",
   "jp": "蛮：",
-  "en": ""
+  "en": "Ban:"
  },
  {
   "id": "3D7DE4.276",
@@ -2165,7 +2165,7 @@
   "box": 0,
   "speaker": "",
   "jp": "遅ェよ！",
-  "en": ""
+  "en": "Too slow!"
  },
  {
   "id": "3D7DE4.277",
@@ -2173,7 +2173,7 @@
   "box": 0,
   "speaker": "",
   "jp": "動きが見えるぜ　",
-  "en": ""
+  "en": "I can see your every move."
  },
  {
   "id": "3D7DE4.278",
@@ -2181,7 +2181,7 @@
   "box": 0,
   "speaker": "",
   "jp": "トロい動きだな、オイ",
-  "en": ""
+  "en": "Man, you're sluggish."
  },
  {
   "id": "3D7DE4.279",
@@ -2189,7 +2189,7 @@
   "box": 0,
   "speaker": "",
   "jp": "かすりもしねえ　",
-  "en": ""
+  "en": "Didn't even graze me."
  },
  {
   "id": "3D7DE4.280",
@@ -2197,7 +2197,7 @@
   "box": 0,
   "speaker": "",
   "jp": "フン、笑わせるぜ",
-  "en": ""
+  "en": "Hmph, don't make me laugh."
  },
  {
   "id": "3D7DE4.281",
@@ -2205,7 +2205,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ハッ、そんなもんかよ？　",
-  "en": ""
+  "en": "Ha! That all you got?"
  },
  {
   "id": "3D7DE4.282",
@@ -2213,7 +2213,7 @@
   "box": 0,
   "speaker": "",
   "jp": "かすったか？",
-  "en": ""
+  "en": "Call that a scratch?"
  },
  {
   "id": "3D7DE4.283",
@@ -2221,7 +2221,7 @@
   "box": 0,
   "speaker": "",
   "jp": "遊びじゃねンだぞ",
-  "en": ""
+  "en": "This ain't a game, y'know."
  },
  {
   "id": "3D7DE4.284",
@@ -2229,7 +2229,7 @@
   "box": 0,
   "speaker": "",
   "jp": "やる気あンのか？",
-  "en": ""
+  "en": "Are you even trying?"
  },
  {
   "id": "3D7DE4.285",
@@ -2237,7 +2237,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ま、当てただけ褒めてやるよ　",
-  "en": ""
+  "en": "Well, I'll give you credit for landing one."
  },
  {
   "id": "3D7DE4.286",
@@ -2245,7 +2245,7 @@
   "box": 0,
   "speaker": "",
   "jp": "クソッ！",
-  "en": ""
+  "en": "Damn!"
  },
  {
   "id": "3D7DE4.287",
@@ -2253,7 +2253,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ちっとは面白くなってきたな！",
-  "en": ""
+  "en": "Now it's getting a little fun!"
  },
  {
   "id": "3D7DE4.288",
@@ -2261,7 +2261,7 @@
   "box": 0,
   "speaker": "",
   "jp": "クッ、なかなかやるじゃねェかよ　",
-  "en": ""
+  "en": "Tch, you're not half bad."
  },
  {
   "id": "3D7DE4.289",
@@ -2269,7 +2269,7 @@
   "box": 0,
   "speaker": "",
   "jp": "こんなモンでチョーシに乗るなよ　",
-  "en": ""
+  "en": "Don't get cocky over a hit like that."
  },
  {
   "id": "3D7DE4.290",
@@ -2277,7 +2277,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まだまだってトコだな",
-  "en": ""
+  "en": "You've still got a ways to go."
  },
  {
   "id": "3D7DE4.291",
@@ -2285,7 +2285,7 @@
   "box": 0,
   "speaker": "",
   "jp": "がああっ！　",
-  "en": ""
+  "en": "Gaaah!"
  },
  {
   "id": "3D7DE4.292",
@@ -2293,7 +2293,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…面白ェじゃねえかよ！　",
-  "en": ""
+  "en": "...Now this is getting interesting!"
  },
  {
   "id": "3D7DE4.293",
@@ -2301,7 +2301,7 @@
   "box": 0,
   "speaker": "",
   "jp": "やられるわけにはいかねえんだ！　",
-  "en": ""
+  "en": "I can't go down here!"
  },
  {
   "id": "3D7DE4.294",
@@ -2309,7 +2309,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まだだ！　まだ終わらせねえ！",
-  "en": ""
+  "en": "Not yet! I'm not letting this end!"
  },
  {
   "id": "3D7DE4.295",
@@ -2317,7 +2317,7 @@
   "box": 0,
   "speaker": "",
   "jp": "テメー、１０倍にして返してやる！",
-  "en": ""
+  "en": "I'll pay you back 10 times over, punk!"
  },
  {
   "id": "3D7DE4.296",
@@ -2325,7 +2325,7 @@
   "box": 0,
   "speaker": "",
   "jp": "チッ！　油断しちまったぜ！　",
-  "en": ""
+  "en": "Tch! I let my guard down!"
  },
  {
   "id": "3D7DE4.297",
@@ -2333,7 +2333,7 @@
   "box": 0,
   "speaker": "",
   "jp": "銀次：　",
-  "en": ""
+  "en": "Ginji:"
  },
  {
   "id": "3D7DE4.298",
@@ -2341,7 +2341,7 @@
   "box": 0,
   "speaker": "",
   "jp": "セーフ！",
-  "en": ""
+  "en": "Safe!"
  },
  {
   "id": "3D7DE4.299",
@@ -2349,7 +2349,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ふう、危なかった…　",
-  "en": ""
+  "en": "Phew, that was close..."
  },
  {
   "id": "3D7DE4.300",
@@ -2357,7 +2357,7 @@
   "box": 0,
   "speaker": "",
   "jp": "見えるよ！　",
-  "en": ""
+  "en": "I can see it!"
  },
  {
   "id": "3D7DE4.301",
@@ -2365,7 +2365,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ムダだよ！　",
-  "en": ""
+  "en": "No use!"
  },
  {
   "id": "3D7DE4.302",
@@ -2373,7 +2373,7 @@
   "box": 0,
   "speaker": "",
   "jp": "悪いね、当らないよ！",
-  "en": ""
+  "en": "Sorry, you can't hit me!"
  },
  {
   "id": "3D7DE4.303",
@@ -2381,7 +2381,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あ、あれ？　",
-  "en": ""
+  "en": "Huh? Wha?"
  },
  {
   "id": "3D7DE4.304",
@@ -2389,7 +2389,7 @@
   "box": 0,
   "speaker": "",
   "jp": "軽い軽い！　",
-  "en": ""
+  "en": "That was nothing!"
  },
  {
   "id": "3D7DE4.305",
@@ -2397,7 +2397,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まだまだ！　",
-  "en": ""
+  "en": "I'm not done yet!"
  },
  {
   "id": "3D7DE4.306",
@@ -2405,7 +2405,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あっ！　当っちゃったか…",
-  "en": ""
+  "en": "Ah! It hit me..."
  },
  {
   "id": "3D7DE4.307",
@@ -2413,7 +2413,7 @@
   "box": 0,
   "speaker": "",
   "jp": "よけられなかった？　",
-  "en": ""
+  "en": "I couldn't dodge it?"
  },
  {
   "id": "3D7DE4.308",
@@ -2421,7 +2421,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ぐっ！　",
-  "en": ""
+  "en": "Ugh!"
  },
  {
   "id": "3D7DE4.309",
@@ -2429,7 +2429,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これくらいだったら！",
-  "en": ""
+  "en": "I can take this much!"
  },
  {
   "id": "3D7DE4.310",
@@ -2437,7 +2437,7 @@
   "box": 0,
   "speaker": "",
   "jp": "うっ！　ドジっちゃったな…　",
-  "en": ""
+  "en": "Ow! I goofed up..."
  },
  {
   "id": "3D7DE4.311",
@@ -2445,7 +2445,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…まだいけるよね？　",
-  "en": ""
+  "en": "...I can still keep going, right?"
  },
  {
   "id": "3D7DE4.312",
@@ -2453,7 +2453,7 @@
   "box": 0,
   "speaker": "",
   "jp": "このままじゃヤバいかな？",
-  "en": ""
+  "en": "This is getting kinda bad, huh?"
  },
  {
   "id": "3D7DE4.313",
@@ -2461,7 +2461,7 @@
   "box": 0,
   "speaker": "",
   "jp": "わあああっ！",
-  "en": ""
+  "en": "Waaah!"
  },
  {
   "id": "3D7DE4.314",
@@ -2469,7 +2469,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ああっ！　このままじゃ…",
-  "en": ""
+  "en": "Ahh! At this rate..."
  },
  {
   "id": "3D7DE4.315",
@@ -2477,7 +2477,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ま、まだ負けられない…！！　",
-  "en": ""
+  "en": "I-I can't lose yet...!!"
  },
  {
   "id": "3D7DE4.316",
@@ -2485,7 +2485,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まだ戦える！　まだやれるよ！",
-  "en": ""
+  "en": "I can still fight! I can still go!"
  },
  {
   "id": "3D7DE4.317",
@@ -2493,7 +2493,7 @@
   "box": 0,
   "speaker": "",
   "jp": "やられるわけにはいかないんだぁ！",
-  "en": ""
+  "en": "I can't go down heeere!"
  },
  {
   "id": "3D7DE4.318",
@@ -2501,7 +2501,7 @@
   "box": 0,
   "speaker": "",
   "jp": "蛮ちゃん、ごめん！　",
-  "en": ""
+  "en": "Ban-chan, I'm sorry!"
  },
  {
   "id": "3D7DE4.319",
@@ -2509,7 +2509,7 @@
   "box": 0,
   "speaker": "",
   "jp": "卑弥呼：",
-  "en": ""
+  "en": "Himiko:"
  },
  {
   "id": "3D7DE4.320",
@@ -2517,7 +2517,7 @@
   "box": 0,
   "speaker": "",
   "jp": "おあいにくさま　",
-  "en": ""
+  "en": "Too bad for you."
  },
  {
   "id": "3D7DE4.321",
@@ -2525,7 +2525,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レディ・ポイズンを甘く見ないで　",
-  "en": ""
+  "en": "Don't underestimate Lady Poison."
  },
  {
   "id": "3D7DE4.322",
@@ -2533,7 +2533,7 @@
   "box": 0,
   "speaker": "",
   "jp": "甘いわね",
-  "en": ""
+  "en": "Too soft."
  },
  {
   "id": "3D7DE4.323",
@@ -2541,7 +2541,7 @@
   "box": 0,
   "speaker": "",
   "jp": "つまらない攻撃ね",
-  "en": ""
+  "en": "What a boring attack."
  },
  {
   "id": "3D7DE4.324",
@@ -2549,7 +2549,7 @@
   "box": 0,
   "speaker": "",
   "jp": "それで攻撃してるつもり？",
-  "en": ""
+  "en": "You call that an attack?"
  },
  {
   "id": "3D7DE4.325",
@@ -2557,7 +2557,7 @@
   "box": 0,
   "speaker": "",
   "jp": "フン、こんなもの？　",
-  "en": ""
+  "en": "Hmph, is that it?"
  },
  {
   "id": "3D7DE4.326",
@@ -2565,7 +2565,7 @@
   "box": 0,
   "speaker": "",
   "jp": "手加減でもしてるつもり？",
-  "en": ""
+  "en": "Are you holding back or something?"
  },
  {
   "id": "3D7DE4.327",
@@ -2573,7 +2573,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あら、それが本気なの？　",
-  "en": ""
+  "en": "Oh my, is that really your best?"
  },
  {
   "id": "3D7DE4.328",
@@ -2581,7 +2581,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑わせないでよ　",
-  "en": ""
+  "en": "Don't make me laugh."
  },
  {
   "id": "3D7DE4.329",
@@ -2589,7 +2589,7 @@
   "box": 0,
   "speaker": "",
   "jp": "こんなの傷のうちにも入らないわ　",
-  "en": ""
+  "en": "That doesn't even count as a scratch."
  },
  {
   "id": "3D7DE4.330",
@@ -2597,7 +2597,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ああっ！",
-  "en": ""
+  "en": "Ahh!"
  },
  {
   "id": "3D7DE4.331",
@@ -2605,7 +2605,7 @@
   "box": 0,
   "speaker": "",
   "jp": "なによ、こんなもの！",
-  "en": ""
+  "en": "Hmph, this is nothing!"
  },
  {
   "id": "3D7DE4.332",
@@ -2613,7 +2613,7 @@
   "box": 0,
   "speaker": "",
   "jp": "避けられなかった？　",
-  "en": ""
+  "en": "I couldn't dodge it?"
  },
  {
   "id": "3D7DE4.333",
@@ -2621,7 +2621,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まだいけるわ！　",
-  "en": ""
+  "en": "I can still go on!"
  },
  {
   "id": "3D7DE4.334",
@@ -2629,7 +2629,7 @@
   "box": 0,
   "speaker": "",
   "jp": "当てたからっていい気にならないで",
-  "en": ""
+  "en": "Don't get smug just because you hit me."
  },
  {
   "id": "3D7DE4.335",
@@ -2637,7 +2637,7 @@
   "box": 0,
   "speaker": "",
   "jp": "くっ！　このままじゃ…　",
-  "en": ""
+  "en": "Ngh! At this rate..."
  },
  {
   "id": "3D7DE4.336",
@@ -2645,7 +2645,7 @@
   "box": 0,
   "speaker": "",
   "jp": "きゃああっ！！　",
-  "en": ""
+  "en": "Aaaah!!"
  },
  {
   "id": "3D7DE4.337",
@@ -2653,7 +2653,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まだよ！　まだ負けられないわ！　",
-  "en": ""
+  "en": "Not yet! I can't lose yet!"
  },
  {
   "id": "3D7DE4.338",
@@ -2661,7 +2661,7 @@
   "box": 0,
   "speaker": "",
   "jp": "なんなの、この力…！？　",
-  "en": ""
+  "en": "What is this power...?!"
  },
  {
   "id": "3D7DE4.339",
@@ -2669,7 +2669,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここでやられるわけには…！　",
-  "en": ""
+  "en": "I can't go down here...!"
  },
  {
   "id": "3D7DE4.340",
@@ -2677,7 +2677,7 @@
   "box": 0,
   "speaker": "",
   "jp": "キャアアア！",
-  "en": ""
+  "en": "Aaaaah!"
  },
  {
   "id": "3D7DE4.341",
@@ -2685,7 +2685,7 @@
   "box": 0,
   "speaker": "",
   "jp": "赤屍：　",
-  "en": ""
+  "en": "Akabane:"
  },
  {
   "id": "3D7DE4.342",
@@ -2693,7 +2693,7 @@
   "box": 0,
   "speaker": "",
   "jp": "退屈ですよ、キミは　",
-  "en": ""
+  "en": "You bore me."
  },
  {
   "id": "3D7DE4.343",
@@ -2701,7 +2701,7 @@
   "box": 0,
   "speaker": "",
   "jp": "どこを狙っているのですか？　",
-  "en": ""
+  "en": "Where are you aiming?"
  },
  {
   "id": "3D7DE4.344",
@@ -2709,7 +2709,7 @@
   "box": 0,
   "speaker": "",
   "jp": "私はここですよ　",
-  "en": ""
+  "en": "I am right here."
  },
  {
   "id": "3D7DE4.345",
@@ -2717,7 +2717,7 @@
   "box": 0,
   "speaker": "",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "3D7DE4.346",
@@ -2725,7 +2725,7 @@
   "box": 0,
   "speaker": "",
   "jp": "見えますよ　",
-  "en": ""
+  "en": "I can see it."
  },
  {
   "id": "3D7DE4.347",
@@ -2733,7 +2733,7 @@
   "box": 0,
   "speaker": "",
   "jp": "こんなものですか？　",
-  "en": ""
+  "en": "Is this all?"
  },
  {
   "id": "3D7DE4.348",
@@ -2741,7 +2741,7 @@
   "box": 0,
   "speaker": "",
   "jp": "つまらないですね…　",
-  "en": ""
+  "en": "How dull..."
  },
  {
   "id": "3D7DE4.349",
@@ -2749,7 +2749,7 @@
   "box": 0,
   "speaker": "",
   "jp": "この程度で私に挑むとはね…　",
-  "en": ""
+  "en": "To challenge me with only this much..."
  },
  {
   "id": "3D7DE4.350",
@@ -2757,7 +2757,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あなたでは役不足ですよ　",
-  "en": ""
+  "en": "You are no match for me."
  },
  {
   "id": "3D7DE4.351",
@@ -2765,7 +2765,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まだまだですよ　",
-  "en": ""
+  "en": "Not nearly enough."
  },
  {
   "id": "3D7DE4.352",
@@ -2773,7 +2773,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まあまあですね…",
-  "en": ""
+  "en": "Passable..."
  },
  {
   "id": "3D7DE4.353",
@@ -2781,7 +2781,7 @@
   "box": 0,
   "speaker": "",
   "jp": "それがあなたの実力ですか？　",
-  "en": ""
+  "en": "Is that the extent of your ability?"
  },
  {
   "id": "3D7DE4.354",
@@ -2789,7 +2789,7 @@
   "box": 0,
   "speaker": "",
   "jp": "少しは楽しめそうですね…",
-  "en": ""
+  "en": "This may prove a little entertaining..."
  },
  {
   "id": "3D7DE4.355",
@@ -2797,7 +2797,7 @@
   "box": 0,
   "speaker": "",
   "jp": "クス…　",
-  "en": ""
+  "en": "Heh..."
  },
  {
   "id": "3D7DE4.356",
@@ -2805,7 +2805,7 @@
   "box": 0,
   "speaker": "",
   "jp": "私を失望させないでいただきたい　",
-  "en": ""
+  "en": "I would ask that you not disappoint me."
  },
  {
   "id": "3D7DE4.357",
@@ -2813,7 +2813,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これは面白い…　",
-  "en": ""
+  "en": "How interesting..."
  },
  {
   "id": "3D7DE4.358",
@@ -2821,7 +2821,7 @@
   "box": 0,
   "speaker": "",
   "jp": "この私をここまで追い詰めるとは…ね　",
-  "en": ""
+  "en": "To push me this far... my, my."
  },
  {
   "id": "3D7DE4.359",
@@ -2829,7 +2829,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここまでやるとは…面白い",
-  "en": ""
+  "en": "To go this far... Interesting."
  },
  {
   "id": "3D7DE4.360",
@@ -2837,7 +2837,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ククク…やはり戦いはこうでないと…　",
-  "en": ""
+  "en": "Heh heh heh... A fight should be like this..."
  },
  {
   "id": "3D7DE4.361",
@@ -2845,7 +2845,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これは…面白い展開になってきましたね",
-  "en": ""
+  "en": "My... this is becoming quite interesting."
  },
  {
   "id": "3D7DE4.362",
@@ -2853,7 +2853,7 @@
   "box": 0,
   "speaker": "",
   "jp": "面白い…実に、ね",
-  "en": ""
+  "en": "Interesting... truly."
  },
  {
   "id": "3D7DE4.363",
@@ -2861,7 +2861,7 @@
   "box": 0,
   "speaker": "",
   "jp": "花月：　",
-  "en": ""
+  "en": "Kazuki:"
  },
  {
   "id": "3D7DE4.364",
@@ -2869,7 +2869,7 @@
   "box": 0,
   "speaker": "",
   "jp": "見くびるな　",
-  "en": ""
+  "en": "Don't underestimate me."
  },
  {
   "id": "3D7DE4.365",
@@ -2877,7 +2877,7 @@
   "box": 0,
   "speaker": "",
   "jp": "身の程を知るがいい　",
-  "en": ""
+  "en": "Know your place."
  },
  {
   "id": "3D7DE4.366",
@@ -2885,7 +2885,7 @@
   "box": 0,
   "speaker": "",
   "jp": "それでは僕を捕らえることはできない　",
-  "en": ""
+  "en": "That will never be enough to catch me."
  },
  {
   "id": "3D7DE4.367",
@@ -2893,7 +2893,7 @@
   "box": 0,
   "speaker": "",
   "jp": "甘いな…",
-  "en": ""
+  "en": "Too soft..."
  },
  {
   "id": "3D7DE4.368",
@@ -2901,7 +2901,7 @@
   "box": 0,
   "speaker": "",
   "jp": "読めるぞ",
-  "en": ""
+  "en": "I can read you."
  },
  {
   "id": "3D7DE4.369",
@@ -2909,7 +2909,7 @@
   "box": 0,
   "speaker": "",
   "jp": "こんなものか？　",
-  "en": ""
+  "en": "Is that all?"
  },
  {
   "id": "3D7DE4.370",
@@ -2917,7 +2917,7 @@
   "box": 0,
   "speaker": "",
   "jp": "この程度で戦いを挑むとは…　",
-  "en": ""
+  "en": "You challenge me with only this...?"
  },
  {
   "id": "3D7DE4.371",
@@ -2925,7 +2925,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑わせるな　",
-  "en": ""
+  "en": "Don't make me laugh."
  },
  {
   "id": "3D7DE4.372",
@@ -2933,7 +2933,7 @@
   "box": 0,
   "speaker": "",
   "jp": "甘く見られたものだな",
-  "en": ""
+  "en": "It seems I've been underestimated."
  },
  {
   "id": "3D7DE4.373",
@@ -2941,7 +2941,7 @@
   "box": 0,
   "speaker": "",
   "jp": "フ…まるで遊びだな　",
-  "en": ""
+  "en": "Heh... This is mere child's play."
  },
  {
   "id": "3D7DE4.374",
@@ -2949,7 +2949,7 @@
   "box": 0,
   "speaker": "",
   "jp": "くっ！　",
-  "en": ""
+  "en": "Ngh!"
  },
  {
   "id": "3D7DE4.375",
@@ -2957,7 +2957,7 @@
   "box": 0,
   "speaker": "",
   "jp": "この程度なら、まだ！",
-  "en": ""
+  "en": "This much, I can still take!"
  },
  {
   "id": "3D7DE4.376",
@@ -2965,7 +2965,7 @@
   "box": 0,
   "speaker": "",
   "jp": "油断してしまったか…",
-  "en": ""
+  "en": "I let my guard down..."
  },
  {
   "id": "3D7DE4.377",
@@ -2973,7 +2973,7 @@
   "box": 0,
   "speaker": "",
   "jp": "なかなかの腕のようですね",
-  "en": ""
+  "en": "You seem quite skilled."
  },
  {
   "id": "3D7DE4.378",
@@ -2981,7 +2981,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これ以上はまずいか…？　",
-  "en": ""
+  "en": "Any more of this would be bad...?"
  },
  {
   "id": "3D7DE4.379",
@@ -2989,7 +2989,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ぐあっ！！　",
-  "en": ""
+  "en": "Gah!!"
  },
  {
   "id": "3D7DE4.380",
@@ -2997,7 +2997,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まさか、こんな…",
-  "en": ""
+  "en": "No, this can't be..."
  },
  {
   "id": "3D7DE4.381",
@@ -3005,7 +3005,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここまで追い詰められるなんて…　",
-  "en": ""
+  "en": "To be driven this far..."
  },
  {
   "id": "3D7DE4.382",
@@ -3013,7 +3013,7 @@
   "box": 0,
   "speaker": "",
   "jp": "負けられない！風鳥院流の名にかけて！",
-  "en": ""
+  "en": "I can't lose! I swear by the Fuchoin school!"
  },
  {
   "id": "3D7DE4.383",
@@ -3021,7 +3021,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まだだ！　後少し…　",
-  "en": ""
+  "en": "Not yet! Just a little more..."
  },
  {
   "id": "3D7DE4.384",
@@ -3029,7 +3029,7 @@
   "box": 0,
   "speaker": "",
   "jp": "しまった…　",
-  "en": ""
+  "en": "Damn it..."
  },
  {
   "id": "3D7DE4.385",
@@ -3037,7 +3037,7 @@
   "box": 0,
   "speaker": "",
   "jp": "士度：　",
-  "en": ""
+  "en": "Shido:"
  },
  {
   "id": "3D7DE4.386",
@@ -3045,7 +3045,7 @@
   "box": 0,
   "speaker": "",
   "jp": "格が違うんだよ！",
-  "en": ""
+  "en": "You're out of your league!"
  },
  {
   "id": "3D7DE4.387",
@@ -3053,7 +3053,7 @@
   "box": 0,
   "speaker": "",
   "jp": "当るとでも思ってんのか？",
-  "en": ""
+  "en": "You think that's gonna hit me?"
  },
  {
   "id": "3D7DE4.388",
@@ -3061,7 +3061,7 @@
   "box": 0,
   "speaker": "",
   "jp": "見えるぜ、お前の動きが！",
-  "en": ""
+  "en": "I can see your every move!"
  },
  {
   "id": "3D7DE4.389",
@@ -3069,7 +3069,7 @@
   "box": 0,
   "speaker": "",
   "jp": "遅ェんだよ！",
-  "en": ""
+  "en": "Too slow!"
  },
  {
   "id": "3D7DE4.390",
@@ -3077,7 +3077,7 @@
   "box": 0,
   "speaker": "",
   "jp": "見切った！　",
-  "en": ""
+  "en": "Saw that coming!"
  },
  {
   "id": "3D7DE4.391",
@@ -3085,7 +3085,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑わせるなよ",
-  "en": ""
+  "en": "Don't make me laugh."
  },
  {
   "id": "3D7DE4.392",
@@ -3093,7 +3093,7 @@
   "box": 0,
   "speaker": "",
   "jp": "それで攻撃してるつもりか？　",
-  "en": ""
+  "en": "You call that an attack?"
  },
  {
   "id": "3D7DE4.393",
@@ -3101,7 +3101,7 @@
   "box": 0,
   "speaker": "",
   "jp": "効かねぇな　",
-  "en": ""
+  "en": "Didn't feel a thing."
  },
  {
   "id": "3D7DE4.394",
@@ -3109,7 +3109,7 @@
   "box": 0,
   "speaker": "",
   "jp": "おいおい、それが実力なのか？",
-  "en": ""
+  "en": "Hey, hey, is that all you've got?"
  },
  {
   "id": "3D7DE4.395",
@@ -3117,7 +3117,7 @@
   "box": 0,
   "speaker": "",
   "jp": "相手になんねーな",
-  "en": ""
+  "en": "You're no match for me."
  },
  {
   "id": "3D7DE4.396",
@@ -3125,7 +3125,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ちイ！　",
-  "en": ""
+  "en": "Tch!"
  },
  {
   "id": "3D7DE4.397",
@@ -3133,7 +3133,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…油断したか？　",
-  "en": ""
+  "en": "...Did I get careless?"
  },
  {
   "id": "3D7DE4.398",
@@ -3141,7 +3141,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ハッ、この程度！",
-  "en": ""
+  "en": "Hah, that's nothing!"
  },
  {
   "id": "3D7DE4.399",
@@ -3149,7 +3149,7 @@
   "box": 0,
   "speaker": "",
   "jp": "なんてことねえな",
-  "en": ""
+  "en": "No big deal."
  },
  {
   "id": "3D7DE4.400",
@@ -3157,7 +3157,7 @@
   "box": 0,
   "speaker": "",
   "jp": "そんなモンでやられるかよ！　",
-  "en": ""
+  "en": "Like that's gonna take me down!"
  },
  {
   "id": "3D7DE4.401",
@@ -3165,7 +3165,7 @@
   "box": 0,
   "speaker": "",
   "jp": "うがああっ！",
-  "en": ""
+  "en": "Gwaaargh!"
  },
  {
   "id": "3D7DE4.402",
@@ -3173,7 +3173,7 @@
   "box": 0,
   "speaker": "",
   "jp": "こいつ、やるじゃねえかよ！　",
-  "en": ""
+  "en": "This guy's not half bad!"
  },
  {
   "id": "3D7DE4.403",
@@ -3181,7 +3181,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ヘッ、ちったあ骨があるようだな！",
-  "en": ""
+  "en": "Heh, looks like you've got some backbone!"
  },
  {
   "id": "3D7DE4.404",
@@ -3189,7 +3189,7 @@
   "box": 0,
   "speaker": "",
   "jp": "楽しませてくれるじゃねえかよ",
-  "en": ""
+  "en": "Now you're making this fun."
  },
  {
   "id": "3D7DE4.405",
@@ -3197,7 +3197,7 @@
   "box": 0,
   "speaker": "",
   "jp": "うがああっ！",
-  "en": ""
+  "en": "Gwaaargh!"
  },
  {
   "id": "3D7DE4.406",
@@ -3205,7 +3205,7 @@
   "box": 0,
   "speaker": "",
   "jp": "うわああああっ！！　",
-  "en": ""
+  "en": "Waaaaagh!!"
  },
  {
   "id": "3D7DE4.407",
@@ -3213,7 +3213,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑師：　",
-  "en": ""
+  "en": "Emishi:"
  },
  {
   "id": "3D7DE4.408",
@@ -3221,7 +3221,7 @@
   "box": 0,
   "speaker": "",
   "jp": "見切ったで？",
-  "en": ""
+  "en": "Saw right through ya!"
  },
  {
   "id": "3D7DE4.409",
@@ -3229,7 +3229,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ムハハハ！　当らんで～！",
-  "en": ""
+  "en": "Muhahaha! Can't hit me~!"
  },
  {
   "id": "3D7DE4.410",
@@ -3237,7 +3237,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あんさんの動きが見える！見えるで～！",
-  "en": ""
+  "en": "I can see your moves! I can seeee 'em~!"
  },
  {
   "id": "3D7DE4.411",
@@ -3245,7 +3245,7 @@
   "box": 0,
   "speaker": "",
   "jp": "当るかっちゅ～ねん！",
-  "en": ""
+  "en": "Like that's gonna hit me!"
  },
  {
   "id": "3D7DE4.412",
@@ -3253,7 +3253,7 @@
   "box": 0,
   "speaker": "",
   "jp": "もうエエって、ウチへ帰りーや",
-  "en": ""
+  "en": "Enough already, go on home."
  },
  {
   "id": "3D7DE4.413",
@@ -3261,7 +3261,7 @@
   "box": 0,
   "speaker": "",
   "jp": "なんや、そんなモンかいな",
-  "en": ""
+  "en": "What, that's it?"
  },
  {
   "id": "3D7DE4.414",
@@ -3269,7 +3269,7 @@
   "box": 0,
   "speaker": "",
   "jp": "やる気あンのかいな？",
-  "en": ""
+  "en": "Are ya even tryin'?"
  },
  {
   "id": "3D7DE4.415",
@@ -3277,7 +3277,7 @@
   "box": 0,
   "speaker": "",
   "jp": "危な！　…ってビビる程でもないな",
-  "en": ""
+  "en": "Whoa! ...Eh, not that scary actually."
  },
  {
   "id": "3D7DE4.416",
@@ -3285,7 +3285,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あんさん帰った方がエエんちゃうか？　",
-  "en": ""
+  "en": "Shouldn't ya just go on home?"
  },
  {
   "id": "3D7DE4.417",
@@ -3293,7 +3293,7 @@
   "box": 0,
   "speaker": "",
   "jp": "こんなモンではやられへんで！",
-  "en": ""
+  "en": "It'll take more than this to get me!"
  },
  {
   "id": "3D7DE4.418",
@@ -3301,7 +3301,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あかん！",
-  "en": ""
+  "en": "Uh-oh!"
  },
  {
   "id": "3D7DE4.419",
@@ -3309,7 +3309,7 @@
   "box": 0,
   "speaker": "",
   "jp": "しもた！",
-  "en": ""
+  "en": "Dang it!"
  },
  {
   "id": "3D7DE4.420",
@@ -3317,7 +3317,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まだ負けられへん！　",
-  "en": ""
+  "en": "I can't lose yet!"
  },
  {
   "id": "3D7DE4.421",
@@ -3325,7 +3325,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まあまあってトコかいな　",
-  "en": ""
+  "en": "Eh, so-so, I guess."
  },
  {
   "id": "3D7DE4.422",
@@ -3333,7 +3333,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ちょいピンチって感じやな",
-  "en": ""
+  "en": "Gettin' a little dicey here."
  },
  {
   "id": "3D7DE4.423",
@@ -3341,7 +3341,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まだ終わってへん！　",
-  "en": ""
+  "en": "It ain't over yet!"
  },
  {
   "id": "3D7DE4.424",
@@ -3349,7 +3349,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あかんて！　このままやったら…！！　",
-  "en": ""
+  "en": "No good! At this rate...!!"
  },
  {
   "id": "3D7DE4.425",
@@ -3357,7 +3357,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ぐああっ！　直撃してもうた！",
-  "en": ""
+  "en": "Gwaah! Took a direct hit!"
  },
  {
   "id": "3D7DE4.426",
@@ -3365,7 +3365,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…ピンチの時こそ笑わんとな！",
-  "en": ""
+  "en": "...When things get rough, ya gotta laugh!"
  },
  {
   "id": "3D7DE4.427",
@@ -3373,7 +3373,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ごっつマズいことになっとるなぁ…",
-  "en": ""
+  "en": "This is gettin' real bad..."
  },
  {
   "id": "3D7DE4.428",
@@ -3381,7 +3381,7 @@
   "box": 0,
   "speaker": "",
   "jp": "んなアホなぁ！　",
-  "en": ""
+  "en": "Ya gotta be kiddin' me!"
  },
  {
   "id": "3D7DE4.429",
@@ -3389,7 +3389,7 @@
   "box": 0,
   "speaker": "",
   "jp": "十兵衛：",
-  "en": ""
+  "en": "Juubei:"
  },
  {
   "id": "3D7DE4.430",
@@ -3397,7 +3397,7 @@
   "box": 0,
   "speaker": "",
   "jp": "見くびるなよ",
-  "en": ""
+  "en": "Do not underestimate me."
  },
  {
   "id": "3D7DE4.431",
@@ -3405,7 +3405,7 @@
   "box": 0,
   "speaker": "",
   "jp": "遅い！　",
-  "en": ""
+  "en": "Too slow!"
  },
  {
   "id": "3D7DE4.432",
@@ -3413,7 +3413,7 @@
   "box": 0,
   "speaker": "",
   "jp": "当るわけにはいかん！",
-  "en": ""
+  "en": "I cannot afford to be hit!"
  },
  {
   "id": "3D7DE4.433",
@@ -3421,7 +3421,7 @@
   "box": 0,
   "speaker": "",
   "jp": "貴様の動きは読めるぞ！　",
-  "en": ""
+  "en": "I can read your movements!"
  },
  {
   "id": "3D7DE4.434",
@@ -3429,7 +3429,7 @@
   "box": 0,
   "speaker": "",
   "jp": "相手にならんな　",
-  "en": ""
+  "en": "You are no match for me."
  },
  {
   "id": "3D7DE4.435",
@@ -3437,7 +3437,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑止！　",
-  "en": ""
+  "en": "Laughable!"
  },
  {
   "id": "3D7DE4.436",
@@ -3445,7 +3445,7 @@
   "box": 0,
   "speaker": "",
   "jp": "力量不足のようだな　",
-  "en": ""
+  "en": "You lack the skill, it seems."
  },
  {
   "id": "3D7DE4.437",
@@ -3453,7 +3453,7 @@
   "box": 0,
   "speaker": "",
   "jp": "貴様の力はこんなものか？",
-  "en": ""
+  "en": "Is this all your power amounts to?"
  },
  {
   "id": "3D7DE4.438",
@@ -3461,7 +3461,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これでは相手にならんな　",
-  "en": ""
+  "en": "At this rate, you are no opponent at all."
  },
  {
   "id": "3D7DE4.439",
@@ -3469,7 +3469,7 @@
   "box": 0,
   "speaker": "",
   "jp": "見掛け倒しといったところか　",
-  "en": ""
+  "en": "All show and no substance, I see."
  },
  {
   "id": "3D7DE4.440",
@@ -3477,7 +3477,7 @@
   "box": 0,
   "speaker": "",
   "jp": "フ…なるほど",
-  "en": ""
+  "en": "Heh... I see."
  },
  {
   "id": "3D7DE4.441",
@@ -3485,7 +3485,7 @@
   "box": 0,
   "speaker": "",
   "jp": "この程度！　",
-  "en": ""
+  "en": "This is nothing!"
  },
  {
   "id": "3D7DE4.442",
@@ -3493,7 +3493,7 @@
   "box": 0,
   "speaker": "",
   "jp": "焦る必要はない　",
-  "en": ""
+  "en": "There is no need to panic."
  },
  {
   "id": "3D7DE4.443",
@@ -3501,7 +3501,7 @@
   "box": 0,
   "speaker": "",
   "jp": "かわせなかっただと！？　",
-  "en": ""
+  "en": "I could not dodge it?!"
  },
  {
   "id": "3D7DE4.444",
@@ -3509,7 +3509,7 @@
   "box": 0,
   "speaker": "",
   "jp": "致命傷ではなさそうだ",
-  "en": ""
+  "en": "It does not seem fatal."
  },
  {
   "id": "3D7DE4.445",
@@ -3517,7 +3517,7 @@
   "box": 0,
   "speaker": "",
   "jp": "不覚…！",
-  "en": ""
+  "en": "Careless of me...!"
  },
  {
   "id": "3D7DE4.446",
@@ -3525,7 +3525,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…これ程とはな！",
-  "en": ""
+  "en": "...I did not expect this much!"
  },
  {
   "id": "3D7DE4.447",
@@ -3533,7 +3533,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まだ勝敗はついておらん！",
-  "en": ""
+  "en": "This fight is not decided yet!"
  },
  {
   "id": "3D7DE4.448",
@@ -3541,7 +3541,7 @@
   "box": 0,
   "speaker": "",
   "jp": "なにっ！？　",
-  "en": ""
+  "en": "What?!"
  },
  {
   "id": "3D7DE4.449",
@@ -3549,7 +3549,7 @@
   "box": 0,
   "speaker": "",
   "jp": "うかつだったか！",
-  "en": ""
+  "en": "Was I careless?!"
  },
  {
   "id": "3D7DE4.450",
@@ -3557,7 +3557,7 @@
   "box": 0,
   "speaker": "",
   "jp": "無念…！",
-  "en": ""
+  "en": "Curses...!"
  },
  {
   "id": "3D7DE4.451",
@@ -3565,7 +3565,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鏡：",
-  "en": ""
+  "en": "Kagami:"
  },
  {
   "id": "3D7DE4.452",
@@ -3573,7 +3573,7 @@
   "box": 0,
   "speaker": "",
   "jp": "甘いね、キミは　",
-  "en": ""
+  "en": "You're naive, aren't you?"
  },
  {
   "id": "3D7DE4.453",
@@ -3581,7 +3581,7 @@
   "box": 0,
   "speaker": "",
   "jp": "クス…俺はこっちだよ",
-  "en": ""
+  "en": "Heh... I'm over here."
  },
  {
   "id": "3D7DE4.454",
@@ -3589,7 +3589,7 @@
   "box": 0,
   "speaker": "",
   "jp": "それがキミの実力なのかい？　",
-  "en": ""
+  "en": "Is that really your strength?"
  },
  {
   "id": "3D7DE4.455",
@@ -3597,7 +3597,7 @@
   "box": 0,
   "speaker": "",
   "jp": "そのスピードじゃ当らないよ　",
-  "en": ""
+  "en": "You'll never hit me at that speed."
  },
  {
   "id": "3D7DE4.456",
@@ -3605,7 +3605,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ガッカリしたよ…",
-  "en": ""
+  "en": "How disappointing..."
  },
  {
   "id": "3D7DE4.457",
@@ -3613,7 +3613,7 @@
   "box": 0,
   "speaker": "",
   "jp": "こんなものかい？",
-  "en": ""
+  "en": "Is that all?"
  },
  {
   "id": "3D7DE4.458",
@@ -3621,7 +3621,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これじゃつまらないよ",
-  "en": ""
+  "en": "This is boring."
  },
  {
   "id": "3D7DE4.459",
@@ -3629,7 +3629,7 @@
   "box": 0,
   "speaker": "",
   "jp": "もっと本気を出して欲しいな　",
-  "en": ""
+  "en": "I'd like you to get a bit more serious."
  },
  {
   "id": "3D7DE4.460",
@@ -3637,7 +3637,7 @@
   "box": 0,
   "speaker": "",
   "jp": "手加減でもしてるのかな？",
-  "en": ""
+  "en": "Are you holding back on me?"
  },
  {
   "id": "3D7DE4.461",
@@ -3645,7 +3645,7 @@
   "box": 0,
   "speaker": "",
   "jp": "観察する必要はなさそうだね　",
-  "en": ""
+  "en": "Doesn't seem you're worth observing."
  },
  {
   "id": "3D7DE4.462",
@@ -3653,7 +3653,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まあまあだね",
-  "en": ""
+  "en": "Not bad."
  },
  {
   "id": "3D7DE4.463",
@@ -3661,7 +3661,7 @@
   "box": 0,
   "speaker": "",
   "jp": "予想通り…かな？",
-  "en": ""
+  "en": "Just as I expected... perhaps?"
  },
  {
   "id": "3D7DE4.464",
@@ -3669,7 +3669,7 @@
   "box": 0,
   "speaker": "",
   "jp": "フーン、なかなかガンバるね　",
-  "en": ""
+  "en": "Hmm, you're putting up quite a fight."
  },
  {
   "id": "3D7DE4.465",
@@ -3677,7 +3677,7 @@
   "box": 0,
   "speaker": "",
   "jp": "この程度なのかい？　",
-  "en": ""
+  "en": "Is this the best you can do?"
  },
  {
   "id": "3D7DE4.466",
@@ -3685,7 +3685,7 @@
   "box": 0,
   "speaker": "",
   "jp": "当てたことは褒めてあげようかな？",
-  "en": ""
+  "en": "Shall I praise you for landing a hit?"
  },
  {
   "id": "3D7DE4.467",
@@ -3693,7 +3693,7 @@
   "box": 0,
   "speaker": "",
   "jp": "観察しがいがあるね、キミは　",
-  "en": ""
+  "en": "You're worth observing, you know."
  },
  {
   "id": "3D7DE4.468",
@@ -3701,7 +3701,7 @@
   "box": 0,
   "speaker": "",
   "jp": "へえ…なかなかやるね",
-  "en": ""
+  "en": "Oh... not bad at all."
  },
  {
   "id": "3D7DE4.469",
@@ -3709,7 +3709,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここまでやるとはね…",
-  "en": ""
+  "en": "I didn't think you'd go this far..."
  },
  {
   "id": "3D7DE4.470",
@@ -3717,7 +3717,7 @@
   "box": 0,
   "speaker": "",
   "jp": "その攻撃…興味深いね",
-  "en": ""
+  "en": "That attack... how interesting."
  },
  {
   "id": "3D7DE4.471",
@@ -3725,7 +3725,7 @@
   "box": 0,
   "speaker": "",
   "jp": "危険…だね、キミは　",
-  "en": ""
+  "en": "You're... dangerous, aren't you?"
  },
  {
   "id": "3D7DE4.472",
@@ -3733,7 +3733,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…なるほど　",
-  "en": ""
+  "en": "...I see."
  },
  {
   "id": "3D7DE4.474",
@@ -3741,7 +3741,7 @@
   "box": 0,
   "speaker": "",
   "jp": "蛮：",
-  "en": ""
+  "en": "Ban:"
  },
  {
   "id": "3D7DE4.475",
@@ -3749,7 +3749,7 @@
   "box": 0,
   "speaker": "",
   "jp": "喰われちまいな！",
-  "en": ""
+  "en": "Get devoured!"
  },
  {
   "id": "3D7DE4.476",
@@ -3757,7 +3757,7 @@
   "box": 0,
   "speaker": "",
   "jp": "シャアアアッ！　",
-  "en": ""
+  "en": "Hssshaaah!"
  },
  {
   "id": "3D7DE4.477",
@@ -3765,7 +3765,7 @@
   "box": 0,
   "speaker": "",
   "jp": "後悔すンじゃねえぞ！",
-  "en": ""
+  "en": "Don't say I didn't warn you!"
  },
  {
   "id": "3D7DE4.478",
@@ -3773,7 +3773,7 @@
   "box": 0,
   "speaker": "",
   "jp": "食らいやがれ！　",
-  "en": ""
+  "en": "Eat this!"
  },
  {
   "id": "3D7DE4.479",
@@ -3781,7 +3781,7 @@
   "box": 0,
   "speaker": "",
   "jp": "おおおぉぉお！　",
-  "en": ""
+  "en": "Raaaaaaah!"
  },
  {
   "id": "3D7DE4.481",
@@ -3789,7 +3789,7 @@
   "box": 0,
   "speaker": "",
   "jp": "任しとけ　銀次！",
-  "en": ""
+  "en": "Leave it to me, Ginji!"
  },
  {
   "id": "3D7DE4.482",
@@ -3797,7 +3797,7 @@
   "box": 0,
   "speaker": "",
   "jp": "手ェ貸すぜ！",
-  "en": ""
+  "en": "I'll lend you a hand!"
  },
  {
   "id": "3D7DE4.483",
@@ -3805,7 +3805,7 @@
   "box": 0,
   "speaker": "",
   "jp": "チッ！　しゃーねぇな！　",
-  "en": ""
+  "en": "Tch! Fine, whatever!"
  },
  {
   "id": "3D7DE4.484",
@@ -3813,7 +3813,7 @@
   "box": 0,
   "speaker": "",
   "jp": "このカリは高ェーぞ！",
-  "en": ""
+  "en": "This favor's gonna cost ya!"
  },
  {
   "id": "3D7DE4.485",
@@ -3821,7 +3821,7 @@
   "box": 0,
   "speaker": "",
   "jp": "援護が必要ってか？　",
-  "en": ""
+  "en": "Need backup, huh?"
  },
  {
   "id": "3D7DE4.486",
@@ -3829,7 +3829,7 @@
   "box": 0,
   "speaker": "",
   "jp": "この美堂蛮様に任せときな！　",
-  "en": ""
+  "en": "Leave it to the great Ban Mido!"
  },
  {
   "id": "3D7DE4.487",
@@ -3837,7 +3837,7 @@
   "box": 0,
   "speaker": "",
   "jp": "大丈夫か？　サムライ君？",
-  "en": ""
+  "en": "You okay, Samurai-kun?"
  },
  {
   "id": "3D7DE4.488",
@@ -3845,7 +3845,7 @@
   "box": 0,
   "speaker": "",
   "jp": "気に入らねェーが、加勢するぜ",
-  "en": ""
+  "en": "Don't like it, but I'll back you up."
  },
  {
   "id": "3D7DE4.490",
@@ -3853,7 +3853,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これで決めるぜ、銀次ィ！",
-  "en": ""
+  "en": "Let's finish this, Ginjiii!"
  },
  {
   "id": "3D7DE4.491",
@@ -3861,7 +3861,7 @@
   "box": 0,
   "speaker": "",
   "jp": "卑弥呼、抜かるんじゃねぇぞ！",
-  "en": ""
+  "en": "Himiko, don't you screw this up!"
  },
  {
   "id": "3D7DE4.492",
@@ -3869,7 +3869,7 @@
   "box": 0,
   "speaker": "",
   "jp": "しゃーねえな…行くぜ、ジャッカル！　",
-  "en": ""
+  "en": "Guess I've got no choice... Let's go, Jackal!"
  },
  {
   "id": "3D7DE4.493",
@@ -3877,7 +3877,7 @@
   "box": 0,
   "speaker": "",
   "jp": "行くぜ、絃使い！！　",
-  "en": ""
+  "en": "Let's go, string-user!!"
  },
  {
   "id": "3D7DE4.494",
@@ -3885,7 +3885,7 @@
   "box": 0,
   "speaker": "",
   "jp": "足引っ張るんじゃねえぞ、猿マワシ！　",
-  "en": ""
+  "en": "Don't drag me down, monkey trainer!"
  },
  {
   "id": "3D7DE4.495",
@@ -3893,7 +3893,7 @@
   "box": 0,
   "speaker": "",
   "jp": "気合入れてけよ、お笑いヤロー！　",
-  "en": ""
+  "en": "Get fired up, clown!"
  },
  {
   "id": "3D7DE4.496",
@@ -3901,7 +3901,7 @@
   "box": 0,
   "speaker": "",
   "jp": "抜かるんじゃねぇぞ、サムライ君！",
-  "en": ""
+  "en": "Don't you slip up, Samurai-kun!"
  },
  {
   "id": "3D7DE4.497",
@@ -3909,7 +3909,7 @@
   "box": 0,
   "speaker": "",
   "jp": "本気出せよ、ホスト野郎！！　",
-  "en": ""
+  "en": "Get serious, host boy!!"
  },
  {
   "id": "3D7DE4.499",
@@ -3917,7 +3917,7 @@
   "box": 0,
   "speaker": "",
   "jp": "よっしゃあ！　任しとけ、銀次ィ！",
-  "en": ""
+  "en": "All right! Leave it to me, Ginjiii!"
  },
  {
   "id": "3D7DE4.500",
@@ -3925,7 +3925,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ハッ！　やってみろよ、卑弥呼！　",
-  "en": ""
+  "en": "Hah! Show me what you've got, Himiko!"
  },
  {
   "id": "3D7DE4.501",
@@ -3933,7 +3933,7 @@
   "box": 0,
   "speaker": "",
   "jp": "なら、テメーも本気で行けよ！",
-  "en": ""
+  "en": "Then you go all out too!"
  },
  {
   "id": "3D7DE4.502",
@@ -3941,7 +3941,7 @@
   "box": 0,
   "speaker": "",
   "jp": "おう、任せろってんだよ！",
-  "en": ""
+  "en": "Yeah, just leave it to me!"
  },
  {
   "id": "3D7DE4.503",
@@ -3949,7 +3949,7 @@
   "box": 0,
   "speaker": "",
   "jp": "そりゃこっちのセリフだってんだよ！　",
-  "en": ""
+  "en": "That's my line, damn it!"
  },
  {
   "id": "3D7DE4.504",
@@ -3957,7 +3957,7 @@
   "box": 0,
   "speaker": "",
   "jp": "うるせえ！　黙ってろ、お笑いヤロー！",
-  "en": ""
+  "en": "Shut it! Pipe down, clown!"
  },
  {
   "id": "3D7DE4.505",
@@ -3965,7 +3965,7 @@
   "box": 0,
   "speaker": "",
   "jp": "おっと、俺様を置いてくんじゃねえ！　",
-  "en": ""
+  "en": "Whoa, don't leave me behind, damn it!"
  },
  {
   "id": "3D7DE4.506",
@@ -3973,7 +3973,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あいにくと俺はそれほど安かないぜ！　",
-  "en": ""
+  "en": "Sorry, but I don't come that cheap!"
  },
  {
   "id": "3D7DE4.508",
@@ -3981,7 +3981,7 @@
   "box": 0,
   "speaker": "",
   "jp": "どいてろ、銀次！！　",
-  "en": ""
+  "en": "Outta the way, Ginji!!"
  },
  {
   "id": "3D7DE4.509",
@@ -3989,7 +3989,7 @@
   "box": 0,
   "speaker": "",
   "jp": "卑弥呼、お前は下がってな！！",
-  "en": ""
+  "en": "Himiko, you stay back!!"
  },
  {
   "id": "3D7DE4.510",
@@ -3997,7 +3997,7 @@
   "box": 0,
   "speaker": "",
   "jp": "こいつぁ高くつくぜ、ジャッカル！！　",
-  "en": ""
+  "en": "This'll cost you, Jackal!!"
  },
  {
   "id": "3D7DE4.511",
@@ -4005,7 +4005,7 @@
   "box": 0,
   "speaker": "",
   "jp": "下がってろ、絃使い！！　",
-  "en": ""
+  "en": "Stay back, string-user!!"
  },
  {
   "id": "3D7DE4.512",
@@ -4013,7 +4013,7 @@
   "box": 0,
   "speaker": "",
   "jp": "貸しってことにしといてやらあ！！",
-  "en": ""
+  "en": "Let's call it a favor you owe me!!"
  },
  {
   "id": "3D7DE4.513",
@@ -4021,7 +4021,7 @@
   "box": 0,
   "speaker": "",
   "jp": "フザけすぎだ、お笑いヤロー！！　",
-  "en": ""
+  "en": "You're goofing off too much, clown!!"
  },
  {
   "id": "3D7DE4.514",
@@ -4029,7 +4029,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ヤベーんじゃねえか、サムライ君？",
-  "en": ""
+  "en": "Looking rough there, Samurai-kun?"
  },
  {
   "id": "3D7DE4.515",
@@ -4037,7 +4037,7 @@
   "box": 0,
   "speaker": "",
   "jp": "観察してる場合じゃねえぞ！！",
-  "en": ""
+  "en": "This ain't the time for observing!!"
  },
  {
   "id": "3D7DE4.516",
@@ -4045,7 +4045,7 @@
   "box": 0,
   "speaker": "",
   "jp": "銀次：　",
-  "en": ""
+  "en": "Ginji:"
  },
  {
   "id": "3D7DE4.517",
@@ -4053,7 +4053,7 @@
   "box": 0,
   "speaker": "",
   "jp": "このォォ！　",
-  "en": ""
+  "en": "Take thiiis!"
  },
  {
   "id": "3D7DE4.518",
@@ -4061,7 +4061,7 @@
   "box": 0,
   "speaker": "",
   "jp": "うおおおおっ！　",
-  "en": ""
+  "en": "Hrraaaaagh!"
  },
  {
   "id": "3D7DE4.519",
@@ -4069,7 +4069,7 @@
   "box": 0,
   "speaker": "",
   "jp": "いっけええええっ！！",
-  "en": ""
+  "en": "Here goooes!!"
  },
  {
   "id": "3D7DE4.520",
@@ -4077,7 +4077,7 @@
   "box": 0,
   "speaker": "",
   "jp": "思いっきりいくよ！！",
-  "en": ""
+  "en": "I'm going all out!!"
  },
  {
   "id": "3D7DE4.521",
@@ -4085,7 +4085,7 @@
   "box": 0,
   "speaker": "",
   "jp": "シビれたらゴメンね！！　",
-  "en": ""
+  "en": "Sorry if this zaps you!!"
  },
  {
   "id": "3D7DE4.522",
@@ -4093,7 +4093,7 @@
   "box": 0,
   "speaker": "",
   "jp": "蛮ちゃん手伝うよ！！",
-  "en": ""
+  "en": "I'll help you, Ban-chan!!"
  },
  {
   "id": "3D7DE4.524",
@@ -4101,7 +4101,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここはオレに任せてよ！　",
-  "en": ""
+  "en": "Leave this to me!"
  },
  {
   "id": "3D7DE4.525",
@@ -4109,7 +4109,7 @@
   "box": 0,
   "speaker": "",
   "jp": "て、手伝います！",
-  "en": ""
+  "en": "I-I'll help!"
  },
  {
   "id": "3D7DE4.526",
@@ -4117,7 +4117,7 @@
   "box": 0,
   "speaker": "",
   "jp": "大丈夫、カヅっちゃん？　",
-  "en": ""
+  "en": "You okay, Kazu-chan?"
  },
  {
   "id": "3D7DE4.527",
@@ -4125,7 +4125,7 @@
   "box": 0,
   "speaker": "",
   "jp": "協力するよ！",
-  "en": ""
+  "en": "I'll help out!"
  },
  {
   "id": "3D7DE4.528",
@@ -4133,7 +4133,7 @@
   "box": 0,
   "speaker": "",
   "jp": "オレにも手伝わせてよ！　",
-  "en": ""
+  "en": "Let me help too!"
  },
  {
   "id": "3D7DE4.529",
@@ -4141,7 +4141,7 @@
   "box": 0,
   "speaker": "",
   "jp": "オレも加勢するよ！　",
-  "en": ""
+  "en": "I'll back you up too!"
  },
  {
   "id": "3D7DE4.530",
@@ -4149,7 +4149,7 @@
   "box": 0,
   "speaker": "",
   "jp": "え、援護します！　　",
-  "en": ""
+  "en": "I-I'll cover you!"
  },
  {
   "id": "3D7DE4.531",
@@ -4157,7 +4157,7 @@
   "box": 0,
   "speaker": "",
   "jp": "蛮ちゃん、行けるよ！",
-  "en": ""
+  "en": "Ban-chan, we can do this!"
  },
  {
   "id": "3D7DE4.533",
@@ -4165,7 +4165,7 @@
   "box": 0,
   "speaker": "",
   "jp": "卑弥呼ちゃん、今だよ！　",
-  "en": ""
+  "en": "Himiko-chan, now!"
  },
  {
   "id": "3D7DE4.534",
@@ -4173,7 +4173,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あ、赤屍さん、お願いします！",
-  "en": ""
+  "en": "A-Akabane-san, please!"
  },
  {
   "id": "3D7DE4.535",
@@ -4181,7 +4181,7 @@
   "box": 0,
   "speaker": "",
   "jp": "今だよ、カヅっちゃん！　",
-  "en": ""
+  "en": "Now, Kazu-chan!"
  },
  {
   "id": "3D7DE4.536",
@@ -4189,7 +4189,7 @@
   "box": 0,
   "speaker": "",
   "jp": "士度、力を合わせよう！　",
-  "en": ""
+  "en": "Shido, let's team up!"
  },
  {
   "id": "3D7DE4.537",
@@ -4197,7 +4197,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑師、チャンスだよ！",
-  "en": ""
+  "en": "Emishi, here's our chance!"
  },
  {
   "id": "3D7DE4.538",
@@ -4205,7 +4205,7 @@
   "box": 0,
   "speaker": "",
   "jp": "十兵衛、協力しよう！",
-  "en": ""
+  "en": "Juubei, let's work together!"
  },
  {
   "id": "3D7DE4.539",
@@ -4213,7 +4213,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鏡さん、行きますよ！",
-  "en": ""
+  "en": "Kagami-san, here we go!"
  },
  {
   "id": "3D7DE4.540",
@@ -4221,7 +4221,7 @@
   "box": 0,
   "speaker": "",
   "jp": "任せてよ、蛮ちゃん！",
-  "en": ""
+  "en": "Leave it to me, Ban-chan!"
  },
  {
   "id": "3D7DE4.542",
@@ -4229,7 +4229,7 @@
   "box": 0,
   "speaker": "",
   "jp": "任せて、卑弥呼ちゃん！　",
-  "en": ""
+  "en": "Count on me, Himiko-chan!"
  },
  {
   "id": "3D7DE4.543",
@@ -4237,7 +4237,7 @@
   "box": 0,
   "speaker": "",
   "jp": "わ、分かりました…行きますよ！　",
-  "en": ""
+  "en": "O-Okay... here I go!"
  },
  {
   "id": "3D7DE4.544",
@@ -4245,7 +4245,7 @@
   "box": 0,
   "speaker": "",
   "jp": "よし行こう、カヅっちゃん！　",
-  "en": ""
+  "en": "Okay, let's go, Kazu-chan!"
  },
  {
   "id": "3D7DE4.545",
@@ -4253,7 +4253,7 @@
   "box": 0,
   "speaker": "",
   "jp": "こっちはＯＫだよ、士度！",
-  "en": ""
+  "en": "I'm good to go, Shido!"
  },
  {
   "id": "3D7DE4.546",
@@ -4261,7 +4261,7 @@
   "box": 0,
   "speaker": "",
   "jp": "じゃあ行くよ！　笑師！　",
-  "en": ""
+  "en": "Here we go! Emishi!"
  },
  {
   "id": "3D7DE4.547",
@@ -4269,7 +4269,7 @@
   "box": 0,
   "speaker": "",
   "jp": "うん！　…今は雷帝じゃないんだけどね",
-  "en": ""
+  "en": "Yeah! ...I'm not the Thunder Emperor now."
  },
  {
   "id": "3D7DE4.548",
@@ -4277,7 +4277,7 @@
   "box": 0,
   "speaker": "",
   "jp": "えっ、あの…行きますよ！　鏡さん！！",
-  "en": ""
+  "en": "Huh? Um... here I go! Kagami-san!!"
  },
  {
   "id": "3D7DE4.549",
@@ -4285,7 +4285,7 @@
   "box": 0,
   "speaker": "",
   "jp": "危ない、蛮ちゃん！！",
-  "en": ""
+  "en": "Look out, Ban-chan!!"
  },
  {
   "id": "3D7DE4.551",
@@ -4293,7 +4293,7 @@
   "box": 0,
   "speaker": "",
   "jp": "卑弥呼ちゃんは下がってて！！",
-  "en": ""
+  "en": "Stay back, Himiko-chan!!"
  },
  {
   "id": "3D7DE4.552",
@@ -4301,7 +4301,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あ、赤屍さん、危ないですよ！！　",
-  "en": ""
+  "en": "A-Akabane-san, it's dangerous!!"
  },
  {
   "id": "3D7DE4.553",
@@ -4309,7 +4309,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここはオレに任せてよ！！",
-  "en": ""
+  "en": "Leave this to me!!"
  },
  {
   "id": "3D7DE4.554",
@@ -4317,7 +4317,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これ以上は危ないよ、士度！！",
-  "en": ""
+  "en": "Any more is too dangerous, Shido!!"
  },
  {
   "id": "3D7DE4.555",
@@ -4325,7 +4325,7 @@
   "box": 0,
   "speaker": "",
   "jp": "危ないよ、笑師！！　",
-  "en": ""
+  "en": "Look out, Emishi!!"
  },
  {
   "id": "3D7DE4.556",
@@ -4333,7 +4333,7 @@
   "box": 0,
   "speaker": "",
   "jp": "十兵衛、下がって！！",
-  "en": ""
+  "en": "Juubei, get back!!"
  },
  {
   "id": "3D7DE4.557",
@@ -4341,7 +4341,7 @@
   "box": 0,
   "speaker": "",
   "jp": "やらせるもんか！！　",
-  "en": ""
+  "en": "I won't let you!!"
  },
  {
   "id": "3D7DE4.558",
@@ -4349,7 +4349,7 @@
   "box": 0,
   "speaker": "",
   "jp": "卑弥呼：",
-  "en": ""
+  "en": "Himiko:"
  },
  {
   "id": "3D7DE4.559",
@@ -4357,7 +4357,7 @@
   "box": 0,
   "speaker": "",
   "jp": "もらった！　",
-  "en": ""
+  "en": "Gotcha!"
  },
  {
   "id": "3D7DE4.560",
@@ -4365,7 +4365,7 @@
   "box": 0,
   "speaker": "",
   "jp": "覚悟はいいかしら？　",
-  "en": ""
+  "en": "Ready for this?"
  },
  {
   "id": "3D7DE4.561",
@@ -4373,7 +4373,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ナメてもらっちゃ困るわ！",
-  "en": ""
+  "en": "Don't you underestimate me!"
  },
  {
   "id": "3D7DE4.562",
@@ -4381,7 +4381,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これでどうかしら？　",
-  "en": ""
+  "en": "How about this?"
  },
  {
   "id": "3D7DE4.563",
@@ -4389,7 +4389,7 @@
   "box": 0,
   "speaker": "",
   "jp": "女だからって甘くみないでよね！！",
-  "en": ""
+  "en": "Don't take me lightly 'cause I'm a girl!!"
  },
  {
   "id": "3D7DE4.564",
@@ -4397,7 +4397,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…これも仕事だからね！　",
-  "en": ""
+  "en": "...It's all part of the job!"
  },
  {
   "id": "3D7DE4.565",
@@ -4405,7 +4405,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あたしも手伝うわ！　",
-  "en": ""
+  "en": "I'll help too!"
  },
  {
   "id": "3D7DE4.567",
@@ -4413,7 +4413,7 @@
   "box": 0,
   "speaker": "",
   "jp": "援護するわ、ジャッカル！",
-  "en": ""
+  "en": "I've got your back, Jackal!"
  },
  {
   "id": "3D7DE4.568",
@@ -4421,7 +4421,7 @@
   "box": 0,
   "speaker": "",
   "jp": "協力するわ！",
-  "en": ""
+  "en": "I'll lend a hand!"
  },
  {
   "id": "3D7DE4.569",
@@ -4429,7 +4429,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あたしに任せて！",
-  "en": ""
+  "en": "Leave it to me!"
  },
  {
   "id": "3D7DE4.570",
@@ -4437,7 +4437,7 @@
   "box": 0,
   "speaker": "",
   "jp": "加勢させてもらうわよ？　",
-  "en": ""
+  "en": "Mind if I join in?"
  },
  {
   "id": "3D7DE4.571",
@@ -4445,7 +4445,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここは手伝うわ！",
-  "en": ""
+  "en": "I'll help out here!"
  },
  {
   "id": "3D7DE4.572",
@@ -4453,7 +4453,7 @@
   "box": 0,
   "speaker": "",
   "jp": "今度はあたしが観察しようかしら？",
-  "en": ""
+  "en": "Maybe I'll do the observing this time?"
  },
  {
   "id": "3D7DE4.573",
@@ -4461,7 +4461,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あたしの力、見せてあげるわよ！　蛮！",
-  "en": ""
+  "en": "I'll show you what I can do, Ban!"
  },
  {
   "id": "3D7DE4.574",
@@ -4469,7 +4469,7 @@
   "box": 0,
   "speaker": "",
   "jp": "行くわよ！　",
-  "en": ""
+  "en": "Let's go!"
  },
  {
   "id": "3D7DE4.576",
@@ -4477,7 +4477,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ジャッカル！　本気で行くわよ！　",
-  "en": ""
+  "en": "Jackal! I'm going all out!"
  },
  {
   "id": "3D7DE4.577",
@@ -4485,7 +4485,7 @@
   "box": 0,
   "speaker": "",
   "jp": "用意はいいかしら？　",
-  "en": ""
+  "en": "Are you ready?"
  },
  {
   "id": "3D7DE4.578",
@@ -4493,7 +4493,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あんたの力、見せてもらうわよ！　",
-  "en": ""
+  "en": "Show me what you've got!"
  },
  {
   "id": "3D7DE4.579",
@@ -4501,7 +4501,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ちょっと、足引っ張らないでよね！",
-  "en": ""
+  "en": "Hey, don't you drag me down!"
  },
  {
   "id": "3D7DE4.580",
@@ -4509,7 +4509,7 @@
   "box": 0,
   "speaker": "",
   "jp": "二人がかりなんてシュミじゃないけど！",
-  "en": ""
+  "en": "Teaming up isn't my style, but...!"
  },
  {
   "id": "3D7DE4.581",
@@ -4517,7 +4517,7 @@
   "box": 0,
   "speaker": "",
   "jp": "行くわよ、カッコつけのオニイさん？　",
-  "en": ""
+  "en": "Let's go, Mr. Show-Off."
  },
  {
   "id": "3D7DE4.582",
@@ -4525,7 +4525,7 @@
   "box": 0,
   "speaker": "",
   "jp": "分かってるわよ、蛮！",
-  "en": ""
+  "en": "I know, Ban!"
  },
  {
   "id": "3D7DE4.583",
@@ -4533,7 +4533,7 @@
   "box": 0,
   "speaker": "",
   "jp": "任せなさい！",
-  "en": ""
+  "en": "Leave it to me!"
  },
  {
   "id": "3D7DE4.585",
@@ -4541,7 +4541,7 @@
   "box": 0,
   "speaker": "",
   "jp": "分かっているわ、ジャッカル！",
-  "en": ""
+  "en": "I'm aware, Jackal!"
  },
  {
   "id": "3D7DE4.586",
@@ -4549,7 +4549,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レディ・ポイズンの名はダテじゃないわ",
-  "en": ""
+  "en": "The name Lady Poison isn't just for show."
  },
  {
   "id": "3D7DE4.587",
@@ -4557,7 +4557,7 @@
   "box": 0,
   "speaker": "",
   "jp": "バカにしないで！！　",
-  "en": ""
+  "en": "Don't mock me!!"
  },
  {
   "id": "3D7DE4.588",
@@ -4565,7 +4565,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ふざけてないで真剣に行くわよ！　",
-  "en": ""
+  "en": "Quit fooling around and get serious!"
  },
  {
   "id": "3D7DE4.589",
@@ -4573,7 +4573,7 @@
   "box": 0,
   "speaker": "",
   "jp": "女だと思って甘く見ないでよね！　",
-  "en": ""
+  "en": "Don't take me lightly 'cause I'm a woman!"
  },
  {
   "id": "3D7DE4.590",
@@ -4581,7 +4581,7 @@
   "box": 0,
   "speaker": "",
   "jp": "いつでもどうぞ、鏡形而サン！",
-  "en": ""
+  "en": "Anytime you like, Kyoji Kagami-san!"
  },
  {
   "id": "3D7DE4.591",
@@ -4589,7 +4589,7 @@
   "box": 0,
   "speaker": "",
   "jp": "危ないわよ、蛮！！　",
-  "en": ""
+  "en": "Look out, Ban!!"
  },
  {
   "id": "3D7DE4.592",
@@ -4597,7 +4597,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ちょっと、しっかりしなさいよ！！",
-  "en": ""
+  "en": "Hey, pull yourself together!!"
  },
  {
   "id": "3D7DE4.594",
@@ -4605,7 +4605,7 @@
   "box": 0,
   "speaker": "",
   "jp": "貸しってことにしとくわ…",
-  "en": ""
+  "en": "You owe me one..."
  },
  {
   "id": "3D7DE4.595",
@@ -4613,7 +4613,7 @@
   "box": 0,
   "speaker": "",
   "jp": "仕方ないわね！！",
-  "en": ""
+  "en": "Oh, fine!!"
  },
  {
   "id": "3D7DE4.596",
@@ -4621,7 +4621,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これも仕事のうちよ！！　",
-  "en": ""
+  "en": "It's all part of the job!!"
  },
  {
   "id": "3D7DE4.597",
@@ -4629,7 +4629,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アンタは下がってて！！　",
-  "en": ""
+  "en": "You stay back!!"
  },
  {
   "id": "3D7DE4.598",
@@ -4637,7 +4637,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここはあたしが！！　",
-  "en": ""
+  "en": "I'll handle this!!"
  },
  {
   "id": "3D7DE4.599",
@@ -4645,7 +4645,7 @@
   "box": 0,
   "speaker": "",
   "jp": "そろそろ本気出したらどう？　",
-  "en": ""
+  "en": "Isn't it time you got serious?"
  },
  {
   "id": "3D7DE4.600",
@@ -4653,7 +4653,7 @@
   "box": 0,
   "speaker": "",
   "jp": "赤屍：　",
-  "en": ""
+  "en": "Akabane:"
  },
  {
   "id": "3D7DE4.601",
@@ -4661,7 +4661,7 @@
   "box": 0,
   "speaker": "",
   "jp": "私を楽しませて下さい",
-  "en": ""
+  "en": "Please, entertain me."
  },
  {
   "id": "3D7DE4.602",
@@ -4669,7 +4669,7 @@
   "box": 0,
   "speaker": "",
   "jp": "この私には役不足ですね　",
-  "en": ""
+  "en": "You are no match for me, I am afraid."
  },
  {
   "id": "3D7DE4.603",
@@ -4677,7 +4677,7 @@
   "box": 0,
   "speaker": "",
   "jp": "準備はいいですか？　",
-  "en": ""
+  "en": "Are you ready?"
  },
  {
   "id": "3D7DE4.604",
@@ -4685,7 +4685,7 @@
   "box": 0,
   "speaker": "",
   "jp": "さあ、いきますよ",
-  "en": ""
+  "en": "Now, here I come."
  },
  {
   "id": "3D7DE4.605",
@@ -4693,7 +4693,7 @@
   "box": 0,
   "speaker": "",
   "jp": "覚悟は決まりましたか？　",
-  "en": ""
+  "en": "Have you made your peace?"
  },
  {
   "id": "3D7DE4.606",
@@ -4701,7 +4701,7 @@
   "box": 0,
   "speaker": "",
   "jp": "フ…面白い…",
-  "en": ""
+  "en": "Heh... interesting..."
  },
  {
   "id": "3D7DE4.607",
@@ -4709,7 +4709,7 @@
   "box": 0,
   "speaker": "",
   "jp": "銀次クン…大丈夫ですか？",
-  "en": ""
+  "en": "Ginji-kun... are you all right?"
  },
  {
   "id": "3D7DE4.608",
@@ -4717,7 +4717,7 @@
   "box": 0,
   "speaker": "",
   "jp": "手伝いますよ、レディポイズン",
-  "en": ""
+  "en": "Allow me to help, Lady Poison."
  },
  {
   "id": "3D7DE4.610",
@@ -4725,7 +4725,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…援護させていただきましょう",
-  "en": ""
+  "en": "...Allow me to assist you."
  },
  {
   "id": "3D7DE4.611",
@@ -4733,7 +4733,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…もっと楽しませてください　",
-  "en": ""
+  "en": "...Entertain me some more."
  },
  {
   "id": "3D7DE4.612",
@@ -4741,7 +4741,7 @@
   "box": 0,
   "speaker": "",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "3D7DE4.613",
@@ -4749,7 +4749,7 @@
   "box": 0,
   "speaker": "",
   "jp": "クス…　",
-  "en": ""
+  "en": "Heh..."
  },
  {
   "id": "3D7DE4.614",
@@ -4757,7 +4757,7 @@
   "box": 0,
   "speaker": "",
   "jp": "実に興味深い…ですね",
-  "en": ""
+  "en": "Truly... fascinating."
  },
  {
   "id": "3D7DE4.615",
@@ -4765,7 +4765,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あなたの本当の力を見せていただきたい",
-  "en": ""
+  "en": "I would like to see your true power."
  },
  {
   "id": "3D7DE4.616",
@@ -4773,7 +4773,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あなたの１００％の力…見せて下さい　",
-  "en": ""
+  "en": "Show me... 100% of your power."
  },
  {
   "id": "3D7DE4.617",
@@ -4781,7 +4781,7 @@
   "box": 0,
   "speaker": "",
   "jp": "それでは行きますよ、レディ・ポイズン",
-  "en": ""
+  "en": "Shall we, then, Lady Poison?"
  },
  {
   "id": "3D7DE4.619",
@@ -4789,7 +4789,7 @@
   "box": 0,
   "speaker": "",
   "jp": "絃術の腕、拝見させていただきましょう",
-  "en": ""
+  "en": "Let me see your skill with the strings."
  },
  {
   "id": "3D7DE4.620",
@@ -4797,7 +4797,7 @@
   "box": 0,
   "speaker": "",
   "jp": "動物に擬態するとは…面白い方ですね　",
-  "en": ""
+  "en": "Animal mimicry... What an interesting man."
  },
  {
   "id": "3D7DE4.621",
@@ -4805,7 +4805,7 @@
   "box": 0,
   "speaker": "",
   "jp": "楼蘭の鞭、見せていただきましょう",
-  "en": ""
+  "en": "Show me your Loulan whip."
  },
  {
   "id": "3D7DE4.622",
@@ -4813,7 +4813,7 @@
   "box": 0,
   "speaker": "",
   "jp": "黒磁鉱の針を使うとは…面白いですね　",
-  "en": ""
+  "en": "Black magnetite needles... How interesting."
  },
  {
   "id": "3D7DE4.623",
@@ -4821,7 +4821,7 @@
   "box": 0,
   "speaker": "",
   "jp": "塔の住人の力、見せていただきましょう",
-  "en": ""
+  "en": "Show me the power of a Tower resident."
  },
  {
   "id": "3D7DE4.624",
@@ -4829,7 +4829,7 @@
   "box": 0,
   "speaker": "",
   "jp": "クス…任せて下さい　",
-  "en": ""
+  "en": "Heh... leave it to me."
  },
  {
   "id": "3D7DE4.625",
@@ -4837,7 +4837,7 @@
   "box": 0,
   "speaker": "",
   "jp": "クス、あなたがそう言うのなら…　",
-  "en": ""
+  "en": "Heh, if you insist..."
  },
  {
   "id": "3D7DE4.626",
@@ -4845,7 +4845,7 @@
   "box": 0,
   "speaker": "",
   "jp": "分かっていますよ、レディ・ポイズン　",
-  "en": ""
+  "en": "I am aware, Lady Poison."
  },
  {
   "id": "3D7DE4.628",
@@ -4853,7 +4853,7 @@
   "box": 0,
   "speaker": "",
   "jp": "私は敵ではありませんよ、今は…ね",
-  "en": ""
+  "en": "I am not your enemy. For now, that is."
  },
  {
   "id": "3D7DE4.629",
@@ -4861,7 +4861,7 @@
   "box": 0,
   "speaker": "",
   "jp": "クス…　",
-  "en": ""
+  "en": "Heh..."
  },
  {
   "id": "3D7DE4.630",
@@ -4869,7 +4869,7 @@
   "box": 0,
   "speaker": "",
   "jp": "クス…いいでしょう　",
-  "en": ""
+  "en": "Heh... very well."
  },
  {
   "id": "3D7DE4.631",
@@ -4877,7 +4877,7 @@
   "box": 0,
   "speaker": "",
   "jp": "クス…　",
-  "en": ""
+  "en": "Heh..."
  },
  {
   "id": "3D7DE4.632",
@@ -4885,7 +4885,7 @@
   "box": 0,
   "speaker": "",
   "jp": "それはあなたもですよ、鏡形而クン？　",
-  "en": ""
+  "en": "The same goes for you, Kyoji Kagami-kun."
  },
  {
   "id": "3D7DE4.633",
@@ -4893,7 +4893,7 @@
   "box": 0,
   "speaker": "",
   "jp": "倒れられるわけにはいきませんからね…",
-  "en": ""
+  "en": "I cannot have you falling now..."
  },
  {
   "id": "3D7DE4.634",
@@ -4901,7 +4901,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あなたはこの私が倒したい…　",
-  "en": ""
+  "en": "I want to be the one who defeats you..."
  },
  {
   "id": "3D7DE4.635",
@@ -4909,7 +4909,7 @@
   "box": 0,
   "speaker": "",
   "jp": "大丈夫ですか、レディ・ポイズン？",
-  "en": ""
+  "en": "Are you all right, Lady Poison?"
  },
  {
   "id": "3D7DE4.637",
@@ -4917,7 +4917,7 @@
   "box": 0,
   "speaker": "",
   "jp": "代わりになりましょう",
-  "en": ""
+  "en": "Let me take your place."
  },
  {
   "id": "3D7DE4.638",
@@ -4925,7 +4925,7 @@
   "box": 0,
   "speaker": "",
   "jp": "この私に任せていただきましょう　",
-  "en": ""
+  "en": "Leave this to me."
  },
  {
   "id": "3D7DE4.639",
@@ -4933,7 +4933,7 @@
   "box": 0,
   "speaker": "",
   "jp": "顔色が悪いですよ…　",
-  "en": ""
+  "en": "You look rather pale..."
  },
  {
   "id": "3D7DE4.640",
@@ -4941,7 +4941,7 @@
   "box": 0,
   "speaker": "",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "3D7DE4.641",
@@ -4949,7 +4949,7 @@
   "box": 0,
   "speaker": "",
   "jp": "どうしました、こんなものですか？",
-  "en": ""
+  "en": "What is the matter? Is this all?"
  },
  {
   "id": "3D7DE4.642",
@@ -4957,7 +4957,7 @@
   "box": 0,
   "speaker": "",
   "jp": "花月：　",
-  "en": ""
+  "en": "Kazuki:"
  },
  {
   "id": "3D7DE4.643",
@@ -4965,7 +4965,7 @@
   "box": 0,
   "speaker": "",
   "jp": "愚かな…",
-  "en": ""
+  "en": "Foolish..."
  },
  {
   "id": "3D7DE4.644",
@@ -4973,7 +4973,7 @@
   "box": 0,
   "speaker": "",
   "jp": "逃げ場はないぞ　",
-  "en": ""
+  "en": "There's nowhere to run."
  },
  {
   "id": "3D7DE4.645",
@@ -4981,7 +4981,7 @@
   "box": 0,
   "speaker": "",
   "jp": "君の負けだ　",
-  "en": ""
+  "en": "You lose."
  },
  {
   "id": "3D7DE4.646",
@@ -4989,7 +4989,7 @@
   "box": 0,
   "speaker": "",
   "jp": "今こそ味わうがよい　",
-  "en": ""
+  "en": "Now, have a taste."
  },
  {
   "id": "3D7DE4.647",
@@ -4997,7 +4997,7 @@
   "box": 0,
   "speaker": "",
   "jp": "行くぞ！！　",
-  "en": ""
+  "en": "Here I come!!"
  },
  {
   "id": "3D7DE4.648",
@@ -5005,7 +5005,7 @@
   "box": 0,
   "speaker": "",
   "jp": "協力しましょう！",
-  "en": ""
+  "en": "Let's work together!"
  },
  {
   "id": "3D7DE4.649",
@@ -5013,7 +5013,7 @@
   "box": 0,
   "speaker": "",
   "jp": "僕に任せてください　",
-  "en": ""
+  "en": "Leave it to me."
  },
  {
   "id": "3D7DE4.650",
@@ -5021,7 +5021,7 @@
   "box": 0,
   "speaker": "",
   "jp": "手伝いますよ、卑弥呼さん！　",
-  "en": ""
+  "en": "I'll help, Himiko-san!"
  },
  {
   "id": "3D7DE4.651",
@@ -5029,7 +5029,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…仕方ないですね",
-  "en": ""
+  "en": "...I suppose I have no choice."
  },
  {
   "id": "3D7DE4.653",
@@ -5037,7 +5037,7 @@
   "box": 0,
   "speaker": "",
   "jp": "力を貸そう！",
-  "en": ""
+  "en": "I'll lend you my strength!"
  },
  {
   "id": "3D7DE4.654",
@@ -5045,7 +5045,7 @@
   "box": 0,
   "speaker": "",
   "jp": "援護しよう、笑師！　",
-  "en": ""
+  "en": "I'll cover you, Emishi!"
  },
  {
   "id": "3D7DE4.655",
@@ -5053,7 +5053,7 @@
   "box": 0,
   "speaker": "",
   "jp": "加勢するよ、十兵衛！",
-  "en": ""
+  "en": "I'm with you, Juubei!"
  },
  {
   "id": "3D7DE4.656",
@@ -5061,7 +5061,7 @@
   "box": 0,
   "speaker": "",
   "jp": "援護しましょう！",
-  "en": ""
+  "en": "Let me support you!"
  },
  {
   "id": "3D7DE4.657",
@@ -5069,7 +5069,7 @@
   "box": 0,
   "speaker": "",
   "jp": "行きますよ、美堂さん！　",
-  "en": ""
+  "en": "Here we go, Mido-san!"
  },
  {
   "id": "3D7DE4.658",
@@ -5077,7 +5077,7 @@
   "box": 0,
   "speaker": "",
   "jp": "銀次さん、お願いします！",
-  "en": ""
+  "en": "Ginji-san, please!"
  },
  {
   "id": "3D7DE4.659",
@@ -5085,7 +5085,7 @@
   "box": 0,
   "speaker": "",
   "jp": "卑弥呼さん、行けますか？",
-  "en": ""
+  "en": "Himiko-san, are you ready?"
  },
  {
   "id": "3D7DE4.660",
@@ -5093,7 +5093,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あなたを信用していいんですね？　",
-  "en": ""
+  "en": "I can trust you, can't I?"
  },
  {
   "id": "3D7DE4.662",
@@ -5101,7 +5101,7 @@
   "box": 0,
   "speaker": "",
   "jp": "士度、力を合わせるんだ！",
-  "en": ""
+  "en": "Shido, let's join forces!"
  },
  {
   "id": "3D7DE4.663",
@@ -5109,7 +5109,7 @@
   "box": 0,
   "speaker": "",
   "jp": "油断は禁物だ、笑師！",
-  "en": ""
+  "en": "Don't let your guard down, Emishi!"
  },
  {
   "id": "3D7DE4.664",
@@ -5117,7 +5117,7 @@
   "box": 0,
   "speaker": "",
   "jp": "十兵衛…！　",
-  "en": ""
+  "en": "Juubei...!"
  },
  {
   "id": "3D7DE4.665",
@@ -5125,7 +5125,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あなたの力を貸していただきましょう！",
-  "en": ""
+  "en": "Please lend me your strength!"
  },
  {
   "id": "3D7DE4.666",
@@ -5133,7 +5133,7 @@
   "box": 0,
   "speaker": "",
   "jp": "任せて下さい！　",
-  "en": ""
+  "en": "Leave it to me!"
  },
  {
   "id": "3D7DE4.667",
@@ -5141,7 +5141,7 @@
   "box": 0,
   "speaker": "",
   "jp": "分かりました！　",
-  "en": ""
+  "en": "Understood!"
  },
  {
   "id": "3D7DE4.668",
@@ -5149,7 +5149,7 @@
   "box": 0,
   "speaker": "",
   "jp": "いいですよ、卑弥呼さん！",
-  "en": ""
+  "en": "Ready when you are, Himiko-san!"
  },
  {
   "id": "3D7DE4.669",
@@ -5157,7 +5157,7 @@
   "box": 0,
   "speaker": "",
   "jp": "いいでしょう、行きますよ！　",
-  "en": ""
+  "en": "Very well, here we go!"
  },
  {
   "id": "3D7DE4.671",
@@ -5165,7 +5165,7 @@
   "box": 0,
   "speaker": "",
   "jp": "分かったよ、士度！　",
-  "en": ""
+  "en": "Got it, Shido!"
  },
  {
   "id": "3D7DE4.672",
@@ -5173,7 +5173,7 @@
   "box": 0,
   "speaker": "",
   "jp": "いいだろう！　行くぞ、笑師！",
-  "en": ""
+  "en": "Very well! Let's go, Emishi!"
  },
  {
   "id": "3D7DE4.673",
@@ -5181,7 +5181,7 @@
   "box": 0,
   "speaker": "",
   "jp": "よし！　行こう、十兵衛！",
-  "en": ""
+  "en": "Right! Let's go, Juubei!"
  },
  {
   "id": "3D7DE4.674",
@@ -5189,7 +5189,7 @@
   "box": 0,
   "speaker": "",
   "jp": "任せて下さい！　",
-  "en": ""
+  "en": "Leave it to me!"
  },
  {
   "id": "3D7DE4.675",
@@ -5197,7 +5197,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここは僕が代わりに！！　",
-  "en": ""
+  "en": "I'll take your place!!"
  },
  {
   "id": "3D7DE4.676",
@@ -5205,7 +5205,7 @@
   "box": 0,
   "speaker": "",
   "jp": "危ない！　銀次さん！！　",
-  "en": ""
+  "en": "Look out! Ginji-san!!"
  },
  {
   "id": "3D7DE4.677",
@@ -5213,7 +5213,7 @@
   "box": 0,
   "speaker": "",
   "jp": "卑弥呼さん、危険ですよ！！　",
-  "en": ""
+  "en": "Himiko-san, it's dangerous!!"
  },
  {
   "id": "3D7DE4.678",
@@ -5221,7 +5221,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここは僕に任せて下さい！！　",
-  "en": ""
+  "en": "Leave this to me!!"
  },
  {
   "id": "3D7DE4.680",
@@ -5229,7 +5229,7 @@
   "box": 0,
   "speaker": "",
   "jp": "士度！　ここは下がるんだ！！",
-  "en": ""
+  "en": "Shido! Fall back!!"
  },
  {
   "id": "3D7DE4.681",
@@ -5237,7 +5237,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これ以上は危険だ、笑師！！　",
-  "en": ""
+  "en": "It's too dangerous to go on, Emishi!!"
  },
  {
   "id": "3D7DE4.682",
@@ -5245,7 +5245,7 @@
   "box": 0,
   "speaker": "",
   "jp": "君を死なせるわけにはいかない！！",
-  "en": ""
+  "en": "I won't let you die!!"
  },
  {
   "id": "3D7DE4.683",
@@ -5253,7 +5253,7 @@
   "box": 0,
   "speaker": "",
   "jp": "援護しましょう！！　",
-  "en": ""
+  "en": "Let me cover you!!"
  },
  {
   "id": "3D7DE4.684",
@@ -5261,7 +5261,7 @@
   "box": 0,
   "speaker": "",
   "jp": "士度：　",
-  "en": ""
+  "en": "Shido:"
  },
  {
   "id": "3D7DE4.685",
@@ -5269,7 +5269,7 @@
   "box": 0,
   "speaker": "",
   "jp": "お前の負けだ！　",
-  "en": ""
+  "en": "You lose!"
  },
  {
   "id": "3D7DE4.686",
@@ -5277,7 +5277,7 @@
   "box": 0,
   "speaker": "",
   "jp": "格の違いを教えてやる！　",
-  "en": ""
+  "en": "I'll show you the difference between us!"
  },
  {
   "id": "3D7DE4.687",
@@ -5285,7 +5285,7 @@
   "box": 0,
   "speaker": "",
   "jp": "受けてみろ！！　",
-  "en": ""
+  "en": "Take this!!"
  },
  {
   "id": "3D7DE4.688",
@@ -5293,7 +5293,7 @@
   "box": 0,
   "speaker": "",
   "jp": "食らいな！！",
-  "en": ""
+  "en": "Eat this!!"
  },
  {
   "id": "3D7DE4.689",
@@ -5301,7 +5301,7 @@
   "box": 0,
   "speaker": "",
   "jp": "見せてやるぜ！！",
-  "en": ""
+  "en": "Watch this!!"
  },
  {
   "id": "3D7DE4.690",
@@ -5309,7 +5309,7 @@
   "box": 0,
   "speaker": "",
   "jp": "やる気あンのか？　ウニ頭",
-  "en": ""
+  "en": "You even trying, urchin head?"
  },
  {
   "id": "3D7DE4.691",
@@ -5317,7 +5317,7 @@
   "box": 0,
   "speaker": "",
   "jp": "援護するぜ、銀次！　",
-  "en": ""
+  "en": "I've got your back, Ginji!"
  },
  {
   "id": "3D7DE4.692",
@@ -5325,7 +5325,7 @@
   "box": 0,
   "speaker": "",
   "jp": "俺が助けてやるぜ",
-  "en": ""
+  "en": "I'll help you out."
  },
  {
   "id": "3D7DE4.693",
@@ -5333,7 +5333,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…手伝ってやるよ！　",
-  "en": ""
+  "en": "...I'll give you a hand!"
  },
  {
   "id": "3D7DE4.694",
@@ -5341,7 +5341,7 @@
   "box": 0,
   "speaker": "",
   "jp": "俺に任せろっ！　",
-  "en": ""
+  "en": "Leave it to me!"
  },
  {
   "id": "3D7DE4.696",
@@ -5349,7 +5349,7 @@
   "box": 0,
   "speaker": "",
   "jp": "協力するぜ、笑師！　",
-  "en": ""
+  "en": "I'm with you, Emishi!"
  },
  {
   "id": "3D7DE4.697",
@@ -5357,7 +5357,7 @@
   "box": 0,
   "speaker": "",
   "jp": "援護は任せろ！　",
-  "en": ""
+  "en": "I'll cover you!"
  },
  {
   "id": "3D7DE4.698",
@@ -5365,7 +5365,7 @@
   "box": 0,
   "speaker": "",
   "jp": "まあ一応、加勢するぜ！　",
-  "en": ""
+  "en": "Well, I'll back you up, I guess!"
  },
  {
   "id": "3D7DE4.699",
@@ -5373,7 +5373,7 @@
   "box": 0,
   "speaker": "",
   "jp": "俺のジャマすんじゃねえぞ、ウニ頭！　",
-  "en": ""
+  "en": "Don't get in my way, urchin head!"
  },
  {
   "id": "3D7DE4.700",
@@ -5381,7 +5381,7 @@
   "box": 0,
   "speaker": "",
   "jp": "全力で行くぜ、銀次！",
-  "en": ""
+  "en": "Going all out, Ginji!"
  },
  {
   "id": "3D7DE4.701",
@@ -5389,7 +5389,7 @@
   "box": 0,
   "speaker": "",
   "jp": "悪ィが全力出してくぜ！　",
-  "en": ""
+  "en": "Sorry, but I'm going all out!"
  },
  {
   "id": "3D7DE4.702",
@@ -5397,7 +5397,7 @@
   "box": 0,
   "speaker": "",
   "jp": "テメーの力を借りることになるとはな！",
-  "en": ""
+  "en": "Never thought I'd need your help!"
  },
  {
   "id": "3D7DE4.703",
@@ -5405,7 +5405,7 @@
   "box": 0,
   "speaker": "",
   "jp": "花月、そっちは任せたぜ！",
-  "en": ""
+  "en": "Kazuki, I'm counting on you over there!"
  },
  {
   "id": "3D7DE4.705",
@@ -5413,7 +5413,7 @@
   "box": 0,
   "speaker": "",
   "jp": "俺のスピードについて来いよ、笑師！　",
-  "en": ""
+  "en": "Keep up with my speed, Emishi!"
  },
  {
   "id": "3D7DE4.706",
@@ -5421,7 +5421,7 @@
   "box": 0,
   "speaker": "",
   "jp": "十兵衛、力を合わせるぞ！",
-  "en": ""
+  "en": "Juubei, let's join forces!"
  },
  {
   "id": "3D7DE4.707",
@@ -5429,7 +5429,7 @@
   "box": 0,
   "speaker": "",
   "jp": "俺のジャマすんじゃねーぞ！　",
-  "en": ""
+  "en": "Don't get in my way!"
  },
  {
   "id": "3D7DE4.708",
@@ -5437,7 +5437,7 @@
   "box": 0,
   "speaker": "",
   "jp": "テメーこそな！　",
-  "en": ""
+  "en": "Same to you!"
  },
  {
   "id": "3D7DE4.709",
@@ -5445,7 +5445,7 @@
   "box": 0,
   "speaker": "",
   "jp": "よし！　銀次、行くぜ！　",
-  "en": ""
+  "en": "Right! Ginji, let's go!"
  },
  {
   "id": "3D7DE4.710",
@@ -5453,7 +5453,7 @@
   "box": 0,
   "speaker": "",
   "jp": "任せてもらおうか！　",
-  "en": ""
+  "en": "Leave it to me!"
  },
  {
   "id": "3D7DE4.711",
@@ -5461,7 +5461,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…さあ、行くぜ！",
-  "en": ""
+  "en": "...Now, let's go!"
  },
  {
   "id": "3D7DE4.712",
@@ -5469,7 +5469,7 @@
   "box": 0,
   "speaker": "",
   "jp": "よし、こっちは任せろ、花月！！　",
-  "en": ""
+  "en": "Right, I've got this side, Kazuki!!"
  },
  {
   "id": "3D7DE4.714",
@@ -5477,7 +5477,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アホか！　マジメにやれ、笑師！　",
-  "en": ""
+  "en": "Idiot! Take this seriously, Emishi!"
  },
  {
   "id": "3D7DE4.715",
@@ -5485,7 +5485,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あたりめぇだ！　いつでもいいぜ！！　",
-  "en": ""
+  "en": "Damn right! Ready anytime!!"
  },
  {
   "id": "3D7DE4.716",
@@ -5493,7 +5493,7 @@
   "box": 0,
   "speaker": "",
   "jp": "甘く見るな、いつでも行けるぜ！　",
-  "en": ""
+  "en": "Don't take me lightly. I'm ready anytime!"
  },
  {
   "id": "3D7DE4.717",
@@ -5501,7 +5501,7 @@
   "box": 0,
   "speaker": "",
   "jp": "いいザマだな、ウニ頭！！",
-  "en": ""
+  "en": "Serves you right, urchin head!!"
  },
  {
   "id": "3D7DE4.718",
@@ -5509,7 +5509,7 @@
   "box": 0,
   "speaker": "",
   "jp": "銀次、ここは任せな！！　",
-  "en": ""
+  "en": "Ginji, leave this to me!!"
  },
  {
   "id": "3D7DE4.719",
@@ -5517,7 +5517,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あんたはどいてな！！",
-  "en": ""
+  "en": "You, out of the way!!"
  },
  {
   "id": "3D7DE4.720",
@@ -5525,7 +5525,7 @@
   "box": 0,
   "speaker": "",
   "jp": "どうにも気に入らねえがな！！",
-  "en": ""
+  "en": "Not that I like it one bit!!"
  },
  {
   "id": "3D7DE4.721",
@@ -5533,7 +5533,7 @@
   "box": 0,
   "speaker": "",
   "jp": "花月、ちっと下がってな！！　",
-  "en": ""
+  "en": "Kazuki, stay back a sec!!"
  },
  {
   "id": "3D7DE4.723",
@@ -5541,7 +5541,7 @@
   "box": 0,
   "speaker": "",
   "jp": "すぐに■めるのは悪いクセだぜ！！",
-  "en": ""
+  "en": "Giving up so fast is a bad habit!!"
  },
  {
   "id": "3D7DE4.724",
@@ -5549,7 +5549,7 @@
   "box": 0,
   "speaker": "",
   "jp": "大丈夫かよ、十兵衛！？　",
-  "en": ""
+  "en": "You okay, Juubei?!"
  },
  {
   "id": "3D7DE4.725",
@@ -5557,7 +5557,7 @@
   "box": 0,
   "speaker": "",
   "jp": "…しゃーねえな！！　",
-  "en": ""
+  "en": "...Guess I've got no choice!!"
  },
  {
   "id": "3D7DE4.726",
@@ -5565,7 +5565,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑師：　",
-  "en": ""
+  "en": "Emishi:"
  },
  {
   "id": "3D7DE4.727",
@@ -5573,7 +5573,7 @@
   "box": 0,
   "speaker": "",
   "jp": "かんにんやで！　",
-  "en": ""
+  "en": "Sorry 'bout this!"
  },
  {
   "id": "3D7DE4.728",
@@ -5581,7 +5581,7 @@
   "box": 0,
   "speaker": "",
   "jp": "一緒に笑おうや！",
-  "en": ""
+  "en": "Let's all laugh together!"
  },
  {
   "id": "3D7DE4.729",
@@ -5589,7 +5589,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これで終わらしたる！！　",
-  "en": ""
+  "en": "I'll end it with this!!"
  },
  {
   "id": "3D7DE4.730",
@@ -5597,7 +5597,7 @@
   "box": 0,
   "speaker": "",
   "jp": "せめて血飛沫に嗤うたるで！　",
-  "en": ""
+  "en": "Least I can do is laugh at the blood spray!"
  },
  {
   "id": "3D7DE4.731",
@@ -5605,7 +5605,7 @@
   "box": 0,
   "speaker": "",
   "jp": "本気で行きまっせ！！",
-  "en": ""
+  "en": "Here I go, for real!!"
  },
  {
   "id": "3D7DE4.732",
@@ -5613,7 +5613,7 @@
   "box": 0,
   "speaker": "",
   "jp": "手伝いまっせ！　",
-  "en": ""
+  "en": "I'll help ya out!"
  },
  {
   "id": "3D7DE4.733",
@@ -5621,7 +5621,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここはワイに任せてーや！",
-  "en": ""
+  "en": "Leave this one to me!"
  },
  {
   "id": "3D7DE4.734",
@@ -5629,7 +5629,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑師春樹参上やで！　",
-  "en": ""
+  "en": "Emishi Haruki has arrived!"
  },
  {
   "id": "3D7DE4.735",
@@ -5637,7 +5637,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あんま気ぃー進まんけど、仕方ないな！",
-  "en": ""
+  "en": "Not really feelin' it, but whatever!"
  },
  {
   "id": "3D7DE4.736",
@@ -5645,7 +5645,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ひとりじめはずるいでっせ！　",
-  "en": ""
+  "en": "Hoggin' it all ain't fair!"
  },
  {
   "id": "3D7DE4.737",
@@ -5653,7 +5653,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ワイの力が必要でっか？　",
-  "en": ""
+  "en": "Need my help, do ya?"
  },
  {
   "id": "3D7DE4.739",
@@ -5661,7 +5661,7 @@
   "box": 0,
   "speaker": "",
   "jp": "お礼に寒いギャグはごめんやで！　",
-  "en": ""
+  "en": "Don't thank me with a lame gag, now!"
  },
  {
   "id": "3D7DE4.740",
@@ -5669,7 +5669,7 @@
   "box": 0,
   "speaker": "",
   "jp": "援護させてもらいまっせ！",
-  "en": ""
+  "en": "Lemme back ya up!"
  },
  {
   "id": "3D7DE4.741",
@@ -5677,7 +5677,7 @@
   "box": 0,
   "speaker": "",
   "jp": "息の合ったコンビ、敵に見せつけたろ！",
-  "en": ""
+  "en": "Let's show 'em what a real duo looks like!"
  },
  {
   "id": "3D7DE4.742",
@@ -5685,7 +5685,7 @@
   "box": 0,
   "speaker": "",
   "jp": "雷帝と一緒に戦うなんて光栄やなあ！　",
-  "en": ""
+  "en": "With the Thunder Emperor? I'm honored!"
  },
  {
   "id": "3D7DE4.743",
@@ -5693,7 +5693,7 @@
   "box": 0,
   "speaker": "",
   "jp": "こないな子と夫婦漫才できひんかなぁ？",
-  "en": ""
+  "en": "Wonder if she'd do a married comedy act?"
  },
  {
   "id": "3D7DE4.744",
@@ -5701,7 +5701,7 @@
   "box": 0,
   "speaker": "",
   "jp": "あんさんの力、ワイに貸してもらうで！",
-  "en": ""
+  "en": "I'm borrowin' your power, pal!"
  },
  {
   "id": "3D7DE4.745",
@@ -5709,7 +5709,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鞭と絃…どっちか早いか勝負やで！",
-  "en": ""
+  "en": "Whip or strings... which is faster?!"
  },
  {
   "id": "3D7DE4.746",
@@ -5717,7 +5717,7 @@
   "box": 0,
   "speaker": "",
   "jp": "今こそボケツッコミの真髄極めるで～！",
-  "en": ""
+  "en": "Now to master the art of comedy duos~!"
  },
  {
   "id": "3D7DE4.748",
@@ -5725,7 +5725,7 @@
   "box": 0,
   "speaker": "",
   "jp": "もうかってまっか？　十兵衛はん！？　",
-  "en": ""
+  "en": "How's business, Juubei-han?!"
  },
  {
   "id": "3D7DE4.749",
@@ -5733,7 +5733,7 @@
   "box": 0,
   "speaker": "",
   "jp": "塔の住人がなんぼのモンか見せてーや！",
-  "en": ""
+  "en": "Show me what a Tower resident's worth!"
  },
  {
   "id": "3D7DE4.750",
@@ -5741,7 +5741,7 @@
   "box": 0,
   "speaker": "",
   "jp": "よっしゃ、任せとき！",
-  "en": ""
+  "en": "All right, leave it to me!"
  },
  {
   "id": "3D7DE4.751",
@@ -5749,7 +5749,7 @@
   "box": 0,
   "speaker": "",
   "jp": "雷帝と一緒やったら無敵やなぁ！　",
-  "en": ""
+  "en": "With the Thunder Emperor, we can't lose!"
  },
  {
   "id": "3D7DE4.752",
@@ -5757,7 +5757,7 @@
   "box": 0,
   "speaker": "",
   "jp": "なんや、つれないなぁ…卑弥呼はん",
-  "en": ""
+  "en": "Aw, so cold... Himiko-han."
  },
  {
   "id": "3D7DE4.753",
@@ -5765,7 +5765,7 @@
   "box": 0,
   "speaker": "",
   "jp": "よっしゃ！　遅れんとついて来いや！　",
-  "en": ""
+  "en": "All right! Try to keep up!"
  },
  {
   "id": "3D7DE4.754",
@@ -5773,7 +5773,7 @@
   "box": 0,
   "speaker": "",
   "jp": "分かっとる！　こっちは任せてえや！　",
-  "en": ""
+  "en": "Got it! Leave this side to me!"
  },
  {
   "id": "3D7DE4.755",
@@ -5781,7 +5781,7 @@
   "box": 0,
   "speaker": "",
   "jp": "任しとき、士度はん！！　",
-  "en": ""
+  "en": "Leave it to me, Shido-han!!"
  },
  {
   "id": "3D7DE4.757",
@@ -5789,7 +5789,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ワイはいつでもマジメでっせ！",
-  "en": ""
+  "en": "I'm always serious, I'll have ya know!"
  },
  {
   "id": "3D7DE4.758",
@@ -5797,7 +5797,7 @@
   "box": 0,
   "speaker": "",
   "jp": "言われへんでもやったるで！　",
-  "en": ""
+  "en": "Ya don't gotta tell me!"
  },
  {
   "id": "3D7DE4.759",
@@ -5805,7 +5805,7 @@
   "box": 0,
   "speaker": "",
   "jp": "危ないで、美堂はん！！　",
-  "en": ""
+  "en": "Look out, Mido-han!!"
  },
  {
   "id": "3D7DE4.760",
@@ -5813,7 +5813,7 @@
   "box": 0,
   "speaker": "",
   "jp": "雷帝をこないなトコでやらせへん！！　",
-  "en": ""
+  "en": "No way the Thunder Emperor falls here!!"
  },
  {
   "id": "3D7DE4.761",
@@ -5821,7 +5821,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ワイが守ったるで！！",
-  "en": ""
+  "en": "I'll protect ya!!"
  },
  {
   "id": "3D7DE4.762",
@@ -5829,7 +5829,7 @@
   "box": 0,
   "speaker": "",
   "jp": "珍しな、あんさんがピンチだなんて！　",
-  "en": ""
+  "en": "Well, that's rare, you in a pinch!"
  },
  {
   "id": "3D7DE4.763",
@@ -5837,7 +5837,7 @@
   "box": 0,
   "speaker": "",
   "jp": "花月はん、下がっといてーや！！　",
-  "en": ""
+  "en": "Kazuki-han, stay back!!"
  },
  {
   "id": "3D7DE4.764",
@@ -5845,7 +5845,7 @@
   "box": 0,
   "speaker": "",
   "jp": "させへんで！！　",
-  "en": ""
+  "en": "Not on my watch!!"
  },
  {
   "id": "3D7DE4.766",
@@ -5853,7 +5853,7 @@
   "box": 0,
   "speaker": "",
   "jp": "任せといてや、十兵衛はん！！",
-  "en": ""
+  "en": "Leave it to me, Juubei-han!!"
  },
  {
   "id": "3D7DE4.767",
@@ -5861,7 +5861,7 @@
   "box": 0,
   "speaker": "",
   "jp": "塔の住人も形無しやな！！",
-  "en": ""
+  "en": "Some Tower resident you are!!"
  },
  {
   "id": "3D7DE4.768",
@@ -5869,7 +5869,7 @@
   "box": 0,
   "speaker": "",
   "jp": "十兵衛：",
-  "en": ""
+  "en": "Juubei:"
  },
  {
   "id": "3D7DE4.769",
@@ -5877,7 +5877,7 @@
   "box": 0,
   "speaker": "",
   "jp": "筧流針術！　",
-  "en": ""
+  "en": "Kakei school needle art!"
  },
  {
   "id": "3D7DE4.770",
@@ -5885,7 +5885,7 @@
   "box": 0,
   "speaker": "",
   "jp": "行くぞ！",
-  "en": ""
+  "en": "Here I come!"
  },
  {
   "id": "3D7DE4.771",
@@ -5893,7 +5893,7 @@
   "box": 0,
   "speaker": "",
   "jp": "覚悟はいいか？　",
-  "en": ""
+  "en": "Are you prepared?"
  },
  {
   "id": "3D7DE4.772",
@@ -5901,7 +5901,7 @@
   "box": 0,
   "speaker": "",
   "jp": "参る！！",
-  "en": ""
+  "en": "Have at you!!"
  },
  {
   "id": "3D7DE4.773",
@@ -5909,7 +5909,7 @@
   "box": 0,
   "speaker": "",
   "jp": "いざ、勝負！！　",
-  "en": ""
+  "en": "Now, we fight!!"
  },
  {
   "id": "3D7DE4.774",
@@ -5917,7 +5917,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここは協力するぞ、美堂蛮！　",
-  "en": ""
+  "en": "I will aid you this time, Ban Mido!"
  },
  {
   "id": "3D7DE4.775",
@@ -5925,7 +5925,7 @@
   "box": 0,
   "speaker": "",
   "jp": "任せろ、雷帝！　",
-  "en": ""
+  "en": "Leave it to me, Thunder Emperor!"
  },
  {
   "id": "3D7DE4.776",
@@ -5933,7 +5933,7 @@
   "box": 0,
   "speaker": "",
   "jp": "俺が援護する！　",
-  "en": ""
+  "en": "I will cover you!"
  },
  {
   "id": "3D7DE4.777",
@@ -5941,7 +5941,7 @@
   "box": 0,
   "speaker": "",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "3D7DE4.778",
@@ -5949,7 +5949,7 @@
   "box": 0,
   "speaker": "",
   "jp": "お前は俺が守る！",
-  "en": ""
+  "en": "I will protect you!"
  },
  {
   "id": "3D7DE4.779",
@@ -5957,7 +5957,7 @@
   "box": 0,
   "speaker": "",
   "jp": "手伝うぞ、ビーストマスター！",
-  "en": ""
+  "en": "I will help you, Beastmaster!"
  },
  {
   "id": "3D7DE4.780",
@@ -5965,7 +5965,7 @@
   "box": 0,
   "speaker": "",
   "jp": "協力するぞ、笑師！　",
-  "en": ""
+  "en": "I will aid you, Emishi!"
  },
  {
   "id": "3D7DE4.782",
@@ -5973,7 +5973,7 @@
   "box": 0,
   "speaker": "",
   "jp": "加勢いたす！",
-  "en": ""
+  "en": "I shall assist!"
  },
  {
   "id": "3D7DE4.783",
@@ -5981,7 +5981,7 @@
   "box": 0,
   "speaker": "",
   "jp": "参る！　",
-  "en": ""
+  "en": "Here I come!"
  },
  {
   "id": "3D7DE4.784",
@@ -5989,7 +5989,7 @@
   "box": 0,
   "speaker": "",
   "jp": "行くぞ、雷帝！！",
-  "en": ""
+  "en": "Let us go, Thunder Emperor!!"
  },
  {
   "id": "3D7DE4.785",
@@ -5997,7 +5997,7 @@
   "box": 0,
   "speaker": "",
   "jp": "毒香水の魔女、準備はいいか？",
-  "en": ""
+  "en": "Poison Perfume Witch, are you ready?"
  },
  {
   "id": "3D7DE4.786",
@@ -6005,7 +6005,7 @@
   "box": 0,
   "speaker": "",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "3D7DE4.787",
@@ -6013,7 +6013,7 @@
   "box": 0,
   "speaker": "",
   "jp": "花月、今こそ針絃一体の力を！",
-  "en": ""
+  "en": "Kazuki, now! Needle and string as one!"
  },
  {
   "id": "3D7DE4.788",
@@ -6021,7 +6021,7 @@
   "box": 0,
   "speaker": "",
   "jp": "用意はいいか、ビーストマスター？",
-  "en": ""
+  "en": "Are you ready, Beastmaster?"
  },
  {
   "id": "3D7DE4.789",
@@ -6029,7 +6029,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑師、たまには真剣に行くぞ！",
-  "en": ""
+  "en": "Emishi, be serious for once!"
  },
  {
   "id": "3D7DE4.791",
@@ -6037,7 +6037,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鏡、貴様の力を見せてもらおうか！",
-  "en": ""
+  "en": "Kagami, show me your power!"
  },
  {
   "id": "3D7DE4.792",
@@ -6045,7 +6045,7 @@
   "box": 0,
   "speaker": "",
   "jp": "承知！　",
-  "en": ""
+  "en": "Understood!"
  },
  {
   "id": "3D7DE4.793",
@@ -6053,7 +6053,7 @@
   "box": 0,
   "speaker": "",
   "jp": "承知した、雷帝！",
-  "en": ""
+  "en": "Understood, Thunder Emperor!"
  },
  {
   "id": "3D7DE4.794",
@@ -6061,7 +6061,7 @@
   "box": 0,
   "speaker": "",
   "jp": "同感だな！　",
-  "en": ""
+  "en": "Agreed!"
  },
  {
   "id": "3D7DE4.795",
@@ -6069,7 +6069,7 @@
   "box": 0,
   "speaker": "",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "3D7DE4.796",
@@ -6077,7 +6077,7 @@
   "box": 0,
   "speaker": "",
   "jp": "分かっている、花月！　俺に任せろ！　",
-  "en": ""
+  "en": "I know, Kazuki! Leave it to me!"
  },
  {
   "id": "3D7DE4.797",
@@ -6085,7 +6085,7 @@
   "box": 0,
   "speaker": "",
   "jp": "承知した！　",
-  "en": ""
+  "en": "Very well!"
  },
  {
   "id": "3D7DE4.798",
@@ -6093,7 +6093,7 @@
   "box": 0,
   "speaker": "",
   "jp": "戦いの場で戯言はやめろ！",
-  "en": ""
+  "en": "No foolishness on the battlefield!"
  },
  {
   "id": "3D7DE4.800",
@@ -6101,7 +6101,7 @@
   "box": 0,
   "speaker": "",
   "jp": "俺はいつでも本気だ！　行くぞ！！",
-  "en": ""
+  "en": "I am always serious! Here I come!!"
  },
  {
   "id": "3D7DE4.801",
@@ -6109,7 +6109,7 @@
   "box": 0,
   "speaker": "",
   "jp": "美堂、ここは助太刀致す！！　",
-  "en": ""
+  "en": "Mido, I shall aid you here!!"
  },
  {
   "id": "3D7DE4.802",
@@ -6117,7 +6117,7 @@
   "box": 0,
   "speaker": "",
   "jp": "下がっていろ、雷帝！！　",
-  "en": ""
+  "en": "Stand back, Thunder Emperor!!"
  },
  {
   "id": "3D7DE4.803",
@@ -6125,7 +6125,7 @@
   "box": 0,
   "speaker": "",
   "jp": "やらせはせん！！",
-  "en": ""
+  "en": "I will not allow it!!"
  },
  {
   "id": "3D7DE4.804",
@@ -6133,7 +6133,7 @@
   "box": 0,
   "speaker": "",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "3D7DE4.805",
@@ -6141,7 +6141,7 @@
   "box": 0,
   "speaker": "",
   "jp": "貴様のことは俺が絶対に守ってやる！　",
-  "en": ""
+  "en": "I will protect you, no matter what!"
  },
  {
   "id": "3D7DE4.806",
@@ -6149,7 +6149,7 @@
   "box": 0,
   "speaker": "",
   "jp": "この場は任せておけ！！　",
-  "en": ""
+  "en": "Leave this to me!!"
  },
  {
   "id": "3D7DE4.807",
@@ -6157,7 +6157,7 @@
   "box": 0,
   "speaker": "",
   "jp": "俺に任せろ！！　",
-  "en": ""
+  "en": "Leave it to me!!"
  },
  {
   "id": "3D7DE4.809",
@@ -6165,7 +6165,7 @@
   "box": 0,
   "speaker": "",
   "jp": "どいてろ、鏡！！",
-  "en": ""
+  "en": "Out of the way, Kagami!!"
  },
  {
   "id": "3D7DE4.810",
@@ -6173,7 +6173,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鏡：",
-  "en": ""
+  "en": "Kagami:"
  },
  {
   "id": "3D7DE4.811",
@@ -6181,7 +6181,7 @@
   "box": 0,
   "speaker": "",
   "jp": "覚悟は決まったかな？",
-  "en": ""
+  "en": "Made up your mind yet?"
  },
  {
   "id": "3D7DE4.812",
@@ -6189,7 +6189,7 @@
   "box": 0,
   "speaker": "",
   "jp": "では始めるとしよう　",
-  "en": ""
+  "en": "Then let us begin."
  },
  {
   "id": "3D7DE4.813",
@@ -6197,7 +6197,7 @@
   "box": 0,
   "speaker": "",
   "jp": "お相手しようか　",
-  "en": ""
+  "en": "I'll be your opponent."
  },
  {
   "id": "3D7DE4.814",
@@ -6205,7 +6205,7 @@
   "box": 0,
   "speaker": "",
   "jp": "さあ、始めようか",
-  "en": ""
+  "en": "Well then, shall we start?"
  },
  {
   "id": "3D7DE4.815",
@@ -6213,7 +6213,7 @@
   "box": 0,
   "speaker": "",
   "jp": "受けてみるかい？",
-  "en": ""
+  "en": "Care to take this?"
  },
  {
   "id": "3D7DE4.816",
@@ -6221,7 +6221,7 @@
   "box": 0,
   "speaker": "",
   "jp": "観察料代わりだよ…なんてね　",
-  "en": ""
+  "en": "Call it my observation fee... just kidding."
  },
  {
   "id": "3D7DE4.817",
@@ -6229,7 +6229,7 @@
   "box": 0,
   "speaker": "",
   "jp": "手伝わせてもらおうか",
-  "en": ""
+  "en": "Allow me to help."
  },
  {
   "id": "3D7DE4.818",
@@ -6237,7 +6237,7 @@
   "box": 0,
   "speaker": "",
   "jp": "観察しがいがあるね　",
-  "en": ""
+  "en": "You're worth observing."
  },
  {
   "id": "3D7DE4.819",
@@ -6245,7 +6245,7 @@
   "box": 0,
   "speaker": "",
   "jp": "加勢の必要なんてない…かな？",
-  "en": ""
+  "en": "You don't need any help... do you?"
  },
  {
   "id": "3D7DE4.820",
@@ -6253,7 +6253,7 @@
   "box": 0,
   "speaker": "",
   "jp": "キミに協力しようか？",
-  "en": ""
+  "en": "Shall I lend you a hand?"
  },
  {
   "id": "3D7DE4.821",
@@ -6261,7 +6261,7 @@
   "box": 0,
   "speaker": "",
   "jp": "加勢するよ　",
-  "en": ""
+  "en": "I'll back you up."
  },
  {
   "id": "3D7DE4.822",
@@ -6269,7 +6269,7 @@
   "box": 0,
   "speaker": "",
   "jp": "そろそろ倒してあげないとね？",
-  "en": ""
+  "en": "Time I finished them off for you, hm?"
  },
  {
   "id": "3D7DE4.823",
@@ -6277,7 +6277,7 @@
   "box": 0,
   "speaker": "",
   "jp": "援護するよ　",
-  "en": ""
+  "en": "I'll cover you."
  },
  {
   "id": "3D7DE4.825",
@@ -6285,7 +6285,7 @@
   "box": 0,
   "speaker": "",
   "jp": "キミの本当の力…見せてもらおうかな？",
-  "en": ""
+  "en": "Your true power... will you show me?"
  },
  {
   "id": "3D7DE4.826",
@@ -6293,7 +6293,7 @@
   "box": 0,
   "speaker": "",
   "jp": "雷帝、か。キミは観察しがいがあるね　",
-  "en": ""
+  "en": "Thunder Emperor... You're worth observing."
  },
  {
   "id": "3D7DE4.827",
@@ -6301,7 +6301,7 @@
   "box": 0,
   "speaker": "",
   "jp": "準備はいいかな、レディ・ポイズン？　",
-  "en": ""
+  "en": "Ready, Lady Poison?"
  },
  {
   "id": "3D7DE4.828",
@@ -6309,7 +6309,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ドクタージャッカルか…興味深いね",
-  "en": ""
+  "en": "Dr. Jackal, hm... how intriguing."
  },
  {
   "id": "3D7DE4.829",
@@ -6317,7 +6317,7 @@
   "box": 0,
   "speaker": "",
   "jp": "そろそろ行こうか、絃の花月クン？",
-  "en": ""
+  "en": "Shall we go, Kazuki-kun of the strings?"
  },
  {
   "id": "3D7DE4.830",
@@ -6325,7 +6325,7 @@
   "box": 0,
   "speaker": "",
   "jp": "行けるかい、ビーストマスター？　",
-  "en": ""
+  "en": "Can you go on, Beastmaster?"
  },
  {
   "id": "3D7DE4.831",
@@ -6333,7 +6333,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鮮血のジョーカーの力…見てみたいな　",
-  "en": ""
+  "en": "I'd like to see the Crimson Joker's power..."
  },
  {
   "id": "3D7DE4.832",
@@ -6341,7 +6341,7 @@
   "box": 0,
   "speaker": "",
   "jp": "本気を出して欲しいな、飛針の十兵衛？",
-  "en": ""
+  "en": "Get serious, Juubei of the Flying Needles."
  },
  {
   "id": "3D7DE4.834",
@@ -6349,7 +6349,7 @@
   "box": 0,
   "speaker": "",
   "jp": "そうだね、そろそろ本気で行こうか",
-  "en": ""
+  "en": "Yes, I suppose it's time to get serious."
  },
  {
   "id": "3D7DE4.835",
@@ -6357,7 +6357,7 @@
   "box": 0,
   "speaker": "",
   "jp": "観察は終わり…だね　",
-  "en": ""
+  "en": "Observation's over... it seems."
  },
  {
   "id": "3D7DE4.836",
@@ -6365,7 +6365,7 @@
   "box": 0,
   "speaker": "",
   "jp": "任せて欲しいな、レディ・ポイズン？　",
-  "en": ""
+  "en": "Leave it to me, won't you, Lady Poison?"
  },
  {
   "id": "3D7DE4.837",
@@ -6373,7 +6373,7 @@
   "box": 0,
   "speaker": "",
   "jp": "だったらオレも観察させてもらおうかな",
-  "en": ""
+  "en": "Then maybe I'll do some observing too."
  },
  {
   "id": "3D7DE4.838",
@@ -6381,7 +6381,7 @@
   "box": 0,
   "speaker": "",
   "jp": "もちろん、キミがそう望むなら…ね",
-  "en": ""
+  "en": "Of course, if that's what you wish..."
  },
  {
   "id": "3D7DE4.839",
@@ -6389,7 +6389,7 @@
   "box": 0,
   "speaker": "",
   "jp": "もちろんだよ、ビーストマスター　",
-  "en": ""
+  "en": "Of course, Beastmaster."
  },
  {
   "id": "3D7DE4.840",
@@ -6397,7 +6397,7 @@
   "box": 0,
   "speaker": "",
   "jp": "いいよ…ただし、キミもだけどね　",
-  "en": ""
+  "en": "Fine... but the same goes for you."
  },
  {
   "id": "3D7DE4.841",
@@ -6405,7 +6405,7 @@
   "box": 0,
   "speaker": "",
   "jp": "いいとも…見極められるなら、ね　",
-  "en": ""
+  "en": "Gladly... if you can see it through, that is."
  },
  {
   "id": "3D7DE4.843",
@@ -6413,7 +6413,7 @@
   "box": 0,
   "speaker": "",
   "jp": "キミがピンチだなんてね…",
-  "en": ""
+  "en": "You, in a pinch? Well, well..."
  },
  {
   "id": "3D7DE4.844",
@@ -6421,7 +6421,7 @@
   "box": 0,
   "speaker": "",
   "jp": "助けが必要かな？",
-  "en": ""
+  "en": "Need some help?"
  },
  {
   "id": "3D7DE4.845",
@@ -6429,7 +6429,7 @@
   "box": 0,
   "speaker": "",
   "jp": "どうしたんだい、レディ・ポイズン？　",
-  "en": ""
+  "en": "What's wrong, Lady Poison?"
  },
  {
   "id": "3D7DE4.846",
@@ -6437,7 +6437,7 @@
   "box": 0,
   "speaker": "",
   "jp": "珍しいね…ドクター・ジャッカル　",
-  "en": ""
+  "en": "How rare... Dr. Jackal."
  },
  {
   "id": "3D7DE4.847",
@@ -6445,7 +6445,7 @@
   "box": 0,
   "speaker": "",
   "jp": "援護しようか？　",
-  "en": ""
+  "en": "Shall I cover you?"
  },
  {
   "id": "3D7DE4.848",
@@ -6453,7 +6453,7 @@
   "box": 0,
   "speaker": "",
   "jp": "危険…だね　",
-  "en": ""
+  "en": "Dangerous... isn't it?"
  },
  {
   "id": "3D7DE4.849",
@@ -6461,7 +6461,7 @@
   "box": 0,
   "speaker": "",
   "jp": "これ以上は危ない、ね",
-  "en": ""
+  "en": "Any more would be dangerous."
  },
  {
   "id": "3D7DE4.850",
@@ -6469,7 +6469,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここは任せてもらおうかな",
-  "en": ""
+  "en": "Let me handle this."
  },
  {
   "id": "3D7DE4.853",
@@ -6477,7 +6477,7 @@
   "box": 0,
   "speaker": "",
   "jp": "奪い屋　",
-  "en": ""
+  "en": "Snatcher"
  },
  {
   "id": "3D7DE4.854",
@@ -6485,7 +6485,7 @@
   "box": 0,
   "speaker": "",
   "jp": "使用人　",
-  "en": ""
+  "en": "Servant"
  },
  {
   "id": "3D7DE4.855",
@@ -6493,7 +6493,7 @@
   "box": 0,
   "speaker": "",
   "jp": "Ｃメンバー　",
-  "en": ""
+  "en": "C Member"
  },
  {
   "id": "3D7DE4.856",
@@ -6501,7 +6501,7 @@
   "box": 0,
   "speaker": "",
   "jp": "西園寺　",
-  "en": ""
+  "en": "Saionji"
  },
  {
   "id": "3D7DE4.857",
@@ -6509,7 +6509,7 @@
   "box": 0,
   "speaker": "",
   "jp": "警備員　",
-  "en": ""
+  "en": "Guard"
  },
  {
   "id": "3D7DE4.858",
@@ -6517,7 +6517,7 @@
   "box": 0,
   "speaker": "",
   "jp": "蛭田",
-  "en": ""
+  "en": "Hiruta"
  },
  {
   "id": "3D7DE4.859",
@@ -6525,7 +6525,7 @@
   "box": 0,
   "speaker": "",
   "jp": "赤屍",
-  "en": ""
+  "en": "Akabane"
  },
  {
   "id": "3D7DE4.860",
@@ -6533,7 +6533,7 @@
   "box": 0,
   "speaker": "",
   "jp": "卑弥呼　",
-  "en": ""
+  "en": "Himiko"
  },
  {
   "id": "3D7DE4.861",
@@ -6541,7 +6541,7 @@
   "box": 0,
   "speaker": "",
   "jp": "横取り屋",
-  "en": ""
+  "en": "Poacher"
  },
  {
   "id": "3D7DE4.862",
@@ -6549,7 +6549,7 @@
   "box": 0,
   "speaker": "",
   "jp": "マッスルファイター龍",
-  "en": ""
+  "en": "Muscle Fighter Dragon"
  },
  {
   "id": "3D7DE4.863",
@@ -6557,7 +6557,7 @@
   "box": 0,
   "speaker": "",
   "jp": "山城",
-  "en": ""
+  "en": "Yamashiro"
  },
  {
   "id": "3D7DE4.864",
@@ -6565,7 +6565,7 @@
   "box": 0,
   "speaker": "",
   "jp": "マッスルファイター虎",
-  "en": ""
+  "en": "Muscle Fighter Tiger"
  },
  {
   "id": "3D7DE4.865",
@@ -6573,7 +6573,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アイドルひかる　",
-  "en": ""
+  "en": "Idol Hikaru"
  },
  {
   "id": "3D7DE4.866",
@@ -6581,7 +6581,7 @@
   "box": 0,
   "speaker": "",
   "jp": "お笑い芸人弟子　",
-  "en": ""
+  "en": "Comedian Apprentice"
  },
  {
   "id": "3D7DE4.867",
@@ -6589,7 +6589,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アイドルあきら　",
-  "en": ""
+  "en": "Idol Akira"
  },
  {
   "id": "3D7DE4.868",
@@ -6597,7 +6597,7 @@
   "box": 0,
   "speaker": "",
   "jp": "お笑い芸人師匠　",
-  "en": ""
+  "en": "Comedian Master"
  },
  {
   "id": "3D7DE4.869",
@@ -6605,7 +6605,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ザ☆シグナルズ　",
-  "en": ""
+  "en": "The Signals"
  },
  {
   "id": "3D7DE4.870",
@@ -6613,7 +6613,7 @@
   "box": 0,
   "speaker": "",
   "jp": "横取り屋弟　",
-  "en": ""
+  "en": "Poacher Little Bro"
  },
  {
   "id": "3D7DE4.871",
@@ -6621,7 +6621,7 @@
   "box": 0,
   "speaker": "",
   "jp": "横取り屋兄　",
-  "en": ""
+  "en": "Poacher Big Bro"
  },
  {
   "id": "3D7DE4.872",
@@ -6629,7 +6629,7 @@
   "box": 0,
   "speaker": "",
   "jp": "横取り屋長兄",
-  "en": ""
+  "en": "Poacher Eldest Bro"
  },
  {
   "id": "3D7DE4.873",
@@ -6637,7 +6637,7 @@
   "box": 0,
   "speaker": "",
   "jp": "横取り屋父　",
-  "en": ""
+  "en": "Poacher Dad"
  },
  {
   "id": "3D7DE4.874",
@@ -6645,7 +6645,7 @@
   "box": 0,
   "speaker": "",
   "jp": "バタリー",
-  "en": ""
+  "en": "Batary"
  },
  {
   "id": "3D7DE4.875",
@@ -6653,7 +6653,7 @@
   "box": 0,
   "speaker": "",
   "jp": "Ｓサービス　",
-  "en": ""
+  "en": "S-Service"
  },
  {
   "id": "3D7DE4.876",
@@ -6661,7 +6661,7 @@
   "box": 0,
   "speaker": "",
   "jp": "弥勒",
-  "en": ""
+  "en": "Miroku"
  },
  {
   "id": "3D7DE4.877",
@@ -6669,7 +6669,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ユストス",
-  "en": ""
+  "en": "Iustus"
  },
  {
   "id": "3D7DE4.878",
@@ -6677,7 +6677,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レーフォ",
-  "en": ""
+  "en": "Lefo"
  },
  {
   "id": "3D7DE4.879",
@@ -6685,7 +6685,7 @@
   "box": 0,
   "speaker": "",
   "jp": "エルミト",
-  "en": ""
+  "en": "Hermite"
  },
  {
   "id": "3D7DE4.880",
@@ -6693,7 +6693,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アムルー",
-  "en": ""
+  "en": "Amoureux"
  },
  {
   "id": "3D7DE4.881",
@@ -6701,7 +6701,7 @@
   "box": 0,
   "speaker": "",
   "jp": "シャリオ",
-  "en": ""
+  "en": "Chariot"
  },
  {
   "id": "3D7DE4.882",
@@ -6709,7 +6709,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ペンデュ",
-  "en": ""
+  "en": "Pendu"
  },
  {
   "id": "3D7DE4.883",
@@ -6717,7 +6717,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鏡　",
-  "en": ""
+  "en": "Kagami"
  },
  {
   "id": "3D7DE4.884",
@@ -6725,7 +6725,7 @@
   "box": 0,
   "speaker": "",
   "jp": "テューヌ",
-  "en": ""
+  "en": "Tune"
  },
  {
   "id": "3D7DE4.885",
@@ -6733,7 +6733,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モール　",
-  "en": ""
+  "en": "Mort"
  },
  {
   "id": "3D7DE4.886",
@@ -6741,7 +6741,7 @@
   "box": 0,
   "speaker": "",
   "jp": "トワール",
-  "en": ""
+  "en": "Toile"
  },
  {
   "id": "3D7DE4.887",
@@ -6749,7 +6749,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ルマ",
-  "en": ""
+  "en": "Lemat"
  },
  {
   "id": "3D7DE4.888",
@@ -6757,7 +6757,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ラトリス",
-  "en": ""
+  "en": "Ratrice"
  },
  {
   "id": "3D7DE4.889",
@@ -6765,7 +6765,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディラ　",
-  "en": ""
+  "en": "Dira"
  },
  {
   "id": "3D7DE4.890",
@@ -6773,7 +6773,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レイユ　",
-  "en": ""
+  "en": "Reille"
  },
  {
   "id": "3D7DE4.891",
@@ -6781,7 +6781,7 @@
   "box": 0,
   "speaker": "",
   "jp": "リュネ　",
-  "en": ""
+  "en": "Lune"
  },
  {
   "id": "3D7DE4.892",
@@ -6789,7 +6789,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディブル",
-  "en": ""
+  "en": "Diable"
  },
  {
   "id": "3D7DE4.893",
@@ -6797,7 +6797,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ジュノー",
-  "en": ""
+  "en": "Junon"
  },
  {
   "id": "3D7DE4.894",
@@ -6805,7 +6805,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンド　",
-  "en": ""
+  "en": "Monde"
  },
  {
   "id": "3D7DE4.895",
@@ -6813,7 +6813,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ゲメン　",
-  "en": ""
+  "en": "Gement"
  },
  {
   "id": "3D7DE4.896",
@@ -6821,7 +6821,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ランス　",
-  "en": ""
+  "en": "Rance"
  },
  {
   "id": "3D7DE4.897",
@@ -6829,7 +6829,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ユピテル",
-  "en": ""
+  "en": "Jupiter"
  },
  {
   "id": "3D7DE4.898",
@@ -6837,7 +6837,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レンプレル　",
-  "en": ""
+  "en": "Lempereur"
  },
  {
   "id": "3D7DE4.899",
@@ -6845,7 +6845,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＴＡＲＥ",
-  "en": ""
+  "en": "TARE"
  },
  {
   "id": "3D7DE4.900",
@@ -6853,7 +6853,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レイユＳ",
-  "en": ""
+  "en": "Reille S"
  },
  {
   "id": "3D7DE4.901",
@@ -6861,7 +6861,7 @@
   "box": 0,
   "speaker": "",
   "jp": "リュネＳ",
-  "en": ""
+  "en": "Lune S"
  },
  {
   "id": "3D7DE4.902",
@@ -6869,7 +6869,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ゲメンＳ",
-  "en": ""
+  "en": "Gement S"
  },
  {
   "id": "3D7DE4.903",
@@ -6877,7 +6877,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ユピテルＳ　",
-  "en": ""
+  "en": "Jupiter S"
  },
  {
   "id": "3D7DE4.904",
@@ -6885,7 +6885,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ジュノーＳ　",
-  "en": ""
+  "en": "Junon S"
  },
  {
   "id": "3D7DE4.905",
@@ -6893,7 +6893,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ランスＳ",
-  "en": ""
+  "en": "Rance S"
  },
  {
   "id": "3D7DE4.906",
@@ -6901,7 +6901,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドＳ",
-  "en": ""
+  "en": "Monde S"
  },
  {
   "id": "3D7DE4.907",
@@ -6909,7 +6909,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ラトリスＳ　",
-  "en": ""
+  "en": "Ratrice S"
  },
  {
   "id": "3D7DE4.908",
@@ -6917,7 +6917,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディラＳ",
-  "en": ""
+  "en": "Dira S"
  },
  {
   "id": "3D7DE4.909",
@@ -6925,7 +6925,7 @@
   "box": 0,
   "speaker": "",
   "jp": "エルミトＳＳ",
-  "en": ""
+  "en": "Hermite SS"
  },
  {
   "id": "3D7DE4.910",
@@ -6933,7 +6933,7 @@
   "box": 0,
   "speaker": "",
   "jp": "シャリオＳＳ",
-  "en": ""
+  "en": "Chariot SS"
  },
  {
   "id": "3D7DE4.911",
@@ -6941,7 +6941,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ペンデュＳＳ",
-  "en": ""
+  "en": "Pendu SS"
  },
  {
   "id": "3D7DE4.912",
@@ -6949,7 +6949,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ユストスＳＳ",
-  "en": ""
+  "en": "Iustus SS"
  },
  {
   "id": "3D7DE4.913",
@@ -6957,7 +6957,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レーフォＳＳ",
-  "en": ""
+  "en": "Lefo SS"
  },
  {
   "id": "3D7DE4.914",
@@ -6965,7 +6965,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アムルーＳＳ",
-  "en": ""
+  "en": "Amoureux SS"
  },
  {
   "id": "3D7DE4.915",
@@ -6973,7 +6973,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ラトリスＳＳ",
-  "en": ""
+  "en": "Ratrice SS"
  },
  {
   "id": "3D7DE4.916",
@@ -6981,7 +6981,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ジュノーＳＳ",
-  "en": ""
+  "en": "Junon SS"
  },
  {
   "id": "3D7DE4.917",
@@ -6989,7 +6989,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ユピテルＳＳ",
-  "en": ""
+  "en": "Jupiter SS"
  },
  {
   "id": "3D7DE4.918",
@@ -6997,7 +6997,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディラＳＳ　",
-  "en": ""
+  "en": "Dira SS"
  },
  {
   "id": "3D7DE4.919",
@@ -7005,7 +7005,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ランスＳＳ　",
-  "en": ""
+  "en": "Rance SS"
  },
  {
   "id": "3D7DE4.920",
@@ -7013,7 +7013,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モンドＳＳ　",
-  "en": ""
+  "en": "Monde SS"
  },
  {
   "id": "3D7DE4.921",
@@ -7021,7 +7021,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レイユＳＳ　",
-  "en": ""
+  "en": "Reille SS"
  },
  {
   "id": "3D7DE4.922",
@@ -7029,7 +7029,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ゲメンＳＳ　",
-  "en": ""
+  "en": "Gement SS"
  },
  {
   "id": "3D7DE4.923",
@@ -7037,7 +7037,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディブルＳＳ",
-  "en": ""
+  "en": "Diable SS"
  },
  {
   "id": "3D7DE4.924",
@@ -7045,7 +7045,7 @@
   "box": 0,
   "speaker": "",
   "jp": "リュネＳＳ　",
-  "en": ""
+  "en": "Lune SS"
  },
  {
   "id": "3D7DE4.925",
@@ -7053,7 +7053,7 @@
   "box": 0,
   "speaker": "",
   "jp": "テューヌＳＳ",
-  "en": ""
+  "en": "Tune SS"
  },
  {
   "id": "3D7DE4.926",
@@ -7061,7 +7061,7 @@
   "box": 0,
   "speaker": "",
   "jp": "モールＳＳ　",
-  "en": ""
+  "en": "Mort SS"
  },
  {
   "id": "3D7DE4.927",
@@ -7069,7 +7069,7 @@
   "box": 0,
   "speaker": "",
   "jp": "トワールＳＳ",
-  "en": ""
+  "en": "Toile SS"
  },
  {
   "id": "3D7DE4.928",
@@ -7077,7 +7077,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＶＲ風鳥院　花月",
-  "en": ""
+  "en": "VR Kazuki Fuchoin"
  },
  {
   "id": "3D7DE4.929",
@@ -7085,7 +7085,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＶＲ冬木　士度　",
-  "en": ""
+  "en": "VR Shido Fuyuki"
  },
  {
   "id": "3D7DE4.930",
@@ -7093,7 +7093,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＶＲ赤屍　蔵人　",
-  "en": ""
+  "en": "VR Kurodo Akabane"
  },
  {
   "id": "3D7DE4.931",
@@ -7101,7 +7101,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＶＲ美堂　蛮",
-  "en": ""
+  "en": "VR Ban Mido"
  },
  {
   "id": "3D7DE4.932",
@@ -7109,7 +7109,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ダミー　",
-  "en": ""
+  "en": "Dummy"
  },
  {
   "id": "3D7DE4.933",
@@ -7117,7 +7117,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ダミー　",
-  "en": ""
+  "en": "Dummy"
  },
  {
   "id": "3D7DE4.935",
@@ -7125,7 +7125,7 @@
   "box": 0,
   "speaker": "",
   "jp": "♪さわやかな夏の風にのって　",
-  "en": ""
+  "en": "♪Riding on a fresh summer breeze"
  },
  {
   "id": "3D7DE4.936",
@@ -7133,7 +7133,7 @@
   "box": 0,
   "speaker": "",
   "jp": "♪キミは舞い降りたね",
-  "en": ""
+  "en": "♪You came floating down"
  },
  {
   "id": "3D7DE4.937",
@@ -7141,7 +7141,7 @@
   "box": 0,
   "speaker": "",
   "jp": "♪いつも笑顔は青春色",
-  "en": ""
+  "en": "♪Your smile, always the color of youth"
  },
  {
   "id": "3D7DE4.938",
@@ -7149,7 +7149,7 @@
   "box": 0,
   "speaker": "",
   "jp": "♪ソーダ水のようにはじけてる",
-  "en": ""
+  "en": "♪Sparkling like soda water"
  },
  {
   "id": "3D7DE4.939",
@@ -7157,7 +7157,7 @@
   "box": 0,
   "speaker": "",
   "jp": "♪ボクは夢を取り戻せたよ",
-  "en": ""
+  "en": "♪I got my dream back again"
  },
  {
   "id": "3D7DE4.940",
@@ -7165,7 +7165,7 @@
   "box": 0,
   "speaker": "",
   "jp": "♪勇気と笑顔をたくさんもらったね",
-  "en": ""
+  "en": "♪You gave me so much courage and so many smiles"
  },
  {
   "id": "3D7DE4.941",
@@ -7173,7 +7173,7 @@
   "box": 0,
   "speaker": "",
   "jp": "♪どんなに笑ってても",
-  "en": ""
+  "en": "♪No matter how much we smile"
  },
  {
   "id": "3D7DE4.942",
@@ -7181,7 +7181,7 @@
   "box": 0,
   "speaker": "",
   "jp": "♪これが最後だってわかるよ　",
-  "en": ""
+  "en": "♪I know that this is the end"
  },
  {
   "id": "3D7DE4.943",
@@ -7189,7 +7189,7 @@
   "box": 0,
   "speaker": "",
   "jp": "♪でも大丈夫、大切なこと、　",
-  "en": ""
+  "en": "♪But it's okay, the things that matter,"
  },
  {
   "id": "3D7DE4.944",
@@ -7197,7 +7197,7 @@
   "box": 0,
   "speaker": "",
   "jp": "♪全部おぼえてる",
-  "en": ""
+  "en": "♪I remember them all"
  },
  {
   "id": "3D7DE4.945",
@@ -7205,7 +7205,7 @@
   "box": 0,
   "speaker": "",
   "jp": "原作",
-  "en": ""
+  "en": "Original Work"
  },
  {
   "id": "3D7DE4.946",
@@ -7213,7 +7213,7 @@
   "box": 0,
   "speaker": "",
   "jp": "『ＧｅｔＢａｃｋｅｒｓ～奪還屋～』　",
-  "en": ""
+  "en": "'GetBackers'"
  },
  {
   "id": "3D7DE4.947",
@@ -7221,7 +7221,7 @@
   "box": 0,
   "speaker": "",
   "jp": "（講談社　週刊少年マガジン連載）",
-  "en": ""
+  "en": "(Serialized in Kodansha's Weekly Shonen Magazine)"
  },
  {
   "id": "3D7DE4.948",
@@ -7229,7 +7229,7 @@
   "box": 0,
   "speaker": "",
   "jp": "協力",
-  "en": ""
+  "en": "In Cooperation With"
  },
  {
   "id": "3D7DE4.949",
@@ -7237,7 +7237,7 @@
   "box": 0,
   "speaker": "",
   "jp": "週刊少年マガジン編集部　",
-  "en": ""
+  "en": "Weekly Shonen Magazine Editorial Dept."
  },
  {
   "id": "3D7DE4.950",
@@ -7245,7 +7245,7 @@
   "box": 0,
   "speaker": "",
   "jp": "原作　　青樹　佑夜　",
-  "en": ""
+  "en": "Story: Yuya Aoki"
  },
  {
   "id": "3D7DE4.951",
@@ -7253,7 +7253,7 @@
   "box": 0,
   "speaker": "",
   "jp": "漫画　　綾峰　欄人　",
-  "en": ""
+  "en": "Art: Rando Ayamine"
  },
  {
   "id": "3D7DE4.952",
@@ -7261,7 +7261,7 @@
   "box": 0,
   "speaker": "",
   "jp": "キャスト",
-  "en": ""
+  "en": "Cast"
  },
  {
   "id": "3D7DE4.953",
@@ -7269,7 +7269,7 @@
   "box": 0,
   "speaker": "",
   "jp": "美堂　蛮　　　　神奈　延年　",
-  "en": ""
+  "en": "Ban Mido: Nobutoshi Canna"
  },
  {
   "id": "3D7DE4.954",
@@ -7277,7 +7277,7 @@
   "box": 0,
   "speaker": "",
   "jp": "天野　銀次　　　森久保　祥太郎　",
-  "en": ""
+  "en": "Ginji Amano: Showtaro Morikubo"
  },
  {
   "id": "3D7DE4.955",
@@ -7285,7 +7285,7 @@
   "box": 0,
   "speaker": "",
   "jp": "工藤　卑弥呼　　桑谷　夏子　",
-  "en": ""
+  "en": "Himiko Kudo: Natsuko Kuwatani"
  },
  {
   "id": "3D7DE4.956",
@@ -7293,7 +7293,7 @@
   "box": 0,
   "speaker": "",
   "jp": "風鳥院　花月　　保志　総一朗",
-  "en": ""
+  "en": "Kazuki Fuchoin: Soichiro Hoshi"
  },
  {
   "id": "3D7DE4.957",
@@ -7301,7 +7301,7 @@
   "box": 0,
   "speaker": "",
   "jp": "筧　十兵衛　　　子安　武人　",
-  "en": ""
+  "en": "Juubei Kakei: Takehito Koyasu"
  },
  {
   "id": "3D7DE4.958",
@@ -7309,7 +7309,7 @@
   "box": 0,
   "speaker": "",
   "jp": "冬木　士度　　星野　貴紀（ノッポ）　",
-  "en": ""
+  "en": "Shido Fuyuki: Takanori Hoshino (Noppo)"
  },
  {
   "id": "3D7DE4.959",
@@ -7317,7 +7317,7 @@
   "box": 0,
   "speaker": "",
   "jp": "赤屍　蔵人　　飛田　展男",
-  "en": ""
+  "en": "Kurodo Akabane: Nobuo Tobita"
  },
  {
   "id": "3D7DE4.960",
@@ -7325,7 +7325,7 @@
   "box": 0,
   "speaker": "",
   "jp": "笑師　春樹　　真殿　光昭",
-  "en": ""
+  "en": "Emishi Haruki: Mitsuaki Madono"
  },
  {
   "id": "3D7DE4.961",
@@ -7333,7 +7333,7 @@
   "box": 0,
   "speaker": "",
   "jp": "鏡　形而　　　櫻井　孝宏",
-  "en": ""
+  "en": "Kyoji Kagami: Takahiro Sakurai"
  },
  {
   "id": "3D7DE4.962",
@@ -7341,7 +7341,7 @@
   "box": 0,
   "speaker": "",
   "jp": "水城　夏実　　乙葉　",
-  "en": ""
+  "en": "Natsumi Mizuki: Otoha"
  },
  {
   "id": "3D7DE4.963",
@@ -7349,7 +7349,7 @@
   "box": 0,
   "speaker": "",
   "jp": "弥勒　雪彦　",
-  "en": ""
+  "en": "Yukihiko Miroku"
  },
  {
   "id": "3D7DE4.964",
@@ -7357,7 +7357,7 @@
   "box": 0,
   "speaker": "",
   "jp": "アル　　　　木村　亜希子",
-  "en": ""
+  "en": "Al: Akiko Kimura"
  },
  {
   "id": "3D7DE4.965",
@@ -7365,7 +7365,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ＴＡＲＥ　　宍戸　留美　",
-  "en": ""
+  "en": "TARE: Rumi Shishido"
  },
  {
   "id": "3D7DE4.966",
@@ -7373,7 +7373,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ジェンド　　高橋　広樹　",
-  "en": ""
+  "en": "Jend: Hiroki Takahashi"
  },
  {
   "id": "3D7DE4.967",
@@ -7381,7 +7381,7 @@
   "box": 0,
   "speaker": "",
   "jp": "スタッフ",
-  "en": ""
+  "en": "Staff"
  },
  {
   "id": "3D7DE4.968",
@@ -7389,7 +7389,7 @@
   "box": 0,
   "speaker": "",
   "jp": "エグゼクティブプロデューサー",
-  "en": ""
+  "en": "Executive Producers"
  },
  {
   "id": "3D7DE4.969",
@@ -7397,7 +7397,7 @@
   "box": 0,
   "speaker": "",
   "jp": "吉岡　基行　",
-  "en": ""
+  "en": "Motoyuki Yoshioka"
  },
  {
   "id": "3D7DE4.970",
@@ -7405,7 +7405,7 @@
   "box": 0,
   "speaker": "",
   "jp": "下村　聡",
-  "en": ""
+  "en": "Satoshi Shimomura"
  },
  {
   "id": "3D7DE4.971",
@@ -7413,7 +7413,7 @@
   "box": 0,
   "speaker": "",
   "jp": "プロデューサー　　下道　隆　",
-  "en": ""
+  "en": "Producer: Takashi Shimomichi"
  },
  {
   "id": "3D7DE4.972",
@@ -7421,7 +7421,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ディレクター　　冷泉　弘隆　",
-  "en": ""
+  "en": "Directors: Hirotaka Reizei"
  },
  {
   "id": "3D7DE4.973",
@@ -7429,7 +7429,7 @@
   "box": 0,
   "speaker": "",
   "jp": "井出　志織　",
-  "en": ""
+  "en": "Shiori Ide"
  },
  {
   "id": "3D7DE4.974",
@@ -7437,7 +7437,7 @@
   "box": 0,
   "speaker": "",
   "jp": "制作進行　　　　杉本　則之　",
-  "en": ""
+  "en": "Production Manager: Noriyuki Sugimoto"
  },
  {
   "id": "3D7DE4.975",
@@ -7445,7 +7445,7 @@
   "box": 0,
   "speaker": "",
   "jp": "制作協力",
-  "en": ""
+  "en": "Production Support"
  },
  {
   "id": "3D7DE4.976",
@@ -7453,7 +7453,7 @@
   "box": 0,
   "speaker": "",
   "jp": "有限会社　サラマンダー・ファクトリー",
-  "en": ""
+  "en": "Salamander Factory Co., Ltd."
  },
  {
   "id": "3D7DE4.977",
@@ -7461,7 +7461,7 @@
   "box": 0,
   "speaker": "",
   "jp": "プランニング　　井出　志織　",
-  "en": ""
+  "en": "Planning: Shiori Ide"
  },
  {
   "id": "3D7DE4.978",
@@ -7469,7 +7469,7 @@
   "box": 0,
   "speaker": "",
   "jp": "佐藤　昭彦　",
-  "en": ""
+  "en": "Akihiko Sato"
  },
  {
   "id": "3D7DE4.979",
@@ -7477,7 +7477,7 @@
   "box": 0,
   "speaker": "",
   "jp": "シナリオ　　　　弓長　洋佳　",
-  "en": ""
+  "en": "Scenario: Hiroka Yuminaga"
  },
  {
   "id": "3D7DE4.980",
@@ -7485,7 +7485,7 @@
   "box": 0,
   "speaker": "",
   "jp": "井出　志織　",
-  "en": ""
+  "en": "Shiori Ide"
  },
  {
   "id": "3D7DE4.981",
@@ -7493,7 +7493,7 @@
   "box": 0,
   "speaker": "",
   "jp": "メインプログラム　　小磯　裕昭　",
-  "en": ""
+  "en": "Main Program: Hiroaki Koiso"
  },
  {
   "id": "3D7DE4.982",
@@ -7501,7 +7501,7 @@
   "box": 0,
   "speaker": "",
   "jp": "戦闘・会話・イベントプログラム　",
-  "en": ""
+  "en": "Battle/Dialogue/Event Program"
  },
  {
   "id": "3D7DE4.983",
@@ -7509,7 +7509,7 @@
   "box": 0,
   "speaker": "",
   "jp": "吉原　隆",
-  "en": ""
+  "en": "Takashi Yoshihara"
  },
  {
   "id": "3D7DE4.984",
@@ -7517,7 +7517,7 @@
   "box": 0,
   "speaker": "",
   "jp": "グラフィック監修　　玉木　美孝　",
-  "en": ""
+  "en": "Graphics Supervisor: Yoshitaka Tamaki"
  },
  {
   "id": "3D7DE4.985",
@@ -7525,7 +7525,7 @@
   "box": 0,
   "speaker": "",
   "jp": "オリジナルキャラクターデザイン　",
-  "en": ""
+  "en": "Original Character Design"
  },
  {
   "id": "3D7DE4.986",
@@ -7533,7 +7533,7 @@
   "box": 0,
   "speaker": "",
   "jp": "樋野　清史　",
-  "en": ""
+  "en": "Kiyoshi Hino"
  },
  {
   "id": "3D7DE4.987",
@@ -7541,7 +7541,7 @@
   "box": 0,
   "speaker": "",
   "jp": "磯部　友希　",
-  "en": ""
+  "en": "Yuki Isobe"
  },
  {
   "id": "3D7DE4.988",
@@ -7549,7 +7549,7 @@
   "box": 0,
   "speaker": "",
   "jp": "オリジナル敵デザイン",
-  "en": ""
+  "en": "Original Enemy Design"
  },
  {
   "id": "3D7DE4.989",
@@ -7557,7 +7557,7 @@
   "box": 0,
   "speaker": "",
   "jp": "森山　周一郎",
-  "en": ""
+  "en": "Shuichiro Moriyama"
  },
  {
   "id": "3D7DE4.990",
@@ -7565,7 +7565,7 @@
   "box": 0,
   "speaker": "",
   "jp": "バストアップグラフィック",
-  "en": ""
+  "en": "Portrait Graphics"
  },
  {
   "id": "3D7DE4.991",
@@ -7573,7 +7573,7 @@
   "box": 0,
   "speaker": "",
   "jp": "市原　亜紀子",
-  "en": ""
+  "en": "Akiko Ichihara"
  },
  {
   "id": "3D7DE4.992",
@@ -7581,7 +7581,7 @@
   "box": 0,
   "speaker": "",
   "jp": "マップ・イベントグラフィック",
-  "en": ""
+  "en": "Map/Event Graphics"
  },
  {
   "id": "3D7DE4.993",
@@ -7589,7 +7589,7 @@
   "box": 0,
   "speaker": "",
   "jp": "藤田　敬",
-  "en": ""
+  "en": "Takashi Fujita"
  },
  {
   "id": "3D7DE4.994",
@@ -7597,7 +7597,7 @@
   "box": 0,
   "speaker": "",
   "jp": "線画協力",
-  "en": ""
+  "en": "Line Art Support"
  },
  {
   "id": "3D7DE4.995",
@@ -7605,7 +7605,7 @@
   "box": 0,
   "speaker": "",
   "jp": "橋本　慎一　",
-  "en": ""
+  "en": "Shinichi Hashimoto"
  },
  {
   "id": "3D7DE4.996",
@@ -7613,7 +7613,7 @@
   "box": 0,
   "speaker": "",
   "jp": "戦闘グラフィック　　樋野　清史　",
-  "en": ""
+  "en": "Battle Graphics: Kiyoshi Hino"
  },
  {
   "id": "3D7DE4.997",
@@ -7621,7 +7621,7 @@
   "box": 0,
   "speaker": "",
   "jp": "磯部　友希　",
-  "en": ""
+  "en": "Yuki Isobe"
  },
  {
   "id": "3D7DE4.998",
@@ -7629,7 +7629,7 @@
   "box": 0,
   "speaker": "",
   "jp": "友永　稔",
-  "en": ""
+  "en": "Minoru Tomonaga"
  },
  {
   "id": "3D7DE4.999",
@@ -7637,7 +7637,7 @@
   "box": 0,
   "speaker": "",
   "jp": "千葉　晃",
-  "en": ""
+  "en": "Akira Chiba"
  },
  {
   "id": "3D7DE4.1000",
@@ -7645,7 +7645,7 @@
   "box": 0,
   "speaker": "",
   "jp": "櫻田　佳苗　",
-  "en": ""
+  "en": "Kanae Sakurada"
  },
  {
   "id": "3D7DE4.1001",
@@ -7653,7 +7653,7 @@
   "box": 0,
   "speaker": "",
   "jp": "マップキャラクター・フォント",
-  "en": ""
+  "en": "Map Characters/Font"
  },
  {
   "id": "3D7DE4.1002",
@@ -7661,7 +7661,7 @@
   "box": 0,
   "speaker": "",
   "jp": "加納　保宏　",
-  "en": ""
+  "en": "Yasuhiro Kano"
  },
  {
   "id": "3D7DE4.1003",
@@ -7669,7 +7669,7 @@
   "box": 0,
   "speaker": "",
   "jp": "平井　義則　",
-  "en": ""
+  "en": "Yoshinori Hirai"
  },
  {
   "id": "3D7DE4.1004",
@@ -7677,7 +7677,7 @@
   "box": 0,
   "speaker": "",
   "jp": "大河内　達也",
-  "en": ""
+  "en": "Tatsuya Okochi"
  },
  {
   "id": "3D7DE4.1005",
@@ -7685,7 +7685,7 @@
   "box": 0,
   "speaker": "",
   "jp": "エフェクト　　磯部　一郎",
-  "en": ""
+  "en": "Effects: Ichiro Isobe"
  },
  {
   "id": "3D7DE4.1006",
@@ -7693,7 +7693,7 @@
   "box": 0,
   "speaker": "",
   "jp": "井浦　啓二　",
-  "en": ""
+  "en": "Keiji Iura"
  },
  {
   "id": "3D7DE4.1007",
@@ -7701,7 +7701,7 @@
   "box": 0,
   "speaker": "",
   "jp": "高山　晃",
-  "en": ""
+  "en": "Akira Takayama"
  },
  {
   "id": "3D7DE4.1009",
@@ -7709,7 +7709,7 @@
   "box": 0,
   "speaker": "",
   "jp": "サウンド　　鶴山　尚史　",
-  "en": ""
+  "en": "Sound: Naofumi Tsuruyama"
  },
  {
   "id": "3D7DE4.1010",
@@ -7717,7 +7717,7 @@
   "box": 0,
   "speaker": "",
   "jp": "花岡　拓也　",
-  "en": ""
+  "en": "Takuya Hanaoka"
  },
  {
   "id": "3D7DE4.1011",
@@ -7725,7 +7725,7 @@
   "box": 0,
   "speaker": "",
   "jp": "土屋　直樹　",
-  "en": ""
+  "en": "Naoki Tsuchiya"
  },
  {
   "id": "3D7DE4.1013",
@@ -7733,7 +7733,7 @@
   "box": 0,
   "speaker": "",
   "jp": "協力　　玉木　久美　",
-  "en": ""
+  "en": "Support: Kumi Tamaki"
  },
  {
   "id": "3D7DE4.1014",
@@ -7741,7 +7741,7 @@
   "box": 0,
   "speaker": "",
   "jp": "渋谷　千夏　",
-  "en": ""
+  "en": "Chinatsu Shibuya"
  },
  {
   "id": "3D7DE4.1015",
@@ -7749,7 +7749,7 @@
   "box": 0,
   "speaker": "",
   "jp": "保坂　晃正　",
-  "en": ""
+  "en": "Akimasa Hosaka"
  },
  {
   "id": "3D7DE4.1016",
@@ -7757,7 +7757,7 @@
   "box": 0,
   "speaker": "",
   "jp": "高木　愛美　",
-  "en": ""
+  "en": "Manami Takagi"
  },
  {
   "id": "3D7DE4.1017",
@@ -7765,7 +7765,7 @@
   "box": 0,
   "speaker": "",
   "jp": "河野　華奈　",
-  "en": ""
+  "en": "Kana Kono"
  },
  {
   "id": "3D7DE4.1018",
@@ -7773,7 +7773,7 @@
   "box": 0,
   "speaker": "",
   "jp": "協力　　チーム・アルカディア",
-  "en": ""
+  "en": "Support: Team Arcadia"
  },
  {
   "id": "3D7DE4.1019",
@@ -7781,7 +7781,7 @@
   "box": 0,
   "speaker": "",
   "jp": "有限会社　クレスト・ワークス",
-  "en": ""
+  "en": "Crest Works Co., Ltd."
  },
  {
   "id": "3D7DE4.1020",
@@ -7789,7 +7789,7 @@
   "box": 0,
   "speaker": "",
   "jp": "有限会社　タイニーアート",
-  "en": ""
+  "en": "Tiny Art Co., Ltd."
  },
  {
   "id": "3D7DE4.1021",
@@ -7797,7 +7797,7 @@
   "box": 0,
   "speaker": "",
   "jp": "有限会社　ＷＡＮＤ　",
-  "en": ""
+  "en": "WAND Co., Ltd."
  },
  {
   "id": "3D7DE4.1022",
@@ -7805,7 +7805,7 @@
   "box": 0,
   "speaker": "",
   "jp": "主題歌　　『言葉にできないカテゴリー』　",
-  "en": ""
+  "en": "Theme Song: 'Category Beyond Words'"
  },
  {
   "id": "3D7DE4.1023",
@@ -7813,7 +7813,7 @@
   "box": 0,
   "speaker": "",
   "jp": "作詞　クール泉　",
-  "en": ""
+  "en": "Lyrics: Cool Izumi"
  },
  {
   "id": "3D7DE4.1024",
@@ -7821,7 +7821,7 @@
   "box": 0,
   "speaker": "",
   "jp": "作曲　ｔｓｕｒｕｋｏ♥　",
-  "en": ""
+  "en": "Music: tsuruko♥"
  },
  {
   "id": "3D7DE4.1025",
@@ -7829,7 +7829,7 @@
   "box": 0,
   "speaker": "",
   "jp": "歌　　ＭＡＩ",
-  "en": ""
+  "en": "Vocals: MAI"
  },
  {
   "id": "3D7DE4.1026",
@@ -7837,7 +7837,7 @@
   "box": 0,
   "speaker": "",
   "jp": "挿入歌　　『人生はスパンコール』",
-  "en": ""
+  "en": "Insert Song: 'Life Is Sequins'"
  },
  {
   "id": "3D7DE4.1027",
@@ -7845,7 +7845,7 @@
   "box": 0,
   "speaker": "",
   "jp": "作詞　クール泉　",
-  "en": ""
+  "en": "Lyrics: Cool Izumi"
  },
  {
   "id": "3D7DE4.1028",
@@ -7853,7 +7853,7 @@
   "box": 0,
   "speaker": "",
   "jp": "作曲　ｔｓｕｒｕｋｏ♥　",
-  "en": ""
+  "en": "Music: tsuruko♥"
  },
  {
   "id": "3D7DE4.1029",
@@ -7861,7 +7861,7 @@
   "box": 0,
   "speaker": "",
   "jp": "唄　　フローラルつる子　",
-  "en": ""
+  "en": "Vocals: Floral Tsuruko"
  },
  {
   "id": "3D7DE4.1030",
@@ -7869,7 +7869,7 @@
   "box": 0,
   "speaker": "",
   "jp": "キャスティングコーディネート",
-  "en": ""
+  "en": "Casting Coordinator"
  },
  {
   "id": "3D7DE4.1031",
@@ -7877,7 +7877,7 @@
   "box": 0,
   "speaker": "",
   "jp": "原田　三穂　",
-  "en": ""
+  "en": "Miho Harada"
  },
  {
   "id": "3D7DE4.1032",
@@ -7885,7 +7885,7 @@
   "box": 0,
   "speaker": "",
   "jp": "株式会社　ネルケプランニング",
-  "en": ""
+  "en": "Nelke Planning Co., Ltd."
  },
  {
   "id": "3D7DE4.1033",
@@ -7893,7 +7893,7 @@
   "box": 0,
   "speaker": "",
   "jp": "音声収録　　　　　　　古澤　利久",
-  "en": ""
+  "en": "Voice Recording: Toshihisa Furusawa"
  },
  {
   "id": "3D7DE4.1034",
@@ -7901,7 +7901,7 @@
   "box": 0,
   "speaker": "",
   "jp": "プロダクトデザイン　　須藤　圭介",
-  "en": ""
+  "en": "Product Design: Keisuke Sudo"
  },
  {
   "id": "3D7DE4.1035",
@@ -7909,7 +7909,7 @@
   "box": 0,
   "speaker": "",
   "jp": "デバッグ　　　　　　　ドリームス",
-  "en": ""
+  "en": "Debugging: Dreams"
  },
  {
   "id": "3D7DE4.1036",
@@ -7917,7 +7917,7 @@
   "box": 0,
   "speaker": "",
   "jp": "プロモーション　　玉田　祐子",
-  "en": ""
+  "en": "Promotion: Yuko Tamada"
  },
  {
   "id": "3D7DE4.1037",
@@ -7925,7 +7925,7 @@
   "box": 0,
   "speaker": "",
   "jp": "中原　郁奈子",
-  "en": ""
+  "en": "Ikunako Nakahara"
  },
  {
   "id": "3D7DE4.1038",
@@ -7933,7 +7933,7 @@
   "box": 0,
   "speaker": "",
   "jp": "高田　祥至　",
-  "en": ""
+  "en": "Yoshiyuki Takada"
  },
  {
   "id": "3D7DE4.1039",
@@ -7941,7 +7941,7 @@
   "box": 0,
   "speaker": "",
   "jp": "スペシャルサンクス　",
-  "en": ""
+  "en": "Special Thanks"
  },
  {
   "id": "3D7DE4.1040",
@@ -7949,7 +7949,7 @@
   "box": 0,
   "speaker": "",
   "jp": "コナミ　　北上　一三",
-  "en": ""
+  "en": "KONAMI: Kazumi Kitakami"
  },
  {
   "id": "3D7DE4.1041",
@@ -7957,7 +7957,7 @@
   "box": 0,
   "speaker": "",
   "jp": "酒井　雅人　",
-  "en": ""
+  "en": "Masato Sakai"
  },
  {
   "id": "3D7DE4.1042",
@@ -7965,7 +7965,7 @@
   "box": 0,
   "speaker": "",
   "jp": "土屋　潤一郎",
-  "en": ""
+  "en": "Junichiro Tsuchiya"
  },
  {
   "id": "3D7DE4.1043",
@@ -7973,7 +7973,7 @@
   "box": 0,
   "speaker": "",
   "jp": "制作",
-  "en": ""
+  "en": "Developed by"
  },
  {
   "id": "3D7DE4.1044",
@@ -7981,7 +7981,7 @@
   "box": 0,
   "speaker": "",
   "jp": "コナミＪＰＮ－ＥＡＳＴ　",
-  "en": ""
+  "en": "KONAMI JPN-EAST"
  },
  {
   "id": "3D7DE4.1045",
@@ -7989,7 +7989,7 @@
   "box": 0,
   "speaker": "",
   "jp": "コナミ株式会社　",
-  "en": ""
+  "en": "KONAMI Corporation"
  },
  {
   "id": "3D7DE4.1046",
@@ -7997,7 +7997,7 @@
   "box": 0,
   "speaker": "",
   "jp": "製作",
-  "en": ""
+  "en": "Produced by"
  },
  {
   "id": "3D7DE4.1056",
@@ -8005,7 +8005,7 @@
   "box": 0,
   "speaker": "",
   "jp": "何者が邪魔をしようとも　",
-  "en": ""
+  "en": "No matter who stands in my way,"
  },
  {
   "id": "3D7DE4.1057",
@@ -8013,7 +8013,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ここで退くことは許されぬ",
-  "en": ""
+  "en": "I cannot allow myself to retreat now."
  },
  {
   "id": "3D7DE4.1058",
@@ -8021,7 +8021,7 @@
   "box": 0,
   "speaker": "",
   "jp": "立ちはだかる全ての邪魔者を排除し",
-  "en": ""
+  "en": "I shall remove every obstacle before me"
  },
  {
   "id": "3D7DE4.1059",
@@ -8029,7 +8029,7 @@
   "box": 0,
   "speaker": "",
   "jp": "この国を必ず手中に収めてみせる　",
-  "en": ""
+  "en": "and make this land mine without fail."
  },
  {
   "id": "3D7DE4.1060",
@@ -8037,7 +8037,7 @@
   "box": 0,
   "speaker": "",
   "jp": "レンプレルよ…　",
-  "en": ""
+  "en": "Lempereur..."
  },
  {
   "id": "3D7DE4.1061",
@@ -8045,7 +8045,7 @@
   "box": 0,
   "speaker": "",
   "jp": "お前に全ての望みをかけよう　",
-  "en": ""
+  "en": "I place all my hopes in you."
  },
  {
   "id": "3D7DE4.1062",
@@ -8053,7 +8053,7 @@
   "box": 0,
   "speaker": "",
   "jp": "ゲットバッカーズとやら…",
-  "en": ""
+  "en": "So you're the so-called 'GetBackers'..."
  },
  {
   "id": "3D7DE4.1063",
@@ -8061,6 +8061,6 @@
   "box": 0,
   "speaker": "",
   "jp": "さあ、最後の勝負と参ろうぞ　",
-  "en": ""
+  "en": "Come, let us begin the final battle."
  }
 ]

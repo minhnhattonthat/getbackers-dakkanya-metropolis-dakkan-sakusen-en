@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ハカマ　",
   "jp": "２部屋向こうにいる社員が",
-  "en": ""
+  "en": "The employee two rooms over won't give"
  },
  {
   "id": "7B1400.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "ハカマ　",
   "jp": "パスを渡してくれない？　",
-  "en": ""
+  "en": "you the pass?"
  },
  {
   "id": "7B1400.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "ハカマ　",
   "jp": "そうね…あの人、子供に弱いから　",
-  "en": ""
+  "en": "Let's see... He's soft on kids, so why not"
  },
  {
   "id": "7B1400.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "ハカマ　",
   "jp": "子供がお願いするといいんじゃない？　",
-  "en": ""
+  "en": "have a kid ask him?"
  },
  {
   "id": "7B1400.9",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "士度",
   "jp": "…子供だあ！？　",
-  "en": ""
+  "en": "...A kid?!"
  },
  {
   "id": "7B1400.13",
@@ -66,6 +66,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "となると、あの作戦しかねえな！！",
-  "en": ""
+  "en": "Then there's only one plan!!"
  }
 ]

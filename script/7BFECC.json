@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "Ｓサービス　",
   "jp": "一歩でも動くとコイツの頭を撃ち抜くぞ",
-  "en": ""
+  "en": "Move one step and I'll blow his head off."
  },
  {
   "id": "7BFECC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "（クソッ！　",
-  "en": ""
+  "en": "(Damn it! If only my arms worked, these"
  },
  {
   "id": "7BFECC.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "腕さえ動けばこんなヤツら…）",
-  "en": ""
+  "en": "guys would be...)"
  },
  {
   "id": "7BFECC.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "逃げるんだ、雪彦くん！！",
-  "en": ""
+  "en": "Run, Yukihiko-kun!!"
  },
  {
   "id": "7BFECC.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "弥勒",
   "jp": "君を置いていくことなんてできないよ　",
-  "en": ""
+  "en": "I can't just leave you behind."
  },
  {
   "id": "7BFECC.17",
@@ -66,7 +66,7 @@
   "box": 5,
   "speaker": "弥勒",
   "jp": "ごめんね、銀次君",
-  "en": ""
+  "en": "I'm sorry, Ginji-kun."
  },
  {
   "id": "7BFECC.20",
@@ -81,7 +81,7 @@
   "box": 6,
   "speaker": "Ｓサービス　",
   "jp": "別れのあいさつは済んだのか？",
-  "en": ""
+  "en": "Done with your goodbyes?"
  },
  {
   "id": "7BFECC.24",
@@ -89,7 +89,7 @@
   "box": 7,
   "speaker": "Ｓサービス　",
   "jp": "では弥勒、まずはお前から",
-  "en": ""
+  "en": "Then, Miroku, you go to the next world"
  },
  {
   "id": "7BFECC.25",
@@ -97,7 +97,7 @@
   "box": 7,
   "speaker": "Ｓサービス　",
   "jp": "あの世に送ってやろう！　",
-  "en": ""
+  "en": "first!"
  },
  {
   "id": "7BFECC.27",
@@ -112,7 +112,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "…やめろ",
-  "en": ""
+  "en": "...Stop."
  },
  {
   "id": "7BFECC.31",
@@ -120,7 +120,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "やめろ！",
-  "en": ""
+  "en": "Stop it!"
  },
  {
   "id": "7BFECC.33",
@@ -128,7 +128,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "やめろ！！　",
-  "en": ""
+  "en": "Stop it!!"
  },
  {
   "id": "7BFECC.35",
@@ -136,6 +136,6 @@
   "box": 11,
   "speaker": "銀次",
   "jp": "やめるんだーーーーーーーーーッ！！　",
-  "en": ""
+  "en": "I said STOOOOOOOOP!!"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "鏡　",
   "jp": "勢ぞろいしたみたいだね…",
-  "en": ""
+  "en": "Looks like everyone's here..."
  },
  {
   "id": "7CAA5C.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "さあ、行くんだろう？",
-  "en": ""
+  "en": "Well? We're going, aren't we?"
  },
  {
   "id": "7CAA5C.7",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "もちろんだ！",
-  "en": ""
+  "en": "Damn right! Get fired up, you guys!!"
  },
  {
   "id": "7CAA5C.10",
@@ -43,6 +43,6 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "気合入れてけよ、オメーら！！",
-  "en": ""
+  "en": " "
  }
 ]

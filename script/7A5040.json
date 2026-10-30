@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…いけそうだろ？",
-  "en": ""
+  "en": "...Could work, right?"
  },
  {
   "id": "7A5040.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "ヘヴン　",
   "jp": "う～ん…",
-  "en": ""
+  "en": "Hmm... Tsuruko-san, is that all right with"
  },
  {
   "id": "7A5040.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "ヘヴン　",
   "jp": "ツルコさんはそれでいいですか？　",
-  "en": ""
+  "en": "you?"
  },
  {
   "id": "7A5040.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "ツルコ　",
   "jp": "やってみましょう！　",
-  "en": ""
+  "en": "Let's give it a try! Then I'm counting on"
  },
  {
   "id": "7A5040.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "ツルコ　",
   "jp": "では、お願いします。銀次さん！　",
-  "en": ""
+  "en": "you, Ginji-san!"
  },
  {
   "id": "7A5040.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "えっ、オレ？　なにするの？？？　",
-  "en": ""
+  "en": "Huh, me? What am I doing???"
  },
  {
   "id": "7A5040.19",
@@ -88,7 +88,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "卑弥呼も、なっ！",
-  "en": ""
+  "en": "You too, Himiko!"
  },
  {
   "id": "7A5040.23",
@@ -103,6 +103,6 @@
   "box": 6,
   "speaker": "卑弥呼　",
   "jp": "えっ？　",
-  "en": ""
+  "en": "Huh?"
  }
 ]

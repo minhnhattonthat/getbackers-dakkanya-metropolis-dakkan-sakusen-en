@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "赤屍",
   "jp": "やはり潜んでいましたか…",
-  "en": ""
+  "en": "So they were lurking here after all..."
  },
  {
   "id": "7C7E84.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "それにしても",
-  "en": ""
+  "en": "Still, you don't seem to be putting much"
  },
  {
   "id": "7C7E84.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "あまり本気を出してなさそうだね？",
-  "en": ""
+  "en": "effort in, do you?"
  },
  {
   "id": "7C7E84.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "鏡　",
   "jp": "ドクタージャッカル　",
-  "en": ""
+  "en": "Dr. Jackal."
  },
  {
   "id": "7C7E84.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "赤屍",
   "jp": "それはあなたもですよ…鏡形而クン",
-  "en": ""
+  "en": "The same goes for you... Kyoji Kagami-kun."
  },
  {
   "id": "7C7E84.16",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7C7E84.20",
@@ -81,7 +81,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "（…なぜ仲間同士なのに　",
-  "en": ""
+  "en": "(...Why is there so much tension between"
  },
  {
   "id": "7C7E84.21",
@@ -89,6 +89,6 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "緊張感がみなぎっているのでしょうか）",
-  "en": ""
+  "en": "teammates?)"
  }
 ]

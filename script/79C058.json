@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あの子、もうそろそろ来る頃だよ　",
-  "en": ""
+  "en": "That girl should be here any minute now."
  },
  {
   "id": "79C058.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "大丈夫なんだろうな、ギャラの方は？　",
-  "en": ""
+  "en": "The pay's gonna be okay, right?"
  },
  {
   "id": "79C058.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ちゃんとお母さんに連絡してたから",
-  "en": ""
+  "en": "I got in touch with her mom, so it's all set!"
  },
  {
   "id": "79C058.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "バッチリだよ！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79C058.14",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "お礼をしたいって言うから",
-  "en": ""
+  "en": "She said she wants to thank us, so she's"
  },
  {
   "id": "79C058.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "一緒に来るって！",
-  "en": ""
+  "en": "coming along!"
  },
  {
   "id": "79C058.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ま、金持ちっつーからにはリムジンで　",
-  "en": ""
+  "en": "Heh, if they're rich, they'll pull up in style"
  },
  {
   "id": "79C058.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ビシッと来るんだろうな！",
-  "en": ""
+  "en": "in a limo!"
  },
  {
   "id": "79C058.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "アル",
   "jp": "ヒツジト一緒カモ知レヘンナァ～　",
-  "en": ""
+  "en": "Maybe she'll bring along her butter, ya\nknow~"
  },
  {
   "id": "79C058.26",
@@ -119,7 +119,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "ヒツジ？　ああ、そうかもね　",
-  "en": ""
+  "en": "Butter? Oh, yeah, maybe. She's rich, after"
  },
  {
   "id": "79C058.29",
@@ -127,7 +127,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "お金持ちだもんね！　",
-  "en": ""
+  "en": "all!"
  },
  {
   "id": "79C058.31",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "お金持ちはヒツジの一匹や二匹…　",
-  "en": ""
+  "en": "Rich people have a stick or two of butter..."
  },
  {
   "id": "79C058.33",
@@ -150,7 +150,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "そりゃ、執事だろうが！　",
-  "en": ""
+  "en": "That's BUTLER, you morons! ...Don't make"
  },
  {
   "id": "79C058.36",
@@ -158,7 +158,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "…って俺様にツッコミさせんじゃねえ！",
-  "en": ""
+  "en": "me play straight man!"
  },
  {
   "id": "79C058.38",
@@ -166,7 +166,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "ただでさえ、オメーら二人の相手は",
-  "en": ""
+  "en": "Dealing with you two is exhausting enough"
  },
  {
   "id": "79C058.39",
@@ -174,6 +174,6 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "疲れるんだからな！　",
-  "en": ""
+  "en": "already!"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "…くっ！！　",
-  "en": ""
+  "en": "...Ngh!!"
  },
  {
   "id": "7B7BF0.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "大丈夫か、花月？",
-  "en": ""
+  "en": "Are you alright, Kazuki?"
  },
  {
   "id": "7B7BF0.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "ああ、すまない、十兵衛…",
-  "en": ""
+  "en": "Yes. I'm sorry, Juubei..."
  },
  {
   "id": "7B7BF0.13",
@@ -57,7 +57,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "アカン！　この状況ではワイ一人が",
-  "en": ""
+  "en": "Oh no! In this setup, ain't I the only one"
  },
  {
   "id": "7B7BF0.16",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "のけ者ちゃいますのん？　",
-  "en": ""
+  "en": "left out?"
  },
  {
   "id": "7B7BF0.18",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "ワイの相方、士度はんはどこに！？",
-  "en": ""
+  "en": "Where's my partner, Shido-han?!"
  },
  {
   "id": "7B7BF0.19",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "士度はーーーーん！！",
-  "en": ""
+  "en": "Shido-haaaaan!!"
  },
  {
   "id": "7B7BF0.21",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "十兵衛　",
   "jp": "騒ぐな、笑師",
-  "en": ""
+  "en": "Quiet, Emishi. We're going to look for him"
  },
  {
   "id": "7B7BF0.24",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "十兵衛　",
   "jp": "これから探しに行く　",
-  "en": ""
+  "en": "now."
  },
  {
   "id": "7B7BF0.26",
@@ -119,7 +119,7 @@
   "box": 7,
   "speaker": "笑師",
   "jp": "せ、せやな！",
-  "en": ""
+  "en": "R-right!"
  },
  {
   "id": "7B7BF0.30",
@@ -127,7 +127,7 @@
   "box": 8,
   "speaker": "笑師",
   "jp": "（そないゆうたかて、早よ合流せんと！",
-  "en": ""
+  "en": "(Even so, I gotta meet up with him quick! I"
  },
  {
   "id": "7B7BF0.31",
@@ -135,6 +135,6 @@
   "box": 8,
   "speaker": "笑師",
   "jp": "のけ者はイヤや～！）",
-  "en": ""
+  "en": "hate bein' left out~!)"
  }
 ]

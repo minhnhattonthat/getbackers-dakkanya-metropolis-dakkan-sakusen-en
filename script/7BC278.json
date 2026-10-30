@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…おい銀次、",
-  "en": ""
+  "en": "...Hey, Ginji. Just 'cause Al's gone,"
  },
  {
   "id": "7BC278.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "アルがいなくなったからって　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BC278.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "いつまでもウダウダしてんじゃねーよ　",
-  "en": ""
+  "en": "quit moping around forever. We're better"
  },
  {
   "id": "7BC278.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "あんな疫病神、いねえ方がマシだっての",
-  "en": ""
+  "en": "off without that jinx."
  },
  {
   "id": "7BC278.9",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "だってさあ…",
-  "en": ""
+  "en": "But... Al-kun's so spacey,"
  },
  {
   "id": "7BC278.12",
@@ -59,7 +59,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "アルくんってボーッとしてるから、",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BC278.14",
@@ -67,7 +67,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "どこかで悪質なキャッチセールスに",
-  "en": ""
+  "en": "he might've gotten caught by some shady"
  },
  {
   "id": "7BC278.15",
@@ -75,7 +75,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "捕まってるかも知れないじゃん",
-  "en": ""
+  "en": "street salesman somewhere!"
  },
  {
   "id": "7BC278.17",
@@ -90,7 +90,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "捕まったところで取られるような　",
-  "en": ""
+  "en": "Even if he did, he ain't got any money"
  },
  {
   "id": "7BC278.20",
@@ -98,7 +98,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "金持ってねえだろうが",
-  "en": ""
+  "en": "worth taking."
  },
  {
   "id": "7BC278.22",
@@ -113,7 +113,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "それにオレと同じで　",
-  "en": ""
+  "en": "And he's got a terrible sense of direction,"
  },
  {
   "id": "7BC278.25",
@@ -121,7 +121,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "すごい方向音痴だから、　",
-  "en": ""
+  "en": "just like me,"
  },
  {
   "id": "7BC278.27",
@@ -129,7 +129,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "どこかで迷子になって",
-  "en": ""
+  "en": "so he might've gotten lost somewhere and"
  },
  {
   "id": "7BC278.28",
@@ -137,7 +137,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "行き倒れてるかも知れないし！！　",
-  "en": ""
+  "en": "collapsed!!"
  },
  {
   "id": "7BC278.30",
@@ -152,7 +152,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "ああ…それはヤベーかもな…　",
-  "en": ""
+  "en": "Yeah... that might be bad..."
  },
  {
   "id": "7BC278.34",
@@ -167,7 +167,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "でしょ！　もうオレ心配で",
-  "en": ""
+  "en": "Right?! I'm so worried I can't get anything"
  },
  {
   "id": "7BC278.37",
@@ -175,7 +175,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "なにもノドを通らないんだよね～…",
-  "en": ""
+  "en": "down my throat~..."
  },
  {
   "id": "7BC278.39",
@@ -190,7 +190,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "ついさっきピザ三人前",
-  "en": ""
+  "en": "You just ate three servings of pizza!!"
  },
  {
   "id": "7BC278.42",
@@ -198,7 +198,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "食ったばかりだろうが！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BC278.44",
@@ -213,6 +213,6 @@
   "box": 11,
   "speaker": "銀次",
   "jp": "でもさあ～…",
-  "en": ""
+  "en": "But still~..."
  }
 ]

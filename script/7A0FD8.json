@@ -12,14 +12,14 @@
   "box": 1,
   "speaker": "卑弥呼　",
   "jp": "…意外とあっけなかったわね　",
-  "en": ""
+  "en": "...That was easier than I expected."
  },
  {
   "id": "7A0FD8.5",
   "kind": "name",
   "box": 1,
   "jp": "馬車",
-  "en": "Carriage"
+  "en": "Driver"
  },
  {
   "id": "7A0FD8.7",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "馬車",
   "jp": "うはははははは！！　",
-  "en": ""
+  "en": "Wahahahahaha!!"
  },
  {
   "id": "7A0FD8.9",
@@ -42,14 +42,14 @@
   "box": 3,
   "speaker": "赤屍",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7A0FD8.13",
   "kind": "name",
   "box": 3,
   "jp": "馬車",
-  "en": "Carriage"
+  "en": "Driver"
  },
  {
   "id": "7A0FD8.15",
@@ -57,7 +57,7 @@
   "box": 4,
   "speaker": "馬車",
   "jp": "うははは…！？　",
-  "en": ""
+  "en": "Wahaha...?! Blast, that jolt did somethin' to"
  },
  {
   "id": "7A0FD8.16",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "馬車",
   "jp": "しまった、今のショックでハンドルが…",
-  "en": ""
+  "en": "the steering..."
  },
  {
   "id": "7A0FD8.18",
@@ -80,7 +80,7 @@
   "box": 5,
   "speaker": "卑弥呼　",
   "jp": "マズいわよ！　このままじゃ　",
-  "en": ""
+  "en": "This is bad! At this rate we'll crash into"
  },
  {
   "id": "7A0FD8.21",
@@ -88,14 +88,14 @@
   "box": 5,
   "speaker": "卑弥呼　",
   "jp": "ガソリンスタンドに突っ込むわ！　",
-  "en": ""
+  "en": "the gas station!"
  },
  {
   "id": "7A0FD8.23",
   "kind": "name",
   "box": 5,
   "jp": "馬車",
-  "en": "Carriage"
+  "en": "Driver"
  },
  {
   "id": "7A0FD8.25",
@@ -103,7 +103,7 @@
   "box": 6,
   "speaker": "馬車",
   "jp": "ダメだ！",
-  "en": ""
+  "en": "No good! I can't control it, I tell ya!!"
  },
  {
   "id": "7A0FD8.26",
@@ -111,7 +111,7 @@
   "box": 6,
   "speaker": "馬車",
   "jp": "コントロールできないきに！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7A0FD8.28",
@@ -126,6 +126,6 @@
   "box": 7,
   "speaker": "卑弥呼　",
   "jp": "きゃああああっ！！　",
-  "en": ""
+  "en": "Kyaaaaah!!"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…こりゃ別の奪い屋だな　",
-  "en": ""
+  "en": "...These are different Snatchers."
  },
  {
   "id": "790790.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "しっかし、ウゼえヤツ等だぜ　",
-  "en": ""
+  "en": "Man, what a bunch of pests."
  },
  {
   "id": "790790.7",
@@ -28,7 +28,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "なんだって俺たちに　",
-  "en": ""
+  "en": "Why the hell do they keep jumping us?"
  },
  {
   "id": "790790.8",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "襲いかかってきやがるんだ？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "790790.10",
@@ -51,7 +51,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "それはオレが箱と説明書だけを",
-  "en": ""
+  "en": "That's because I've only retrieved the box"
  },
  {
   "id": "790790.13",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "奪還してるからなのです　",
-  "en": ""
+  "en": "and the manual, you see."
  },
  {
   "id": "790790.15",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "なんつぅ中途半端な…",
-  "en": ""
+  "en": "How half-assed is that... Whatever, let's"
  },
  {
   "id": "790790.18",
@@ -82,6 +82,6 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "まあいい、行くぜ銀次！　",
-  "en": ""
+  "en": "go, Ginji!"
  }
 ]

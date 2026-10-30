@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "女子社員",
   "jp": "パスを探してるの？　",
-  "en": ""
+  "en": "Looking for a pass? I've got one, so I"
  },
  {
   "id": "7B5370.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "女子社員",
   "jp": "私、持ってるから渡してもいいけど…　",
-  "en": ""
+  "en": "could give it to you, but..."
  },
  {
   "id": "7B5370.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "女子社員",
   "jp": "でもダメよ、",
-  "en": ""
+  "en": "No, sorry. You can only carry one pass."
  },
  {
   "id": "7B5370.7",
@@ -36,6 +36,6 @@
   "box": 2,
   "speaker": "女子社員",
   "jp": "パスは一つしか持てないもの　",
-  "en": ""
+  "en": " "
  }
 ]

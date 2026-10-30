@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "よォ、銀次！　元気そうだな！！　",
-  "en": ""
+  "en": "Yo, Ginji! Looks like you're doing fine!!"
  },
  {
   "id": "7B8E34.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "ば、蛮ちゃ～ん！　生きて会えたー！　",
-  "en": ""
+  "en": "B-Ban-chaaan! We both made it out alive! I"
  },
  {
   "id": "7B8E34.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "怖かったよ～、寂しかったよ～！！",
-  "en": ""
+  "en": "was so scared~, so lonely~!!"
  },
  {
   "id": "7B8E34.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "…ったく、大げさなヤローだぜ",
-  "en": ""
+  "en": "...Jeez, what a drama queen."
  },
  {
   "id": "7B8E34.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "し、士度はーーーん！",
-  "en": ""
+  "en": "Sh-Shido-haaaan! I was so lonely~!"
  },
  {
   "id": "7B8E34.17",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "めっちゃ寂しかったで～！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B8E34.19",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "もうワイを離さんといてや！！",
-  "en": ""
+  "en": "Don't you ever leave me again!!"
  },
  {
   "id": "7B8E34.21",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "士度",
   "jp": "うるせェな…離れろよ、笑師　",
-  "en": ""
+  "en": "Shut up... Get off me, Emishi."
  },
  {
   "id": "7B8E34.25",
@@ -111,7 +111,7 @@
   "box": 7,
   "speaker": "赤屍",
   "jp": "…再会を喜ぶのも結構ですが、",
-  "en": ""
+  "en": "...Rejoice in your reunion all you like, but"
  },
  {
   "id": "7B8E34.28",
@@ -119,7 +119,7 @@
   "box": 7,
   "speaker": "赤屍",
   "jp": "戦いはまだまだこれからですよ",
-  "en": ""
+  "en": "the fighting has only just begun."
  },
  {
   "id": "7B8E34.30",
@@ -134,7 +134,7 @@
   "box": 8,
   "speaker": "卑弥呼　",
   "jp": "そうね…さっさと敵のアジトを見つけて",
-  "en": ""
+  "en": "Right... Let's find their hideout fast and"
  },
  {
   "id": "7B8E34.33",
@@ -142,6 +142,6 @@
   "box": 8,
   "speaker": "卑弥呼　",
   "jp": "依頼を片付けましょう",
-  "en": ""
+  "en": "wrap up this job."
  }
 ]

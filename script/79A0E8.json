@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あれ？　",
-  "en": ""
+  "en": "Huh? I feel like I've seen this mark"
  },
  {
   "id": "79A0E8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "このマーク、見覚えがあるような…",
-  "en": ""
+  "en": "before..."
  },
  {
   "id": "79A0E8.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "それはＣＡＶのマークだな",
-  "en": ""
+  "en": "That's the CAV mark."
  },
  {
   "id": "79A0E8.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ＣＡＶだあ？",
-  "en": ""
+  "en": "CAV, huh?"
  },
  {
   "id": "79A0E8.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "士度",
   "jp": "Ｃｏｕｎｔｅｒｆｏｒｃｅ",
-  "en": ""
+  "en": "Counterforce against VOLTS."
  },
  {
   "id": "79A0E8.17",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "士度",
   "jp": "ａｇａｉｎｓｔ　ＶＯＬＴＳ、",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79A0E8.19",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "士度",
   "jp": "まあ早い話が反ボルツ勢力ってことだ　",
-  "en": ""
+  "en": "Long story short, it's an anti-VOLTS gang."
  },
  {
   "id": "79A0E8.21",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "士度",
   "jp": "汚い手を使うことで有名なチームだが…",
-  "en": ""
+  "en": "That team's known for dirty tricks... Didn't"
  },
  {
   "id": "79A0E8.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "士度",
   "jp": "こんなところを根城にしていたとはな　",
-  "en": ""
+  "en": "think they'd made this their hideout."
  },
  {
   "id": "79A0E8.24",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "…にしてもコイツ、　",
-  "en": ""
+  "en": "...And how long is this guy gonna stay out"
  },
  {
   "id": "79A0E8.27",
@@ -120,6 +120,6 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "いつまで気ィ失ってんだよ！　",
-  "en": ""
+  "en": "cold, anyway?!"
  }
 ]

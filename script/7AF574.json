@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "よォ、ねーちゃん",
-  "en": ""
+  "en": "Yo, miss. Know where the key is?"
  },
  {
   "id": "7AF574.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "カギがどこにあるか知らねェか？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AF574.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "秘書",
   "jp": "ええ、カギぃ？　",
-  "en": ""
+  "en": "Huh, a key~? Oh, you mean the Key"
  },
  {
   "id": "7AF574.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "秘書",
   "jp": "ああ、キーメモリーのことぉ？",
-  "en": ""
+  "en": "Memory~?"
  },
  {
   "id": "7AF574.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "秘書",
   "jp": "たぶん、もう一人の秘書のコが",
-  "en": ""
+  "en": "I think the other secretary girl had it~?"
  },
  {
   "id": "7AF574.12",
@@ -59,7 +59,7 @@
   "box": 3,
   "speaker": "秘書",
   "jp": "持ってたと思うけどぉ？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AF574.14",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "もう一人のコってどこにいるの？　",
-  "en": ""
+  "en": "Where's the other girl?"
  },
  {
   "id": "7AF574.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "秘書",
   "jp": "化粧直しするって言ってたから、　",
-  "en": ""
+  "en": "She said she was fixing her makeup, so"
  },
  {
   "id": "7AF574.21",
@@ -97,6 +97,6 @@
   "box": 5,
   "speaker": "秘書",
   "jp": "トイレにいると思うけどぉ？　",
-  "en": ""
+  "en": "she's probably in the restroom~?"
  }
 ]

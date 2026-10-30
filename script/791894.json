@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…お前ら、俺たちにビビッて依頼品を　",
-  "en": ""
+  "en": "...You guys got scared of us, dumped the"
  },
  {
   "id": "791894.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "投げ出して逃げたものの、",
-  "en": ""
+  "en": "goods and ran, but"
  },
  {
   "id": "791894.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "やっぱり手ブラじゃ帰れねえっつって　",
-  "en": ""
+  "en": "then decided you couldn't go home"
  },
  {
   "id": "791894.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "戻ってきたんじゃねえだろうな？　",
-  "en": ""
+  "en": "empty-handed and came back, huh?"
  },
  {
   "id": "791894.9",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "見知らぬ男　",
   "jp": "ち、違う！　",
-  "en": ""
+  "en": "Th-that's not it! We just hid it there!"
  },
  {
   "id": "791894.12",
@@ -59,7 +59,7 @@
   "box": 3,
   "speaker": "見知らぬ男　",
   "jp": "それは隠しておいただけだ！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "791894.14",
@@ -67,7 +67,7 @@
   "box": 4,
   "speaker": "見知らぬ男　",
   "jp": "大人しくこっちに渡さないと　",
-  "en": ""
+  "en": "Hand it over quietly, or you'll get hurt!!"
  },
  {
   "id": "791894.15",
@@ -75,7 +75,7 @@
   "box": 4,
   "speaker": "見知らぬ男　",
   "jp": "痛い目に会うぞ！！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "791894.17",
@@ -90,7 +90,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "痛い目に会うのは果たしてどっちかね？",
-  "en": ""
+  "en": "I wonder which of us is really gonna get\nhurt?"
  },
  {
   "id": "791894.21",
@@ -98,7 +98,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "行くぜ、銀次！　",
-  "en": ""
+  "en": "Let's go, Ginji!"
  },
  {
   "id": "791894.23",
@@ -113,6 +113,6 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "うん！！",
-  "en": ""
+  "en": "Yeah!!"
  }
 ]

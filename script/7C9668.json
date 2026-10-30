@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "鏡　",
   "jp": "…ちょっとがっかりしたよ",
-  "en": ""
+  "en": "...I'm a little disappointed."
  },
  {
   "id": "7C9668.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "クソッ…テメー、",
-  "en": ""
+  "en": "Damn it... What the hell are you plotting?"
  },
  {
   "id": "7C9668.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "一体なに企んでやがる？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C9668.11",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "鏡　",
   "jp": "言ったろ？　観察だって…",
-  "en": ""
+  "en": "Didn't I tell you? Observation..."
  },
  {
   "id": "7C9668.15",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7C9668.19",
@@ -80,7 +80,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "でも、それだけでもないよ？　",
-  "en": ""
+  "en": "But that's not all of it, you know?"
  },
  {
   "id": "7C9668.23",
@@ -88,7 +88,7 @@
   "box": 6,
   "speaker": "鏡　",
   "jp": "オレを仲間にしないと",
-  "en": ""
+  "en": "Unless I join you, you'll never beat that"
  },
  {
   "id": "7C9668.24",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "鏡　",
   "jp": "あの王様に勝つことはできない…　",
-  "en": ""
+  "en": "king..."
  },
  {
   "id": "7C9668.26",
@@ -111,6 +111,6 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "…なんだと？",
-  "en": ""
+  "en": "...What?"
  }
 ]

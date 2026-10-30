@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "！？　誰だ！！　",
-  "en": ""
+  "en": "?! Who's there?!"
  },
  {
   "id": "7B9568.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "？？？　",
   "jp": "貴様が雷の力を持つ者だな？　",
-  "en": ""
+  "en": "You are the one who holds the power of\nthunder, are you not?"
  },
  {
   "id": "7B9568.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "？？？　",
   "jp": "…その力、覚醒しつつあるとは危険だな",
-  "en": ""
+  "en": "...That power is awakening. Dangerous."
  },
  {
   "id": "7B9568.10",
@@ -43,6 +43,6 @@
   "box": 3,
   "speaker": "？？？　",
   "jp": "ここで始末しておいた方がよさそうだ　",
-  "en": ""
+  "en": "Best that I dispose of you here."
  }
 ]

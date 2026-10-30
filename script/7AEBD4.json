@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あっ、十兵衛だ～！　",
-  "en": ""
+  "en": "Oh, it's Juubei~! What're you doing in a"
  },
  {
   "id": "7AEBD4.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "なにしてんの、こんなところで？　",
-  "en": ""
+  "en": "place like this?"
  },
  {
   "id": "7AEBD4.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "…十兵衛！！",
-  "en": ""
+  "en": "...Juubei!!"
  },
  {
   "id": "7AEBD4.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "十兵衛　",
   "jp": "雷帝！　花月！！",
-  "en": ""
+  "en": "Thunder Emperor! Kazuki!! N-no, I'm not..."
  },
  {
   "id": "7AEBD4.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "十兵衛　",
   "jp": "い、いや、俺は別に…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AEBD4.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "せ、せや！　十兵衛はんは別に",
-  "en": ""
+  "en": "R-right! It's not like Juubei-han would try"
  },
  {
   "id": "7AEBD4.18",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "お笑いオーディションを受けるために　",
-  "en": ""
+  "en": "out for a comedy audition,"
  },
  {
   "id": "7AEBD4.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "わざわざハリネズミのキグルミ着て",
-  "en": ""
+  "en": "or put on a hedgehog mascot suit and"
  },
  {
   "id": "7AEBD4.21",
@@ -97,7 +97,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "こないなところに来たりせえへんて！　",
-  "en": ""
+  "en": "come all the way here for it!"
  },
  {
   "id": "7AEBD4.23",
@@ -105,6 +105,6 @@
   "box": 6,
   "speaker": "笑師",
   "jp": "なあ！！",
-  "en": ""
+  "en": "Right?!"
  }
 ]

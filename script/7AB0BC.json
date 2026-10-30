@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "マドカ　",
   "jp": "大変ですね、奪還屋さんたち…",
-  "en": ""
+  "en": "That sounds rough for the GetBackers..."
  },
  {
   "id": "7AB0BC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "アイツらがいると",
-  "en": ""
+  "en": "When those guys are around, it's nothing"
  },
  {
   "id": "7AB0BC.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "ギャーギャーうるせぇからな　",
-  "en": ""
+  "en": "but yapping and racket."
  },
  {
   "id": "7AB0BC.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "士度",
   "jp": "いねぇ方が静かでいいさ　",
-  "en": ""
+  "en": "It's nicer and quieter without 'em."
  },
  {
   "id": "7AB0BC.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "波児",
   "jp": "確かに静かになっちまったな…",
-  "en": ""
+  "en": "Sure got quiet in here... Maybe I'll put the"
  },
  {
   "id": "7AB0BC.15",
@@ -66,6 +66,6 @@
   "box": 4,
   "speaker": "波児",
   "jp": "ラジオでもかけるか　",
-  "en": ""
+  "en": "radio on."
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "…また………",
-  "en": ""
+  "en": "...Again......"
  },
  {
   "id": "7CE6C4.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "そろそろあたしの出番かしら？",
-  "en": ""
+  "en": "I suppose it's my turn now?"
  },
  {
   "id": "7CE6C4.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ダメだよ！　",
-  "en": ""
+  "en": "No way! I can't leave you behind,"
  },
  {
   "id": "7CE6C4.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "卑弥呼ちゃんを置いてけないよ",
-  "en": ""
+  "en": "Himiko-chan."
  },
  {
   "id": "7CE6C4.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "卑弥呼　",
   "jp": "なに甘いこと言ってんのよ",
-  "en": ""
+  "en": "Don't be so soft. I can handle a guy like"
  },
  {
   "id": "7CE6C4.17",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "卑弥呼　",
   "jp": "こんなヤツ、あたし一人で十分よ　",
-  "en": ""
+  "en": "this all by myself."
  },
  {
   "id": "7CE6C4.19",
@@ -88,6 +88,6 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "…ゴメンね、卑弥呼ちゃん！！",
-  "en": ""
+  "en": "...Sorry, Himiko-chan!!"
  }
 ]

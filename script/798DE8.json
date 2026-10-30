@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "写真屋　",
   "jp": "旅の記念に写真いかがですカ？",
-  "en": ""
+  "en": "Photo for souvenir of your trip, yes?"
  },
  {
   "id": "798DE8.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "写真？　いんねーよ、ンなモン",
-  "en": ""
+  "en": "A photo? Don't need one."
  },
  {
   "id": "798DE8.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "写真屋　",
   "jp": "この写真、フツウの写真違う　",
-  "en": ""
+  "en": "This photo, not normal photo. Takes little"
  },
  {
   "id": "798DE8.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "写真屋　",
   "jp": "ちょと不思議な写真とれる",
-  "en": ""
+  "en": "bit strange photo."
  },
  {
   "id": "798DE8.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "不思議ってどんな感じの？",
-  "en": ""
+  "en": "Strange how?"
  },
  {
   "id": "798DE8.18",
@@ -80,7 +80,7 @@
   "box": 5,
   "speaker": "写真屋　",
   "jp": "とる人と仲いい人、となりに写る　",
-  "en": ""
+  "en": "People close with the one in photo, they"
  },
  {
   "id": "798DE8.21",
@@ -88,7 +88,7 @@
   "box": 5,
   "speaker": "写真屋　",
   "jp": "ちょと不思議",
-  "en": ""
+  "en": "appear next to them. Little bit strange."
  },
  {
   "id": "798DE8.23",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "写真屋　",
   "jp": "仲良しさんいっぱいいると、　",
-  "en": ""
+  "en": "Many good friends, then you take many"
  },
  {
   "id": "798DE8.24",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "写真屋　",
   "jp": "写真たくさんとれるよ",
-  "en": ""
+  "en": "photos."
  },
  {
   "id": "798DE8.26",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "写真屋　",
   "jp": "でも仲良しさんいないと　",
-  "en": ""
+  "en": "But no good friends, then not even one"
  },
  {
   "id": "798DE8.27",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "写真屋　",
   "jp": "一枚もとれないのよ　",
-  "en": ""
+  "en": "photo."
  },
  {
   "id": "798DE8.29",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "面白いね！　撮ってみようよ！！　",
-  "en": ""
+  "en": "Sounds fun! Let's try it!!"
  },
  {
   "id": "798DE8.33",
@@ -150,7 +150,7 @@
   "box": 9,
   "speaker": "写真屋　",
   "jp": "一回しかとれないから誰とるか注意！　",
-  "en": ""
+  "en": "Only one try, so careful who you pick! That"
  },
  {
   "id": "798DE8.36",
@@ -158,6 +158,6 @@
   "box": 9,
   "speaker": "写真屋　",
   "jp": "とる人、一番前に出る。そしたらとる　",
-  "en": ""
+  "en": "one steps to front. Then I take."
  }
 ]

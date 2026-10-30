@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "これはオマケ用のＡＣＴ０が　",
-  "en": ""
+  "en": "This game software contains a bonus ACT"
  },
  {
   "id": "7D40A0.3",
@@ -13,7 +13,7 @@
   "box": 1,
   "speaker": "",
   "jp": "入っているゲームソフトです　",
-  "en": ""
+  "en": "0."
  },
  {
   "id": "7D40A0.5",
@@ -21,7 +21,7 @@
   "box": 2,
   "speaker": "",
   "jp": "ＡＣＴ０はデータをセーブした後、",
-  "en": ""
+  "en": "After saving your data, choose ACT 0 on"
  },
  {
   "id": "7D40A0.6",
@@ -29,7 +29,7 @@
   "box": 2,
   "speaker": "",
   "jp": "スタート画面からＡＣＴ０を選ぶことで",
-  "en": ""
+  "en": "the start screen"
  },
  {
   "id": "7D40A0.8",
@@ -37,6 +37,6 @@
   "box": 3,
   "speaker": "",
   "jp": "プレイすることができます",
-  "en": ""
+  "en": "and you can play it."
  }
 ]

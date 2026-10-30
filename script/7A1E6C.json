@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あれ、どこ行っちゃったんだろう？",
-  "en": ""
+  "en": "Huh, where'd they go? I don't see them"
  },
  {
   "id": "7A1E6C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "姿が見えないね　",
-  "en": ""
+  "en": "anywhere."
  },
  {
   "id": "7A1E6C.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "今の時間、　",
-  "en": ""
+  "en": "At this hour, the public entrance should be"
  },
  {
   "id": "7A1E6C.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "一般入場口は封鎖しているはずだ　",
-  "en": ""
+  "en": "closed."
  },
  {
   "id": "7A1E6C.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "出入りできるのはこの関係者通路のみ　",
-  "en": ""
+  "en": "The only way in or out is this staff"
  },
  {
   "id": "7A1E6C.12",
@@ -59,7 +59,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "とすれば、まだヤツらは中にいるはずだ",
-  "en": ""
+  "en": "passage, so they've gotta still be inside."
  },
  {
   "id": "7A1E6C.14",
@@ -74,6 +74,6 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "分かった、探してみよう！",
-  "en": ""
+  "en": "Got it, let's look for them!"
  }
 ]

@@ -37,6 +37,9 @@ TL = ROOT / 'work' / 'tl'
 GLOSSARY = ROOT / 'glossary.md'
 BOX1, BOX2 = (struct.pack('<I', b) for b in script.BOX)
 SEP = ' / '
+# Measured slots the full English can't fit without engine work (D4: no abbreviation): reported as ENGINE
+# warnings, fixed in phase 7. Party list: "Kurodo Akabane" 79 px, "Kazuki Fuchoin" 71 px in 68 px (cursor at x 80).
+ENGINE_FIT = {'M09C3F2', 'M09C400'}
 
 
 @lru_cache(None)
@@ -276,7 +279,10 @@ def check(b, us=None, quiet=False):
         if not ok:
             msg = (f"{i}: too long for {limit(u)} -> " +
                    ' | '.join(f'{x} ({vwf.width(x)}px)' for x in lines))
-            (errs if u['measured'] else warns).append(msg if u['measured'] else 'LONG ' + msg)
+            if i in ENGINE_FIT:
+                warns.append('ENGINE ' + msg)
+            else:
+                (errs if u['measured'] else warns).append(msg if u['measured'] else 'LONG ' + msg)
         low = en.lower()
         for _, jp, alts, avoid, lint in terms:
             if not lint or not has_term(u['jp'], jp):
@@ -295,6 +301,9 @@ def place(u, en):
     """{entry id: en} for a unit's English: wrapped lines over its entries (blank ' ' for unused ones; a 1-line
     0x238C box gets 'line1\\nline2')."""
     _, lines = fits(en, u)
+    n = 2 if u['expand'] else u['lines']
+    if len(lines) > n:  # over a guessed/engine-fix budget: keep the line count, let the line run long
+        lines = lines[:n - 1] + [' '.join(lines[n - 1:])]
     if u['form'] == 'menu':
         return {u['ids'][0]: '\n'.join(lines)}
     ids = u['ids']

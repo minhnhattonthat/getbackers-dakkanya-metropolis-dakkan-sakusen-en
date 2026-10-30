@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ったく、心配かけさせやがって",
-  "en": ""
+  "en": "Geez, making me worry like that."
  },
  {
   "id": "7C8B98.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "なによ、あたしは別に助けてなんて…　",
-  "en": ""
+  "en": "What? It's not like I needed you to save\nme or anything..."
  },
  {
   "id": "7C8B98.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "そうか？　お前の目は助けてくれって　",
-  "en": ""
+  "en": "Yeah? Your eyes were sure saying 'help"
  },
  {
   "id": "7C8B98.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "言ってたけどな　",
-  "en": ""
+  "en": "me.'"
  },
  {
   "id": "7C8B98.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "卑弥呼　",
   "jp": "言ってないってば！！",
-  "en": ""
+  "en": "No, they weren't!!"
  },
  {
   "id": "7C8B98.18",
@@ -80,7 +80,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7C8B98.22",
@@ -88,7 +88,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "ま、お前は弱いんだから　",
-  "en": ""
+  "en": "Well, you're weak, so don't push yourself."
  },
  {
   "id": "7C8B98.23",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "ムリすんじゃねーよ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C8B98.25",
@@ -104,7 +104,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "なんかあった時は",
-  "en": ""
+  "en": "If anything happens, the invincible Ban"
  },
  {
   "id": "7C8B98.26",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "無敵の美堂蛮様が助けてやるしな　",
-  "en": ""
+  "en": "Mido-sama will come save you."
  },
  {
   "id": "7C8B98.28",
@@ -127,7 +127,7 @@
   "box": 8,
   "speaker": "卑弥呼　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7C8B98.32",
@@ -135,6 +135,6 @@
   "box": 9,
   "speaker": "卑弥呼　",
   "jp": "………バカ！",
-  "en": ""
+  "en": "......Idiot!"
  }
 ]

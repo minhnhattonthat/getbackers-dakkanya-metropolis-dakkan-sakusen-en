@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "なぞなぞ",
-  "en": ""
+  "en": "Riddles"
  },
  {
   "id": "7BB278.4",
@@ -13,7 +13,7 @@
   "box": 2,
   "speaker": "",
   "jp": "Ｑ１　お城の色は何色？　",
-  "en": ""
+  "en": "Q1 What color is the Isle of Wight?"
  },
  {
   "id": "7BB278.6",
@@ -21,7 +21,7 @@
   "box": 3,
   "speaker": "",
   "jp": "Ｑ２　薬の中身は何色？　",
-  "en": ""
+  "en": "Q2 What color is the house where the\nPresident lives?"
  },
  {
   "id": "7BB278.8",
@@ -29,7 +29,7 @@
   "box": 4,
   "speaker": "",
   "jp": "Ｑ１→Ｑ２　",
-  "en": ""
+  "en": "Q1 -> Q2"
  },
  {
   "id": "7BB278.10",
@@ -44,7 +44,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "な…なぞなぞ？？？　",
-  "en": ""
+  "en": "R... riddles???"
  },
  {
   "id": "7BB278.14",
@@ -52,7 +52,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "うーん、お城の色と言えば…灰色かな？",
-  "en": ""
+  "en": "Hmm, the Isle of Wight... green, maybe?"
  },
  {
   "id": "7BB278.16",
@@ -60,7 +60,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "薬は…　",
-  "en": ""
+  "en": "The President's house... I've never been"
  },
  {
   "id": "7BB278.17",
@@ -68,7 +68,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "あんまり飲まないから分かんないなあ　",
-  "en": ""
+  "en": "there, so I dunno..."
  },
  {
   "id": "7BB278.19",
@@ -83,7 +83,7 @@
   "box": 8,
   "speaker": "赤屍",
   "jp": "銀次クン…　",
-  "en": ""
+  "en": "Ginji-kun... That would not make it a riddle."
  },
  {
   "id": "7BB278.22",
@@ -91,7 +91,7 @@
   "box": 8,
   "speaker": "赤屍",
   "jp": "それではなぞなぞになっていませんよ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BB278.24",
@@ -106,7 +106,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "ス、スミマセン…",
-  "en": ""
+  "en": "S-sorry..."
  },
  {
   "id": "7BB278.28",
@@ -121,7 +121,7 @@
   "box": 10,
   "speaker": "赤屍",
   "jp": "これは…どちらも同じ色のようですね　",
-  "en": ""
+  "en": "These... both appear to be the same color."
  },
  {
   "id": "7BB278.32",
@@ -136,7 +136,7 @@
   "box": 11,
   "speaker": "銀次",
   "jp": "わ、分かるんですか、赤屍さん！？",
-  "en": ""
+  "en": "Y-you know the answer, Akabane-san?!"
  },
  {
   "id": "7BB278.36",
@@ -144,7 +144,7 @@
   "box": 12,
   "speaker": "銀次",
   "jp": "ヒントだけでもお願いします！",
-  "en": ""
+  "en": "Please, at least give me a hint!"
  },
  {
   "id": "7BB278.38",
@@ -159,7 +159,7 @@
   "box": 13,
   "speaker": "赤屍",
   "jp": "…銀次クン、薬を漢字で書けますか？　",
-  "en": ""
+  "en": "...Ginji-kun, how is \"Wight\" pronounced? And\nwhat is the President's house called?"
  },
  {
   "id": "7BB278.42",
@@ -174,7 +174,7 @@
   "box": 14,
   "speaker": "銀次",
   "jp": "た、多分…　",
-  "en": ""
+  "en": "I-I think I know..."
  },
  {
   "id": "7BB278.46",
@@ -189,6 +189,6 @@
   "box": 15,
   "speaker": "赤屍",
   "jp": "では中身が何色か分かるはずですよ…　",
-  "en": ""
+  "en": "Then you should know what color they\nboth are..."
  }
 ]

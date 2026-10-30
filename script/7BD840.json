@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "おい、猿マワシ…嬢ちゃんと　",
-  "en": ""
+  "en": "Hey, monkey trainer... You've got the"
  },
  {
   "id": "7BD840.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "いうものがありながらのぞきかよ　",
-  "en": ""
+  "en": "young lady, and you're still going peeping?"
  },
  {
   "id": "7BD840.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "ったく、節操ねぇヤローだぜ…",
-  "en": ""
+  "en": "Jeez, you got no shame..."
  },
  {
   "id": "7BD840.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "士度",
   "jp": "うるせえ、　",
-  "en": ""
+  "en": "Shut up. I just got dragged here against"
  },
  {
   "id": "7BD840.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "士度",
   "jp": "俺はムリヤリ連れて来られただけだ",
-  "en": ""
+  "en": "my will."
  },
  {
   "id": "7BD840.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "またまた！　",
-  "en": ""
+  "en": "Oh, come on! No need to act tough,"
  },
  {
   "id": "7BD840.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "ムリせんでエエて、士度はん！！　",
-  "en": ""
+  "en": "Shido-han!!"
  },
  {
   "id": "7BD840.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "ねえねえ、　",
-  "en": ""
+  "en": "Hey, hey, it's cold, so let's hurry and get"
  },
  {
   "id": "7BD840.21",
@@ -97,7 +97,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "寒いから早く温泉に入ろうよ～",
-  "en": ""
+  "en": "in the hot spring~"
  },
  {
   "id": "7BD840.23",
@@ -112,6 +112,6 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "よっしゃ、露天風呂に行くとするか！　",
-  "en": ""
+  "en": "Alright, let's hit the open-air bath!"
  }
 ]

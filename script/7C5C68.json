@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "配電室のカギを手に入れた！　",
-  "en": ""
+  "en": "Obtained the Switch Room Key!"
  },
  {
   "id": "7C5C68.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "あったー！　カギ発見～！！　",
-  "en": ""
+  "en": "Found it! I got the key~!!"
  },
  {
   "id": "7C5C68.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "よっしゃ、　",
-  "en": ""
+  "en": "All right! Now we can get the elevator"
  },
  {
   "id": "7C5C68.12",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "これでエレベーターを動かせるな！",
-  "en": ""
+  "en": "running!"
  },
  {
   "id": "7C5C68.14",
@@ -51,6 +51,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "配電室に戻ろうぜ",
-  "en": ""
+  "en": "Let's head back to the switch room."
  }
 ]

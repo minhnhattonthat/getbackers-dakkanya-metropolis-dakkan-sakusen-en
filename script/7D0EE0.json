@@ -4,7 +4,7 @@
   "kind": "name",
   "box": 0,
   "jp": "民Ａ",
-  "en": "Local A"
+  "en": "Wanderer A"
  },
  {
   "id": "7D0EE0.3",
@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "民Ａ",
   "jp": "王様ハ九ツノばりあ持ッテル　",
-  "en": ""
+  "en": "The king has nine barriers. Those barriers"
  },
  {
   "id": "7D0EE0.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "民Ａ",
   "jp": "ソノばりあハ属性ノ力デシカ破レナイ…",
-  "en": ""
+  "en": "break only with power of elements..."
  },
  {
   "id": "7D0EE0.6",
@@ -28,6 +28,6 @@
   "box": 2,
   "speaker": "民Ａ",
   "jp": "気ヲ付ケロヨ",
-  "en": ""
+  "en": "Be careful."
  }
 ]

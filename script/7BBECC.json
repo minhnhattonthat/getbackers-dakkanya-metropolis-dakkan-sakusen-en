@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "笑師",
   "jp": "おお～、ようやっと抜けましたな！",
-  "en": ""
+  "en": "Oooh, we finally made it through! Then"
  },
  {
   "id": "7BBECC.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "笑師",
   "jp": "ほな先行きましょか！",
-  "en": ""
+  "en": "let's head on!"
  },
  {
   "id": "7BBECC.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "ダメですよ　",
-  "en": ""
+  "en": "No, we mustn't."
  },
  {
   "id": "7BBECC.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "別チームのトビラのスイッチを",
-  "en": ""
+  "en": "We might end up undoing another team's"
  },
  {
   "id": "7BBECC.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "解除するかも知れませんしね…",
-  "en": ""
+  "en": "door switch..."
  },
  {
   "id": "7BBECC.13",
@@ -66,6 +66,6 @@
   "box": 4,
   "speaker": "十兵衛　",
   "jp": "ここで待った方が良さそうだな…　",
-  "en": ""
+  "en": "It seems best to wait here..."
  }
 ]

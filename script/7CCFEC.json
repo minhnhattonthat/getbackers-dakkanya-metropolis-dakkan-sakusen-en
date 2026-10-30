@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "アルくん、もう体の方は大丈夫なの？　",
-  "en": ""
+  "en": "Al-kun, are you feeling all better now?"
  },
  {
   "id": "7CCFEC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "アル",
   "jp": "はい、もうすっかり元気！",
-  "en": ""
+  "en": "Yes, all healthy now! Thanks to everyone."
  },
  {
   "id": "7CCFEC.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "アル",
   "jp": "みなさんのおかげです",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CCFEC.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "そいつぁ良かったな　",
-  "en": ""
+  "en": "Good to hear."
  },
  {
   "id": "7CCFEC.14",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "しっかし、よく考えると今回の事件の　",
-  "en": ""
+  "en": "But come to think of it, you were behind"
  },
  {
   "id": "7CCFEC.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "殆どは裏でお前が操ってたんだよな？　",
-  "en": ""
+  "en": "most of this whole mess, weren't you?"
  },
  {
   "id": "7CCFEC.17",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "アホそうに見えて意外と策士だな　",
-  "en": ""
+  "en": "You look like an idiot, but you're a real\nschemer."
  },
  {
   "id": "7CCFEC.19",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "ジェンド",
   "jp": "なにを言っておるのだ",
-  "en": ""
+  "en": "What are you saying? Al is the greatest"
  },
  {
   "id": "7CCFEC.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "ジェンド",
   "jp": "アルは我が一族最高の軍師だ　",
-  "en": ""
+  "en": "strategist of our clan."
  },
  {
   "id": "7CCFEC.24",
@@ -105,7 +105,7 @@
   "box": 6,
   "speaker": "ジェンド",
   "jp": "蛮　",
-  "en": ""
+  "en": "Ban"
  },
  {
   "id": "7CCFEC.25",
@@ -113,7 +113,7 @@
   "box": 6,
   "speaker": "ジェンド",
   "jp": "銀次",
-  "en": ""
+  "en": "Ginji"
  },
  {
   "id": "7CCFEC.27",
@@ -121,7 +121,7 @@
   "box": 7,
   "speaker": "ジェンド",
   "jp": "………はあ？",
-  "en": ""
+  "en": "......Huh?"
  },
  {
   "id": "7CCFEC.29",
@@ -136,7 +136,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "…こんなにボーッとしてるのに？　",
-  "en": ""
+  "en": "...Even though he's this spaced out?"
  },
  {
   "id": "7CCFEC.33",
@@ -151,7 +151,7 @@
   "box": 9,
   "speaker": "ジェンド",
   "jp": "そう見えるのは頭の中で　",
-  "en": ""
+  "en": "He seems so because he is running all"
  },
  {
   "id": "7CCFEC.36",
@@ -159,7 +159,7 @@
   "box": 9,
   "speaker": "ジェンド",
   "jp": "様々な計算を行っているせいだ",
-  "en": ""
+  "en": "manner of calculations in his head."
  },
  {
   "id": "7CCFEC.38",
@@ -174,7 +174,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "…にしちゃあ金勘定できなかったぜ？　",
-  "en": ""
+  "en": "...Then how come he couldn't count money?"
  },
  {
   "id": "7CCFEC.42",
@@ -189,7 +189,7 @@
   "box": 11,
   "speaker": "ジェンド",
   "jp": "金銭感覚がズレているのは",
-  "en": ""
+  "en": "His sense of money is off because he has"
  },
  {
   "id": "7CCFEC.45",
@@ -197,7 +197,7 @@
   "box": 11,
   "speaker": "ジェンド",
   "jp": "金銭欲というものが全くないせいだ",
-  "en": ""
+  "en": "no greed for it whatsoever."
  },
  {
   "id": "7CCFEC.47",
@@ -205,7 +205,7 @@
   "box": 11,
   "speaker": "ジェンド",
   "jp": "蛮　",
-  "en": ""
+  "en": "Ban"
  },
  {
   "id": "7CCFEC.48",
@@ -213,7 +213,7 @@
   "box": 11,
   "speaker": "ジェンド",
   "jp": "銀次",
-  "en": ""
+  "en": "Ginji"
  },
  {
   "id": "7CCFEC.50",
@@ -221,7 +221,7 @@
   "box": 12,
   "speaker": "ジェンド",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7CCFEC.52",
@@ -236,7 +236,7 @@
   "box": 13,
   "speaker": "アル",
   "jp": "？？？　",
-  "en": ""
+  "en": "???"
  },
  {
   "id": "7CCFEC.56",
@@ -251,7 +251,7 @@
   "box": 14,
   "speaker": "銀次",
   "jp": "（蛮ちゃん…",
-  "en": ""
+  "en": "(Ban-chan... You really can't judge people"
  },
  {
   "id": "7CCFEC.59",
@@ -259,7 +259,7 @@
   "box": 14,
   "speaker": "銀次",
   "jp": "人は見かけによらないものだね…）",
-  "en": ""
+  "en": "by their looks...)"
  },
  {
   "id": "7CCFEC.61",
@@ -274,7 +274,7 @@
   "box": 15,
   "speaker": "蛮　",
   "jp": "（…まったく、怖ェ世の中だぜ）　",
-  "en": ""
+  "en": "(...Man, it's a scary world out there.)"
  },
  {
   "id": "7CCFEC.65",
@@ -289,7 +289,7 @@
   "box": 16,
   "speaker": "蛮　",
   "jp": "ところでアル、　",
-  "en": ""
+  "en": "By the way, Al, here's a going-away"
  },
  {
   "id": "7CCFEC.68",
@@ -297,7 +297,7 @@
   "box": 16,
   "speaker": "蛮　",
   "jp": "こいつは俺たちからの餞別だ　",
-  "en": ""
+  "en": "present from us."
  },
  {
   "id": "7CCFEC.70",
@@ -312,7 +312,7 @@
   "box": 17,
   "speaker": "アル",
   "jp": "あ…宝玉………　",
-  "en": ""
+  "en": "Ah... An orb......"
  },
  {
   "id": "7CCFEC.74",
@@ -320,7 +320,7 @@
   "box": 18,
   "speaker": "アル",
   "jp": "ありがとございます　",
-  "en": ""
+  "en": "Thank you very much. Ban-san, scary"
  },
  {
   "id": "7CCFEC.75",
@@ -328,7 +328,7 @@
   "box": 18,
   "speaker": "アル",
   "jp": "蛮さん、かおコワいけどいい人",
-  "en": ""
+  "en": "face, but good person."
  },
  {
   "id": "7CCFEC.77",
@@ -343,7 +343,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "…まだ言うか",
-  "en": ""
+  "en": "...You're still on that?"
  },
  {
   "id": "7CCFEC.81",
@@ -358,7 +358,7 @@
   "box": 20,
   "speaker": "アル",
   "jp": "銀さんも助けてくれてアリガト",
-  "en": ""
+  "en": "Gin-san too, thank you for helping."
  },
  {
   "id": "7CCFEC.85",
@@ -366,7 +366,7 @@
   "box": 21,
   "speaker": "アル",
   "jp": "みんないい人ばっかり…　",
-  "en": ""
+  "en": "Everyone is good people... I will not forget"
  },
  {
   "id": "7CCFEC.86",
@@ -374,7 +374,7 @@
   "box": 21,
   "speaker": "アル",
   "jp": "ボク、みんなのこと忘れないよ",
-  "en": ""
+  "en": "all of you."
  },
  {
   "id": "7CCFEC.88",
@@ -389,7 +389,7 @@
   "box": 22,
   "speaker": "銀次",
   "jp": "さびしくなるよ、",
-  "en": ""
+  "en": "It's gonna be lonely without you, Al-kun..."
  },
  {
   "id": "7CCFEC.91",
@@ -397,7 +397,7 @@
   "box": 22,
   "speaker": "銀次",
   "jp": "アルくんがいなくなると…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CCFEC.93",
@@ -405,7 +405,7 @@
   "box": 23,
   "speaker": "銀次",
   "jp": "たまには手紙書いてね、　",
-  "en": ""
+  "en": "Write me a letter sometimes, okay? I'll"
  },
  {
   "id": "7CCFEC.94",
@@ -413,7 +413,7 @@
   "box": 23,
   "speaker": "銀次",
   "jp": "オレも返事を書くからさ　",
-  "en": ""
+  "en": "write back."
  },
  {
   "id": "7CCFEC.96",
@@ -421,7 +421,7 @@
   "box": 24,
   "speaker": "銀次",
   "jp": "ジェンドさんも元気でね　",
-  "en": ""
+  "en": "Take care, Jend-san."
  },
  {
   "id": "7CCFEC.98",
@@ -436,7 +436,7 @@
   "box": 25,
   "speaker": "ジェンド",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7CCFEC.102",
@@ -444,7 +444,7 @@
   "box": 26,
   "speaker": "ジェンド",
   "jp": "余は許されざる罪を犯した…　",
-  "en": ""
+  "en": "I have committed an unforgivable sin..."
  },
  {
   "id": "7CCFEC.104",
@@ -452,7 +452,7 @@
   "box": 27,
   "speaker": "ジェンド",
   "jp": "その罪を償わずに逃げるなどと…　",
-  "en": ""
+  "en": "To flee without atoning for it..."
  },
  {
   "id": "7CCFEC.106",
@@ -467,7 +467,7 @@
   "box": 28,
   "speaker": "蛮　",
   "jp": "もしアンタが罪の意識を抱いてるなら、",
-  "en": ""
+  "en": "If you're feeling guilty, then make it up to"
  },
  {
   "id": "7CCFEC.109",
@@ -475,7 +475,7 @@
   "box": 28,
   "speaker": "蛮　",
   "jp": "それは一族の者たちに償っていけばいい",
-  "en": ""
+  "en": "the people of your clan."
  },
  {
   "id": "7CCFEC.111",
@@ -483,7 +483,7 @@
   "box": 29,
   "speaker": "蛮　",
   "jp": "そのためにもアンタは",
-  "en": ""
+  "en": "And to do that, you can't let yourself get"
  },
  {
   "id": "7CCFEC.112",
@@ -491,7 +491,7 @@
   "box": 29,
   "speaker": "蛮　",
   "jp": "こンなとこで捕まるわけにはいかねえ…",
-  "en": ""
+  "en": "caught in a place like this..."
  },
  {
   "id": "7CCFEC.114",
@@ -499,7 +499,7 @@
   "box": 30,
   "speaker": "蛮　",
   "jp": "違うかよ？　",
-  "en": ""
+  "en": "Am I wrong?"
  },
  {
   "id": "7CCFEC.116",
@@ -514,7 +514,7 @@
   "box": 31,
   "speaker": "ジェンド",
   "jp": "そうだな…その通りだ",
-  "en": ""
+  "en": "Indeed... You are right."
  },
  {
   "id": "7CCFEC.120",
@@ -529,7 +529,7 @@
   "box": 32,
   "speaker": "蛮　",
   "jp": "ま、なンかあったら　",
-  "en": ""
+  "en": "Well, if anything comes up, give us a call."
  },
  {
   "id": "7CCFEC.123",
@@ -537,7 +537,7 @@
   "box": 32,
   "speaker": "蛮　",
   "jp": "そん時ぁ俺たちを呼びな　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CCFEC.125",
@@ -545,7 +545,7 @@
   "box": 33,
   "speaker": "蛮　",
   "jp": "世界の果てだって駆けつけてやるぜ",
-  "en": ""
+  "en": "We'll come running to the ends of the"
  },
  {
   "id": "7CCFEC.126",
@@ -553,7 +553,7 @@
   "box": 33,
   "speaker": "蛮　",
   "jp": "無敵のゲットバッカーズがよ！",
-  "en": ""
+  "en": "earth. We're the invincible GetBackers!"
  },
  {
   "id": "7CCFEC.129",
@@ -568,7 +568,7 @@
   "box": 34,
   "speaker": "ジェンド",
   "jp": "…では、世話になったな　",
-  "en": ""
+  "en": "...Then farewell. I am in your debt."
  },
  {
   "id": "7CCFEC.133",
@@ -583,6 +583,6 @@
   "box": 35,
   "speaker": "アル",
   "jp": "さよなら！　蛮さん、銀さん！！　",
-  "en": ""
+  "en": "Goodbye! Ban-san, Gin-san!!"
  }
 ]

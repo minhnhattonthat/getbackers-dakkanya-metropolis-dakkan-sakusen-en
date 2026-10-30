@@ -4,7 +4,7 @@
   "kind": "name",
   "box": 0,
   "jp": "民Ａ",
-  "en": "Local A"
+  "en": "Wanderer A"
  },
  {
   "id": "7D0D8C.3",
@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "民Ａ",
   "jp": "…行クンダナ？　",
-  "en": ""
+  "en": "...You go now?"
  },
  {
   "id": "7D0D8C.5",
@@ -27,14 +27,14 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "ああ…そろそろ決着をつけねーとな",
-  "en": ""
+  "en": "Yeah... Time we settled this."
  },
  {
   "id": "7D0D8C.9",
   "kind": "name",
   "box": 2,
   "jp": "民Ａ",
-  "en": "Local A"
+  "en": "Wanderer A"
  },
  {
   "id": "7D0D8C.11",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "民Ａ",
   "jp": "ソウカ…",
-  "en": ""
+  "en": "I see... Then take this with you."
  },
  {
   "id": "7D0D8C.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "民Ａ",
   "jp": "ナラバコレヲ持ッテイケ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7D0D8C.16",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "民Ａ",
   "jp": "蓬莱の玉を手に入れた！　",
-  "en": ""
+  "en": "Got a Horai Jewel!"
  },
  {
   "id": "7D0D8C.18",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "ありがと！　",
-  "en": ""
+  "en": "Thanks! Well... we're off!!"
  },
  {
   "id": "7D0D8C.21",
@@ -81,6 +81,6 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "じゃ…行ってくるね！！　",
-  "en": ""
+  "en": " "
  }
 ]

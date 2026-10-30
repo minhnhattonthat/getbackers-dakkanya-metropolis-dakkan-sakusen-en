@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あったよ、蛮ちゃん！！　",
-  "en": ""
+  "en": "Found it, Ban-chan!!"
  },
  {
   "id": "7CF1EC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "銀次…電気帯びた手で",
-  "en": ""
+  "en": "Ginji... Don't you go touching that bomb"
  },
  {
   "id": "7CF1EC.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "爆弾に触ったりすンじゃねーぞ",
-  "en": ""
+  "en": "with your hands all charged up."
  },
  {
   "id": "7CF1EC.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "起爆装置作動させられちゃ",
-  "en": ""
+  "en": "Last thing we need is you setting off the"
  },
  {
   "id": "7CF1EC.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "たまんねーからな",
-  "en": ""
+  "en": "detonator."
  },
  {
   "id": "7CF1EC.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7CF1EC.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "…時限式になっているのは",
-  "en": ""
+  "en": "...Looks like only one of them is on a"
  },
  {
   "id": "7CF1EC.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "一つだけみたいだね？",
-  "en": ""
+  "en": "timer?"
  },
  {
   "id": "7CF1EC.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "残りは連鎖させる気か…　",
-  "en": ""
+  "en": "So they're gonna set off the rest in a\nchain..."
  },
  {
   "id": "7CF1EC.26",
@@ -119,7 +119,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "あっ、じゃあこのコード切っちゃえば　",
-  "en": ""
+  "en": "Oh, then if we cut this wire, the others"
  },
  {
   "id": "7CF1EC.29",
@@ -127,7 +127,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "他のは爆発しないんじゃない？",
-  "en": ""
+  "en": "won't blow up, right?"
  },
  {
   "id": "7CF1EC.31",
@@ -142,7 +142,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "コード切った途端、爆発すンぞ",
-  "en": ""
+  "en": "Cut the wire and it'll blow the second you\ndo."
  },
  {
   "id": "7CF1EC.35",
@@ -157,7 +157,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7CF1EC.39",
@@ -172,7 +172,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "コイツに任せるのが　",
-  "en": ""
+  "en": "Guess leaving it to this guy was a mistake"
  },
  {
   "id": "7CF1EC.42",
@@ -180,7 +180,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "そもそも間違ってたみてぇだな…　",
-  "en": ""
+  "en": "from the start..."
  },
  {
   "id": "7CF1EC.44",
@@ -195,7 +195,7 @@
   "box": 11,
   "speaker": "銀次",
   "jp": "だ、大丈夫だよ　",
-  "en": ""
+  "en": "I-It's okay, we've got MakubeX..."
  },
  {
   "id": "7CF1EC.47",
@@ -203,7 +203,7 @@
   "box": 11,
   "speaker": "銀次",
   "jp": "ＭＡＫＵＢＥＸがいるし…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CF1EC.49",
@@ -218,7 +218,7 @@
   "box": 12,
   "speaker": "銀次",
   "jp": "ダメだ…電波が届かないよ………　",
-  "en": ""
+  "en": "No good... I can't get a signal......"
  },
  {
   "id": "7CF1EC.53",
@@ -226,7 +226,7 @@
   "box": 13,
   "speaker": "銀次",
   "jp": "どうしよう…",
-  "en": ""
+  "en": "What do we do..."
  },
  {
   "id": "7CF1EC.55",
@@ -241,7 +241,7 @@
   "box": 14,
   "speaker": "鏡　",
   "jp": "時間を稼ぐには冷やすしかないだろうね",
-  "en": ""
+  "en": "Cooling it is the only way to buy time, I'd\nsay."
  },
  {
   "id": "7CF1EC.59",
@@ -256,7 +256,7 @@
   "box": 15,
   "speaker": "蛮　",
   "jp": "液体窒素か…",
-  "en": ""
+  "en": "Liquid nitrogen, huh... Is there even any in"
  },
  {
   "id": "7CF1EC.62",
@@ -264,7 +264,7 @@
   "box": 15,
   "speaker": "蛮　",
   "jp": "あるのかよ、このビルに？",
-  "en": ""
+  "en": "this building?"
  },
  {
   "id": "7CF1EC.64",
@@ -279,7 +279,7 @@
   "box": 16,
   "speaker": "鏡　",
   "jp": "このまま解体するのは危険だし、　",
-  "en": ""
+  "en": "Dismantling it as is would be dangerous,"
  },
  {
   "id": "7CF1EC.67",
@@ -287,7 +287,7 @@
   "box": 16,
   "speaker": "鏡　",
   "jp": "それしか道はないと思うけど？",
-  "en": ""
+  "en": "so I think that's the only way, no?"
  },
  {
   "id": "7CF1EC.69",
@@ -302,6 +302,6 @@
   "box": 17,
   "speaker": "蛮　",
   "jp": "探すしかなさそうだな…　",
-  "en": ""
+  "en": "Looks like we've got no choice but to look\nfor it..."
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "弥勒",
   "jp": "…行きますよ",
-  "en": ""
+  "en": "...Here I come."
  },
  {
   "id": "7BE3F0.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "（何者だ、コイツ…　",
-  "en": ""
+  "en": "(Who is this... His presence is hard to"
  },
  {
   "id": "7BE3F0.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "気配がつかみ辛い…だが！！）",
-  "en": ""
+  "en": "read... But even so!!)"
  },
  {
   "id": "7BE3F0.10",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "弥勒",
-  "en": ""
+  "en": "Miroku"
  },
  {
   "id": "7BE3F0.13",
@@ -51,6 +51,6 @@
   "box": 3,
   "speaker": "十兵衛　",
   "jp": "我ら弥勒に敗北は許されぬ！！",
-  "en": ""
+  "en": "We Miroku are forbidden to lose!!"
  }
 ]

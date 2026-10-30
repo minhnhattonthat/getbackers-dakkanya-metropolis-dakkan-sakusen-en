@@ -12,14 +12,14 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "これってＴＡＲＥを培養してるの？",
-  "en": ""
+  "en": "Are they growing TARE here?"
  },
  {
   "id": "7CFCE0.5",
   "kind": "name",
   "box": 1,
   "jp": "民Ｂ",
-  "en": "Local B"
+  "en": "Wanderer B"
  },
  {
   "id": "7CFCE0.7",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "民Ｂ",
   "jp": "ソウダ　",
-  "en": ""
+  "en": "Yes."
  },
  {
   "id": "7CFCE0.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "民Ｂ",
   "jp": "タダ正確ニハ『︀Ｔ・Ａ』︀培養シテル",
-  "en": ""
+  "en": "But to be exact, we grow 'T.A.' TARE is Al's"
  },
  {
   "id": "7CFCE0.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "民Ｂ",
   "jp": "ＴＡＲＥハあるノ『︀Ｔ・Ａ』︀ノ名前ダ　",
-  "en": ""
+  "en": "name for 'T.A.'"
  },
  {
   "id": "7CFCE0.12",
@@ -51,7 +51,7 @@
   "box": 4,
   "speaker": "民Ｂ",
   "jp": "人工生命体『︀Ｔ・Ａ』︀…　",
-  "en": ""
+  "en": "Artificial life form 'T.A.'..."
  },
  {
   "id": "7CFCE0.14",
@@ -66,7 +66,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "アルくんはＴＡＲＥのこと",
-  "en": ""
+  "en": "But Al-kun said TARE was a creature from"
  },
  {
   "id": "7CFCE0.17",
@@ -74,14 +74,14 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "母国の生き物だって言ってたけど…",
-  "en": ""
+  "en": "his homeland..."
  },
  {
   "id": "7CFCE0.19",
   "kind": "name",
   "box": 5,
   "jp": "民Ｂ",
-  "en": "Local B"
+  "en": "Wanderer B"
  },
  {
   "id": "7CFCE0.21",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "民Ｂ",
   "jp": "あるハ小サイ頃カラＴＡＲＥト",
-  "en": ""
+  "en": "Al is with TARE since he was small, so he"
  },
  {
   "id": "7CFCE0.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "民Ｂ",
   "jp": "一緒ダッタカラ、ソウ思イ込ンデル",
-  "en": ""
+  "en": "believes so."
  },
  {
   "id": "7CFCE0.24",
@@ -112,14 +112,14 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "で…なんなんだ、コイツは？　",
-  "en": ""
+  "en": "So... what the heck is this thing?"
  },
  {
   "id": "7CFCE0.28",
   "kind": "name",
   "box": 7,
   "jp": "民Ｂ",
-  "en": "Local B"
+  "en": "Wanderer B"
  },
  {
   "id": "7CFCE0.30",
@@ -127,7 +127,7 @@
   "box": 8,
   "speaker": "民Ｂ",
   "jp": "『︀Ｔ・Ａ』︀ハまりおねっとノ素体ダ",
-  "en": ""
+  "en": "'T.A.' is base body of marionette."
  },
  {
   "id": "7CFCE0.32",
@@ -142,14 +142,14 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "マリオネット？　",
-  "en": ""
+  "en": "Marionette?"
  },
  {
   "id": "7CFCE0.36",
   "kind": "name",
   "box": 9,
   "jp": "民Ｂ",
-  "en": "Local B"
+  "en": "Wanderer B"
  },
  {
   "id": "7CFCE0.38",
@@ -157,7 +157,7 @@
   "box": 10,
   "speaker": "民Ｂ",
   "jp": "我ガ国ノ兵士ダ　",
-  "en": ""
+  "en": "Soldiers of our nation."
  },
  {
   "id": "7CFCE0.40",
@@ -165,7 +165,7 @@
   "box": 11,
   "speaker": "民Ｂ",
   "jp": "戦ッタコト、アルダロウ？",
-  "en": ""
+  "en": "You fight them before, yes?"
  },
  {
   "id": "7CFCE0.42",
@@ -180,7 +180,7 @@
   "box": 12,
   "speaker": "銀次",
   "jp": "そっか…いつも戦ってるやつって　",
-  "en": ""
+  "en": "Oh, I get it... So those guys we keep"
  },
  {
   "id": "7CFCE0.45",
@@ -188,14 +188,14 @@
   "box": 12,
   "speaker": "銀次",
   "jp": "元はＴＡＲＥみたいなんだ…　",
-  "en": ""
+  "en": "fighting were originally like TARE..."
  },
  {
   "id": "7CFCE0.47",
   "kind": "name",
   "box": 12,
   "jp": "民Ｂ",
-  "en": "Local B"
+  "en": "Wanderer B"
  },
  {
   "id": "7CFCE0.49",
@@ -203,7 +203,7 @@
   "box": 13,
   "speaker": "民Ｂ",
   "jp": "『︀Ｔ・Ａ』︀ニ人形遣イト呼バレル者ガ　",
-  "en": ""
+  "en": "When one called puppeteer sends will into"
  },
  {
   "id": "7CFCE0.50",
@@ -211,7 +211,7 @@
   "box": 13,
   "speaker": "民Ｂ",
   "jp": "念送リ込ムトまりおねっとデキル　",
-  "en": ""
+  "en": "'T.A.', it becomes marionette."
  },
  {
   "id": "7CFCE0.52",
@@ -226,7 +226,7 @@
   "box": 14,
   "speaker": "蛮　",
   "jp": "アルは人形遣いってコトか",
-  "en": ""
+  "en": "So Al's a puppeteer."
  },
  {
   "id": "7CFCE0.56",
@@ -234,14 +234,14 @@
   "box": 15,
   "speaker": "蛮　",
   "jp": "でもって、あの王様も…　",
-  "en": ""
+  "en": "And so's that king of yours..."
  },
  {
   "id": "7CFCE0.58",
   "kind": "name",
   "box": 15,
   "jp": "民Ｂ",
-  "en": "Local B"
+  "en": "Wanderer B"
  },
  {
   "id": "7CFCE0.60",
@@ -249,7 +249,7 @@
   "box": 16,
   "speaker": "民Ｂ",
   "jp": "ソウダ　",
-  "en": ""
+  "en": "Yes."
  },
  {
   "id": "7CFCE0.62",
@@ -257,6 +257,6 @@
   "box": 17,
   "speaker": "民Ｂ",
   "jp": "王様ハ強イ…油断スルナヨ",
-  "en": ""
+  "en": "The king is strong... Do not let guard down."
  }
 ]

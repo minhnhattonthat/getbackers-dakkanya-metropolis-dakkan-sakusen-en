@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "士度",
   "jp": "アイツもパス持ってそうなんだけどな…",
-  "en": ""
+  "en": "That guy looks like he's got a pass too..."
  },
  {
   "id": "7B120C.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "…アイツ、机に子供の写真飾ってンな　",
-  "en": ""
+  "en": "...He's got a photo of a kid on his desk."
  },
  {
   "id": "7B120C.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "子供だとパスくれたりしねえかな？",
-  "en": ""
+  "en": "Think he'd give a pass to a kid?"
  },
  {
   "id": "7B120C.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "士度",
   "jp": "…子供！？　",
-  "en": ""
+  "en": "...A kid?!"
  },
  {
   "id": "7B120C.14",
@@ -65,6 +65,6 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "いるじゃねえか、子供に近いのが！",
-  "en": ""
+  "en": "We've got someone who's close enough to\na kid!"
  }
 ]

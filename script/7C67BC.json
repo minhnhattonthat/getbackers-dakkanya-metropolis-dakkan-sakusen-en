@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "蛮さん…銀さん………",
-  "en": ""
+  "en": "Ban-san... Gin-san......"
  },
  {
   "id": "7C67BC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "アルくん、　",
-  "en": ""
+  "en": "Al-kun, let's go back to the Honky Tonk!"
  },
  {
   "id": "7C67BC.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "ＨＯＮＫＹＴＯＮＫに帰ろうよ！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C67BC.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "こんなことしてちゃいけないよ",
-  "en": ""
+  "en": "You shouldn't be doing this... Not like this..."
  },
  {
   "id": "7C67BC.11",
@@ -51,6 +51,6 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "こんな…",
-  "en": ""
+  "en": " "
  }
 ]

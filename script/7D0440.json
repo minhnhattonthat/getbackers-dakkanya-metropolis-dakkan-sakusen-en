@@ -4,7 +4,7 @@
   "kind": "name",
   "box": 0,
   "jp": "民Ｃ",
-  "en": "Local C"
+  "en": "Wanderer C"
  },
  {
   "id": "7D0440.3",
@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "民Ｃ",
   "jp": "王様ノコトオ願イシマス　",
-  "en": ""
+  "en": "Please, the king, we leave to you."
  },
  {
   "id": "7D0440.5",
@@ -20,6 +20,6 @@
   "box": 2,
   "speaker": "民Ｃ",
   "jp": "モウ我々ニハ止メルコトデキナイ…",
-  "en": ""
+  "en": "We cannot stop him anymore..."
  }
 ]

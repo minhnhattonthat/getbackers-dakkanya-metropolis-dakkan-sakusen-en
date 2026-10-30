@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "レモン→ほうれん草→イチゴ→みかん　",
-  "en": ""
+  "en": "Lemon -> Spinach -> Strawberry ->\nTangerine"
  },
  {
   "id": "7BB120.4",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "な、謎の暗号や！！　",
-  "en": ""
+  "en": "A s-secret code!! Could it be a message"
  },
  {
   "id": "7BB120.7",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "宇宙人からのメッセージちゃうか！？　",
-  "en": ""
+  "en": "from aliens?!"
  },
  {
   "id": "7BB120.9",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "でも暗号というには簡単すぎるね？",
-  "en": ""
+  "en": "But isn't it a little too simple to call a\ncode?"
  },
  {
   "id": "7BB120.13",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "十兵衛　",
   "jp": "…確かに",
-  "en": ""
+  "en": "...Indeed."
  },
  {
   "id": "7BB120.17",
@@ -73,6 +73,6 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "えっ、そうなん？",
-  "en": ""
+  "en": "Huh, is it?"
  }
 ]

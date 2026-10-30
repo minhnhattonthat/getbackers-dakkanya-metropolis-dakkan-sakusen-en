@@ -4,17 +4,33 @@
 ヘヴン	Hevn	avoid: Heaven
 ジャッカル	Jackal
 蛮ちゃん	Ban-chan
-蛮	Ban
-銀次	Ginji
-卑弥呼	Himiko
-ヘヴン	Hevn
-？？？	???
-ツルコ	Tsuruko
-ハカマ	Hakama
-横取り屋	Poacher
-シズク	Shizuku
-ナミヲ	Namio
-ロクロー	Rokuro
 ゲットバッカーズ	GetBackers	avoid: Get Backers
 電撃	Electric Shock
 属性	element	avoid: attribute
+横取り屋	Poacher	avoid: Grabber
+宝玉	orb	avoid: Hogyoku
+毒香水	Poison Perfume
+フローラルつる子	Floral Tsuruko
+人生はスパンコール	Life Is Sequins
+蛮	Ban	(name tag)
+銀次	Ginji	(name tag)
+士度	Shido	(name tag)
+笑師	Emishi	(name tag)
+花月	Kazuki	(name tag)
+卑弥呼	Himiko	(name tag)
+赤屍	Akabane	(name tag)
+鏡	Kagami	(name tag)
+十兵衛	Juubei	(name tag)
+アル	Al	(name tag)
+ヘヴン	Hevn	(name tag)
+波児	Paul	(name tag)
+夏実	Natsumi	(name tag)
+スタッフ	Staff	(name tag)
+？？？	???	(name tag)
+ツルコ	Tsuruko	(name tag)
+ハカマ	Hakama	(name tag)
+ＴＡＲＥ	TARE	(name tag)
+マネージャー	Manager	(name tag)
+シズク	Shizuku	(name tag)
+ナミヲ	Namio	(name tag)
+ロクロー	Rokuro	(name tag)

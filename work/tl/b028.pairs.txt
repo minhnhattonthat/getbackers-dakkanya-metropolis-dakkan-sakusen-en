@@ -1,0 +1,142 @@
+>> 7D2D18.3 | [赤屍] 自分を倒すというのも悪くない…
+   Defeating oneself is not so bad either...
+>> 7D2D18.7 | [鏡] 確かに、ね
+   True enough.
+>> 7D2DA0.3 | [蛮] おっと！　ついにお出ましのようだぜ、 / 俺たちのＶＲがよ！
+   Whoa! Looks like they finally showed up. Our VRs!
+>> 7D2DA0.8 | [卑弥呼] 蛮のＶＲってやっかいな感じがするわね
+   A VR of Ban sounds like a real pain.
+>> 7D2DA0.10 | [卑弥呼] 一人でも十分やっかいなんだから、 / そういうの作らないで欲しいわ
+   One of him is enough of a pain already, so I wish they wouldn't make things like that.
+>> 7D2DA0.15 | [蛮] あ？　なンだよ、そりゃ？ / ンなこたねーよなあ、銀次？
+   Huh? What's that supposed to mean? That ain't true, right, Ginji?
+>> 7D2DA0.20 | [銀次] う、うーん…？
+   U-Um, well...?
+>> 7D2DA0.22 | [銀次] （ゴメン、蛮ちゃん…オレも / 卑弥呼ちゃんと同意見だったりします）
+   (Sorry, Ban-chan... I kinda agree with Himiko-chan on this one.)
+>> 7D2DA0.27 | [蛮] なんだ、そりゃ？ / テメーらだって十分やっかいだろうが！
+   What the hell? You two are plenty of a pain yourselves!
+>> 7D2DA0.32 | [銀次] ええ～っ！ / そんなことないよーっ！！
+   Whaaat?! That's not true!!
+>> 7D2DA0.37 | [卑弥呼] ………
+   ......
+>> 7D2DA0.39 | [卑弥呼] （どっちもどっちだわよ）
+   (You're both as bad as each other.)
+>> 7D3084.3 | [蛮] ま、終わってみて言えることはだな、 / 全員やっかいだってことだ
+   Well, now that it's over, all I can say is we're all a pain.
+>> 7D3084.8 | [卑弥呼] そうね…
+   I suppose...
+>> 7D3084.10 | [卑弥呼] （けど、これだけは言えるわね… / あなたが一番やっかいなのよ、蛮…）
+   (But I can say this much... You're the biggest pain of all, Ban...)
+>> 7D3180.3 | [蛮] オイ、ＴＡＲＥ！ / さっさとご主人様ンとこに帰りやがれ！
+   Hey, TARE! Hurry up and go home to your master!
+>> 7D3180.9 | [ＴＡＲＥ] ウキューッ！！
+   Ukyuuu!!
+>> 7D3180.13 | [銀次] …なんか怒ってない？
+   ...Isn't it kinda angry?
+>> 7D3180.17 | [蛮] こういう時は猿マワシの出番だな…
+   This is a job for the monkey trainer...
+>> 7D3180.19 | [蛮] で、ヤツはなんだって怒ってンだ？
+   So what's the thing so mad about?
+>> 7D3180.23 | [士度] …主人に置いていかれたことに / 腹を立てているようだな
+   ...Seems it's angry its master left it behind.
+>> 7D3180.28 | [銀次] ええ～、 / でもここにアルくんいないしなあ…
+   Aww, but Al-kun isn't here...
+>> 7D3180.31 | [銀次] どうしよう？　触っても平気かな？
+   What do we do? Is it safe to touch it?
+>> 7D3180.35 | [十兵衛] 止めておいた方が懸命だぞ、雷帝 / ヤツは相当な殺気を放っている
+   Best leave it be, Thunder Emperor. It is giving off fierce killing intent.
+>> 7D3180.40 | [銀次] えっ！？　ど、どうしよう… / このままじゃつれてけないよ～！
+   Huh?! Wh-What do we do... We can't take it with us like this~!
+>> 7D3180.45 | [蛮] ニ、三発殴って黙らせるか…
+   Guess I'll punch it two or three times to shut it up...
+>> 7D3180.49 | [銀次] ちょ、ちょっと蛮ちゃん！
+   H-Hey, wait, Ban-chan!
+>> 7D3180.53 | [蛮] 止めたとこでムダだ！ / ヤツの方はやる気だぞ！！
+   No use stopping me! It's itching for a fight!!
+>> 7D3550.3 | [ＴＡＲＥ] ウキュ～…ウキュキュ～…
+   Ukyu~... Ukyukyu~...
+>> 7D3550.7 | [銀次] アルくんとはぐれて寂しかったんだね… / もう大丈夫だよ、ＴＡＲＥ
+   You were lonely after getting separated from Al-kun, huh... It's okay now, TARE.
+>> 7D3550.12 | [蛮] さて、と
+   Well, then.
+>> 7D3550.14 | [蛮] これ以上騒ぎが大きくならねえうちに / そいつを還しちまうとするか！
+   Let's send this thing back before the ruckus gets any bigger!
+>> 7D3684.3 | [蛮] さっさと還して奪還終了といこうぜ
+   Let's send it back quick and wrap up this retrieval.
+>> 7D3684.7 | [銀次] でもどうしよう？
+   But how?
+>> 7D3684.9 | [銀次] ＴＡＲＥを送るっていっても、 / アルくんは船の上だし…
+   Even if we send TARE back, Al-kun's on a ship...
+>> 7D3684.14 | [蛮] なに簡単だって / こうすりゃいいんだよ！
+   Easy. You just do this!
+>> 7D37A4.3 | [銀次] ！！　ば、蛮ちゃん… / それはちょっとないんじゃないの？
+   !! B-Ban-chan... Isn't that kinda going too far?
+>> 7D37A4.8 | [蛮] いや、いけるだろ / なにしろ空飛べるからな、アイツ
+   Nah, it'll make it. The thing can fly, after all.
+>> 7D37A4.13 | [銀次] …そういえばアルファタワーから / 飛び降りた時に空飛んでたかも
+   ...Come to think of it, it might've been flying when we jumped off Alpha Tower.
+>> 7D37A4.18 | [蛮] よっしゃ！　これでようやく一件落着…
+   All right! Case finally closed...
+>> 7D3914.3 | [銀次] 蛮ちゃん…今、なにかが後ろを…
+   Ban-chan... Just now, something behind us...
+>> 7D3914.7 | [蛮] …これ以上タダ働きができるか！ / 帰るぞ、銀次！！
+   ...I'm not doing any more work for free! We're going home, Ginji!!
+>> 7D3914.12 | [銀次] ねえ、蛮ちゃん…今度はちゃんと / 依頼料が入る仕事したいよね～
+   Hey, Ban-chan... Next time, I wanna do a job where we actually get paid~
+>> 7D3914.17 | [蛮] あったりめーだ！ / 俺たちを誰だと思ってやがる？
+   Damn straight! Who do you think we are?
+>> 7D3914.20 | [蛮] 成功率１００％の無敵の奪還屋！ / ゲットバッカーズだぞ！！
+   The invincible retrievers with a 100% success rate! The GetBackers!!
+>> 7D3914.25 | [銀次] だよね！ / じゃ、ＨＯＮＫＹＴＯＮＫに帰ろう！！
+   You bet! Then let's go home to the Honky Tonk!!
+>> 7D3B24.3 | [銀次] うわっ！　人がたくさんいるね…
+   Whoa! There's a lot of people here...
+>> 7D3B24.7 | [蛮] 騒ぎを聞いて集まってきやがったか… / マズいな…
+   Guess they heard the ruckus and came running... This is bad...
+>> 7D3B24.12 | [卑弥呼] 警察もいるみたいだし、 / すんなり中に入れそうもないわね
+   The police are here too, it seems. Doesn't look like we can just stroll inside.
+>> 7D3B24.17 | [笑師] なら、ここはワイらの出番ちゃうか？ / な、士度はん！　十兵衛はん！！
+   Then ain't this our time to shine? Right, Shido-han? Juubei-han?!
+>> 7D3B24.22 | [士度] あ？
+   Huh?
+>> 7D3B24.26 | [十兵衛] ム…？
+   Hm...?
+>> 7D3CFC.3 | [笑師] ここはワイらが目ェ引くさかい、 / 早よ、中へ！！
+   We'll draw their attention, so hurry, get inside!!
+>> 7D3CFC.8 | [銀次] ゴメーン、そっちは任せたよ！！
+   Sorry~! We're leaving it to you guys!!
+>> 7D3DAC.3 | [笑師] ふう～…キグルミ隊、大活躍やったな！
+   Whew~... The Costume Squad really pulled through, huh!
+>> 7D3DAC.7 | [蛮] 似合ってンぞ、オメーら！
+   Looking good, you guys!
+>> 7D3DAC.9 | [蛮] ブハハハハッ！！
+   Bwahahahaha!!
+>> 7D3DAC.13 | [士度] クソッ！　さっさと脱いでや…
+   Damn it! I'm getting out of this thing right n...
+>> 7D3DAC.15 | [士度] ………
+   ......
+>> 7D3DAC.17 | [士度] ん？　下がらねえぞ、これ
+   Huh? It won't go down.
+>> 7D3DAC.21 | [花月] 人にもまれたせいか、 / ジッパーが壊れてしまったようですね…
+   It seems the zipper broke while you were being jostled by the crowd...
+>> 7D3DAC.26 | [士度] 脱げねえじゃねえかよ！ / どうすんだ！！
+   So I can't take it off?! What am I supposed to do?!
+>> 7D3DAC.31 | [笑師] エエやん、そのままで / なあ、十兵衛はん
+   Aw, who cares? Stay like that. Right, Juubei-han?
+>> 7D3DAC.36 | [十兵衛] まあ、これも修行と思えば辛くない
+   Well, if I think of this as training, it is not so hard.
+>> 7D3DAC.40 | [士度] なんの修行だよ！？
+   Training for WHAT?!
+>> 7D3DAC.44 | [笑師] エエやん、エエやん！ / ほな行きましょか～
+   Who cares, who cares! Let's get goin'~
+>> 7D40A0.2 | これはオマケ用のＡＣＴ０が / 入っているゲームソフトです
+   This game software contains a bonus ACT 0.
+>> 7D40A0.5 | ＡＣＴ０はデータをセーブした後、 / スタート画面からＡＣＴ０を選ぶことで
+   After saving your data, choose ACT 0 on the start screen
+>> 7D40A0.8 | プレイすることができます
+   and you can play it.
+>> 7D4180.1 | 十兵衛
+   Juubei
+>> 7D4180.4 | ネコがねころんだ！！
+   The cat's taking a cat nap!!

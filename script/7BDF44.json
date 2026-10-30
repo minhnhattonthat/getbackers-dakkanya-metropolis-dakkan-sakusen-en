@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "赤屍",
   "jp": "これはこれは…　",
-  "en": ""
+  "en": "Well, well... It seems the wait was worth it."
  },
  {
   "id": "7BDF44.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "赤屍",
   "jp": "待っていたかいがあるというものです　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BDF44.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "ねえ、弥勒雪彦クン？",
-  "en": ""
+  "en": "Is that not right, Yukihiko Miroku-kun?"
  },
  {
   "id": "7BDF44.8",
@@ -43,6 +43,6 @@
   "box": 3,
   "speaker": "弥勒",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "やった！　終わった…の！？　",
-  "en": ""
+  "en": "We did it! Is it... over?!"
  },
  {
   "id": "7B945C.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "なんだったんだ、ありゃあ…　",
-  "en": ""
+  "en": "What the hell was that thing... Not a robot"
  },
  {
   "id": "7B945C.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "ロボットでもねえ…まるで人形！？",
-  "en": ""
+  "en": "either... More like a doll?!"
  },
  {
   "id": "7B945C.11",
@@ -50,6 +50,6 @@
   "box": 3,
   "speaker": "？？？　",
   "jp": "なるほど、なかなか面白い連中だ…",
-  "en": ""
+  "en": "I see. A rather interesting bunch..."
  }
 ]

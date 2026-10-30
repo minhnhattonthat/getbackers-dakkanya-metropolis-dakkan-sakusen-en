@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "社員",
   "jp": "…なんだ、お前　",
-  "en": ""
+  "en": "...What do you want? You got business"
  },
  {
   "id": "7ABB6C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "社員",
   "jp": "ウチのプロダクションになにか用か？　",
-  "en": ""
+  "en": "with our agency?"
  },
  {
   "id": "7ABB6C.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "ＭＡＩってヤツに話がある",
-  "en": ""
+  "en": "I need to talk to MAI. Let me through,"
  },
  {
   "id": "7ABB6C.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "そこを通してくんねーか？",
-  "en": ""
+  "en": "would ya?"
  },
  {
   "id": "7ABB6C.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "社員",
   "jp": "はいそうですか　",
-  "en": ""
+  "en": "Oh, sure thing."
  },
  {
   "id": "7ABB6C.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "社員",
   "jp": "…って通すヤツが",
-  "en": ""
+  "en": "...You think anybody'd actually let you"
  },
  {
   "id": "7ABB6C.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "社員",
   "jp": "いるとでも思ってんのか？",
-  "en": ""
+  "en": "through?"
  },
  {
   "id": "7ABB6C.18",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "社員",
   "jp": "さてはウチの内情を探りにきたな？",
-  "en": ""
+  "en": "You came to snoop around in our\nbusiness, didn't you?"
  },
  {
   "id": "7ABB6C.20",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "士度",
   "jp": "俺はそんなことに興味はねえよ",
-  "en": ""
+  "en": "I don't care about any of that. I just"
  },
  {
   "id": "7ABB6C.23",
@@ -105,7 +105,7 @@
   "box": 6,
   "speaker": "士度",
   "jp": "ただＭＡＩってやつと話したいだけだ　",
-  "en": ""
+  "en": "wanna talk to MAI."
  },
  {
   "id": "7ABB6C.25",
@@ -113,7 +113,7 @@
   "box": 7,
   "speaker": "士度",
   "jp": "事を荒げるつもりもねえ　",
-  "en": ""
+  "en": "I'm not looking to stir up trouble either."
  },
  {
   "id": "7ABB6C.27",
@@ -128,7 +128,7 @@
   "box": 8,
   "speaker": "社員",
   "jp": "誰がそんなこと信じるものか　",
-  "en": ""
+  "en": "Like anyone'd believe that. Hey, you guys,"
  },
  {
   "id": "7ABB6C.30",
@@ -136,6 +136,6 @@
   "box": 8,
   "speaker": "社員",
   "jp": "おいテメーら、客だ！",
-  "en": ""
+  "en": "we've got a guest!"
  }
 ]

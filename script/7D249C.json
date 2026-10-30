@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "わっ！　",
-  "en": ""
+  "en": "Whoa! Kazu-chan and Juubei are coming"
  },
  {
   "id": "7D249C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "向こうからカヅっちゃんと十兵衛が！　",
-  "en": ""
+  "en": "from over there!"
  },
  {
   "id": "7D249C.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "こっちにもカヅっちゃんと十兵衛が！　",
-  "en": ""
+  "en": "And there's Kazu-chan and Juubei over"
  },
  {
   "id": "7D249C.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "どうなってんの？？？",
-  "en": ""
+  "en": "here, too! What's going on???"
  },
  {
   "id": "7D249C.9",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "アホ！　ＭＡＫＵＢＥＸの作り出した　",
-  "en": ""
+  "en": "Idiot! They're VR copies made by MakubeX!"
  },
  {
   "id": "7D249C.12",
@@ -59,7 +59,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ＶＲだろうが！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7D249C.14",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "…だって！　",
-  "en": ""
+  "en": "...Ban-chan says they're fakes! Kazu-chan,"
  },
  {
   "id": "7D249C.17",
@@ -82,7 +82,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "カヅっちゃん、十兵衛、どうする？",
-  "en": ""
+  "en": "Juubei, what now?"
  },
  {
   "id": "7D249C.19",
@@ -97,7 +97,7 @@
   "box": 5,
   "speaker": "花月",
   "jp": "偽者ですか…許せませんね",
-  "en": ""
+  "en": "Impostors, are they...? Unforgivable."
  },
  {
   "id": "7D249C.23",
@@ -105,7 +105,7 @@
   "box": 6,
   "speaker": "花月",
   "jp": "この世に風鳥院花月は",
-  "en": ""
+  "en": "One Kazuki Fuchoin in this world is quite"
  },
  {
   "id": "7D249C.24",
@@ -113,7 +113,7 @@
   "box": 6,
   "speaker": "花月",
   "jp": "一人いればいいのです",
-  "en": ""
+  "en": "enough."
  },
  {
   "id": "7D249C.26",
@@ -128,7 +128,7 @@
   "box": 7,
   "speaker": "十兵衛　",
   "jp": "同感だ　",
-  "en": ""
+  "en": "Agreed. The genuine article need exist only"
  },
  {
   "id": "7D249C.29",
@@ -136,6 +136,6 @@
   "box": 7,
   "speaker": "十兵衛　",
   "jp": "本物は世界に一つあればそれでいい！　",
-  "en": ""
+  "en": "once in this world!"
  }
 ]

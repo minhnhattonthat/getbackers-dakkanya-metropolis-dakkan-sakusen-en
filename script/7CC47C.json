@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "…ジェンド様、　",
-  "en": ""
+  "en": "...Jend-sama, it is because of you that our"
  },
  {
   "id": "7CC47C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "あなたのせいで一族は滅びるのです",
-  "en": ""
+  "en": "clan will perish."
  },
  {
   "id": "7CC47C.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "ジェンド",
   "jp": "なにを言うか！　",
-  "en": ""
+  "en": "What are you saying?! Our clan shall not"
  },
  {
   "id": "7CC47C.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "ジェンド",
   "jp": "我が一族は滅びはせん！！",
-  "en": ""
+  "en": "perish!!"
  },
  {
   "id": "7CC47C.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "ジェンド",
   "jp": "この場所を新たな住処とし、　",
-  "en": ""
+  "en": "We shall make this our new home and"
  },
  {
   "id": "7CC47C.12",
@@ -59,7 +59,7 @@
   "box": 3,
   "speaker": "ジェンド",
   "jp": "さらなる繁栄の時を迎えるのだ！！",
-  "en": ""
+  "en": "usher in an age of greater prosperity!!"
  },
  {
   "id": "7CC47C.14",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "アル",
   "jp": "ごらんなさい…あなたの足元には　",
-  "en": ""
+  "en": "Look... At your feet lie the corpses of so"
  },
  {
   "id": "7CC47C.17",
@@ -82,6 +82,6 @@
   "box": 4,
   "speaker": "アル",
   "jp": "たくさんの屍がつみ重なっている…",
-  "en": ""
+  "en": "many, piled high..."
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "夏実",
   "jp": "あっ、奪還屋さんたちだー！　",
-  "en": ""
+  "en": "Oh, it's the GetBackers! Ban-saaan!"
  },
  {
   "id": "794B60.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "夏実",
   "jp": "蛮さ～ん！　銀次さーん！！　",
-  "en": ""
+  "en": "Ginji-saaan!!"
  },
  {
   "id": "794B60.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "やっほ～、夏実ちゃん！　",
-  "en": ""
+  "en": "Heya~, Natsumi-chan! Shopping looks like"
  },
  {
   "id": "794B60.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "買い物大変そうだね　",
-  "en": ""
+  "en": "hard work."
  },
  {
   "id": "794B60.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "夏実",
   "jp": "お二人ともこんなトコロで",
-  "en": ""
+  "en": "What are you two doing in a place like"
  },
  {
   "id": "794B60.14",
@@ -66,7 +66,7 @@
   "box": 3,
   "speaker": "夏実",
   "jp": "なにしてるんですか？",
-  "en": ""
+  "en": "this?"
  },
  {
   "id": "794B60.16",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "そうそう、ヘヴンさんと士度が",
-  "en": ""
+  "en": "Oh yeah, do you know where Hevn-san"
  },
  {
   "id": "794B60.19",
@@ -89,7 +89,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ドコ行ったか知らない？　",
-  "en": ""
+  "en": "and Shido went?"
  },
  {
   "id": "794B60.21",
@@ -104,7 +104,7 @@
   "box": 5,
   "speaker": "夏実",
   "jp": "ヘヴンさんはその辺で用事が　",
-  "en": ""
+  "en": "Hevn-san said she had some errands"
  },
  {
   "id": "794B60.24",
@@ -112,7 +112,7 @@
   "box": 5,
   "speaker": "夏実",
   "jp": "あるって言ってたけど…　",
-  "en": ""
+  "en": "around here..."
  },
  {
   "id": "794B60.26",
@@ -120,7 +120,7 @@
   "box": 6,
   "speaker": "夏実",
   "jp": "士度さんのコトは聞いてませんよ　",
-  "en": ""
+  "en": "But I didn't hear anything about\nShido-san."
  },
  {
   "id": "794B60.28",
@@ -135,7 +135,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "なんだ、アイツら一緒じゃねえのか？　",
-  "en": ""
+  "en": "What, they're not together?"
  },
  {
   "id": "794B60.32",
@@ -143,7 +143,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "…まあいい、探すぞ、銀次！　",
-  "en": ""
+  "en": "...Whatever. Let's search, Ginji!"
  },
  {
   "id": "794B60.34",
@@ -158,7 +158,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "じゃあまた後でね、夏実ちゃん！　",
-  "en": ""
+  "en": "See you later, Natsumi-chan!"
  },
  {
   "id": "794B60.39",
@@ -173,6 +173,6 @@
   "box": 10,
   "speaker": "夏実",
   "jp": "ガンバってね！　",
-  "en": ""
+  "en": "Good luck!"
  }
 ]

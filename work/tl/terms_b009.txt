@@ -7,16 +7,19 @@
 ヘヴン	Hevn	avoid: Heaven
 蛮ちゃん	Ban-chan
 アル	Al
-蛮	Ban
-銀次	Ginji
-士度	Shido
-アル	Al
-ヘヴン	Hevn
-波児	Paul
-夏実	Natsumi
-蛭田	Hiruta
-ＭＡＩ	MAI
-？？？	???
-ＴＡＲＥ	TARE
 奪還屋	GetBackers ; retriever ; retrieval	avoid: Dakkanya
 ゲットバッカーズ	GetBackers	avoid: Get Backers
+ＴＡＲＥ	TARE
+石	stone
+確かに引き受けた	consider it done
+蛮	Ban	(name tag)
+銀次	Ginji	(name tag)
+士度	Shido	(name tag)
+アル	Al	(name tag)
+ヘヴン	Hevn	(name tag)
+波児	Paul	(name tag)
+夏実	Natsumi	(name tag)
+蛭田	Hiruta	(name tag)
+？？？	???	(name tag)
+ＴＡＲＥ	TARE	(name tag)
+使用人	Servant	(name tag)

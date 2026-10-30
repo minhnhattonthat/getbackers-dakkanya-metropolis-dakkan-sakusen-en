@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ＭＡＩ　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "6E7AB4.21",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "ＭＡＩ　",
   "jp": "あ…これは高校時代の私？",
-  "en": ""
+  "en": "Oh... is this me back in high school? And"
  },
  {
   "id": "6E7AB4.22",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "ＭＡＩ　",
   "jp": "それにマドカがいる…",
-  "en": ""
+  "en": "Madoka's here..."
  },
  {
   "id": "6E7AB4.24",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "ＭＡＩ　",
   "jp": "そうだ…高校の時、いつもマドカの",
-  "en": ""
+  "en": "That's right... in high school, I always sang"
  },
  {
   "id": "6E7AB4.25",
@@ -44,7 +44,7 @@
   "box": 3,
   "speaker": "ＭＡＩ　",
   "jp": "バイオリンの伴奏だけで歌ってたんだ…",
-  "en": ""
+  "en": "with only Madoka's violin backing me..."
  },
  {
   "id": "6E7AB4.27",
@@ -52,7 +52,7 @@
   "box": 4,
   "speaker": "ＭＡＩ　",
   "jp": "私が作った曲を…",
-  "en": ""
+  "en": "Songs I wrote myself..."
  },
  {
   "id": "6E7AB4.29",
@@ -60,7 +60,7 @@
   "box": 5,
   "speaker": "ＭＡＩ　",
   "jp": "楽しかったな…　",
-  "en": ""
+  "en": "That was fun..."
  },
  {
   "id": "6E7AB4.31",
@@ -68,7 +68,7 @@
   "box": 6,
   "speaker": "ＭＡＩ　",
   "jp": "そう、あの時はとても楽しかった…",
-  "en": ""
+  "en": "Yes, back then it was so much fun..."
  },
  {
   "id": "6E7AB4.33",
@@ -76,6 +76,6 @@
   "box": 7,
   "speaker": "ＭＡＩ　",
   "jp": "とても………",
-  "en": ""
+  "en": "So very......"
  }
 ]

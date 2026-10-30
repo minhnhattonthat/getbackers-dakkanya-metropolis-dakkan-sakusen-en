@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "スタッフ",
   "jp": "ダメだよ、置き間違えてるじゃないか　",
-  "en": ""
+  "en": "No, no, you put them in the wrong places."
  },
  {
   "id": "7A9934.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "スタッフ",
   "jp": "大変かもしれないけど、がんばってよ　",
-  "en": ""
+  "en": "I know it's tough, but hang in there."
  },
  {
   "id": "7A9934.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "スタッフ",
   "jp": "じゃ、もう一度説明するよ",
-  "en": ""
+  "en": "Okay, I'll explain one more time."
  },
  {
   "id": "7A9934.8",
@@ -36,7 +36,7 @@
   "box": 3,
   "speaker": "スタッフ",
   "jp": "じゃ、順番を言うからね　",
-  "en": ""
+  "en": "I'll go in order, okay? First, Tsuruko-san in"
  },
  {
   "id": "7A9934.9",
@@ -44,7 +44,7 @@
   "box": 3,
   "speaker": "スタッフ",
   "jp": "まず最初の部屋のツルコさんはコーヒー",
-  "en": ""
+  "en": "the first room gets coffee..."
  },
  {
   "id": "7A9934.11",
@@ -52,7 +52,7 @@
   "box": 4,
   "speaker": "スタッフ",
   "jp": "…が飲めないから、ミルクティー　",
-  "en": ""
+  "en": "...no, wait, she can't drink it, so milk tea."
  },
  {
   "id": "7A9934.13",
@@ -60,7 +60,7 @@
   "box": 5,
   "speaker": "スタッフ",
   "jp": "次の部屋のキキョウさんは",
-  "en": ""
+  "en": "Kikyo-san in the next room is"
  },
  {
   "id": "7A9934.14",
@@ -68,7 +68,7 @@
   "box": 5,
   "speaker": "スタッフ",
   "jp": "健康に気をつかってるから野菜ジュース",
-  "en": ""
+  "en": "health-conscious, so vegetable juice."
  },
  {
   "id": "7A9934.16",
@@ -76,7 +76,7 @@
   "box": 6,
   "speaker": "スタッフ",
   "jp": "次の部屋のシズクさんは　",
-  "en": ""
+  "en": "Shizuku-san in the next room gets coffee"
  },
  {
   "id": "7A9934.17",
@@ -84,7 +84,7 @@
   "box": 6,
   "speaker": "スタッフ",
   "jp": "砂糖とミルクの入ってるコーヒー　",
-  "en": ""
+  "en": "with sugar and milk."
  },
  {
   "id": "7A9934.19",
@@ -92,7 +92,7 @@
   "box": 7,
   "speaker": "スタッフ",
   "jp": "次の部屋のナミヲさんは砂糖入りだけど",
-  "en": ""
+  "en": "Namio-san in the next room gets coffee"
  },
  {
   "id": "7A9934.20",
@@ -100,7 +100,7 @@
   "box": 7,
   "speaker": "スタッフ",
   "jp": "ミルクの入ってないコーヒー　",
-  "en": ""
+  "en": "with sugar, but no milk."
  },
  {
   "id": "7A9934.22",
@@ -108,7 +108,7 @@
   "box": 8,
   "speaker": "スタッフ",
   "jp": "…いや、待てよそれ逆だったな",
-  "en": ""
+  "en": "...Wait, no, I had that backwards. Milk, no"
  },
  {
   "id": "7A9934.23",
@@ -116,7 +116,7 @@
   "box": 8,
   "speaker": "スタッフ",
   "jp": "ミルクあり、砂糖なしね　",
-  "en": ""
+  "en": "sugar."
  },
  {
   "id": "7A9934.25",
@@ -124,7 +124,7 @@
   "box": 9,
   "speaker": "スタッフ",
   "jp": "で、次の部屋のココロさんは　",
-  "en": ""
+  "en": "Then Kokoro-san in the next room gets"
  },
  {
   "id": "7A9934.26",
@@ -132,7 +132,7 @@
   "box": 9,
   "speaker": "スタッフ",
   "jp": "オレンジジュース",
-  "en": ""
+  "en": "orange juice."
  },
  {
   "id": "7A9934.28",
@@ -140,7 +140,7 @@
   "box": 10,
   "speaker": "スタッフ",
   "jp": "次の部屋のロクローさんは",
-  "en": ""
+  "en": "Rokuro-san in the next room gets iced"
  },
  {
   "id": "7A9934.29",
@@ -148,7 +148,7 @@
   "box": 10,
   "speaker": "スタッフ",
   "jp": "アイスレモン…あれ、違ったな",
-  "en": ""
+  "en": "lemon... huh, that's not right."
  },
  {
   "id": "7A9934.31",
@@ -156,7 +156,7 @@
   "box": 11,
   "speaker": "スタッフ",
   "jp": "ツルコさんがアイスレモンティーで、　",
-  "en": ""
+  "en": "Tsuruko-san gets the iced lemon tea, and"
  },
  {
   "id": "7A9934.32",
@@ -164,7 +164,7 @@
   "box": 11,
   "speaker": "スタッフ",
   "jp": "ロクローさんがアイスミルクティーだ　",
-  "en": ""
+  "en": "Rokuro-san gets the iced milk tea."
  },
  {
   "id": "7A9934.34",
@@ -172,7 +172,7 @@
   "box": 12,
   "speaker": "スタッフ",
   "jp": "で、最後のハカマさんがウーロン茶",
-  "en": ""
+  "en": "And last, Hakama-san gets oolong tea."
  },
  {
   "id": "7A9934.36",
@@ -180,7 +180,7 @@
   "box": 13,
   "speaker": "スタッフ",
   "jp": "ジュースはイベントアイテムの中に",
-  "en": ""
+  "en": "I'll put the drinks in your Event items."
  },
  {
   "id": "7A9934.37",
@@ -188,7 +188,7 @@
   "box": 13,
   "speaker": "スタッフ",
   "jp": "入れておくよ",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7A9934.39",
@@ -196,7 +196,7 @@
   "box": 14,
   "speaker": "スタッフ",
   "jp": "アイテムは机の手前からじゃないと",
-  "en": ""
+  "en": "You can only place items from the front"
  },
  {
   "id": "7A9934.40",
@@ -204,6 +204,6 @@
   "box": 14,
   "speaker": "スタッフ",
   "jp": "置けないから気をつけてね",
-  "en": ""
+  "en": "of the desk, so be careful."
  }
 ]

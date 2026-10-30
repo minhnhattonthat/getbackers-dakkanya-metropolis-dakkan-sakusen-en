@@ -1,0 +1,394 @@
+>> 795E78.3 | [蛭田] もうホントに怒ったぞ！ / お前ら、そこを動くな！！
+   Now I'm really mad! Don't you move a muscle!!
+>> 795E78.6 | [蛭田] 少しでも動いたらコイツを / サソリのえじきにしてやるからな！
+   Move even a little, and I'll feed this thing to my scorpions!
+>> 795E78.11 | [銀次] ＴＡＲＥが！！ / どうしよう、蛮ちゃん！
+   TARE!! What do we do, Ban-chan?!
+>> 795E78.16 | [蛮] …おい、猿マワシ / いつもの動物大行進はどうしたんだよ？
+   ...Hey, monkey-wrangler. What happened to your usual animal parade?
+>> 795E78.21 | [士度] …テメーこそ、 / 得意の邪眼でなんとかしたらどうだ？
+   ...Why don't YOU do something with that Evil Eye you're so proud of?
+>> 795E78.26 | [蛭田] へらず口もそれまでだ！ / サソリ達、アイツらをおそってしまえ！
+   That's enough of your lip! Scorpions, get them!
+>> 7960B0.1 | 蛮
+   Ban
+>> 7960B0.4 | 悪夢（ゆめ）は見れたかよ？
+   Enjoy the nightmare?
+>> 7960B0.8 | [蛭田] ………
+   ...
+>> 7960B0.12 | [銀次] 気を失っちゃってるね
+   He's out cold.
+>> 7960B0.16 | [蛮] さて、アルんトコ行くぞ、ＴＡＲＥ！
+   Now then, let's go see Al, TARE!
+>> 7960B0.20 | [ＴＡＲＥ] ウキュー！ / ウキュキュキュ！！
+   Ukyuu! Ukyukyukyu!!
+>> 7960B0.25 | [銀次] …ダメだ、やっぱり / こっちに来ようとしないよ！
+   ...No good. It still won't come over here!
+>> 7960B0.30 | [蛮] …オイ、猿マワシ、 / ちっと試しに呼んでみろや
+   ...Hey, monkey-wrangler. Try calling it, just to see.
+>> 7960B0.35 | [士度] ………
+   ...
+>> 7960B0.37 | [士度] なにもしねーから、こっちに来な
+   I won't do anything to you. Come here.
+>> 796308.3 | [アル] ミナサン、アリガトデス / ＴＡＲＥ戻ッテキテ、トテモウレシイ！
+   Everybody, thank you! TARE come back, I am so happy!
+>> 796308.9 | [ＴＡＲＥ] ウキュ～
+   Ukyuu~
+>> 796308.13 | [蛮] …おい、猿マワシ / アレ、なんて生き物だ？
+   ...Hey, monkey-wrangler. What kind of creature is that?
+>> 796308.18 | [士度] 知らん…
+   No idea...
+>> 796308.22 | [アル] ソウダ！　蛮サン、銀サン、 / ソレニ士度サンモ。オ礼スルデス
+   Oh yes! Ban-san, Gin-san, and Shido-san too. I will thank you.
+>> 796308.25 | [アル] ボク、オ金イッパイ持ッテキタ / ゴ飯タクサン食ベテネ！
+   I bring lots of money. Please, eat lots of food!
+>> 796308.30 | [蛮] それだよ、それ！ / おい波児、食い物あるだけ持って来い！
+   That's what I'm talkin' about! Hey, Paul, bring us all the food you've got!
+>> 796308.35 | [銀次] 冷蔵庫カラにするぞ～！
+   We're gonna empty the fridge~!
+>> 796308.39 | [波児] おい、すきっ腹にイキナリ食うと / …って言ってもムダか…
+   Hey, if you eat that fast on an empty stomach... Eh, no use telling them...
+>> 796308.42 | [波児] 蛮 / 銀次
+   Ban / Ginji
+>> 796308.45 | [波児] …ガツガツガツガツガツガツガツガツ / ガツゴクゴクゴクゴク…ガツガツガツ
+   ...Chomp chomp chomp chomp chomp chomp chomp chomp gulp gulp gulp... chomp
+>> 796308.48 | [波児] ガガガツガツガツガツガツ…ガツガツ / ガツガツガツ…ガツガツガツガツ……
+   Ch-ch-chomp chomp chomp chomp... chomp chomp chomp chomp... chomp chomp......
+>> 796308.51 | [波児] ンガググ………ガツガツガツガツガツ / ガツガツガツガツガ…ガガガガツガツ
+   Mmgrgh......chomp chomp chomp chomp chomp chomp chomp ch... ch-ch-chomp
+>> 796308.54 | [波児] ガツ…ゴ…ゴゴゴ…ガツガツガツガツ / ガツガツガツガツガツガツゴックン…
+   Chomp... gl... gl-gl... chomp chomp chomp chomp chomp chomp chomp GULP...
+>> 796308.59 | [蛮] ぷはー、食ったー！
+   Bwah! That hit the spot!
+>> 796308.63 | [銀次] もうお腹いっぱいだよ～！
+   I'm totally stuffed~!
+>> 796308.67 | [士度] すさまじい勢いだったな…
+   That was a ferocious pace...
+>> 796308.71 | [波児] 蛮、３万５０００円ほどになるが…
+   Ban, that comes to about 35,000 yen...
+>> 796308.75 | [蛮] なんだそれっぽっちかよ、楽勝楽勝！ / おい頼むぜ、アル
+   What, that's all? Piece of cake! Take care of it, Al.
+>> 796308.80 | [アル] 分カリマシタ！　ハイ、夏実サン！
+   Okay! Here, Natsumi-san!
+>> 796308.84 | [夏実] えっ？ / じゅーえん玉…一枚…だけ？
+   Huh? Just... one... ten-yen coin?
+>> 796308.89 | [銀次] えっと、あの…アルくん？
+   Um, uh... Al-kun?
+>> 796308.93 | [アル] 今回ノオ礼ネ / ボクノ国デ一番タカイ銅デデキタオ金！
+   This is my thanks. Most valuable money in my country, made of bronze!
+>> 796308.96 | [アル] …多スギデスカ？
+   ...Is too much?
+>> 796308.100 | [波児] 多すぎるっていうか…なあ？
+   "Too much" isn't exactly the word... right?
+>> 796308.104 | [夏実] あはははは～、 / 奪還屋さんたちおもしろ～い！
+   Ahahaha~, you GetBackers are so funny~!
+>> 796308.109 | [蛮] あのな、硬いヤツじゃなくて / 紙のお金あるだろ？
+   Listen, not the hard stuff. You've got paper money, right?
+>> 796308.112 | [蛮] 紙幣、ペーパー、米ドル！
+   Bills! Paper! US dollars!
+>> 796308.116 | [アル] 紙デデキタ軽イオ金、ボクノ国デハゴミ / サッキ全部捨テタヨ
+   Light money made of paper is trash in my country. I throw it all away just now.
+>> 796308.121 | [蛮] 捨て…た？ / 紙のお金を全部捨てただと！？
+   Threw... it away? You threw away ALL the paper money?!
+>> 796308.124 | [蛮] ………
+   ...
+>> 796BBC.3 | [波児] まだ準備中だぜ
+   We're not open yet.
+>> 796C00.3 | [学生] 奪還屋ってもうかるのかな？
+   I wonder if retrievers make good money?
+>> 796C50.3 | [会社員] 近頃、ミョーなやつ等が / この辺をウロついてんだよね
+   Lately some weird types have been hanging around here.
+>> 796CC0.3 | [会社員] 最近、この辺の動物が / よく行方不明になるらしいよ
+   Seems animals around here have been going missing a lot lately.
+>> 796D2C.3 | [女子高生] さっきからピンクのサングラスの男 / にナンパされて困ってるのよね～
+   Some guy in pink sunglasses keeps hitting on me. It's so annoying~
+>> 796DA8.3 | [ＯＬ] 私の犬、知らない？
+   Have you seen my dog?
+>> 796DA8.5 | [ＯＬ] シャー・ペイっていう / 珍しい種類の犬なんだけど…
+   It's a rare breed called a Shar-Pei...
+>> 796E30.3 | [蛮] あんま遠くへ行かねえようにしな
+   Don't wander off too far.
+>> 796E84.3 | [銀次] あんまりＨＯＮＫＹＴＯＮＫから / 離れない方がいいよ
+   We'd better not go too far from the Honky Tonk.
+>> 796EF0.3 | [卑弥呼] あんまり遠くへ行かない方がいいわよ
+   You'd better not go too far.
+>> 796F4C.3 | [赤屍] どこへ行くのですか？
+   Where are you going?
+>> 796F94.3 | [花月] あまり離れない方がいいですよ
+   We'd best not stray too far.
+>> 796FE4.3 | [士度] そんなに遠くへ行く必要はねえだろ
+   No need to go that far.
+>> 797038.3 | [笑師] あんま離れんといてーや！
+   Don't wander off on me now!
+>> 797084.3 | [十兵衛] そう遠くへいく必要はなかろう
+   There is no need to go so far.
+>> 7970D8.3 | [鏡] そっちは行かない方がいいと思うよ？
+   I don't think you should go that way, hm?
+>> 797130.2 | あなたの奪われたもの、奪り還します！
+   We'll take back what was taken from you!
+>> 797130.4 | 無敵の奪還屋、ゲットバッカーズに / 用がある方はＨＯＮＫＹＴＯＮＫまで
+   Need the invincible retrievers, the GetBackers? Inquire at the Honky Tonk.
+>> 7971D4.2 | 一身上の都合により閉店致します
+   Closed for personal reasons.
+>> 797220.2 | ネコをもらって下さい！
+   Please adopt a cat!
+>> 797220.6 | [蛮] 日々の食いモンに困るってのに / ペットなんざ飼ってられるかよ
+   We can barely feed ourselves day to day. Like we can keep a pet.
+>> 7972C0.2 | ネコをもらって下さい！
+   Please adopt a cat!
+>> 7972C0.6 | [銀次] いいな～、ネコちゃん！ / 飼いたいなぁ～…ダメかな？
+   Aww, a kitty! I wanna keep it~... Can't I?
+>> 79735C.2 | ネコをもらって下さい！
+   Please adopt a cat!
+>> 79735C.6 | [卑弥呼] ………
+   ...
+>> 79735C.8 | [卑弥呼] （ちょっと飼ってみたいわね…）
+   (I kind of want to keep it...)
+>> 7973F8.2 | ネコをもらって下さい！
+   Please adopt a cat!
+>> 7973F8.6 | [赤屍] クス…
+   Heh...
+>> 797464.2 | ネコをもらって下さい！
+   Please adopt a cat!
+>> 797464.6 | [花月] 生き物は大変ですからね…
+   Living things are a big responsibility...
+>> 7974E0.2 | ネコをもらって下さい！
+   Please adopt a cat!
+>> 7974E0.6 | [士度] ………
+   ...
+>> 7974E0.8 | [士度] （マドカに相談してみるか…）
+   (Maybe I'll ask Madoka about it...)
+>> 797574.2 | ネコをもらって下さい！
+   Please adopt a cat!
+>> 797574.6 | [笑師] せやかて無限城ン中では危のうて / 飼われへんなぁ
+   Still, it's way too dangerous to keep one in the Infinity Fortress.
+>> 79760C.2 | ネコをもらって下さい！
+   Please adopt a cat!
+>> 79760C.6 | [十兵衛] ………
+   ...
+>> 79767C.2 | ネコをもらって下さい！
+   Please adopt a cat!
+>> 79767C.6 | [鏡] へえ、飼ってみてもいいかな？
+   Hmm, maybe I could try keeping one?
+>> 7976FC.2 | バイト募集中 / 未経験者でも気軽にどうぞ！
+   Part-timers wanted. No experience needed, feel free to apply!
+>> 7976FC.7 | [蛮] ケッ、 / ちまちまバイトなんざしてられっか！
+   Feh. Like I've got time for some piddly part-time job!
+>> 7977A4.2 | バイト募集中 / 未経験者でも気軽にどうぞ！
+   Part-timers wanted. No experience needed, feel free to apply!
+>> 7977A4.7 | [銀次] バイトかあ… / こうなったらやるしかないかなあ…
+   A part-time job... Maybe I've got no choice but to do it...
+>> 79784C.2 | バイト募集中 / 未経験者でも気軽にどうぞ！
+   Part-timers wanted. No experience needed, feel free to apply!
+>> 79784C.7 | [卑弥呼] バイトするくらいなら / 本業の方をガンバるわよ
+   Rather than a part-time job, I'll work harder at my real one.
+>> 7978F8.2 | バイト募集中 / 未経験者でも気軽にどうぞ！
+   Part-timers wanted. No experience needed, feel free to apply!
+>> 7978F8.7 | [赤屍] ………
+   ...
+>> 797978.2 | バイト募集中 / 未経験者でも気軽にどうぞ！
+   Part-timers wanted. No experience needed, feel free to apply!
+>> 797978.7 | [花月] バイトをするような / 時間的余裕はありませんね
+   I'm afraid I haven't the time for a part-time job.
+>> 797A20.2 | バイト募集中 / 未経験者でも気軽にどうぞ！
+   Part-timers wanted. No experience needed, feel free to apply!
+>> 797A20.7 | [士度] 別にバイトをする必要はねえな
+   Don't really need a part-time job.
+>> 797AB4.2 | バイト募集中 / 未経験者でも気軽にどうぞ！
+   Part-timers wanted. No experience needed, feel free to apply!
+>> 797AB4.7 | [笑師] こういうんは可愛ェ子が / いるかどうかが重要やな！
+   With gigs like this, what matters is whether there's cute girls workin' there!
+>> 797B60.2 | バイト募集中 / 未経験者でも気軽にどうぞ！
+   Part-timers wanted. No experience needed, feel free to apply!
+>> 797B60.7 | [十兵衛] …こういう所で働いてみるというのも / 一種の社会勉強なのだろうか？
+   ...Perhaps working in such a place would be a sort of education in society?
+>> 797C20.2 | バイト募集中 / 未経験者でも気軽にどうぞ！
+   Part-timers wanted. No experience needed, feel free to apply!
+>> 797C20.7 | [鏡] フーン？　でもあんまりお金に困って / ないんだよね
+   Hmm? But I'm not really hurting for money.
+>> 797CCC.2 | 話題の新メニュー『裏バーガー』登場！ / 今だけ３９円！
+   Hot new menu item 'Ura Burger' is here! Only 39 yen for a limited time!
+>> 797CCC.7 | [蛮] …ダメだ、金が足りやしねえ！
+   ...Damn, I don't have enough money!
+>> 797D6C.2 | 話題の新メニュー『裏バーガー』登場！ / 今だけ３９円！
+   Hot new menu item 'Ura Burger' is here! Only 39 yen for a limited time!
+>> 797D6C.7 | [銀次] あ～、お腹すいたなあ… / 食べたいな～、裏バーガー…
+   Aww, I'm so hungry... I wanna eat an Ura Burger~...
+>> 797E28.2 | 話題の新メニュー『裏バーガー』登場！ / 今だけ３９円！
+   Hot new menu item 'Ura Burger' is here! Only 39 yen for a limited time!
+>> 797E28.7 | [卑弥呼] ジャンクフードって / 好きじゃないのよね…
+   I'm not a fan of junk food...
+>> 797EDC.2 | 話題の新メニュー『裏バーガー』登場！ / 今だけ３９円！
+   Hot new menu item 'Ura Burger' is here! Only 39 yen for a limited time!
+>> 797EDC.7 | [赤屍] ………
+   ...
+>> 797F68.2 | 話題の新メニュー『裏バーガー』登場！ / 今だけ３９円！
+   Hot new menu item 'Ura Burger' is here! Only 39 yen for a limited time!
+>> 797F68.7 | [花月] これは… / 中になにが入っているんでしょう？
+   This is... I wonder what's inside?
+>> 798018.2 | 話題の新メニュー『裏バーガー』登場！ / 今だけ３９円！
+   Hot new menu item 'Ura Burger' is here! Only 39 yen for a limited time!
+>> 798018.7 | [士度] ふざけた名前のバーガーだな
+   What a ridiculous name for a burger.
+>> 7980B8.2 | 話題の新メニュー『裏バーガー』登場！ / 今だけ３９円！
+   Hot new menu item 'Ura Burger' is here! Only 39 yen for a limited time!
+>> 7980B8.7 | [笑師] ふむふむ… / なんぞネタにできるかも知れへんな！
+   Hmm, hmm... Might be somethin' I can use in my act!
+>> 798170.2 | 話題の新メニュー『裏バーガー』登場！ / 今だけ３９円！
+   Hot new menu item 'Ura Burger' is here! Only 39 yen for a limited time!
+>> 798170.7 | [十兵衛] こういった食い物は好きになれんな…
+   I cannot bring myself to like such food...
+>> 79821C.2 | 話題の新メニュー『裏バーガー』登場！ / 今だけ３９円！
+   Hot new menu item 'Ura Burger' is here! Only 39 yen for a limited time!
+>> 79821C.7 | [鏡] 食べ物の値段じゃないね、これ
+   That's not even a real price for food.
+>> 7982BC.2 | 今月の新刊『裏新宿２４時！』 / 絶賛発売中
+   This month's new release, 'Ura-Shinjuku 24 Hours!' Now on sale to rave reviews.
+>> 7982BC.7 | [蛮] 誰が読むんだ？　ンなモン
+   Who'd even read crap like that?
+>> 79834C.2 | 今月の新刊『裏新宿２４時！』 / 絶賛発売中
+   This month's new release, 'Ura-Shinjuku 24 Hours!' Now on sale to rave reviews.
+>> 79834C.7 | [銀次] 本読んでると眠くなっちゃうんだよね～
+   Reading books always makes me sleepy~
+>> 7983E8.2 | 今月の新刊『裏新宿２４時！』 / 絶賛発売中
+   This month's new release, 'Ura-Shinjuku 24 Hours!' Now on sale to rave reviews.
+>> 7983E8.7 | [卑弥呼] …興味ないわ
+   ...Not interested.
+>> 798470.2 | 今月の新刊『裏新宿２４時！』 / 絶賛発売中
+   This month's new release, 'Ura-Shinjuku 24 Hours!' Now on sale to rave reviews.
+>> 798470.7 | [赤屍] ………
+   ...
+>> 7984F0.2 | 今月の新刊『裏新宿２４時！』 / 絶賛発売中
+   This month's new release, 'Ura-Shinjuku 24 Hours!' Now on sale to rave reviews.
+>> 7984F0.7 | [花月] なかなか面白そうですね
+   That looks rather interesting.
+>> 798580.2 | 今月の新刊『裏新宿２４時！』 / 絶賛発売中
+   This month's new release, 'Ura-Shinjuku 24 Hours!' Now on sale to rave reviews.
+>> 798580.7 | [士度] こういう本は読まねえな
+   I don't read this kind of book.
+>> 798610.2 | 今月の新刊『裏新宿２４時！』 / 絶賛発売中
+   This month's new release, 'Ura-Shinjuku 24 Hours!' Now on sale to rave reviews.
+>> 798610.7 | [笑師] ふ～む、 / ネタになりそな本あらへんかいな
+   Hmmm, any books around here I could use for material?
+>> 7986B4.2 | 今月の新刊『裏新宿２４時！』 / 絶賛発売中
+   This month's new release, 'Ura-Shinjuku 24 Hours!' Now on sale to rave reviews.
+>> 7986B4.7 | [十兵衛] こういった本には興味がないな
+   I have no interest in such books.
+>> 79874C.2 | 今月の新刊『裏新宿２４時！』 / 絶賛発売中
+   This month's new release, 'Ura-Shinjuku 24 Hours!' Now on sale to rave reviews.
+>> 79874C.7 | [鏡] こういうのって面白いのかな？
+   I wonder if this sort of thing is any fun?
+>> 7987E0.3 | [銀次] ああっ、蛮ちゃんが / まっしろく燃え尽きてる！
+   Aaah, Ban-chan's burned out, white as ash!
+>> 7987E0.8 | [波児] 夏実ちゃん、 / お会計を奪還屋の方々にヨロシク
+   Natsumi-chan, give the bill to our GetBackers friends, would you?
+>> 7987E0.13 | [夏実] たまってる分も合わせて / １８万７４００円になりま～す
+   Including your tab, that comes to 187,400 yen~
+>> 7987E0.16 | [夏実] 毎度ありがとうございま～す！
+   Thank you very much~!
+>> 7987E0.20 | [波児] こりゃ皿洗いのバイトして / 払ってもらうしかなさそうだな
+   Looks like they'll have to wash dishes to pay this off.
+>> 7987E0.25 | [アル] ゴメンナサイ！　ソレ、ボクヤル！ / オ願イデス、ボクヲ働カセテ下サイ！
+   I am sorry! That, I will do it! Please, let me work!
+>> 7987E0.30 | [波児] この様子じゃ泊まるあても / なさそうだな…
+   From the looks of it, you don't have anywhere to stay either...
+>> 7987E0.33 | [波児] ちょうど人手も足らねーし、 / オレは構わんけどな…
+   We're short-handed anyway, so I don't mind...
+>> 7987E0.38 | [アル] アリガト！ / 波児サン、イイ人。感謝！
+   Thank you! Paul-san, good man. Much thanks!
+>> 7987E0.43 | [波児] にしてもアイツらときたら…
+   Still, those two, I swear...
+>> 7987E0.47 | [蛮] 紙の…紙の金…捨て…捨てた………
+   Paper... paper money... threw... threw it away.........
+>> 7987E0.51 | [銀次] 蛮ちゃ～ん、戻ってきてよ～！！
+   Ban-chaaan, come back to us~!!
+>> 798B80.4 | [ＴＡＲＥ] …ウキュゥ
+   ...Ukyuu
+>> 798B80.8 | [蛮] なんだそりゃ？ / なんでテメーにはなつくんだよ！
+   What the hell? Why's it all friendly with YOU?!
+>> 798B80.13 | [銀次] でも、これで奪還成功だね！
+   But that means the retrieval's a success!
+>> 798B80.15 | [銀次] 早くアルくんのとこに / 連れてってあげようよ！
+   Let's hurry and take it to Al-kun!
+>> 798CA8.3 | [波児] 士度ならここにはいないぜ
+   Shido's not here.
+>> 798CF4.3 | [夏実] ヘヴンさんは / その辺で用事があるって言ってましたよ
+   Hevn-san said she had some errands around here.
+>> 798CF4.7 | [夏実] ガンバってね！
+   Good luck!
+>> 798D84.3 | [ヘヴン] 士度クンなら / コンビニのある方へ向ったわよ
+   Shido-kun headed toward the convenience store.
+>> 798DE8.3 | [写真屋] 旅の記念に写真いかがですカ？
+   Photo for souvenir of your trip, yes?
+>> 798DE8.7 | [蛮] 写真？　いんねーよ、ンなモン
+   A photo? Don't need one.
+>> 798DE8.11 | [写真屋] この写真、フツウの写真違う / ちょと不思議な写真とれる
+   This photo, not normal photo. Takes little bit strange photo.
+>> 798DE8.16 | [銀次] 不思議ってどんな感じの？
+   Strange how?
+>> 798DE8.20 | [写真屋] とる人と仲いい人、となりに写る / ちょと不思議
+   People close with the one in photo, they appear next to them. Little bit strange.
+>> 798DE8.23 | [写真屋] 仲良しさんいっぱいいると、 / 写真たくさんとれるよ
+   Many good friends, then you take many photos.
+>> 798DE8.26 | [写真屋] でも仲良しさんいないと / 一枚もとれないのよ
+   But no good friends, then not even one photo.
+>> 798DE8.31 | [銀次] 面白いね！　撮ってみようよ！！
+   Sounds fun! Let's try it!!
+>> 798DE8.35 | [写真屋] 一回しかとれないから誰とるか注意！ / とる人、一番前に出る。そしたらとる
+   Only one try, so careful who you pick! That one steps to front. Then I take.
+>> 799098.3 | [写真屋] ではとるヨ
+   Now I take, yes.
+>> 7990DC.3 | [写真屋] ではまたネ
+   See you again, yes.
+>> 7990DC.7 | [銀次] あれ？　写真は？？
+   Huh? Where's the photo??
+>> 7990DC.11 | [写真屋] 写真まだできない。後で渡すヨ
+   Photo not ready yet. I give you later, yes.
+>> 799198.4 | 写真とるカ？
+   Take photo?
+>> 7991E8.4 | ナニカ、オ手伝イシマショカ？
+   Something I can help you with, maybe?
+>> 799248.3 | [アル] 属性ハ全部デ九種類アリマス
+   There are nine elements in all.
+>> 799248.5 | [アル] 火、風、土、水、砂、雷、闇、光、無…
+   Fire, Wind, Earth, Water, Sand, Thunder, Dark, Light, Void...
+>> 799248.7 | [アル] 強サヲヤジルシデ表スト、 / 火→水→風→土→砂→雷→火トナリマス
+   In arrows by strength: Fire -> Water -> Wind -> Earth -> Sand -> Thunder -> Fire.
+>> 799248.10 | [アル] 光ト闇ハ対立シマス / 光ハ闇ニ強ク、闇ハ光ニ強イデス
+   Light and Dark are opposed. Light is strong vs. Dark, and Dark vs. Light.
+>> 799248.13 | [アル] 無ハ他ノ影響受ケマセンヨ
+   Void, it is not affected by the others.
+>> 799380.3 | [蛮] …やべーぞ、銀次
+   ...We're in trouble, Ginji.
+>> 799380.7 | [銀次] やばいね、蛮ちゃん / もう５日間マトモなもの食べてないよ…
+   Big trouble, Ban-chan. We haven't eaten anything decent in 5 days...
+>> 799380.12 | [蛮] こうなったら次の依頼は / なにがなんでも金持ちを捕まえてだな！
+   This time, no matter what, our next job's gotta come from a rich client!
+>> 799380.15 | [蛮] …あン？ / あそこにいンのアルじゃねえか？
+   ...Huh? Isn't that Al over there?
+>> 7994C0.3 | [アル] モウ１回聞カセテンカー、 / アンサンノ話…
+   Tell me yer story one more time, missy...
+>> 7994C0.8 | [蛮] （…いつからアイツは怪しい関西弁を / しゃべるようになったんだ？）
+   (...Since when does he talk in that dodgy Kansai dialect?)
+>> 7994C0.13 | [銀次] （そういえばこの前、 / 波児さんが日本語の勉強になるからって
+   (Come to think of it, the other day Paul-san said it'd help him learn Japanese,
+>> 7994C0.16 | [銀次] 関西のお笑いビデオ見せてたよ？）
+   and showed him some Kansai comedy videos.)
+>> 7994C0.20 | [蛮] （なるか、ンなモン）
+   (Like that'd help.)
+>> 7994C0.24 | [みっちゃん] あのね、みっちゃんの髪どめが / なくなっちゃったの…
+   Um, Mitchan's hair clip went missing...
+>> 7994C0.29 | [アル] 紙ガナクナッタンカ？　ソリャ大変ヤ！ / ケツ、フケヘンヤンカ！
+   Yer paper clip? No more paper? That's terrible! Ya can't wipe yer butt!
+>> 7994C0.34 | [みっちゃん] ちがうよ、 / ママにもらった髪どめがなくなったの！
+   No! The HAIR clip Mama gave me went missing!
+>> 7994C0.39 | [アル] ソウヤッタンカ / オカンノ髪ガナクナッタンカ
+   Oh, is that it? So yer ma's hair went missin'.
+>> 7994C0.42 | [アル] オカンモ災難ヤナァ～ / ハゲテシモテ…
+   Yer ma's had it rough too, huh~ Goin' bald like that...
+>> 7994C0.47 | [みっちゃん] もー、ちがうの、ちがうの！ / ちがうんだったらぁー！
+   Nooo, that's not it, that's not it! It's not like thaaat!
+>> 7994C0.52 | [アル] アァ～、ナカントイテ、ナカントイテ！ / カンニンヤデ…
+   Aaah, don't cry, don't cry! I'm sorry, okay...
+>> 7994C0.55 | [アル] ド、ドナイシタラエエンヤロ？
+   Wh-what am I s'posed to do?

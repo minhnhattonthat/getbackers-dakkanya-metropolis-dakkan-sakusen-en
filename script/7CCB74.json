@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "！！　アルくん、しっかりしてよ！",
-  "en": ""
+  "en": "!! Al-kun, hang in there! Al-kun!!"
  },
  {
   "id": "7CCB74.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "アルくん！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CCB74.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "いや…よく見ろ、銀次",
-  "en": ""
+  "en": "No... Take a good look, Ginji."
  },
  {
   "id": "7CCB74.11",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "アル",
   "jp": "…ＺＺＺ…ＺＺＺ…ＺＺＺ…　",
-  "en": ""
+  "en": "...ZZZ...ZZZ...ZZZ..."
  },
  {
   "id": "7CCB74.15",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ね、寝てる…",
-  "en": ""
+  "en": "H-He's asleep... Phew, you scared me..."
  },
  {
   "id": "7CCB74.18",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "あ～ビックリした…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CCB74.20",
@@ -88,7 +88,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ここンとこ、",
-  "en": ""
+  "en": "Looks like he's been on edge this whole"
  },
  {
   "id": "7CCB74.23",
@@ -96,7 +96,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ずっと気ィ張ってたみてぇだからな…　",
-  "en": ""
+  "en": "time..."
  },
  {
   "id": "7CCB74.25",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "ま、ゆっくり休ませてやろうぜ",
-  "en": ""
+  "en": "Let's let him get some rest."
  },
  {
   "id": "7CCB74.27",
@@ -119,7 +119,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "そうだね、帰ろう！　",
-  "en": ""
+  "en": "Yeah, let's go home! Back to everyone!"
  },
  {
   "id": "7CCB74.30",
@@ -127,6 +127,6 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "みんなのところに",
-  "en": ""
+  "en": " "
  }
 ]

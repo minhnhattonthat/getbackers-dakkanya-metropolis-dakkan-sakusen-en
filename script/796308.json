@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "ミナサン、アリガトデス　",
-  "en": ""
+  "en": "Everybody, thank you! TARE come back, I"
  },
  {
   "id": "796308.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "ＴＡＲＥ戻ッテキテ、トテモウレシイ！",
-  "en": ""
+  "en": "am so happy!"
  },
  {
   "id": "796308.7",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "ＴＡＲＥ",
   "jp": "ウキュ～",
-  "en": ""
+  "en": "Ukyuu~"
  },
  {
   "id": "796308.11",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "…おい、猿マワシ",
-  "en": ""
+  "en": "...Hey, monkey trainer. What kind of"
  },
  {
   "id": "796308.14",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "アレ、なんて生き物だ？　",
-  "en": ""
+  "en": "creature is that?"
  },
  {
   "id": "796308.16",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "士度",
   "jp": "知らん…",
-  "en": ""
+  "en": "No idea..."
  },
  {
   "id": "796308.20",
@@ -88,7 +88,7 @@
   "box": 5,
   "speaker": "アル",
   "jp": "ソウダ！　蛮サン、銀サン、　",
-  "en": ""
+  "en": "Oh yes! Ban-san, Gin-san, and Shido-san"
  },
  {
   "id": "796308.23",
@@ -96,7 +96,7 @@
   "box": 5,
   "speaker": "アル",
   "jp": "ソレニ士度サンモ。オ礼スルデス　",
-  "en": ""
+  "en": "too. I will give thanks. A reward!"
  },
  {
   "id": "796308.25",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "アル",
   "jp": "ボク、オ金イッパイ持ッテキタ",
-  "en": ""
+  "en": "I bring lots of money. Please, eat lots of"
  },
  {
   "id": "796308.26",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "アル",
   "jp": "ゴ飯タクサン食ベテネ！　",
-  "en": ""
+  "en": "food!"
  },
  {
   "id": "796308.28",
@@ -127,7 +127,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "それだよ、それ！",
-  "en": ""
+  "en": "That's what I'm talkin' about! Hey, Paul,"
  },
  {
   "id": "796308.31",
@@ -135,7 +135,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "おい波児、食い物あるだけ持って来い！",
-  "en": ""
+  "en": "bring us all the food you've got!"
  },
  {
   "id": "796308.33",
@@ -150,7 +150,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "冷蔵庫カラにするぞ～！　",
-  "en": ""
+  "en": "We're gonna empty the fridge~!"
  },
  {
   "id": "796308.37",
@@ -165,7 +165,7 @@
   "box": 9,
   "speaker": "波児",
   "jp": "おい、すきっ腹にイキナリ食うと　",
-  "en": ""
+  "en": "Hey, if you eat that fast on an empty"
  },
  {
   "id": "796308.40",
@@ -173,7 +173,7 @@
   "box": 9,
   "speaker": "波児",
   "jp": "…って言ってもムダか…　",
-  "en": ""
+  "en": "stomach... Eh, no use telling them..."
  },
  {
   "id": "796308.42",
@@ -181,7 +181,7 @@
   "box": 9,
   "speaker": "波児",
   "jp": "蛮　",
-  "en": ""
+  "en": "Ban"
  },
  {
   "id": "796308.43",
@@ -189,7 +189,7 @@
   "box": 9,
   "speaker": "波児",
   "jp": "銀次",
-  "en": ""
+  "en": "Ginji"
  },
  {
   "id": "796308.45",
@@ -197,7 +197,7 @@
   "box": 10,
   "speaker": "波児",
   "jp": "…ガツガツガツガツガツガツガツガツ　",
-  "en": ""
+  "en": "...Chomp chomp chomp chomp chomp chomp"
  },
  {
   "id": "796308.46",
@@ -205,7 +205,7 @@
   "box": 10,
   "speaker": "波児",
   "jp": "ガツゴクゴクゴクゴク…ガツガツガツ　",
-  "en": ""
+  "en": "chomp chomp gulp gulp gulp... chomp"
  },
  {
   "id": "796308.48",
@@ -213,7 +213,7 @@
   "box": 11,
   "speaker": "波児",
   "jp": "ガガガツガツガツガツガツ…ガツガツ　",
-  "en": ""
+  "en": "Ch-ch-chomp chomp chomp chomp... chomp"
  },
  {
   "id": "796308.49",
@@ -221,7 +221,7 @@
   "box": 11,
   "speaker": "波児",
   "jp": "ガツガツガツ…ガツガツガツガツ……　",
-  "en": ""
+  "en": "chomp chomp chomp... chomp chomp......"
  },
  {
   "id": "796308.51",
@@ -229,7 +229,7 @@
   "box": 12,
   "speaker": "波児",
   "jp": "ンガググ………ガツガツガツガツガツ　",
-  "en": ""
+  "en": "Mmgrgh......chomp chomp chomp chomp"
  },
  {
   "id": "796308.52",
@@ -237,7 +237,7 @@
   "box": 12,
   "speaker": "波児",
   "jp": "ガツガツガツガツガ…ガガガガツガツ　",
-  "en": ""
+  "en": "chomp chomp chomp ch... ch-ch-chomp"
  },
  {
   "id": "796308.54",
@@ -245,7 +245,7 @@
   "box": 13,
   "speaker": "波児",
   "jp": "ガツ…ゴ…ゴゴゴ…ガツガツガツガツ　",
-  "en": ""
+  "en": "Chomp... gl... gl-gl... chomp chomp chomp"
  },
  {
   "id": "796308.55",
@@ -253,7 +253,7 @@
   "box": 13,
   "speaker": "波児",
   "jp": "ガツガツガツガツガツガツゴックン…　",
-  "en": ""
+  "en": "chomp chomp chomp chomp GULP..."
  },
  {
   "id": "796308.57",
@@ -268,7 +268,7 @@
   "box": 14,
   "speaker": "蛮　",
   "jp": "ぷはー、食ったー！　",
-  "en": ""
+  "en": "Bwah! That hit the spot!"
  },
  {
   "id": "796308.61",
@@ -283,7 +283,7 @@
   "box": 15,
   "speaker": "銀次",
   "jp": "もうお腹いっぱいだよ～！",
-  "en": ""
+  "en": "I'm totally stuffed~!"
  },
  {
   "id": "796308.65",
@@ -298,7 +298,7 @@
   "box": 16,
   "speaker": "士度",
   "jp": "すさまじい勢いだったな…",
-  "en": ""
+  "en": "That was a ferocious pace..."
  },
  {
   "id": "796308.69",
@@ -313,7 +313,7 @@
   "box": 17,
   "speaker": "波児",
   "jp": "蛮、３万５０００円ほどになるが…",
-  "en": ""
+  "en": "Ban, that comes to about 35,000 yen..."
  },
  {
   "id": "796308.73",
@@ -328,7 +328,7 @@
   "box": 18,
   "speaker": "蛮　",
   "jp": "なんだそれっぽっちかよ、楽勝楽勝！　",
-  "en": ""
+  "en": "What, that's all? Piece of cake! Take care"
  },
  {
   "id": "796308.76",
@@ -336,7 +336,7 @@
   "box": 18,
   "speaker": "蛮　",
   "jp": "おい頼むぜ、アル",
-  "en": ""
+  "en": "of it, Al."
  },
  {
   "id": "796308.78",
@@ -351,7 +351,7 @@
   "box": 19,
   "speaker": "アル",
   "jp": "分カリマシタ！　ハイ、夏実サン！",
-  "en": ""
+  "en": "Okay! Here, Natsumi-san!"
  },
  {
   "id": "796308.82",
@@ -366,7 +366,7 @@
   "box": 20,
   "speaker": "夏実",
   "jp": "えっ？　",
-  "en": ""
+  "en": "Huh? Just... one... ten-yen coin?"
  },
  {
   "id": "796308.85",
@@ -374,7 +374,7 @@
   "box": 20,
   "speaker": "夏実",
   "jp": "じゅーえん玉…一枚…だけ？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "796308.87",
@@ -389,7 +389,7 @@
   "box": 21,
   "speaker": "銀次",
   "jp": "えっと、あの…アルくん？",
-  "en": ""
+  "en": "Um, uh... Al-kun?"
  },
  {
   "id": "796308.91",
@@ -404,7 +404,7 @@
   "box": 22,
   "speaker": "アル",
   "jp": "今回ノオ礼ネ",
-  "en": ""
+  "en": "This is my thanks. Most valuable money in"
  },
  {
   "id": "796308.94",
@@ -412,7 +412,7 @@
   "box": 22,
   "speaker": "アル",
   "jp": "ボクノ国デ一番タカイ銅デデキタオ金！",
-  "en": ""
+  "en": "my country, made of bronze!"
  },
  {
   "id": "796308.96",
@@ -420,7 +420,7 @@
   "box": 23,
   "speaker": "アル",
   "jp": "…多スギデスカ？",
-  "en": ""
+  "en": "...Is too much?"
  },
  {
   "id": "796308.98",
@@ -435,7 +435,7 @@
   "box": 24,
   "speaker": "波児",
   "jp": "多すぎるっていうか…なあ？　",
-  "en": ""
+  "en": "\"Too much\" isn't exactly the word... right?"
  },
  {
   "id": "796308.102",
@@ -450,7 +450,7 @@
   "box": 25,
   "speaker": "夏実",
   "jp": "あはははは～、　",
-  "en": ""
+  "en": "Ahahaha~, you GetBackers are so funny~!"
  },
  {
   "id": "796308.105",
@@ -458,7 +458,7 @@
   "box": 25,
   "speaker": "夏実",
   "jp": "奪還屋さんたちおもしろ～い！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "796308.107",
@@ -473,7 +473,7 @@
   "box": 26,
   "speaker": "蛮　",
   "jp": "あのな、硬いヤツじゃなくて　",
-  "en": ""
+  "en": "Listen, not the hard stuff. You've got"
  },
  {
   "id": "796308.110",
@@ -481,7 +481,7 @@
   "box": 26,
   "speaker": "蛮　",
   "jp": "紙のお金あるだろ？　",
-  "en": ""
+  "en": "paper money, right?"
  },
  {
   "id": "796308.112",
@@ -489,7 +489,7 @@
   "box": 27,
   "speaker": "蛮　",
   "jp": "紙幣、ペーパー、米ドル！",
-  "en": ""
+  "en": "Bills! Paper! US dollars!"
  },
  {
   "id": "796308.114",
@@ -504,7 +504,7 @@
   "box": 28,
   "speaker": "アル",
   "jp": "紙デデキタ軽イオ金、ボクノ国デハゴミ",
-  "en": ""
+  "en": "Light money made of paper is trash in my"
  },
  {
   "id": "796308.117",
@@ -512,7 +512,7 @@
   "box": 28,
   "speaker": "アル",
   "jp": "サッキ全部捨テタヨ　",
-  "en": ""
+  "en": "country. I throw it all away just now."
  },
  {
   "id": "796308.119",
@@ -527,7 +527,7 @@
   "box": 29,
   "speaker": "蛮　",
   "jp": "捨て…た？　",
-  "en": ""
+  "en": "Threw... it away? You threw away ALL the"
  },
  {
   "id": "796308.122",
@@ -535,7 +535,7 @@
   "box": 29,
   "speaker": "蛮　",
   "jp": "紙のお金を全部捨てただと！？",
-  "en": ""
+  "en": "paper money?!"
  },
  {
   "id": "796308.124",
@@ -543,6 +543,6 @@
   "box": 30,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  }
 ]

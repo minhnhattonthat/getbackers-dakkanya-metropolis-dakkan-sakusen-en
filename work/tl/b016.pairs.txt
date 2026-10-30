@@ -1,0 +1,364 @@
+>> 7A9D04.3 | [スタッフ] うーん、間違ってるみたいだね / 数多くて大変だけど、しっかりね
+   Hmm, looks like you got it wrong. There's a lot of them, I know, but stay sharp.
+>> 7A9D04.6 | [スタッフ] じゃ、もう１回説明するね。いい？
+   Okay, I'll explain once more. Ready?
+>> 7A9D04.8 | [スタッフ] 次は花を各部屋に / ２つずつ置いてきてもらいたいんだ
+   Next, I need you to go put two flowers in each room.
+>> 7A9D04.11 | [スタッフ] で、まず始めのツルコさんはバラが / 大好きだからバラと…あとはユリね
+   So first, Tsuruko-san loves roses, so a rose and... a lily.
+>> 7A9D04.14 | [スタッフ] 次のキキョウさんは元気がいいから / チューリップとひまわり
+   Next, Kikyo-san's full of pep, so a tulip and a sunflower.
+>> 7A9D04.17 | [スタッフ] 次のシズクさんは可愛らしく / ガーベラとチューリップ
+   Next, Shizuku-san's cute, so a gerbera and a tulip.
+>> 7A9D04.20 | [スタッフ] …いや、ラベンダーにしておこうかな
+   ...No, let's make that lavender.
+>> 7A9D04.22 | [スタッフ] 次のナミヲさんはなんでもいいんだけど / 一応ひまわりとチューリップで
+   Next, Namio-san doesn't care either way, but let's say a sunflower and a tulip.
+>> 7A9D04.25 | [スタッフ] 次のココロさんはラベンダーと / …もう一つはなににしようかな？
+   Next, Kokoro-san gets lavender and... what should the other one be?
+>> 7A9D04.28 | [スタッフ] うーん、そうだな、バラにしておこうか
+   Hmm, let's see... let's go with a rose.
+>> 7A9D04.30 | [スタッフ] 次のロクローさんはひまわりと / チューリップね
+   Next, Rokuro-san gets a sunflower and a tulip.
+>> 7A9D04.33 | [スタッフ] で、最後のハカマさんが… / あれ？　バラもう残ってなかったっけ？
+   And last, Hakama-san gets... Huh? Weren't we out of roses?
+>> 7A9D04.36 | [スタッフ] …だったら、ココロさんのバラをやめて / ユリにしておいて
+   ...Then skip Kokoro-san's rose and give her a lily instead.
+>> 7A9D04.39 | [スタッフ] それでハカマさんがバラとチューリップ / あの人、バラがないと怒るからね
+   So Hakama-san gets a rose and a tulip. She gets mad if there's no rose.
+>> 7A9D04.42 | [スタッフ] 花はイベントアイテムの中に / 入れておくよ
+   I'll put the flowers in your Event items.
+>> 7A9D04.45 | [スタッフ] アイテムは机の手前からじゃないと / 置けないから気をつけてね
+   You can only place items from the front of the desk, so be careful.
+>> 7A9D04.48 | [スタッフ] あと花は重ねて置けないからね
+   Oh, and you can't stack the flowers on top of each other.
+>> 7A9D04.50 | [スタッフ] じゃ、ヨロシク
+   Okay, I'm counting on you.
+>> 7AA1A4.3 | [スタッフ] ああ、違ってるみたいだね… / 最後だからハリキっていこうよ！！
+   Ah, looks like that's wrong... This is the last one, so let's give it our all!!
+>> 7AA1A4.6 | [スタッフ] じゃ、よく聞いてね
+   Okay, listen carefully.
+>> 7AA1A4.8 | [スタッフ] まずツルコさんだけど、この人の衣装は / 届いてないから置かなくていいよ
+   First, Tsuruko-san -- her costume hasn't arrived, so you don't need to place one.
+>> 7AA1A4.11 | [スタッフ] 次にキキョウさんだけど、 / この人はハデな着物ね
+   Next, Kikyo-san gets the flashy kimono.
+>> 7AA1A4.14 | [スタッフ] ああ見えてけっこうハデ好きなんだよね
+   She might not look it, but she really loves flashy stuff.
+>> 7AA1A4.16 | [スタッフ] 次のシズクさんはせいそな着物 / せいそな着物の似合う女性っていいよね
+   Shizuku-san's next: the demure kimono. Gotta love a gal in a demure kimono.
+>> 7AA1A4.19 | [スタッフ] で、次のナミヲさんは男物のハカマだ
+   Then Namio-san gets the men's hakama.
+>> 7AA1A4.21 | [スタッフ] 間違えてハカマさんのところにハカマ / 届けないようにね
+   Don't go delivering the hakama to Hakama-san by mistake.
+>> 7AA1A4.24 | [スタッフ] ナミヲさんの方だからね
+   It goes to Namio-san, got it?
+>> 7AA1A4.26 | [スタッフ] お次のココロさんはハデな… / ああ違うな、せいそなドレスの方ね
+   Next up, Kokoro-san gets the flashy... oh, no, the demure dress.
+>> 7AA1A4.29 | [スタッフ] 次のロクローさんはタキシード
+   Next, Rokuro-san gets the tuxedo.
+>> 7AA1A4.31 | [スタッフ] 最後にハカマさんが…
+   And last, Hakama-san gets...
+>> 7AA1A4.33 | [スタッフ] あれ？　ハカマさんも衣装が / 届いてないんだっけな？
+   Huh? Didn't Hakama-san's costume not arrive either?
+>> 7AA1A4.36 | [スタッフ] ツルコさんとハカマさんのどっちが / ハデなドレスなのか忘れちゃったな
+   I forget whether it's Tsuruko-san or Hakama-san who gets the flashy dress.
+>> 7AA1A4.39 | [スタッフ] まあいいや、てきとうにやってよ
+   Oh well, just do whatever.
+>> 7AA1A4.41 | [スタッフ] 衣装はイベントアイテムの中に / 入れておくよ
+   I'll put the costumes in your Event items.
+>> 7AA1A4.44 | [スタッフ] アイテムは机の手前からじゃないと / 置けないから気をつけてね
+   You can only place items from the front of the desk, so be careful.
+>> 7AA5B8.4 | 蛮ちゃん、どうしよう？
+   Ban-chan, what do we do?
+>> 7AA60C.4 | 蛮ちゃん、対向車が来たよ！！
+   Ban-chan, there's an oncoming car!!
+>> 7AA664.4 | 蛮ちゃん、前方に落石！！
+   Ban-chan, falling rocks ahead!!
+>> 7AA6B8.4 | もう少しだよ、蛮ちゃん！！
+   Almost there, Ban-chan!!
+>> 7AA710.3 | [ロクロー] マズいな、声が出ないよ / のどアメないかな、のどアメ…
+   Uh-oh, my voice is gone... Anyone got a throat lozenge? A throat lozenge...
+>> 7AA780.3 | [蛮] ここでブレーキ踏んで / どうすんだっての！
+   What good's hitting the brakes here?!
+>> 7AA7E0.3 | [蛮] ここからじゃ当るわけねえぞ！！
+   No way I'll hit 'em from here!!
+>> 7AA834.3 | [蛮] ダメだ！ / ガードレールにぶつかっちまう！！
+   No good! We're gonna slam into the guardrail!!
+>> 7AA894.3 | [蛮] くっ、差が開いちまったぜ！
+   Tch, they've pulled ahead!
+>> 7AA8E4.3 | [蛮] ガードレールがあってきれねえよ！
+   Can't swerve with the guardrail there!
+>> 7AA938.3 | [蛮] …ンなモン、通じるかってんだよ！
+   ...Like that's gonna work!
+>> 7AA98C.3 | [蛮] ダメだ！ / てんとう虫の馬力じゃもたねえ！
+   No good! The ladybug doesn't have the horsepower!
+>> 7AA9EC.3 | [蛮] ンなモン、 / ブレーキ踏まれりゃ終わりだっての！
+   That's useless! All they'd have to do is hit the brakes!
+>> 7AAA84.3 | [卑弥呼] ………
+   ...
+>> 7AAA84.7 | [蛮] ったく、すーぐムキになる所は / 昔っから変わらねえな…お前は
+   Jeez, you still get worked up at the drop of a hat. You haven't changed a bit...
+>> 7AAA84.13 | [卑弥呼] なによ / いつまでも子供扱いしないでよ！
+   What? Quit treating me like a kid all the time!
+>> 7AAA84.16 | [卑弥呼] …それにあたしはまだ / アンタを許したわけじゃないから…
+   ...Besides, I haven't forgiven you yet...
+>> 7AAA84.21 | [蛮] …いいぜ、 / いつでも相手になってやるよ
+   ...Fine. I'll take you on anytime.
+>> 7AAA84.24 | [蛮] お前が望むなら…な
+   If that's what you want... that is.
+>> 7AAC38.3 | [卑弥呼] ………
+   ...
+>> 7AAC78.3 | [卑弥呼] ………
+   ...
+>> 7AACB8.3 | [卑弥呼] ………
+   ...
+>> 7AACF8.3 | [卑弥呼] ………
+   ...
+>> 7AAD38.3 | [卑弥呼] ………
+   ...
+>> 7AAD78.3 | [卑弥呼] ………
+   ...
+>> 7AADB8.3 | [卑弥呼] ………
+   ...
+>> 7AADF8.3 | [卑弥呼] ………
+   ...
+>> 7AAE38.3 | [銀次] あ、士度とマドカちゃんだ～！ / ヤッホー！
+   Oh, it's Shido and Madoka-chan~! Yoo-hoo!
+>> 7AAE38.8 | [士度] …なんだ、出かけるのか？
+   ...What, you heading out?
+>> 7AAE38.12 | [ヘヴン] そうよー、この子たちはこれから / 私の召使いになるのよ、ネ♥
+   That's right~ From today, these boys are my servants. Right♥?
+>> 7AAE38.17 | [銀次] 蛮ちゃんが払えもしないくせに、 / ヘヴンさんに借りたガソリン代を
+   Ban-chan can't even pay, but he told Hevn-san he'd pay back her gas money...
+>> 7AAE38.20 | [銀次] １０倍にして返すなんて言うからさ～…
+   ...ten times over~...
+>> 7AAE38.24 | [蛮] チッ、依頼料さえマトモに入ってれば / こんなコトには…
+   Tch, if we'd just gotten a decent fee for once, this wouldn't...
+>> 7AAE38.29 | [ヘヴン] というわけで、二人には今日一日 / タップリと働いてもらいますからね
+   And so, you two are going to work your fingers to the bone for me all day today.
+>> 7AAE38.32 | [ヘヴン] ホーホホホホッ！
+   Oh-ho-ho-ho-ho!
+>> 7AB0BC.3 | [マドカ] 大変ですね、奪還屋さんたち…
+   That sounds rough for the GetBackers...
+>> 7AB0BC.7 | [士度] アイツらがいると / ギャーギャーうるせぇからな
+   When those guys are around, it's nothing but yapping and racket.
+>> 7AB0BC.10 | [士度] いねぇ方が静かでいいさ
+   It's nicer and quieter without 'em.
+>> 7AB0BC.14 | [波児] 確かに静かになっちまったな… / ラジオでもかけるか
+   Sure got quiet in here... Maybe I'll put the radio on.
+>> 7AB208.3 | [夏実] あっ、コレって / 今、スッゴイ人気がある曲ですよね
+   Oh, this is that song that's super popular right now, isn't it?
+>> 7AB208.6 | [夏実] ＭＡＩってコが歌ってる曲！
+   The one that girl MAI sings!
+>> 7AB208.10 | [マドカ] ………
+   ...
+>> 7AB208.14 | [士度] どうした、マドカ？
+   What's wrong, Madoka?
+>> 7AB208.18 | [波児] こういう曲、キラいなのかい？ / 変えようか？
+   Not a fan of this kind of song? Want me to change it?
+>> 7AB208.23 | [マドカ] いえ、そうじゃないんです / ただ、なんだか寂しそうな感じがして…
+   No, it's not that. It's just that it sounds kind of lonely...
+>> 7AB208.26 | [マドカ] 昔はこんな風に歌わなかったなって…
+   She didn't used to sing like this...
+>> 7AB208.30 | [夏実] えっ、マドカさんって / ＭＡＩと知り合いなんですか？
+   Huh? Madoka-san, you know MAI?
+>> 7AB208.35 | [マドカ] ええ、彼女は… / 坂本茉衣は高校時代の私の親友なんです
+   Yes, she... Mai Sakamoto was my best friend in high school.
+>> 7AB208.38 | [マドカ] 音楽で目指す方向は違っていましたが、 / 彼女とはとても気が合って…
+   We were aiming in different directions musically, but we got along really well...
+>> 7AB208.43 | [波児] よき友であり、 / よきライバルだったって感じかい？
+   Good friends and good rivals, that kind of thing?
+>> 7AB208.48 | [マドカ] ええ…彼女は当時から歌手に / なりたいという夢を持っていましたから
+   Yes... Even back then, she dreamed of becoming a singer.
+>> 7AB208.51 | [マドカ] 今はそれがかなって / 幸せなのかも知れませんが…
+   Now that her dream has come true, maybe she's happy, but...
+>> 7AB208.56 | [士度] でもなにかが違う… / そうなんだろ？
+   But something's off... Right?
+>> 7AB208.61 | [マドカ] …ええ
+   ...Yes.
+>> 7AB208.65 | [波児] マドカちゃんの勘、 / 当ってるかも知れねえな
+   Your hunch might be right on, Madoka-chan.
+>> 7AB208.68 | [波児] そのＭＡＩってコ、 / 山城芸能プロにいるんだろ？
+   That MAI girl's with Yamashiro Productions, right?
+>> 7AB208.71 | [波児] あまりいいウワサ聞かないぜ、あそこは
+   I don't hear good things about that place.
+>> 7AB208.75 | [夏実] えっ、どういうことですか？
+   Huh? What do you mean?
+>> 7AB208.79 | [波児] アーティストの希望を無視して / 売れセンを歌わせて、
+   They ignore what their artists want and make 'em sing whatever sells,
+>> 7AB208.82 | [波児] 人気がなくなれば捨てる…ってな
+   and once they're not popular anymore, they toss 'em... so they say.
+>> 7AB208.84 | [波児] しかも社員の殆どは裏社会の人間だ
+   Plus, most of their staff are from the underworld.
+>> 7AB208.88 | [マドカ] ………
+   ...
+>> 7AB208.92 | [士度] …奪り還してやろうか？
+   ...Want me to take it back?
+>> 7AB208.96 | [マドカ] …え？
+   ...Huh?
+>> 7AB208.100 | [士度] そのＭＡＩってヤツの歌声をだよ
+   That MAI's singing voice, I mean.
+>> 7AB208.104 | [マドカ] でも…
+   But...
+>> 7AB208.108 | [士度] マドカにはいつも世話になってるからな / これはその礼だと思ってくれ
+   You're always looking out for me, Madoka. Think of this as my thanks.
+>> 7AB208.111 | [士度] …じゃ、行ってくるぜ
+   ...Well, I'm off.
+>> 7AB9A0.4 | [夏実] 士度さんたらマドカさんの前だからって / はりきっちゃってるね、アルくん
+   Shido-san's all fired up 'cause Madoka-san's here, huh, Al-kun?
+>> 7AB9A0.7 | [夏実] …アルくん、どうしたの？
+   ...Al-kun, what's wrong?
+>> 7AB9A0.11 | [アル] ………
+   ...
+>> 7ABA7C.3 | [夏実] …アルくんってば、 / どうしちゃったんでしょう？
+   ...What's gotten into Al-kun, I wonder?
+>> 7ABA7C.8 | [波児] さあな…
+   Beats me...
+>> 7ABB14.3 | [士度] ここが山城芸能プロダクションか…
+   So this is Yamashiro Productions...
+>> 7ABB6C.3 | [社員] …なんだ、お前 / ウチのプロダクションになにか用か？
+   ...What do you want? You got business with our agency?
+>> 7ABB6C.8 | [士度] ＭＡＩってヤツに話がある / そこを通してくんねーか？
+   I need to talk to MAI. Let me through, would ya?
+>> 7ABB6C.13 | [社員] はいそうですか
+   Oh, sure thing.
+>> 7ABB6C.15 | [社員] …って通すヤツが / いるとでも思ってんのか？
+   ...You think anybody'd actually let you through?
+>> 7ABB6C.18 | [社員] さてはウチの内情を探りにきたな？
+   You came to snoop around in our business, didn't you?
+>> 7ABB6C.22 | [士度] 俺はそんなことに興味はねえよ / ただＭＡＩってやつと話したいだけだ
+   I don't care about any of that. I just wanna talk to MAI.
+>> 7ABB6C.25 | [士度] 事を荒げるつもりもねえ
+   I'm not looking to stir up trouble either.
+>> 7ABB6C.29 | [社員] 誰がそんなこと信じるものか / おいテメーら、客だ！
+   Like anyone'd believe that. Hey, you guys, we've got a guest!
+>> 7ABDA0.3 | [社員] 丁重にもてなしてやんな！
+   Show him some proper hospitality!
+>> 7ABDA0.7 | [士度] ………
+   ...
+>> 7ABDA0.11 | [？？？] 士度はーーーーん！ / 助けに来たでーーーーーっ！！
+   Shido-haaaaan! I've come to save yaaaaa!!
+>> 7ABE70.3 | [笑師] ふう、エエことしたなぁ～！ / 正義の味方ここにアリって感じやったな
+   Phew, did a good deed there~! Real "here comes the hero" vibe, huh?
+>> 7ABE70.8 | [士度] …笑師（えみし）、 / なんだそのカッコは…
+   ...Emishi, what's with that getup...
+>> 7ABE70.13 | [笑師] コレでっか？　お笑いオーディションの / 一次審査がキグルミ審査なんですわ
+   This? The first round of the comedy audition is a costume round.
+>> 7ABE70.16 | [笑師] 目指せ、お笑いの星ってな感じで
+   Like, "Aim for comedy stardom!" ya know.
+>> 7ABE70.18 | [笑師] そういう士度はんもオーディションで？
+   So you here for the audition too, Shido-han?
+>> 7ABE70.22 | [士度] んなワケあるか。俺は仕事だ、仕事
+   As if. I'm here on a job. A job.
+>> 7ABE70.26 | [笑師] なんや、 / そういうことやったら力貸しまっせ！
+   Well, if that's the deal, I'll lend ya a hand!
+>> 7ABE70.29 | [笑師] …さっきから思うとったんやけど、 / この芸能プロちょいおかしいんですわ
+   ...Thing is, I've been thinkin' for a while now, this agency's a little off.
+>> 7ABE70.34 | [士度] おかしいだと？
+   Off?
+>> 7ABE70.38 | [笑師] ここで働いてるヤツら、み～んな / 怪しい匂いプンプンさせとるんや
+   Every last one of the folks workin' here reeks of somethin' shady.
+>> 7ABE70.41 | [笑師] 士度はんがおらんでもワイ一人で / 探りでも入れよ思うとったとこですわ
+   I was just thinkin' I'd do some snoopin' on my own, even without you, Shido-han.
+>> 7ABE70.44 | [笑師] 未来のスターが / 怪しいトコで働くのもアレやし
+   Wouldn't do for a future star to work someplace shady, ya know.
+>> 7ABE70.49 | [士度] …そういうことなら勝手にしろよ
+   ...If that's how it is, do what you want.
+>> 7ABE70.53 | [笑師] よっしゃ！ / そうと決まれば士度はんも変装せな！！
+   All right! Then it's settled, you gotta go in disguise too, Shido-han!!
+>> 7ABE70.58 | [士度] ！？ / オイ、なにする気だ？
+   !? Hey, what're you doing?
+>> 7ABE70.63 | [笑師] 変装は潜入捜査の基本でっせ！ / ホラ、早ようせんと！
+   Disguise is the basics of undercover work! C'mon, hurry it up!
+>> 7AC334.3 | [士度] ………
+   ...
+>> 7AC334.7 | [笑師] なかなかお似合いでっせ！
+   Looks great on ya!
+>> 7AC334.10 | [笑師] どや士度はん、 / ワイとお笑いコンビ組まへんか？
+   How 'bout it, Shido-han, wanna form a comedy duo with me?
+>> 7AC334.15 | [士度] 誰が組むか！
+   Like hell I would!
+>> 7AC334.19 | [笑師] 待ってえなあ、士度はん！
+   Wait up, Shido-han!
+>> 7AC460.3 | [アル] …今、砂ノ属性ノ人、 / 近クニイタヨウナ…？？
+   ...Just now, person of Sand element, was close by, I think...??
+>> 7AC460.6 | [アル] …ソレニシテモ / ココ…ドコデスカ？？？
+   ...But anyway... Where is here???
+>> 7AC500.3 | [おばさん] ごめんねぇ、階段清掃中なのよ / もう少ししてから来てもらえるかしら？
+   Sorry, dear, we're cleaning the stairs. Could you come back a little later?
+>> 7AC500.8 | [笑師] しゃーないな、どっかで時間でも / つぶしてきましょか、士度はん？
+   Can't be helped. Shall we go kill some time somewhere, Shido-han?
+>> 7AC5E4.3 | [士度] …ん？　なにか聞こえるぜ / この部屋の中からだ！
+   ...Hm? I hear something. It's coming from inside this room!
+>> 7AC5E4.6 | [士度] ？？？
+   ???
+>> 7AC5E4.9 | [士度] ネコがねころんだ！！
+   The cat took a cat nap!!
+>> 7AC5E4.11 | [士度] もりそばをモリモリ食べろ！！！
+   Eat your mori soba, more and more!!!
+>> 7AC5E4.13 | [士度] ダブルベッドがダブってる！！！
+   The double bed is seeing double!!!
+>> 7AC6E8.3 | [笑師] …ア、アカン…こいつはアカンて！ / お笑いのセンス、まるでナシや！！
+   ...N-no good... This guy's no good! Zero sense of humor!!
+>> 7AC6E8.8 | [士度] …しかも聞き覚えのあるこの声は…
+   ...And I know that voice...
+>> 7AC7A8.3 | [笑師] ああっ、アンタは… / 十兵衛（じゅうべえ）はんやないかー！
+   Ahh, you're... Juubei-han, ain't ya!
+>> 7AC7A8.8 | [十兵衛] くっ、見るな！
+   Ngh, don't look!
+>> 7AC7A8.12 | [笑師] 十兵衛はん…ＭＡＫＵＢＥＸ / （マクベス）はんに言われたこと、
+   Juubei-han... What MakubeX-han said to you...
+>> 7AC7A8.15 | [笑師] まだ気にしてたんかいな
+   You're still hung up on it?
+>> 7AC7A8.17 | [笑師] こないなオーディションまで / 受けにくるなんてなぁ…
+   Comin' all the way out to an audition like this...
+>> 7AC7A8.22 | [士度] 案外、根に持つタイプだな…
+   Turns out he's the type to hold a grudge...
+>> 7AC7A8.26 | [笑師] せや！ / 十兵衛はんも一緒に行かへんか？
+   I know! Juubei-han, why don't ya come along with us?
+>> 7AC7A8.31 | [十兵衛] 俺に構うな！
+   Leave me alone!
+>> 7AC7A8.35 | [士度] ほっといてやれよ、ヤツにも / プライドってモンがあるだろう…
+   Leave him be. Even he's got his pride...
+>> 7AC7A8.40 | [笑師] なんや、残念やな…
+   Aw, what a shame...
+>> 7ACA78.3 | [社員] お前らだな、 / 入り口にいる仲間を倒した連中は！！
+   So you're the ones who took down our guys at the entrance!!
+>> 7ACA78.8 | [笑師] 士度はん！！
+   Shido-han!!
+>> 7ACA78.12 | [士度] 分かってる！　行くぞ、笑師！！
+   I know! Let's go, Emishi!!
+>> 7ACB54.3 | [士度] …たく、これじゃラチが明かねえ！ / 脱ぐぞ！！
+   ...Jeez, this is getting us nowhere! I'm taking this thing off!!
+>> 7ACB54.8 | [笑師] …しゃーないな！！
+   ...Can't be helped!!
+>> 7ACBF4.3 | [笑師] しかし、さっきまでキグルミ / 着とったせいか、めっちゃ疲れますなぁ
+   Man, maybe 'cause I was wearin' that costume till just now, but I'm wiped out.
+>> 7ACBF4.8 | [士度] テメーのせいだろうが！
+   And whose fault is that?!
+>> 7ACBF4.10 | [士度] …！？
+   ...!?
+>> 7ACCC0.3 | [士度] クッ、 / こんなザコどもに手間取るとはな…！
+   Tch, getting bogged down by small fry like these...!
+>> 7ACD28.3 | [銀次] 士度！　大丈夫だった！？
+   Shido! Are you okay?!
+>> 7ACD28.7 | [士度] お前ら…どうしてここに？
+   You guys... what're you doing here?
+>> 7ACD28.11 | [銀次] マドカちゃんに聞いたんだよ
+   Madoka-chan told us.
+>> 7ACD28.13 | [銀次] 士度が一人で行っちゃったからって / 心配してたよ
+   She was worried 'cause you went off all by yourself, Shido.
+>> 7ACD28.16 | [銀次] でも笑師も一緒だったんだね
+   But Emishi was with you, huh.
+>> 7ACD28.20 | [笑師] ども！
+   Howdy!
+>> 7ACD28.24 | [士度] …助けを呼んだ覚えはねえよ
+   ...I don't remember asking for help.
+>> 7ACD28.28 | [蛮] こっちは嬢ちゃんに依頼されて来てんだ / ビジネスだよ、ビジネス！
+   We're here 'cause the young lady hired us. It's business, business!
+>> 7ACD28.33 | [士度] …チッ！
+   ...Tch!
+>> 7ACD28.37 | [笑師] まァまァ、みんな仲良うせんと！
+   Now, now, everybody play nice!
+>> 7ACD28.39 | [笑師] ほな、はりきって行きましょか！！
+   All right, let's get fired up and go!!

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "Ｃメンバー　",
   "jp": "リーダー！　",
-  "en": ""
+  "en": "Leader! Those weird guys are everywhere!"
  },
  {
   "id": "7CAFA8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "Ｃメンバー　",
   "jp": "どこもあの変なヤツらでいっぱいです！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CAFA8.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "西園寺　",
   "jp": "…全員集合しているな？　",
-  "en": ""
+  "en": "...Is everyone assembled? We strike with"
  },
  {
   "id": "7CAFA8.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "西園寺　",
   "jp": "総力をあげてぶつかるぞ！！　",
-  "en": ""
+  "en": "everything we've got!!"
  },
  {
   "id": "7CAFA8.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "西園寺　",
   "jp": "（花月…銀次さん…　",
-  "en": ""
+  "en": "(Kazuki... Ginji-san... I will do my best here."
  },
  {
   "id": "7CAFA8.12",
@@ -59,7 +59,7 @@
   "box": 3,
   "speaker": "西園寺　",
   "jp": "私はここでがんばります　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CAFA8.14",
@@ -67,7 +67,7 @@
   "box": 4,
   "speaker": "西園寺　",
   "jp": "あなたたちも",
-  "en": ""
+  "en": "Please, both of you, take care as well...!)"
  },
  {
   "id": "7CAFA8.15",
@@ -75,6 +75,6 @@
   "box": 4,
   "speaker": "西園寺　",
   "jp": "どうか気をつけて下さい…！）",
-  "en": ""
+  "en": " "
  }
 ]

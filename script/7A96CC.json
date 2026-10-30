@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "！　",
-  "en": ""
+  "en": "! Ban-chan, it's that truck!!"
  },
  {
   "id": "7A96CC.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "蛮ちゃん、あのトラックだよ！！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7A96CC.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "ようやく姿を現しやがったな、",
-  "en": ""
+  "en": "So you finally show yourselves,"
  },
  {
   "id": "7A96CC.9",
@@ -43,6 +43,6 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "運び屋！！　",
-  "en": ""
+  "en": "transporters!!"
  }
 ]

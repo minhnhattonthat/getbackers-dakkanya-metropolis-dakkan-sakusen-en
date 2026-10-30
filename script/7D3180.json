@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "オイ、ＴＡＲＥ！",
-  "en": ""
+  "en": "Hey, TARE! Hurry up and go home to your"
  },
  {
   "id": "7D3180.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "さっさとご主人様ンとこに帰りやがれ！",
-  "en": ""
+  "en": "master!"
  },
  {
   "id": "7D3180.7",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "ＴＡＲＥ",
   "jp": "ウキューッ！！　",
-  "en": ""
+  "en": "Ukyuu!!"
  },
  {
   "id": "7D3180.11",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "…なんか怒ってない？",
-  "en": ""
+  "en": "...Isn't it kinda angry?"
  },
  {
   "id": "7D3180.15",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "こういう時は猿マワシの出番だな…",
-  "en": ""
+  "en": "This is a job for the monkey trainer..."
  },
  {
   "id": "7D3180.19",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "で、ヤツはなんだって怒ってンだ？",
-  "en": ""
+  "en": "So what's it so mad about?"
  },
  {
   "id": "7D3180.21",
@@ -88,7 +88,7 @@
   "box": 6,
   "speaker": "士度",
   "jp": "…主人に置いていかれたことに",
-  "en": ""
+  "en": "...Seems it's angry its master left it"
  },
  {
   "id": "7D3180.24",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "士度",
   "jp": "腹を立てているようだな　",
-  "en": ""
+  "en": "behind."
  },
  {
   "id": "7D3180.26",
@@ -111,7 +111,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "ええ～、",
-  "en": ""
+  "en": "Aww, but Al-kun isn't here..."
  },
  {
   "id": "7D3180.29",
@@ -119,7 +119,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "でもここにアルくんいないしなあ…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7D3180.31",
@@ -127,7 +127,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "どうしよう？　触っても平気かな？",
-  "en": ""
+  "en": "What do we do? Is it safe to touch it?"
  },
  {
   "id": "7D3180.33",
@@ -142,7 +142,7 @@
   "box": 9,
   "speaker": "十兵衛　",
   "jp": "止めておいた方が懸命だぞ、雷帝　",
-  "en": ""
+  "en": "Best leave it be, Thunder Emperor. It is"
  },
  {
   "id": "7D3180.36",
@@ -150,7 +150,7 @@
   "box": 9,
   "speaker": "十兵衛　",
   "jp": "ヤツは相当な殺気を放っている",
-  "en": ""
+  "en": "giving off fierce killing intent."
  },
  {
   "id": "7D3180.38",
@@ -165,7 +165,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "えっ！？　ど、どうしよう…　",
-  "en": ""
+  "en": "Huh?! Wh-What do we do... We can't take it"
  },
  {
   "id": "7D3180.41",
@@ -173,7 +173,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "このままじゃつれてけないよ～！　",
-  "en": ""
+  "en": "with us like this~!"
  },
  {
   "id": "7D3180.43",
@@ -188,7 +188,7 @@
   "box": 11,
   "speaker": "蛮　",
   "jp": "ニ、三発殴って黙らせるか…　",
-  "en": ""
+  "en": "Guess I'll punch it two or three times to\nshut it up..."
  },
  {
   "id": "7D3180.47",
@@ -203,7 +203,7 @@
   "box": 12,
   "speaker": "銀次",
   "jp": "ちょ、ちょっと蛮ちゃん！",
-  "en": ""
+  "en": "H-Hey, wait, Ban-chan!"
  },
  {
   "id": "7D3180.51",
@@ -218,7 +218,7 @@
   "box": 13,
   "speaker": "蛮　",
   "jp": "止めたとこでムダだ！",
-  "en": ""
+  "en": "No use stopping me! It's itching for a"
  },
  {
   "id": "7D3180.54",
@@ -226,6 +226,6 @@
   "box": 13,
   "speaker": "蛮　",
   "jp": "ヤツの方はやる気だぞ！！",
-  "en": ""
+  "en": "fight!!"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "おい、卑弥呼",
-  "en": ""
+  "en": "Hey, Himiko."
  },
  {
   "id": "790ED0.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "ジャッカルと一緒ってことは仕事中か？",
-  "en": ""
+  "en": "If you're with Jackal, you must be on a\njob?"
  },
  {
   "id": "790ED0.7",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "そうよ　",
-  "en": ""
+  "en": "That's right. I'm busy, so don't get in my"
  },
  {
   "id": "790ED0.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "卑弥呼　",
   "jp": "忙しいんだからジャマしないでよね",
-  "en": ""
+  "en": "way."
  },
  {
   "id": "790ED0.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "そ、それってまさかゲームソフトを",
-  "en": ""
+  "en": "Y-you don't mean it's a job transporting a"
  },
  {
   "id": "790ED0.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "運ぶ仕事ですか、赤屍さん？　",
-  "en": ""
+  "en": "game, do you, Akabane-san?"
  },
  {
   "id": "790ED0.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "赤屍",
   "jp": "何かは言えませんが、",
-  "en": ""
+  "en": "I cannot say what it is, but it is certainly"
  },
  {
   "id": "790ED0.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "赤屍",
   "jp": "ゲームソフトでないことは確かですよ　",
-  "en": ""
+  "en": "not a game."
  },
  {
   "id": "790ED0.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "赤屍",
   "jp": "それがどうかしましたか、銀次クン？　",
-  "en": ""
+  "en": "Is something the matter, Ginji-kun?"
  },
  {
   "id": "790ED0.24",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "い、いえ…別に…",
-  "en": ""
+  "en": "N-no... nothing..."
  },
  {
   "id": "790ED0.28",
@@ -120,7 +120,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "（良かったね、蛮ちゃん！",
-  "en": ""
+  "en": "(Lucky us, Ban-chan! We really don't wanna"
  },
  {
   "id": "790ED0.29",
@@ -128,7 +128,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "あんまり戦いたくないもんね！）　",
-  "en": ""
+  "en": "fight them!)"
  },
  {
   "id": "790ED0.31",
@@ -143,7 +143,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "（そりゃまーな…）　",
-  "en": ""
+  "en": "(Well, yeah...)"
  },
  {
   "id": "790ED0.35",
@@ -151,7 +151,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "ところでこの辺で奪い屋見なかったか？",
-  "en": ""
+  "en": "By the way, seen any Snatchers around\nhere?"
  },
  {
   "id": "790ED0.37",
@@ -166,7 +166,7 @@
   "box": 11,
   "speaker": "卑弥呼　",
   "jp": "さあ、見てないけど？",
-  "en": ""
+  "en": "Hmm, I haven't. Why?"
  },
  {
   "id": "790ED0.41",
@@ -181,7 +181,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "フーン…ま、ジャマして悪かったな",
-  "en": ""
+  "en": "Huh... Well, sorry to bother you."
  },
  {
   "id": "790ED0.45",
@@ -189,7 +189,7 @@
   "box": 13,
   "speaker": "蛮　",
   "jp": "よし銀次、次行くぜ！",
-  "en": ""
+  "en": "All right, Ginji, on to the next!"
  },
  {
   "id": "790ED0.47",
@@ -204,7 +204,7 @@
   "box": 14,
   "speaker": "赤屍",
   "jp": "ところで銀次クン…　",
-  "en": ""
+  "en": "By the way, Ginji-kun..."
  },
  {
   "id": "790ED0.51",
@@ -219,7 +219,7 @@
   "box": 15,
   "speaker": "銀次",
   "jp": "えっ！　あ、ハイ、　",
-  "en": ""
+  "en": "Huh?! Oh, y-yes, what is it, Akabane-san?"
  },
  {
   "id": "790ED0.54",
@@ -227,7 +227,7 @@
   "box": 15,
   "speaker": "銀次",
   "jp": "なんでしょうか、赤屍さん？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "790ED0.56",
@@ -242,7 +242,7 @@
   "box": 16,
   "speaker": "赤屍",
   "jp": "また近いうちに　",
-  "en": ""
+  "en": "I do hope we meet again soon♥"
  },
  {
   "id": "790ED0.59",
@@ -250,7 +250,7 @@
   "box": 16,
   "speaker": "赤屍",
   "jp": "お会いできるといいですね♥　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "790ED0.61",
@@ -265,7 +265,7 @@
   "box": 17,
   "speaker": "銀次",
   "jp": "そ、そうですね　",
-  "en": ""
+  "en": "Y-yes, I hope we do..."
  },
  {
   "id": "790ED0.64",
@@ -273,7 +273,7 @@
   "box": 17,
   "speaker": "銀次",
   "jp": "会えるといいですね…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "790ED0.66",
@@ -281,7 +281,7 @@
   "box": 18,
   "speaker": "銀次",
   "jp": "ハ、ハハハ…",
-  "en": ""
+  "en": "Ha, hahaha..."
  },
  {
   "id": "790ED0.68",
@@ -289,6 +289,6 @@
   "box": 19,
   "speaker": "銀次",
   "jp": "（逃げろ、オレ！）　",
-  "en": ""
+  "en": "(Run for it, me!)"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "鏡　",
   "jp": "やあ…久しぶりだね　",
-  "en": ""
+  "en": "Hey... Long time no see."
  },
  {
   "id": "7C4BF8.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "鏡形而（かがみきょうじ）さん…！",
-  "en": ""
+  "en": "Kyoji Kagami-san...!"
  },
  {
   "id": "7C4BF8.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "こいつは驚いたぜ…　",
-  "en": ""
+  "en": "Well, I'll be... A real monster showed up."
  },
  {
   "id": "7C4BF8.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "本当に化け物が出てきやがった",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C4BF8.14",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "…塔の住人がこんなところで　",
-  "en": ""
+  "en": "...What's a resident of the Tower doing in"
  },
  {
   "id": "7C4BF8.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "なにしてやがる？",
-  "en": ""
+  "en": "a place like this?"
  },
  {
   "id": "7C4BF8.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "下界が面白いことになってる　",
-  "en": ""
+  "en": "Things down in the world below looked like"
  },
  {
   "id": "7C4BF8.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "みたいだったからね…",
-  "en": ""
+  "en": "they were getting interesting..."
  },
  {
   "id": "7C4BF8.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "鏡　",
   "jp": "観察しに来たのさ",
-  "en": ""
+  "en": "So I came to observe."
  },
  {
   "id": "7C4BF8.24",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "ケッ、　",
-  "en": ""
+  "en": "Tch. Still as irritating as ever, you"
  },
  {
   "id": "7C4BF8.27",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "相変わらず気に食わねぇヤローだぜ",
-  "en": ""
+  "en": "bastard."
  },
  {
   "id": "7C4BF8.29",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "鏡　",
   "jp": "だったらオレを倒してみるかい？　",
-  "en": ""
+  "en": "Then why not try beating me?"
  },
  {
   "id": "7C4BF8.33",
@@ -143,7 +143,7 @@
   "box": 9,
   "speaker": "鏡　",
   "jp": "キミたちが本気を出せば、",
-  "en": ""
+  "en": "If you two get serious, you might just be"
  },
  {
   "id": "7C4BF8.34",
@@ -151,7 +151,7 @@
   "box": 9,
   "speaker": "鏡　",
   "jp": "倒せるかも知れないよ？　",
-  "en": ""
+  "en": "able to beat me, you know?"
  },
  {
   "id": "7C4BF8.36",
@@ -159,7 +159,7 @@
   "box": 10,
   "speaker": "鏡　",
   "jp": "運が良ければの話だけど…ね　",
-  "en": ""
+  "en": "If you're lucky, that is... hm?"
  },
  {
   "id": "7C4BF8.38",
@@ -174,7 +174,7 @@
   "box": 11,
   "speaker": "蛮　",
   "jp": "面白ェ！",
-  "en": ""
+  "en": "Interesting! Bring it on!!"
  },
  {
   "id": "7C4BF8.41",
@@ -182,7 +182,7 @@
   "box": 11,
   "speaker": "蛮　",
   "jp": "やってやろうじゃねえかよ！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7C4BF8.44",
@@ -197,6 +197,6 @@
   "box": 12,
   "speaker": "鏡　",
   "jp": "では、始めるとしよう",
-  "en": ""
+  "en": "Then let us begin."
  }
 ]

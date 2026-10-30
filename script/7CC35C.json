@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "ジェンド様、",
-  "en": ""
+  "en": "Jend-sama, please stop this already!!"
  },
  {
   "id": "7CC35C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "アル",
   "jp": "もうこんなことはお止め下さい！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CC35C.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "ジェンド",
   "jp": "黙れ、裏切り者め！　",
-  "en": ""
+  "en": "Silence, traitor! If only... if only you had"
  },
  {
   "id": "7CC35C.9",
@@ -43,6 +43,6 @@
   "box": 2,
   "speaker": "ジェンド",
   "jp": "貴様さえ…貴様さえいなければ…！！　",
-  "en": ""
+  "en": "never been...!!"
  }
 ]

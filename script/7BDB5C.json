@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "（って、こっちは男湯かよ",
-  "en": ""
+  "en": "(Wait, this is the men's bath? Ugh, I saw"
  },
  {
   "id": "7BDB5C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "気持ち悪ぃモン見ちまったぜ…",
-  "en": ""
+  "en": "something gross..."
  },
  {
   "id": "7BDB5C.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "…ん？　なンか聞こえるな…）",
-  "en": ""
+  "en": "...Hm? I hear something...)"
  },
  {
   "id": "7BDB5C.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "富豪Ａ　",
   "jp": "…今回は護り屋の『弥勒』という者を　",
-  "en": ""
+  "en": "...This time we've hired a protector called"
  },
  {
   "id": "7BDB5C.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "富豪Ａ　",
   "jp": "雇っていますので、警備は万全ですよ　",
-  "en": ""
+  "en": "'Miroku,' so security is airtight."
  },
  {
   "id": "7BDB5C.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "（！　弥勒だと…！？）　",
-  "en": ""
+  "en": "(! Miroku...?!)"
  },
  {
   "id": "7BDB5C.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "富豪Ｂ　",
   "jp": "それはそれは…しかし、あの財宝の",
-  "en": ""
+  "en": "My, my... But won't he end up learning"
  },
  {
   "id": "7BDB5C.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "富豪Ｂ　",
   "jp": "ことを知られてしまうことになるが？　",
-  "en": ""
+  "en": "about that treasure?"
  },
  {
   "id": "7BDB5C.23",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "富豪Ａ　",
   "jp": "ですので、今回の仕事が終わり次第、　",
-  "en": ""
+  "en": "Which is why, as soon as this job is over,"
  },
  {
   "id": "7BDB5C.26",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "富豪Ａ　",
   "jp": "護り屋は始末させていただきますよ",
-  "en": ""
+  "en": "we'll be disposing of the protector."
  },
  {
   "id": "7BDB5C.28",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "富豪Ａ　",
   "jp": "口封じのために…ね　",
-  "en": ""
+  "en": "To keep him quiet... you see."
  },
  {
   "id": "7BDB5C.30",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "富豪Ｂ　",
   "jp": "それはそれは…そういえば荷物が　",
-  "en": ""
+  "en": "My, my... Come to think of it, the cargo's"
  },
  {
   "id": "7BDB5C.33",
@@ -143,7 +143,7 @@
   "box": 8,
   "speaker": "富豪Ｂ　",
   "jp": "到着する時間が早まったのでしたね",
-  "en": ""
+  "en": "arrival time was moved up, wasn't it?"
  },
  {
   "id": "7BDB5C.35",
@@ -151,6 +151,6 @@
   "box": 9,
   "speaker": "富豪Ｂ　",
   "jp": "そろそろ届く頃ではありませんか？",
-  "en": ""
+  "en": "Shouldn't it be arriving about now?"
  }
 ]

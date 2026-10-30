@@ -27,22 +27,8 @@
 蛮ちゃん	Ban-chan
 ジェンド・ロン	Jend Long
 アル・カ・ナ	Ar-ca-na
-蛮	Ban
-銀次	Ginji
-士度	Shido
-笑師	Emishi
-花月	Kazuki
-卑弥呼	Himiko
-赤屍	Akabane
-鏡	Kagami
-十兵衛	Juubei
-蛭田	Hiruta
-弥勒	Miroku
-西園寺	Saionji
-ＴＡＲＥ	TARE
-Ｓサービス	S-Service
-山城	Yamashiro
-使用人	Servant
+新浜島	Niihama Island
+Ｎホール	N Hall
 奪い屋	Snatcher
 スネークバイト	Snake Bite
 ベノムファング	Venom Fang
@@ -87,6 +73,9 @@
 芍薬	Peony Root
 冬虫夏草	Cordyceps
 蓬莱の玉	Horai Jewel
+ＴＡＲＥ	TARE
+風鳥院流	Fuchoin school
+ＣＡＶ	CAV
 ＥＸＰ	EXP
 ＨＰ	HP
 ＭＰ	MP

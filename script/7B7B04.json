@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "士度",
   "jp": "フン…口ほどにもねえ連中だな",
-  "en": ""
+  "en": "Hmph... All talk, these guys."
  },
  {
   "id": "7B7B04.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "こんなんじゃ物足りないわね…",
-  "en": ""
+  "en": "That wasn't nearly enough for me..."
  },
  {
   "id": "7B7B04.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ま、ザコの相手はこれぐれェにして",
-  "en": ""
+  "en": "Well, that's enough playing with small fry."
  },
  {
   "id": "7B7B04.12",
@@ -50,6 +50,6 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "先を急ぐぞ！",
-  "en": ""
+  "en": "Let's hurry on!"
  }
 ]

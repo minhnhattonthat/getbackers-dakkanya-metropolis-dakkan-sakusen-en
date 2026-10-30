@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ン？　停電かよ…",
-  "en": ""
+  "en": "Hm? A blackout?"
  },
  {
   "id": "7C7868.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "マズいわね…",
-  "en": ""
+  "en": "That's bad... The doors won't open, will"
  },
  {
   "id": "7C7868.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "トビラが開かないんじゃない？",
-  "en": ""
+  "en": "they?"
  },
  {
   "id": "7C7868.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ここは自動ドアになってるからな…",
-  "en": ""
+  "en": "These are automatic doors... Give me a"
  },
  {
   "id": "7C7868.13",
@@ -58,6 +58,6 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "やれやれだぜ",
-  "en": ""
+  "en": "break."
  }
 ]

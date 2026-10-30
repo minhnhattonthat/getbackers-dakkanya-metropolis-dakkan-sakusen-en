@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "サ、サソリが…　",
-  "en": ""
+  "en": "Th-the scorpions..."
  },
  {
   "id": "6E5CD8.22",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "クソッ！　こんなところで…　",
-  "en": ""
+  "en": "Damn it! Not in a place like this..."
  },
  {
   "id": "6E5CD8.30",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "士度",
   "jp": "クッ…　",
-  "en": ""
+  "en": "Ngh..."
  },
  {
   "id": "6E5CD8.38",
@@ -57,7 +57,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "ガアアアアアアアッ！！　",
-  "en": ""
+  "en": "GAAAAAAAAAAH!!"
  },
  {
   "id": "6E5CD8.42",
@@ -72,7 +72,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "わあああああああっ！！　",
-  "en": ""
+  "en": "WAAAAAAAAAAH!!"
  },
  {
   "id": "6E5CD8.46",
@@ -87,7 +87,7 @@
   "box": 6,
   "speaker": "士度",
   "jp": "ぐわああああああっ！！　",
-  "en": ""
+  "en": "GWAAAAAAAAAH!!"
  },
  {
   "id": "6E5CD8.50",
@@ -102,7 +102,7 @@
   "box": 7,
   "speaker": "蛭田",
   "jp": "ハハハハ！　ボクを怒らせるから　",
-  "en": ""
+  "en": "Hahahaha! This is what you get for making"
  },
  {
   "id": "6E5CD8.53",
@@ -110,7 +110,7 @@
   "box": 7,
   "speaker": "蛭田",
   "jp": "こんなことになるんだ！　",
-  "en": ""
+  "en": "me angry!"
  },
  {
   "id": "6E5CD8.55",
@@ -118,7 +118,7 @@
   "box": 8,
   "speaker": "蛭田",
   "jp": "お前らなんか、　",
-  "en": ""
+  "en": "If I got even a little serious, guys like you"
  },
  {
   "id": "6E5CD8.56",
@@ -126,7 +126,7 @@
   "box": 8,
   "speaker": "蛭田",
   "jp": "ボクがちょっと本気になれば…",
-  "en": ""
+  "en": "would..."
  },
  {
   "id": "6E5CD8.71",
@@ -134,7 +134,7 @@
   "box": 9,
   "speaker": "蛭田",
   "jp": "…えっ！？　ど、どういうこと？　",
-  "en": ""
+  "en": "...Huh?! Wh-what's going on? The"
  },
  {
   "id": "6E5CD8.72",
@@ -142,7 +142,7 @@
   "box": 9,
   "speaker": "蛭田",
   "jp": "サソリが…大きなサソリが…　",
-  "en": ""
+  "en": "scorpions... the giant scorpions..."
  },
  {
   "id": "6E5CD8.76",
@@ -150,7 +150,7 @@
   "box": 10,
   "speaker": "蛭田",
   "jp": "か、体が動かない！　",
-  "en": ""
+  "en": "I-I can't move! ...Papa! Help me, Papaaa!!"
  },
  {
   "id": "6E5CD8.77",
@@ -158,7 +158,7 @@
   "box": 10,
   "speaker": "蛭田",
   "jp": "…パパ！　助けて、パパァ！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "6E5CD8.81",
@@ -166,7 +166,7 @@
   "box": 11,
   "speaker": "蛭田",
   "jp": "ギャアアアアアッ！！",
-  "en": ""
+  "en": "GYAAAAAAAAH!!"
  },
  {
   "id": "6E5CD8.83",
@@ -174,7 +174,7 @@
   "box": 11,
   "speaker": "蛭田",
   "jp": "蛮　",
-  "en": ""
+  "en": "Ban"
  },
  {
   "id": "6E5CD8.86",
@@ -182,6 +182,6 @@
   "box": 11,
   "speaker": "蛭田",
   "jp": "ジャスト、１分だ",
-  "en": ""
+  "en": "Just one minute."
  }
 ]

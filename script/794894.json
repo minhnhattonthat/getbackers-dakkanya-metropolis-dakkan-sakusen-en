@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "おい、波児（ポール）！　",
-  "en": ""
+  "en": "Hey, Paul! Has that monkey trainer come"
  },
  {
   "id": "794894.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ここに猿マワシのヤロー来てねえか？　",
-  "en": ""
+  "en": "by here?"
  },
  {
   "id": "794894.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "波児",
   "jp": "いや、ここにはいないぜ　",
-  "en": ""
+  "en": "Nope, he's not here."
  },
  {
   "id": "794894.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "あれ、夏実（なつみ）ちゃんは？　",
-  "en": ""
+  "en": "Huh, where's Natsumi-chan?"
  },
  {
   "id": "794894.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "波児",
   "jp": "買いモン出てるよ",
-  "en": ""
+  "en": "Out shopping."
  },
  {
   "id": "794894.18",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "波児",
   "jp": "…そういや士度なら、",
-  "en": ""
+  "en": "...Come to think of it, Shido went off"
  },
  {
   "id": "794894.19",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "波児",
   "jp": "さっきヘヴンちゃんとどこかへ行ったな",
-  "en": ""
+  "en": "somewhere with Hevn-chan a bit ago."
  },
  {
   "id": "794894.21",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "あの女、俺たちを差し置いて　",
-  "en": ""
+  "en": "That woman went over our heads and"
  },
  {
   "id": "794894.24",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "猿マワシなんぞに仕事振りやがったな！",
-  "en": ""
+  "en": "gave a job to that monkey trainer!"
  },
  {
   "id": "794894.26",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "許さん！！　",
-  "en": ""
+  "en": "Unforgivable!!"
  },
  {
   "id": "794894.28",
@@ -127,7 +127,7 @@
   "box": 8,
   "speaker": "波児",
   "jp": "…オマエらがいなかったからだろ？",
-  "en": ""
+  "en": "...'Cause you two weren't around, right?"
  },
  {
   "id": "794894.32",
@@ -142,7 +142,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "そういう問題じゃねえ！　",
-  "en": ""
+  "en": "That's not the point! Let's go find Hevn,"
  },
  {
   "id": "794894.35",
@@ -150,7 +150,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "ヘヴン探しに行くぞ、銀次！　",
-  "en": ""
+  "en": "Ginji!"
  },
  {
   "id": "794894.37",
@@ -165,6 +165,6 @@
   "box": 10,
   "speaker": "波児",
   "jp": "…まったく、落ち着きのないヤローだな",
-  "en": ""
+  "en": "...Sheesh, that guy can't sit still."
  }
 ]

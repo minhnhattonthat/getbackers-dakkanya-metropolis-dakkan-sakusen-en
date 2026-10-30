@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "シズク　",
   "jp": "えっ？　横取り屋を雇ったのは",
-  "en": ""
+  "en": "Hm? You're asking if I'm the one who hired"
  },
  {
   "id": "7A5B60.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "シズク　",
   "jp": "私じゃないかですって？　",
-  "en": ""
+  "en": "the Poachers?"
  },
  {
   "id": "7A5B60.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "シズク　",
   "jp": "あら、私はそんなことしないわよ　",
-  "en": ""
+  "en": "Oh my, I'd never do such a thing. Hee hee..."
  },
  {
   "id": "7A5B60.7",
@@ -36,6 +36,6 @@
   "box": 2,
   "speaker": "シズク　",
   "jp": "ウフフ…",
-  "en": ""
+  "en": " "
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…で、テメーらは床下で　",
-  "en": ""
+  "en": "...So what were you punks doing under the"
  },
  {
   "id": "79DDD8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "なにしてやがったんだ？　",
-  "en": ""
+  "en": "floor?"
  },
  {
   "id": "79DDD8.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "Ｃメンバー　",
   "jp": "侵入者を上に行かせないために、　",
-  "en": ""
+  "en": "We rigged the stairs to move so intruders"
  },
  {
   "id": "79DDD8.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "Ｃメンバー　",
   "jp": "階段を改造して動かしてました…　",
-  "en": ""
+  "en": "couldn't get upstairs..."
  },
  {
   "id": "79DDD8.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "士度",
   "jp": "だから上に進まなかったわけだな　",
-  "en": ""
+  "en": "So that's why we couldn't go up."
  },
  {
   "id": "79DDD8.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "さっきの電撃で床下の機械もショート　",
-  "en": ""
+  "en": "My Electric Shock fried the machine under"
  },
  {
   "id": "79DDD8.18",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "しちゃったし、これで上の階に行けるね",
-  "en": ""
+  "en": "the floor, so now we can go upstairs!"
  },
  {
   "id": "79DDD8.20",
@@ -96,6 +96,6 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "よし、行ってみようぜ！　",
-  "en": ""
+  "en": "All right, let's go!"
  }
 ]

@@ -1,0 +1,392 @@
+>> 7B043C.3 | [秘書] どうしたの、忘れちゃったの？ / もう一回説明してあげようか？
+   What's wrong, did you forget? Want me to explain it again?
+>> 7B043C.6 | [秘書] ウチの会社はキーメモリーを使って / それぞれのトビラをあけるのよ
+   Our company uses Key Memories to open each door.
+>> 7B043C.9 | [秘書] でも一つのキーメモリーには / 一つのパスしか入れられないの
+   But one Key Memory can only hold one pass.
+>> 7B043C.12 | [秘書] パスっていうのは暗証番号のことね
+   A pass means a PIN, by the way.
+>> 7B043C.14 | [秘書] トビラって色別になってるでしょ？ / 色別に違うパスが必要なのよ
+   The doors are color-coded, right? Each color needs a different pass.
+>> 7B043C.17 | [秘書] 黄色いトビラを開くには / パスコード１が
+   To open the yellow doors, you need Passcode 1,
+>> 7B043C.20 | [秘書] 青いトビラを開くには / パスコード２が
+   to open the blue doors, you need Passcode 2,
+>> 7B043C.23 | [秘書] 赤いトビラを開くには / パスコード３が必要なのよ
+   and to open the red doors, you need Passcode 3.
+>> 7B043C.26 | [秘書] そうそう、キーメモリーに記憶された / パスは一度使うと消えちゃうわよ
+   Oh, right -- a pass stored in a Key Memory gets erased once you use it.
+>> 7B06B4.3 | [秘書] ちょっと、ここは女子トイレよ！ / 女の子だけで入ってきなさいよ！！
+   Hey, this is the ladies' room! Only girls allowed in here!!
+>> 7B06B4.8 | [蛮] ………
+   ...
+>> 7B06B4.10 | [蛮] …メンバー入れ替えでもしてみるか
+   ...Maybe I'll try switching up the team.
+>> 7B0784.3 | [社員] なんですか、キミたちは？ / 部外者の人は出てって下さい
+   What are you kids doing here? Outsiders, please leave.
+>> 7B07F0.3 | [士度] あいつ… / パスコード持ってそうなんだけどな
+   That guy... looks like he's got a passcode.
+>> 7B07F0.8 | [笑師] こないな時は潜入捜査の時の / あの作戦使たらエエんちゃう？
+   At a time like this, why not use that plan from our undercover op?
+>> 7B07F0.13 | [士度] またアレかよ…
+   That again...
+>> 7B08E4.3 | [社員] おや、新人のお笑い芸人さんですか？
+   Oh, are you a new comedian?
+>> 7B08E4.7 | [士度] まあ、そんなところだ… / ところでパスコード持ってねぇか？
+   Something like that... By the way, you got a passcode?
+>> 7B08E4.12 | [社員] ええ、パスコード１なら / 持ってますよ
+   Yes, I've got Passcode 1.
+>> 7B08E4.17 | [士度] じゃ、ちょっと転送してくれよ
+   Then transfer it over, would ya?
+>> 7B08E4.21 | [社員] ええ、いいですよ
+   Sure, no problem.
+>> 7B08E4.25 | [社員] パスコード１を手に入れた！
+   Got Passcode 1!
+>> 7B08E4.29 | [士度] やれやれだな…
+   Good grief...
+>> 7B0AC4.3 | [社員] おや、新人のお笑い芸人さんですか？
+   Oh, are you a new comedian?
+>> 7B0AC4.7 | [笑師] せや、デビューしたての / ピチピチの新人でっせ！！
+   That's right, a fresh-faced newbie, just debuted!!
+>> 7B0AC4.10 | [笑師] ところでパスコード持ってへん？
+   By the way, got a passcode?
+>> 7B0AC4.14 | [社員] ええ、パスコード１なら / 持ってますよ
+   Yes, I've got Passcode 1.
+>> 7B0AC4.19 | [笑師] そのパス記憶させてくれへん？
+   Mind savin' that pass onto mine?
+>> 7B0AC4.23 | [社員] ええ、いいですよ
+   Sure, no problem.
+>> 7B0AC4.27 | [社員] パスコード１を手に入れた！
+   Got Passcode 1!
+>> 7B0AC4.31 | [笑師] 作戦成功やな！
+   Plan's a success!
+>> 7B0CC8.3 | [ハカマ] な、なんで / アナタたちがここにいるのよ！？
+   Wh-why are you people here?!
+>> 7B0CC8.8 | [蛮] ちょっとヤボ用でな…
+   Just a little business...
+>> 7B0CC8.10 | [蛮] しっかし、 / アンタも山城芸能プロだったとはな
+   Man, didn't figure you were with Yamashiro Productions too.
+>> 7B0CC8.15 | [ハカマ] …言っとくけど、 / この前のことは他言無用ですからね
+   ...Just so you know, what happened last time stays between us.
+>> 7B0CC8.20 | [蛮] さァてね…
+   Who knows...
+>> 7B0CC8.22 | [蛮] この前のことを公にされたくなかったら / 俺たちに協力でもしてもらおうかね？
+   If you don't want last time going public, how 'bout helping us out?
+>> 7B0CC8.27 | [ハカマ] …分かったわよ / 私にできる限りのことはするから
+   ...Fine. I'll do whatever I can.
+>> 7B0CC8.30 | [ハカマ] この前のことは黙っててちょうだい
+   Just keep quiet about last time.
+>> 7B0CC8.34 | [銀次] ハカマさん、 / オレたちパスコード探してるんですけど
+   Hakama-san, we're looking for passcodes.
+>> 7B0CC8.39 | [ハカマ] ああ、あのわけわかんないカギね… / 残念ながら私は持ってないわよ
+   Oh, those baffling keys... Sorry, I don't have any.
+>> 7B0CC8.44 | [銀次] どこにあるか分かります？
+   Do you know where they are?
+>> 7B0CC8.48 | [ハカマ] 社員が持ってるか、金庫に入ってるか / どっちかだと思うわ
+   I'd guess either an employee has them, or they're in the safe.
+>> 7B0CC8.53 | [蛮] んじゃ、他の部屋探ってみるとするか
+   Guess we'll go poke around the other rooms.
+>> 7B0CC8.55 | [蛮] またなンかあったら聞きにくるぜ / そン時ゃ、ヨロシクな
+   I'll come ask if something else comes up. Count on ya then.
+>> 7B10E8.3 | [ハカマ] 悪いけど、 / パスは自力で探してちょうだい
+   Sorry, but you'll have to find the passes yourselves.
+>> 7B10E8.6 | [ハカマ] 分からないことは聞いてもらって / 構わないけど…
+   You can ask me if there's anything you don't understand, though...
+>> 7B118C.3 | [社員] キ、キミたちどこから入ってきたの？ / ダメだよ、一般の人がウロついちゃ…
+   Wh-where did you kids come in from? You can't go wandering around here...
+>> 7B120C.3 | [士度] アイツもパス持ってそうなんだけどな…
+   That guy looks like he's got a pass too...
+>> 7B120C.7 | [蛮] …アイツ、机に子供の写真飾ってンな / 子供だとパスくれたりしねえかな？
+   ...He's got a photo of a kid on his desk. Think he'd give a pass to a kid?
+>> 7B120C.12 | [士度] …子供！？
+   ...A kid?!
+>> 7B120C.16 | [蛮] いるじゃねえか、子供に近いのが！
+   We've got someone who's close enough to a kid!
+>> 7B1344.3 | [笑師] んん～、なんとかパスもらえへんかな…
+   Mmm~, how can we get that pass...
+>> 7B1344.7 | [銀次] う～ん、こうなったら / ハカマさんに聞いてみた方がいいかもね
+   Hmm~, maybe we should go ask Hakama-san.
+>> 7B1400.3 | [ハカマ] ２部屋向こうにいる社員が / パスを渡してくれない？
+   The employee two rooms over won't give you the pass?
+>> 7B1400.6 | [ハカマ] そうね…あの人、子供に弱いから / 子供がお願いするといいんじゃない？
+   Let's see... He's soft on kids, so why not have a kid ask him?
+>> 7B1400.11 | [士度] …子供だあ！？
+   ...A kid?!
+>> 7B1400.15 | [蛮] となると、あの作戦しかねえな！！
+   Then there's only one plan!!
+>> 7B1538.3 | [銀次] おじさん、おじさん！
+   Mister, mister!
+>> 7B1538.7 | [社員] あ、あ、あれ？　子供！？ / ま、迷子かな？　どうしたの？
+   Wh-wh-what? A kid?! A-are you lost? What's wrong?
+>> 7B1538.12 | [銀次] えーと、パスが欲しいのです
+   Umm, I would like a pass, please.
+>> 7B1538.16 | [社員] お、お父さんに頼まれたのかな？ / じゃ僕のパスを転送するね
+   D-did your daddy send you? Then I'll transfer my pass to you.
+>> 7B1538.21 | [社員] パスコード１を手に入れた！
+   Got Passcode 1!
+>> 7B1538.25 | [銀次] わーい、アリガト～！！
+   Yaaay, thank youuu!!
+>> 7B1538.29 | [蛮] ………
+   ...
+>> 7B1538.31 | [蛮] 色々間違ってるが、まあよしとするか…
+   A lot of that was wrong, but I'll call it good...
+>> 7B174C.3 | [社員] ボ、ボクはもうパスを持ってないよ…
+   I-I don't have a pass anymore...
+>> 7B17A4.3 | [女子社員] あら…セットするのに時間かかりそうな / 髪型したボーヤね、なにか用？
+   Oh my... a boy with a hairdo that must take forever to style. What do you want?
+>> 7B17A4.8 | [蛮] ちっとパス探してンだわ / 持ってンなら渡してくんねーか？
+   I'm lookin' for a pass. If you've got one, hand it over, would ya?
+>> 7B17A4.13 | [女子社員] …ちょっと私のタイプじゃないのよね～ / 出直してきてちょうだい
+   ...You're just not my type~. Come back another time.
+>> 7B17A4.18 | [蛮] んだ、そりゃ！ / パスと関係あンのか、ああ！？
+   What's that supposed to mean?! What's that got to do with the pass, huh?!
+>> 7B1934.3 | [女子社員] あら…迷子になっちゃったの、ボク？
+   Oh my... did you get lost, little boy?
+>> 7B1934.7 | [銀次] えっと、パスを探してるんですけど…
+   Um, I'm looking for a pass...
+>> 7B1934.11 | [女子社員] ボーヤみたいな子に / パスは必要ないでしょ？
+   A little boy like you doesn't need a pass, does he?
+>> 7B1934.14 | [女子社員] 十年経ってからいらっしゃいね♥
+   Come back in ten years♥
+>> 7B1934.18 | [銀次] …蛮ちゃん、失敗です………
+   ...Ban-chan, I failed.........
+>> 7B1A94.3 | [女子社員] あら…女の子がなんの用なワケ？
+   Oh my... and what does a girl want?
+>> 7B1A94.7 | [花月] いえ、僕はおと…
+   No, I'm a ma...
+>> 7B1A94.11 | [女子社員] 悪いけど、女の子に用はないのよ / 帰ってちょうだい
+   Sorry, but I've got no use for girls. Off you go.
+>> 7B1A94.16 | [花月] 困りましたね…
+   This is troublesome...
+>> 7B1BA8.3 | [女子社員] あら…目つきのするどいボーヤね、 / どうしたの？
+   Oh my... a boy with sharp eyes. What is it?
+>> 7B1BA8.8 | [士度] パスを探してるんだ / 持ってるなら渡して欲しい
+   I'm looking for a pass. If you've got one, I'd like you to hand it over.
+>> 7B1BA8.13 | [女子社員] そのワイルドさはいいんだけど / ちょっと違うのよね～
+   That wild streak is nice, but you're not quite it~
+>> 7B1BA8.16 | [女子社員] ゴメンね、パスは渡せないわ♥
+   Sorry, I can't give you the pass♥
+>> 7B1BA8.20 | [士度] ………
+   ...
+>> 7B1D0C.3 | [女子社員] あら…あなたお笑いのオーディション / 受けに来たの？
+   Oh my... are you here for the comedy audition?
+>> 7B1D0C.8 | [笑師] まあ、そんなトコですわ / ところで、パス持ってへん？
+   Somethin' like that. By the way, got a pass?
+>> 7B1D0C.13 | [女子社員] ごめんね、お笑いのコはちょっと…ね
+   Sorry, comedian types are kinda... you know.
+>> 7B1D0C.17 | [笑師] なっ、なんでやね～ん！！
+   Wh-why the heck not~?!!
+>> 7B1E58.3 | [女子社員] あら…ずいぶんマジメそうなボーヤね
+   Oh my... what a serious-looking boy.
+>> 7B1E58.7 | [十兵衛] パスを探しているのだが…
+   I am searching for a pass...
+>> 7B1E58.11 | [女子社員] ごめんね、 / マジメすぎる人ってタイプじゃないの
+   Sorry, overly serious people aren't my type.
+>> 7B1E58.16 | [十兵衛] ………
+   ...
+>> 7B1F78.3 | [女子社員] あら！　ステキな方… / いや～ん、久しぶりにタイプな男性だわ
+   Oh! How dreamy... Ooh, it's been ages since I met a man who's my type!
+>> 7B1F78.8 | [卑弥呼] ちょっと、なに言ってんの？ / 私はおん…
+   Hey, what are you talking about? I'm a wom...
+>> 7B1F78.13 | [蛮] （いいから黙っとけって！）
+   (Just keep quiet!)
+>> 7B1F78.18 | [女子社員] なにか御用ですかぁ？ / 今ならサービスしちゃいますけどぉ
+   Can I help you with something~? Right now, I'll give you special treatment~
+>> 7B1F78.23 | [卑弥呼] …パス探してるんだけど
+   ...I'm looking for a pass.
+>> 7B1F78.27 | [女子社員] えっ、パスだったら持ってますぅ / 特別にあげちゃいますね♥
+   Oh, I've got a pass~ I'll give it to you, just this once♥
+>> 7B1F78.32 | [女子社員] パスコード２を手に入れた！
+   Got Passcode 2!
+>> 7B1F78.36 | [蛮] よっしゃ、でかした卑弥呼！
+   All right, nice work, Himiko!
+>> 7B1F78.40 | [卑弥呼] なんだか複雑な気分だわ…
+   I have kind of mixed feelings about this...
+>> 7B2248.3 | [ハカマ] ２Ｆにいる女子社員が / カギを渡してくれないですって？
+   The female employee on 2F won't give you the key?
+>> 7B2248.6 | [ハカマ] あのコはカッコいい男に目がないわね… / その辺りでどうにかならないかしら？
+   That girl can't resist a good-looking man... Couldn't you use that somehow?
+>> 7B2310.3 | [シズク] あら…アナタたちはＮホールの時の…
+   Oh my... you're the ones from that N Hall business...
+>> 7B2310.5 | [シズク] これあげるから、 / この前のことは誰にも言わないでね
+   I'll give you this, so don't tell anyone about last time.
+>> 7B2310.10 | [シズク] ばんえみのＭ、えみぎんのＭを / 手に入れた！
+   Got the Ban-Emi Memory and Emi-Gin Memory!
+>> 7B23FC.3 | [シズク] ウフフ…
+   Hee hee...
+>> 7B243C.3 | [蛭田] ＭＡＩちゃんの曲はやっぱりいいなあ～
+   MAI-chan's songs really are the best~
+>> 7B243C.5 | [蛭田] ♪ｔｗｉｎｋｌｅ☆キラめ～いてェ～…
+   ♪Twinkle, sparkle, shiiine~...
+>> 7B243C.9 | [蛮] …おい
+   ...Hey.
+>> 7B243C.13 | [蛭田] ♪初めてのやくそく～
+   ♪Our very first promise~
+>> 7B243C.17 | [蛮] おい
+   Hey.
+>> 7B243C.21 | [蛭田] ♪ＤＯＫＩＤＯＫＩ☆トキめいて～
+   ♪Thump-thump, my heart's aflutter~
+>> 7B243C.25 | [蛮] おい！
+   Hey!
+>> 7B243C.29 | [蛭田] ♪気持ち高まってゆく～
+   ♪My feelings rising higher~
+>> 7B243C.33 | [蛮] おい、聞ィてんのかよ！
+   Hey, are you listening or what?!
+>> 7B243C.37 | [蛭田] ！？
+   !?
+>> 7B243C.39 | [蛭田] あっ、ああ～？ / お前ら、なんでこんなトコに！？
+   Wh-whaaa? What're you guys doing here?!
+>> 7B243C.44 | [蛮] 久しぶりじゃねえか、蛭ちゃんよォ / ここでなにしてンだ、お前
+   Long time no see, Hiru-chan. What're you doing here, huh?
+>> 7B243C.49 | [蛭田] な、なにってボクは / ＭＡＩちゃんに会うためにだな…
+   Wh-what am I doing? I'm here to see MAI-chan, that's what...
+>> 7B243C.54 | [銀次] えっ、 / なんでＭＡＩに会えたりするの？
+   Huh? How come you get to see MAI?
+>> 7B243C.59 | [蛭田] そりゃ、ボクのパパがここの社長と / 知り合いだからさ！　フフン
+   Because my papa knows the president here, of course! Heh heh.
+>> 7B243C.64 | [士度] 俺たちもＭＡＩに / 会わせて欲しいんだが？
+   We'd like you to get us in to see MAI too.
+>> 7B243C.69 | [蛭田] 待て待て待て！
+   Wait wait wait!
+>> 7B243C.71 | [蛭田] 人のピュアな思いを踏みにじっておいて / なに言ってんだ、お前ら！！
+   You trample all over my pure feelings, and then you say that?!
+>> 7B243C.74 | [蛭田] 今度こそ許さないからな！！
+   This time I won't forgive you!!
+>> 7B28E8.3 | [蛭田] …クッ、 / 負けたわけじゃない、負けたわけじゃ…
+   ...Ngh, I didn't lose, I didn't lose...
+>> 7B28E8.6 | [蛭田] ＭＡＩちゃんへの愛が / 負けたわけじゃないんだからな～っ！！
+   My love for MAI-chan didn't lose, you hear meee!!
+>> 7B2998.3 | [蛮] …なに言ってンだ、アイツ…
+   ...What's he babbling about...
+>> 7B2998.7 | [銀次] ねえねえ、 / あの人こんなの落としていったよ
+   Hey, hey, that guy dropped this.
+>> 7B2998.12 | [銀次] ばんじゅのＭ、じゅぎんのＭを / 手に入れた！
+   Got the Ban-Ju Memory and Ju-Gin Memory!
+>> 7B2A90.3 | [社員] 私はもうパスは持ってませんよ
+   I don't have a pass anymore.
+>> 7B2AE0.3 | [女子社員] もうパスは持ってないわよ
+   I don't have a pass anymore.
+>> 7B2B30.3 | [笑師] ハァーーーーイ / えみペンでーす！！
+   Hellooooo! I'm Emi-Pen!!
+>> 7B2B30.8 | [士度] ………
+   ...
+>> 7B2B30.12 | [笑師] （士度はんはしどペンでっせ！）
+   (Shido-han, you're Shido-Pen!)
+>> 7B2B30.16 | [士度] …し…
+   ...Shi...
+>> 7B2B30.20 | [笑師] えっ、聞こえへんがな
+   Huh? I can't hear ya.
+>> 7B2B30.24 | [士度] …し…ぺ………
+   ...Shi...Pe......
+>> 7B2B30.28 | [笑師] （もっと大きい声で言わんと！）
+   (Ya gotta say it louder!)
+>> 7B2B30.32 | [士度] …し…ど…ぺ………
+   ...Shi...do...Pe......
+>> 7B2B30.36 | [笑師] もうエエわ！
+   Oh, forget it!
+>> 7B2B30.38 | [笑師] ワイがえみペン、相方がしどペン！ / 二人合わせてペンペンズでーーーす！！
+   I'm Emi-Pen, my partner's Shido-Pen! Together, we're the Pen-Pens!!
+>> 7B2B30.41 | [笑師] 以後、お見知りおきを！！
+   Pleased to meetcha!!
+>> 7B2B30.45 | [士度] どうも…
+   ...Hi.
+>> 7B2B30.49 | [笑師] しかし、のっけから調子狂うわ、ホンマ / せやさかいワイらモテへんねん
+   Man, that threw me off from the get-go, I swear. That's why we ain't popular.
+>> 7B2E68.3 | [士度] ………
+   ...
+>> 7B2E68.7 | [笑師] （お、怒ってるんか…！？）
+   (Is h-he mad...?!)
+>> 7B2EE8.3 | [士度] お前だけだ！！
+   That's just you!!
+>> 7B2F30.3 | [士度] あの石は重いからな…
+   That stone's heavy, after all...
+>> 7B2F30.7 | [笑師] （えっ、重…！？）
+   (Huh? Heavy...?!)
+>> 7B2FB4.3 | [笑師] もうちょっと盛り上げ方っちゅうか / つかみ考えてやな、
+   Ya gotta think up a better way to hype it, a better opener, ya know,
+>> 7B2FB4.6 | [笑師] ババーーン！　っていけへんかいな？
+   can't ya go all KA-BOOM! with it?
+>> 7B2FB4.10 | [士度] …なんで俺が
+   ...Why me?
+>> 7B2FB4.14 | [笑師] 最近の芸人は、ようモテるらしいんや / ホンマ、分かってへんわ
+   Word is comedians are real popular with the ladies these days. Ya just don't get it.
+>> 7B2FB4.17 | [笑師] …あっ、そういえばあんさん / 動物に擬態できるそうですなぁ～
+   ...Oh, come to think of it, I hear you can mimic animals~
+>> 7B3130.3 | [士度] まあな…
+   More or less...
+>> 7B3170.3 | [士度] するわけねえだろ…
+   As if I would...
+>> 7B3170.7 | [笑師] ええっ、してるやんけ！！
+   Wha-? You totally are!!
+>> 7B31F8.3 | [士度] 今も人間に擬態してるところだ
+   Even now, I'm mimicking a human.
+>> 7B31F8.7 | [笑師] （ホ、ホンマはなにもんやねんな！！）
+   (Wh-what the heck are ya really?!)
+>> 7B3294.3 | [笑師] あー、なんで今まで気付かへんでんやろ
+   Aw, why didn't I think of it before?
+>> 7B3294.5 | [笑師] 可愛い動物に擬態したら、 / 女の子にモテモテやんか～
+   If ya mimicked a cute animal, the girls'd be all over ya~
+>> 7B3294.10 | [士度] 別に俺は女にモテたく…
+   I don't care about being popular with wom...
+>> 7B3294.14 | [笑師] エエから、エエから！ / 一番モテそな動物はなんやろなぁ…？
+   C'mon, c'mon! Which animal'd be the biggest hit, I wonder...?
+>> 7B3294.17 | [笑師] ん～、コアラとかどうでっしゃろ？ / 女の子に抱っこしてもらえまっせ！
+   Hmm~, how 'bout a koala? Girls'd cuddle ya!
+>> 7B3294.22 | [士度] ………
+   ...
+>> 7B3294.26 | [笑師] それにコアラなんて寝てるだけやし、 / 気楽なモンやて！
+   Plus, koalas just sleep all day. Easy life!
+>> 7B3294.29 | [笑師] 生まれ変わったらコアラになるゆうのも / エエかもしれまへんな！
+   Maybe comin' back as a koala in my next life wouldn't be so bad!
+>> 7B3294.34 | [士度] コアラが寝てるのは / ユーカリを消化するためであって…
+   Koalas sleep so much in order to digest eucalyptus...
+>> 7B3294.39 | [笑師] （し、士度はん、解説はエエて！）
+   (Sh-Shido-han, skip the lecture!)
+>> 7B3294.41 | [笑師] ん～、ほんなら同じオーストラリアの / カンガルーはどうでっしゃろ？
+   Mmm~, then how 'bout a kangaroo? They're from Australia too.
+>> 7B3294.44 | [笑師] あれエエやん、袋が可愛くてなあ
+   Those are great, with the cute pouch and all.
+>> 7B3294.46 | [笑師] 士度はんがカンガルーになって、 / ワイが袋に入るとかな！
+   You turn into a kangaroo, Shido-han, and I hop in the pouch!
+>> 7B3640.3 | [士度] そうだな…
+   I suppose...
+>> 7B3640.7 | [笑師] （士度はん、もっと乗ってきてぇや！）
+   (Shido-han, play along more!)
+>> 7B36CC.3 | [士度] お前が子供かよ！
+   So you're the baby?!
+>> 7B3714.3 | [士度] 俺も入るけどな
+   I'd get in too, though.
+>> 7B3714.7 | [笑師] （…意味分からへん！！）
+   (...That makes no sense!!)
+>> 7B3798.3 | [士度] でもオスのカンガルーには / 袋がねえんじゃねぇか？
+   But male kangaroos don't have a pouch, do they?
+>> 7B3798.8 | [笑師] エエやん、メスの方になれば
+   So what? Just be a female one.
+>> 7B3798.12 | [士度] なれるか！
+   Like hell!
+>> 7B3798.16 | [笑師] え～、ダメでっか？
+   Aww, no good?
+>> 7B3798.18 | [笑師] ならウサギとかエエんちゃうか？ / 頭に耳つけて、網タイツはいて
+   Then how 'bout a rabbit? Ears on your head, fishnet tights on,
+>> 7B3798.21 | [笑師] めっちゃセクシーやで！
+   super sexy!
+>> 7B3798.25 | [士度] …それはバニーガールじゃねえのか？
+   ...Isn't that a bunny girl?
+>> 7B3798.29 | [笑師] ア、アカン！
+   N-no good!
+>> 7B3798.31 | [笑師] 今、ちょっと士度はんの / バニーガール姿、想像してもた！！
+   I just pictured you as a bunny girl for a sec, Shido-han!!
+>> 7B3798.36 | [士度] するな！！
+   Don't!!
+>> 7B3798.40 | [笑師] しかも、めっちゃハイレグのやつ！！
+   And a super high-cut one, too!!
+>> 7B3798.44 | [士度] アホか！！
+   You idiot!!
+>> 7B3798.48 | [笑師] あ～、ヤバかったわ… / もうちょっとで失神するとこやった
+   Phew, that was close... I almost passed out.
+>> 7B3798.51 | [笑師] 口から魂抜けかけたわ / も～ヤメてぇや、士度はん～
+   My soul nearly slipped outta my mouth. Quit it already, Shido-han~
+>> 7B3798.56 | [士度] …お前が勝手に想像しただけだろうが
+   ...You're the one who went and imagined it.
+>> 7B3798.60 | [笑師] またまたぁー！ / 喜んでたくせにぃー！！
+   Oh, come on! You loved it!!

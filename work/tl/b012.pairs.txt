@@ -1,0 +1,424 @@
+>> 79C944.3 | [銀次] ば、蛮ちゃ～ん！　死んじゃダメだよ！ / 蛮ちゃ～～～～ん！！
+   B-Ban-chaaan! Don't die! Ban-chaaaaaan!!
+>> 79C9B8.3 | [波児] コーヒーでも飲んでくか？
+   How about a cup of coffee before you go?
+>> 79CA04.1 | 夏実
+   Natsumi
+>> 79CA04.4 | 気をつけてね！
+   Take care!
+>> 79CA54.3 | [ヘヴン] さーてと、 / 私もそろそろ仕事に行かなくちゃね
+   Well then, I'd better get going to work too.
+>> 79CABC.3 | [アル] 気ィツケーヤ！
+   Take care, ya hear!
+>> 79CB00.3 | [蛮] なにもねえな…
+   Nothin' here...
+>> 79CB44.3 | [銀次] う～ん、なにもないね…
+   Hmm, there's nothing here...
+>> 79CB90.3 | [卑弥呼] なにもないわ
+   There's nothing here.
+>> 79CBD4.3 | [赤屍] なにもありませんね…
+   There is nothing here...
+>> 79CC1C.3 | [花月] なにもないようですね
+   There seems to be nothing here.
+>> 79CC64.3 | [士度] 特になにもねえようだ
+   Nothing in particular, looks like.
+>> 79CCAC.3 | [笑師] なんもあらへんなぁ～
+   Ain't nothin' here~
+>> 79CCF4.3 | [十兵衛] 異常は見受けられない
+   I see nothing out of the ordinary.
+>> 79CD40.3 | [鏡] なにもないようだね
+   Looks like there's nothing here.
+>> 79CD88.3 | [蛮] 微分積分？　ンなもん理解しなくても / 十分生きてけるっての
+   Calculus? You can get by in life just fine without understanding that crap.
+>> 79CDF8.3 | [銀次] 物理かあ…こういうの見てるだけで / 眠くなってきちゃうからなあ…
+   Physics, huh... Just looking at this stuff makes me sleepy...
+>> 79CE6C.3 | [卑弥呼] 化学か…薬の調合に役立ちそうね
+   Chemistry... Could come in handy for mixing my perfumes.
+>> 79CEC4.3 | [赤屍] 生物などは興味がひかれますね
+   Biology and the like do pique my interest.
+>> 79CF14.3 | [花月] 古典ですか…これ位なら訳がなくても / 読めそうですね
+   Classical literature... I could read this much even without a translation.
+>> 79CF80.3 | [士度] 生物？　教科書読んで / 理解できるってモンでもねえだろ
+   Biology? Ain't something you understand by reading a textbook.
+>> 79CFEC.3 | [笑師] なんや、 / オモロなさげな本ばっかりやなぁ～
+   Man, nothin' but boring-lookin' books here~
+>> 79D04C.3 | [十兵衛] 漢文はなかなか興味深いものだ
+   Classical Chinese is quite fascinating.
+>> 79D0A0.3 | [鏡] フーン、 / ずいぶん簡単なコトを習ってるんだね
+   Hmm, they're learning pretty simple stuff here.
+>> 79D104.3 | [銀次] ！！ / 今の…な、なに！？
+   !! Wh-what was that just now?!
+>> 79D104.8 | [蛮] …教室ン中に消えたみてーだな / 正体探ってみた方がいいかもな
+   ...Looks like it vanished into the classroom. Might be worth finding out what it is.
+>> 79D1B8.3 | [銀次] ヤ、ヤバいよ、蛮ちゃん！！ / 今の本物のユーレイじゃなかった！？
+   Th-this is bad, Ban-chan!! Wasn't that a real ghost just now?!
+>> 79D1B8.8 | [蛮] バ、バカヤロー！ / ンなモン、いるわけねーだろうが！！
+   Y-you idiot! There's no such thing!!
+>> 79D1B8.13 | [銀次] そ、そうかな～… / けっこう本物っぽかったけどな～…
+   Y-you think so...? It looked pretty real to me...
+>> 79D2E8.3 | [銀次] やっぱり本物だよ～、アレ！！
+   It's real, I'm telling you! That thing!!
+>> 79D2E8.7 | [蛮] ンなワケねえ！ / ぜってー正体つかんでやる！！
+   No way! I'm gonna find out what it really is, no matter what!!
+>> 79D390.3 | [銀次] ！ / 蛮ちゃん、アレ…なに！？
+   ! Ban-chan, wh-what's that?!
+>> 79D390.8 | [蛮] ポルターガイストってか？
+   A poltergeist, huh?
+>> 79D390.10 | [蛮] …調べてみようぜ
+   ...Let's check it out.
+>> 79D440.3 | [Ｃメンバー] …うわっ！！
+   ...Whoa!!
+>> 79D488.3 | [蛮] ………
+   ...
+>> 79D488.7 | [士度] …どう見ても人間だったな、ありゃあ
+   ...That was a human, any way you look at it.
+>> 79D488.11 | [銀次] やっぱユーレイじゃなかったんだね！ / あ～良かった…
+   So it wasn't a ghost after all! Phew, what a relief...
+>> 79D488.16 | [蛮] ヤツら、 / コソコソとなに企んでやがんだ？
+   What are those guys sneaking around plotting?
+>> 79D488.21 | [士度] …さあな、 / そいつは追い詰めて聞くしかなさそうだ
+   ...Who knows. Looks like we'll have to corner one and ask.
+>> 79D614.3 | [銀次] …あれ？ / ３階建てなのに階段がないよ？
+   ...Huh? It's three stories tall, but there aren't any stairs?
+>> 79D614.8 | [蛮] …なにかしらカラクリがありそうだな / 一帯を探ってみるか…
+   ...Must be some kind of trick to it. Let's search the area...
+>> 79D6D4.3 | [Ｃメンバー] …さっきのヤツらが教室の外に出たぞ！ / 早くおどかして追い返すんだ！！
+   ...Those guys from before came out of the classroom! Scare 'em off, quick!!
+>> 79D758.3 | [銀次] ………
+   ...
+>> 79D758.5 | [銀次] なにしてんだろ、あの人？？
+   What's that guy doing??
+>> 79D758.9 | [蛮] ケータイで仲間と / 連絡取ってるらしいな…
+   Looks like he's calling his buddies on his cell...
+>> 79D758.12 | [蛮] バレてんぞ、コラ！！
+   We can see you, punk!!
+>> 79D830.3 | [Ｃメンバー] ！！　気付かれたか… / こうなったら力づくで追い返してやる！
+   !! They spotted me... Then I'll drive you out by force!
+>> 79D830.8 | [蛮] ケッ！　テメーなんぞに追い返されて / たまるかってンだよ！
+   Hah! Like I'd let a punk like you drive me out!
+>> 79D908.3 | [蛮] 板で階段を隠すとはな… / 安い手使いやがるぜ
+   Hiding the stairs behind a board... What a cheap trick.
+>> 79D908.8 | [銀次] ちょっと引っかかっちゃったけどね…
+   It did fool me for a bit, though...
+>> 79D908.10 | [銀次] でもこれで二階に行けるね！ / 行ってみようよ！！
+   But now we can go to the second floor! Let's go!!
+>> 79D9F8.3 | [銀次] こっちの階段は隠してないんだね / 昇ってみようよ！
+   These stairs aren't hidden. Let's climb 'em!
+>> 79DA64.3 | [銀次] な、な、な、なんでーーー？？？ / 走っても走っても上にあがれないよ！！
+   Wh-wh-wh-whyyyy??? No matter how much I run, I can't get up!!
+>> 79DA64.8 | [士度] ＣＡＶ連中がなにか仕掛けたみたいだな
+   Looks like the CAV guys rigged something.
+>> 79DA64.12 | [蛮] しゃーねえな、 / 辺りを探ってみるとするか…
+   Can't be helped. Guess we'll search around...
+>> 79DB80.2 | ゴォン、ゴォン………
+   Rumble, rumble......
+>> 79DB80.6 | [銀次] ？？？
+   ???
+>> 79DB80.8 | [銀次] 蛮ちゃん、なにか聞こえない？
+   Ban-chan, don't you hear something?
+>> 79DC14.2 | ゴォン、ゴォン………
+   Rumble, rumble......
+>> 79DC14.6 | [銀次] ？？？
+   ???
+>> 79DC14.8 | [銀次] この辺からなんか聞こえるけど…
+   I hear something coming from around here...
+>> 79DCAC.3 | [蛮] 床下から聞こえてくるみてえだな… / 銀次、電撃浴びせてみろや
+   Sounds like it's coming from under the floor... Ginji, hit it with an Electric Shock.
+>> 79DCAC.8 | [銀次] ＯＫ！ / 二人は離れててよ！
+   OK! You two stand back!
+>> 79DD64.3 | [Ｃメンバー] 見つかったからには仕方ない！ / ここで消えてもらうぞ！！
+   Now that you've found us, there's no choice! You'll disappear right here!!
+>> 79DDD8.3 | [蛮] …で、テメーらは床下で / なにしてやがったんだ？
+   ...So what were you punks doing under the floor?
+>> 79DDD8.8 | [Ｃメンバー] 侵入者を上に行かせないために、 / 階段を改造して動かしてました…
+   We rigged the stairs to move so intruders couldn't get upstairs...
+>> 79DDD8.13 | [士度] だから上に進まなかったわけだな
+   So that's why we couldn't go up.
+>> 79DDD8.17 | [銀次] さっきの電撃で床下の機械もショート / しちゃったし、これで上の階に行けるね
+   My Electric Shock fried the machine under the floor, so now we can go upstairs!
+>> 79DDD8.22 | [蛮] よし、行ってみようぜ！
+   All right, let's go!
+>> 79DFA0.2 | ♪ピロリロリロリロロン…
+   ♪Plinkety-plinkety-plonk...
+>> 79DFA0.6 | [銀次] お、音楽室からピアノの音が！ / 七不思議の一つだよ、蛮ちゃん！！
+   P-piano music from the music room! It's one of the Seven Mysteries, Ban-chan!!
+>> 79DFA0.11 | [蛮] アホか！　これもＣＡＶ連中の / 仕業に決まってンだろ！！
+   Moron! Obviously this is the CAV guys' doing too!!
+>> 79DFA0.14 | [蛮] ちったあ学習しろ！！
+   Learn something already!!
+>> 79DFA0.18 | [士度] ここでもなにか企んでるみてーだな… / 入ってみるか？
+   Looks like they're plotting something here too... Wanna go in?
+>> 79E120.2 | ♪ピロリロリロリロロン…
+   ♪Plinkety-plinkety-plonk...
+>> 79E120.6 | [銀次] やっぱりピアノの音が！！ / 人がやってるにしてもなんか怖いよ～
+   The piano again!! Even if it's a person playing, it's still kinda scary~
+>> 79E120.11 | [蛮] ならとっとと止めるに限るな / 音楽室に入ってみるか…
+   Then we'd better shut it up fast. Let's go into the music room...
+>> 79E224.3 | [蛮] テメーらがユーレイを装って侵入者を / 追い返そうとしてンのはバレてんだよ！
+   We know you punks are dressing up as ghosts to scare off intruders!
+>> 79E224.6 | [蛮] さっさと姿見せやがれ！！
+   Show yourselves already!!
+>> 79E2CC.3 | [蛮] ヘッ、つまらねえ小細工しやがって、 / なにがユーレイだ！！
+   Heh, with your lame little tricks... Ghosts, my ass!!
+>> 79E340.3 | [士度] 間一髪という所だったな…
+   That was a close call...
+>> 79E340.7 | [蛮] ピアノの音に助けられたって感じか？ / なんだったんだ、さっきの音は…
+   Guess the piano saved our hides? What was that sound just now, anyway...
+>> 79E3FC.3 | [銀次] あれ…コレってカヅっちゃんの絃だよ！ / やっぱりカヅっちゃんがここにいるんだ
+   Huh... This is Kazu-chan's string! So Kazu-chan really is here.
+>> 79E3FC.6 | [銀次] きっとまだ近くにいるよ！ / 探してみようよ！！
+   I bet he's still close by! Let's look for him!!
+>> 79E4BC.3 | [花月] 机の上にメモがありますね… / 読んでみましょう
+   There's a note on the desk... Let's read it.
+>> 79E524.2 | 体育館のカギを借ります / ３－Ａ　花山
+   Borrowing the gym key. -Hanayama, 3-A
+>> 79E524.7 | [花月] …カギは３－Ａにあるみたいですね / 行ってみましょう！
+   ...It seems the key is in 3-A. Let's go!
+>> 79E5D4.3 | [銀次] やったあ！　これで体育館に入れるね！ / 行ってみようよ！！
+   Yay! Now we can get into the gym! Let's go!!
+>> 79E648.3 | [蛮] 金目のものとか入ってねえかな…
+   Wonder if there's anything worth money in here...
+>> 79E69C.3 | [銀次] こういうところに大金入ってたりとか…
+   Maybe there's a pile of cash stashed in a place like this...
+>> 79E69C.5 | [銀次] するわけないよね～
+   Yeah, right~
+>> 79E714.3 | [卑弥呼] なにか残ってるわけない…か
+   Guess there's no way anything's left...
+>> 79E768.3 | [赤屍] ………
+   ...
+>> 79E7A4.3 | [花月] 役に立ちそうな情報はありませんね
+   There's no useful information here.
+>> 79E7F8.3 | [士度] 関係なさそうだな
+   Doesn't look relevant.
+>> 79E83C.3 | [笑師] なんもあらへんなあ
+   Ain't nothin' here.
+>> 79E884.3 | [十兵衛] 異常は見当たらない
+   I see nothing amiss.
+>> 79E8D0.3 | [鏡] なにも残されてないね
+   Nothing left behind here.
+>> 79E918.2 | カギがかかっている…
+   It's locked...
+>> 79E958.3 | [蛮] ワケ分かんねー薬ばっかりだな…
+   Nothin' but medicine I can't make heads or tails of...
+>> 79E9AC.3 | [銀次] 薬のニオイって苦手だな～…
+   I don't like the smell of medicine...
+>> 79E9FC.3 | [卑弥呼] 大したことない薬ばっかりね
+   Nothing but second-rate medicine.
+>> 79EA50.3 | [赤屍] ………
+   ...
+>> 79EA8C.3 | [花月] 役に立ちそうな薬品はありませんね
+   There are no chemicals that look useful.
+>> 79EAE0.3 | [士度] こういうニオイは好きになれねえな…
+   Can't say I like this kind of smell...
+>> 79EB38.3 | [笑師] こういうのめっちゃ苦手やわぁ～
+   I really can't stand this kinda stuff~
+>> 79EB8C.3 | [十兵衛] なにもなさそうだな…
+   There seems to be nothing here...
+>> 79EBD8.3 | [鏡] 面白そうな薬はないね
+   No interesting medicine here.
+>> 79EC20.3 | [蛮] おっ、 / ここで寝泊りできるンじゃねえか？
+   Ooh, couldn't we crash here for the night?
+>> 79EC80.3 | [銀次] わ～、てんとう虫で寝泊りするより / こっちの方が快適かもね…
+   Wow, this might be comfier than sleeping in the Ladybug...
+>> 79ECF0.3 | [卑弥呼] 誰が寝たか分からないベッドって / 気持ち悪いわね…
+   A bed where who-knows-who has slept is gross...
+>> 79ED5C.3 | [赤屍] ………
+   ...
+>> 79ED98.3 | [花月] 特に異常は見当たりませんね
+   I see nothing particularly unusual.
+>> 79EDE8.3 | [士度] なにもなさそうだ
+   Looks like nothing's here.
+>> 79EE2C.3 | [笑師] あ～、眠っ！ / 一休みできたらエエのになぁ…
+   Man, I'm sleepy! Wish I could take a little break...
+>> 79EE8C.3 | [十兵衛] 変わったところはなさそうだ
+   Nothing seems out of place.
+>> 79EEE0.3 | [鏡] なにも見当たらないな
+   I don't see anything.
+>> 79EF28.3 | [蛮] なンか食い物とか…あるわけねえよな
+   Some kinda food or... Nah, no way there'd be any.
+>> 79EF80.3 | [銀次] う～わ～… / キモチ悪いのばっかりだよ～…
+   Eeewww... It's all gross stuff...
+>> 79EFE0.3 | [卑弥呼] ホルマリンづけって色がキモチ悪いわ
+   The color of things pickled in formaldehyde is gross.
+>> 79F03C.3 | [赤屍] なかなか興味深いですね
+   How very interesting.
+>> 79F088.3 | [花月] こういうものはあまり…
+   I'm not really fond of this sort of thing...
+>> 79F0D4.3 | [士度] ………チッ！
+   ......Tch!
+>> 79F114.3 | [笑師] めっちゃイヤやわ、こういうんの
+   I really hate this kinda stuff.
+>> 79F168.3 | [鏡] こういうのはちょっと…ね
+   This kind of thing is a bit... you know.
+>> 79F1B4.3 | [蛮] こういう所にこそ食い物が！
+   A place like this is where you'll find food!
+>> 79F1B4.5 | [蛮] …ンなわけねーよな…
+   ...Yeah, right...
+>> 79F224.3 | [銀次] 家庭科っていうと女の子の差し入れ / とかいいよね～
+   Home ec... Getting homemade treats from a girl sure would be nice~
+>> 79F28C.3 | [卑弥呼] ………
+   ...
+>> 79F2CC.3 | [赤屍] ………
+   ...
+>> 79F308.3 | [花月] 家庭科は得意ですよ
+   I'm rather good at home economics.
+>> 79F350.3 | [士度] ………
+   ...
+>> 79F350.5 | [士度] （アイツは家庭科が得意そうだな…）
+   (She'd be good at home ec, I bet...)
+>> 79F3BC.3 | [笑師] 家庭科得意なコをヨメはんにしたいなぁ
+   I wanna marry a gal who's good at home ec.
+>> 79F414.3 | [十兵衛] 特に異常はない
+   Nothing unusual.
+>> 79F45C.3 | [鏡] なにもなさそうだね
+   Looks like there's nothing here.
+>> 79F4A4.3 | [蛮] 美術っつーとどうしてもクレイマンを / 思い出しちまうんだよな…
+   Art always ends up reminding me of Clayman...
+>> 79F518.3 | [銀次] 美術かあ…そういえば / クレイマンさんどうしてるかな？
+   Art, huh... Come to think of it, I wonder how Clayman-san's doing?
+>> 79F584.3 | [卑弥呼] なにもなさそうね
+   Looks like there's nothing here.
+>> 79F5CC.3 | [赤屍] ………
+   ...
+>> 79F608.3 | [花月] 変わったところは見当たりませんね
+   I don't see anything unusual.
+>> 79F65C.3 | [士度] なにもなさそうだな
+   Looks like nothing's here.
+>> 79F6A4.3 | [笑師] なんぞ、オモロいもんあらへんかいな？
+   Ain't there somethin' funny around here?
+>> 79F6FC.3 | [十兵衛] 特になにもない
+   Nothing in particular.
+>> 79F744.3 | [鏡] ふーん、美術ね…
+   Hmm, art, huh...
+>> 79F788.3 | [蛮] 金になりそうな楽器とかねえかな…
+   Any instruments here worth some cash...?
+>> 79F7DC.3 | [銀次] 音楽っていうと / やっぱりマドカちゃんだよね～
+   When it comes to music, it's gotta be Madoka-chan~
+>> 79F840.3 | [卑弥呼] 特になにもなさそうね
+   Doesn't look like there's anything in particular.
+>> 79F88C.3 | [赤屍] ………
+   ...
+>> 79F8C8.3 | [花月] ………
+   ...
+>> 79F8C8.5 | [花月] （十兵衛は音楽が苦手なんだろうな…）
+   (Juubei must be bad at music...)
+>> 79F934.3 | [士度] ………
+   ...
+>> 79F934.5 | [士度] （アイツはトップクラスだからな…）
+   (She's one of the best, after all...)
+>> 79F9A0.3 | [笑師] こう見えて音楽は得意…でもあらへん
+   I may not look it, but I'm great at music... NOT!
+>> 79F9F8.3 | [十兵衛] …音楽は苦手だ
+   ...I am poor at music.
+>> 79FA40.3 | [鏡] 音楽はまあキラいじゃないよ
+   I don't exactly hate music.
+>> 79FA90.4 | [ＴＡＲＥ] ウキュ～
+   Ukyuu~
+>> 79FADC.3 | [写真屋] 旅の記念に写真いかがですカ？
+   Photo for a souvenir of your travels, yes?
+>> 79FB30.3 | [銀次] ば、蛮ちゃん… / ユーレイに逃げられちゃったみたいだよ
+   B-Ban-chan... Looks like the ghost got away from us.
+>> 79FB30.8 | [蛮] チッ、他の教室にも回ってみるか…
+   Tch, let's try the other classrooms...
+>> 79FBE4.3 | [銀次] あっ！　またアルくんに / もらった石が光ってるよ！
+   Ah! The stone Al-kun gave me is glowing again!
+>> 79FBE4.6 | [銀次] 今度は水っていう字が見える気がする…
+   This time I think I can see the character for "water"...
+>> 79FBE4.10 | [蛮] ってことはコイツは水属性ってことか？ / まあ、それっぽいわな
+   So that means this guy's Water element? Well, figures.
+>> 79FBE4.15 | [花月] ？　ともかく先に進みましょう
+   ? In any case, let's move on.
+>> 79FBE4.17 | [花月] 僕が探ってみた感じでは / 西園寺は体育館にいるようです
+   From what I've found, Saionji seems to be in the gym.
+>> 79FBE4.20 | [花月] 体育館にはカギがかかっていますから、 / まずはカギを探すとしましょう
+   The gym is locked, so let's start by finding the key.
+>> 79FBE4.25 | [蛮] カギがありそうな場所っていやあ… / ま、行ってみっか！
+   A place where a key might be... Eh, let's just go!
+>> 79FE0C.3 | [銀次] …？？？ / ねえねえ、なんか変な感じがしない？
+   ...??? Hey, hey, don't you feel kinda weird?
+>> 79FE74.3 | [銀次] 今度こそ！！
+   This time for sure!!
+>> 79FEB8.3 | [銀次] ああ～、やっぱりダメだぁ…
+   Aww, no good after all...
+>> 79FF0C.3 | [銀次] あっ！　あんなところに髪どめが！
+   Ah! The hairpin's up there!
+>> 79FF0C.5 | [銀次] でもどうしよう / あんな高いとこにあるなんて…
+   But what do we do? It's way up high...
+>> 79FFA0.3 | [西園寺] 少々、お待ち下さい…
+   One moment, please...
+>> 79FFF0.3 | [蛮] …波児よォ、 / まじで腹が減っててやべーんだ
+   ...Paul, I'm seriously starving here.
+>> 79FFF0.6 | [蛮] 店の残りのモンでいいから食わせてくれ
+   Leftovers are fine, just give me something to eat.
+>> 79FFF0.10 | [アル] オトッツァン！　オ侍サンガ！
+   Pa! Samurai-san is...!
+>> 79FFF0.14 | [蛮] …ついでにインチキ時代劇セリフを / 覚えたコイツを黙らせてくれ
+   ...And while you're at it, shut up this kid who's picked up fake samurai-drama lines.
+>> 79FFF0.17 | [蛮] ただでさえめまいがすんだからよ
+   I'm dizzy enough as it is.
+>> 79FFF0.21 | [波児] いいじゃないか、 / 日本の歴史の勉強になって
+   What's the harm? It's a lesson in Japanese history.
+>> 79FFF0.26 | [蛮] …なるかよ、ンなモン
+   ...Like hell it is.
+>> 79FFF0.28 | [蛮] それよりねえのかよ、残り物？
+   More importantly, ain't there any leftovers?
+>> 79FFF0.32 | [波児] あいにくとツケの払えないお前らに / くれてやるものはないぜ
+   Sorry, but I've got nothing to give you two when you can't pay your tab.
+>> 79FFF0.37 | [銀次] あ～、腹へったよ～…
+   Aww, I'm so hungry...
+>> 79FFF0.41 | [アル] コノママジャ、 / オ侍サンガ行キ倒レチャウヨ！
+   At this rate, Samurai-san's gonna collapse in the street!
+>> 79FFF0.46 | [波児] いいからいいから、 / 行き倒れさせておきなって、アル
+   Never mind, never mind. Let 'em collapse, Al.
+>> 79FFF0.51 | [蛮] テメーら、 / 人が餓えて死にそうだって時に…
+   You guys... When a man's about to starve to death...
+>> 79FFF0.56 | [夏実] あ、そういえばヘヴンさんが / 誰かを迎えに行ってましたよ
+   Oh, come to think of it, Hevn-san went to pick somebody up.
+>> 79FFF0.59 | [夏実] 依頼人さんが来るかも知れませんね
+   Maybe a client is coming.
+>> 79FFF0.63 | [銀次] 仕事だ！ / やったよ、蛮ちゃん！！
+   A job! Yay, Ban-chan!!
+>> 79FFF0.68 | [蛮] お前な、あの金にうるせェ女が絡むと / 仲介料いくらひかれると思ってんだよ
+   Look, if that money-grubbing woman's in on it, think how big her broker's cut is!
+>> 7A04D8.3 | [ヘヴン] あんたたちねえ、 / そんなこと言ってると仕事振らないわよ
+   You boys... Keep talking like that and I won't send any jobs your way.
+>> 7A04D8.8 | [銀次] わっ、ヘヴンさん！ / あれ？　その後ろにいる人って…
+   Whoa, Hevn-san! Huh? The person behind you is...
+>> 7A04D8.13 | [ヘヴン] あら、銀ちゃん知ってるの？
+   Oh, you know her, Gin-chan?
+>> 7A04D8.15 | [ヘヴン] こちらは今回の仕事の依頼人である / 演歌の大御所、フローラルつる子さんよ
+   This is our client for this job, the grande dame of enka, Floral Tsuruko-san.
+>> 7A04D8.20 | [ツルコ] フローラルつる子でございます / 新曲『︀人生はスパンコール』︀をよろしく
+   I am Floral Tsuruko. Please support my new song, 'Life Is Sequins'.
+>> 7A04D8.25 | [ヘヴン] ツルコさんはライバルである演歌歌手 / 紋之月ハカマとの豪華な衣装対決が
+   Tsuruko-san and her rival enka singer Hakama Monnotsuki's lavish costume duels
+>> 7A04D8.28 | [ヘヴン] いつも話題になっているんだけど…
+   are always the talk of the town, but...
+>> 7A04D8.32 | [ツルコ] そのハカマに / 今度の歌謡ショーで着るはずだった
+   That Hakama has stolen the costume I was to wear at my upcoming concert,
+>> 7A04D8.35 | [ツルコ] 大事な衣装を奪われてしまったんです
+   my precious costume.
+>> 7A04D8.39 | [蛮] …で、その衣装を奪り還せってか？
+   ...So you want us to take that costume back?
+>> 7A04D8.43 | [ヘヴン] ただの衣装じゃないわよ。それだけで / 数千万のお金がつぎこまれてるんだから
+   It's not just any costume. Tens of millions of yen went into that thing alone.
+>> 7A04D8.48 | [銀次] す、数千万！？　服だけに！？
+   T-tens of millions?! For just some clothes?!
+>> 7A04D8.52 | [ヘヴン] それに今回、奪われた衣装を / 舞台となるＮホールまで運ぶのは…
+   And this time, the ones carrying the stolen costume to the venue, N Hall, are...
+>> 7A04D8.57 | [蛮] …運び屋の連中か？
+   ...Those transporters?
+>> 7A04D8.61 | [ヘヴン] そうよ / 誰かは言わなくても分かるでしょ？
+   That's right. I don't have to tell you who, do I?
+>> 7A04D8.66 | [蛮] まァな。だが高くつくぜ、この仕事 / なにせ相手はあの運び屋だ
+   Guess not. But this job'll cost ya. We're up against THOSE transporters.
+>> 7A04D8.71 | [ツルコ] 衣装を奪り還していただけるなら / 依頼料に糸目は付けません！
+   If you can take back my costume, I'll spare no expense on your fee!
+>> 7A04D8.76 | [蛮] （…来たぜ、 / 久しぶりにマトモな仕事が！！）
+   (...Here it is! A decent job, for once!!)
+>> 7A04D8.82 | [蛮] ゲットバッカーズ！ / この依頼、確かに引き受けた！！
+   GetBackers! This job... consider it done!!
+>> 7A04D8.87 | [銀次] がんばろうね、蛮ちゃん！！
+   Let's do our best, Ban-chan!!
+>> 7A04D8.91 | [アル] オ侍サン、気ヲ付ケテ行ットクレヨ！
+   Samurai-san, do take care on your way!

@@ -5,7 +5,7 @@
   "box": 1,
   "speaker": "",
   "jp": "ゴォン、ゴォン………",
-  "en": ""
+  "en": "Rumble, rumble......"
  },
  {
   "id": "79DC14.4",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "？？？　",
-  "en": ""
+  "en": "???"
  },
  {
   "id": "79DC14.8",
@@ -28,6 +28,6 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "この辺からなんか聞こえるけど…　",
-  "en": ""
+  "en": "I hear something coming from around\nhere..."
  }
 ]

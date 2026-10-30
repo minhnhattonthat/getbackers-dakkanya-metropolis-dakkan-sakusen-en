@@ -6,15 +6,19 @@
 西園寺	Saionji
 蛮ちゃん	Ban-chan
 アル	Al
-蛮	Ban
-銀次	Ginji
-士度	Shido
-花月	Kazuki
-赤屍	Akabane
-アル	Al
-西園寺	Saionji
-？？？	???
-母親	Mother
 ゲットバッカーズ	GetBackers	avoid: Get Backers
-雷帝	Thunder Emperor	avoid: Raitei
+雷帝	Thunder Emperor	avoid: Raitei; Lightning Emperor
+ＶＯＬＴＳ	VOLTS
+風鳥院流	Fuchoin school
+確かに引き受けた	consider it done
 ＣＡＶ	CAV
+ＣＡＶ	CAV
+蛮	Ban	(name tag)
+銀次	Ginji	(name tag)
+士度	Shido	(name tag)
+花月	Kazuki	(name tag)
+アル	Al	(name tag)
+西園寺	Saionji	(name tag)
+みっちゃん	Mitchan	(name tag)
+Ｃメンバー	C Member	(name tag)
+母親	Mother	(name tag)

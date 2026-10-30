@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "これも違うスイッチだね…",
-  "en": ""
+  "en": "This is a different switch too... Ban-chan,"
  },
  {
   "id": "7BAD8C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "蛮ちゃん、どうしよう？　",
-  "en": ""
+  "en": "what do we do?"
  },
  {
   "id": "7BAD8C.6",
@@ -35,6 +35,6 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "押すだろ、やっぱ",
-  "en": ""
+  "en": "We press it, obviously."
  }
 ]

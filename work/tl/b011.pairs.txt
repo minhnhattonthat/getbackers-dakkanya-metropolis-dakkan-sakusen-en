@@ -1,0 +1,338 @@
+>> 7998D0.3 | [蛮] どれ、てめえじゃラチ明かねえから / 代わってやるよ
+   Here, you're getting nowhere, so I'll take over.
+>> 7998D0.6 | [蛮] なにがあったか、 / この美堂蛮様に話してみな？
+   Go on, tell the great Ban Mido what happened.
+>> 7998D0.11 | [みっちゃん] ！！ / こわいよ～！　ウェーン！！
+   !! I'm scared! Waaah!!
+>> 7998D0.16 | [蛮] …ったく、これだから近頃のガキは…
+   ...Geez, this is why I can't stand kids these days...
+>> 7998D0.20 | [銀次] ちょっと、蛮ちゃん！
+   Hey, Ban-chan!
+>> 7998D0.22 | [銀次] ねえ、キミ泣かないで / オレにもう一回話しを聞かせてよ
+   Hey, don't cry. Can you tell me what happened one more time?
+>> 7998D0.27 | [みっちゃん] あのね、みっちゃんが向こうの / 学校で遊んでたらね
+   Um, when Mitchan was playing at the school over there...
+>> 7998D0.30 | [みっちゃん] 誰かにママからもらった髪どめを / とられちゃったの…
+   somebody took the hairpin Mommy gave me...
+>> 7998D0.35 | [銀次] 向こうの学校って、あの廃校の…？
+   The school over there... You mean that abandoned one...?
+>> 7998D0.37 | [銀次] 分かった！　じゃあ、お兄ちゃんたちが / 奪り還してきてあげるよ！
+   Got it! Then we big brothers will go get it back for you!
+>> 7998D0.42 | [蛮] オイ、待て銀次！　いいか、俺たちは / ボランティアしてるわけじゃねえんだ
+   Hey, hold it, Ginji! Listen, we're not running a charity here.
+>> 7998D0.45 | [蛮] こんなガキの依頼を受けたって、 / なんの得にもなりゃしねえ
+   Taking a job from some brat won't get us a damn thing.
+>> 7998D0.50 | [銀次] でもさあ…
+   But...
+>> 7998D0.54 | [アル] セヤケド、ソノ子ノオカンハ、 / メッチャ金持チヤッタデ～！
+   But that kid's ma was SUPER loaded, ya know~!
+>> 7998D0.59 | [蛮] なに？　金持ちだと！？
+   What? Loaded, you say?!
+>> 7998D0.61 | [蛮] （髪どめ奪還成功→
+   (Hairpin retrieved...
+>> 7998D0.63 | [蛮] →ありがとうお兄ちゃん！ / お母さんを連れてきたよ！→
+   ..."Thank you, mister! I brought my mom!"...
+>> 7998D0.66 | [蛮] →アラあなたがうちの子の髪どめを？ / いやだわ、お礼をしなくちゃ…→
+   ..."Oh my, you found my child's hairpin? Dear me, I simply must reward you..."...
+>> 7998D0.69 | [蛮] →さあ、この小切手に好きなだけ / 金額をお書きになって！→
+   ..."Here, write in whatever amount you like on this check!"...
+>> 7998D0.72 | [蛮] →億万長者も夢じゃねえってか？）
+   ...Becoming a billionaire ain't just a dream anymore, huh?)
+>> 7998D0.77 | [蛮] ゲットバッカーズ！ / この依頼、確かに引き受けた！！
+   GetBackers! This job... consider it done!!
+>> 7998D0.82 | [銀次] 蛮ちゃん、お金持ちと聞いた途端に…
+   Ban-chan, the second you heard "rich"...
+>> 7998D0.84 | [銀次] でも良かったね、アルくん / 女の子も泣き止んだし
+   But that's great, Al-kun. The girl stopped crying, too.
+>> 7998D0.89 | [アル] ボチボチデンナ～
+   Can't complain~
+>> 799F88.3 | [銀次] うわあ…あの女の子、 / よくこんなトコロで遊んでたよね
+   Whoa... That girl really used to play in a place like this?
+>> 799F88.6 | [銀次] なんか出るってウワサあるじゃん、ココ
+   There are rumors something haunts this place, y'know.
+>> 799F88.10 | [蛮] 友達ときもだめしでも / してたんじゃねェか？
+   Maybe she was doing a test of courage with her friends.
+>> 799F88.13 | [蛮] おら、トロトロしてっと置いてくぞ！
+   C'mon, dawdle and I'm leaving you behind!
+>> 799F88.17 | [銀次] あ、待ってよ！　蛮ちゃ～ん！！
+   Ah, wait for me! Ban-chaaan!!
+>> 79A0E8.3 | [銀次] あれ？ / このマーク、見覚えがあるような…
+   Huh? I feel like I've seen this mark before...
+>> 79A0E8.8 | [士度] それはＣＡＶのマークだな
+   That's the CAV mark.
+>> 79A0E8.12 | [蛮] ＣＡＶだあ？
+   CAV, huh?
+>> 79A0E8.16 | [士度] Ｃｏｕｎｔｅｒｆｏｒｃｅ / ａｇａｉｎｓｔ　ＶＯＬＴＳ、
+   Counterforce against VOLTS.
+>> 79A0E8.19 | [士度] まあ早い話が反ボルツ勢力ってことだ
+   Long story short, it's an anti-VOLTS gang.
+>> 79A0E8.21 | [士度] 汚い手を使うことで有名なチームだが… / こんなところを根城にしていたとはな
+   That team's known for dirty tricks... Didn't think they'd made this their hideout.
+>> 79A0E8.26 | [蛮] …にしてもコイツ、 / いつまで気ィ失ってんだよ！
+   ...And how long is this guy gonna stay out cold, anyway?!
+>> 79A2F0.3 | [蛮] おい、女の子の髪どめ知らねーか！
+   Hey, you seen a little girl's hairpin?!
+>> 79A2F0.7 | [Ｃメンバー] か、髪どめ…？
+   A-a hairpin...?
+>> 79A2F0.9 | [Ｃメンバー] そういえば、 / ウチのリーダーがしていたような…
+   Now that you mention it, I think our leader was wearing one...
+>> 79A2F0.14 | [銀次] リーダーって？
+   Your leader?
+>> 79A2F0.18 | [Ｃメンバー] さ、西園寺（さいおんじ）です / 西園寺薫…
+   S-Saionji. Kaoru Saionji...
+>> 79A2F0.23 | [銀次] かおるってことは女の子かな？
+   Kaoru... So is it a girl?
+>> 79A2F0.25 | [銀次] 士度はその人知ってるの？
+   Shido, do you know this person?
+>> 79A2F0.29 | [士度] いや、聞いたことねーな…
+   Nope, never heard of 'em...
+>> 79A2F0.33 | [蛮] ま、どっちだっていいじゃねえか / まずはその西園寺を探してみようぜ
+   Eh, who cares either way? Let's start by finding this Saionji.
+>> 79A548.3 | [銀次] …あれ？
+   ...Huh?
+>> 79A548.7 | [蛮] あン？　どうした、銀次？
+   Huh? What's up, Ginji?
+>> 79A548.11 | [銀次] いま、向こうの廊下に / カヅっちゃんがいたような？？？
+   Just now, I think I saw Kazu-chan down that hallway???
+>> 79A548.16 | [蛮] こンな所にいるわけねーだろ
+   No way he'd be in a place like this.
+>> 79A548.20 | [銀次] でもなー…
+   But still...
+>> 79A548.24 | [蛮] いいから、先を急ごうぜ
+   Forget it, let's keep moving.
+>> 79A6C0.3 | [銀次] あ！　やっぱりカヅっちゃんだ！ / ホラ、廊下に！
+   Ah! It IS Kazu-chan! Look, in the hallway!
+>> 79A6C0.8 | [蛮] ん？
+   Hm?
+>> 79A6C0.10 | [蛮] …って、いねぇじゃねえかよ！
+   ...There's nobody there, dammit!
+>> 79A6C0.14 | [銀次] ヘンだな～、確かにいたのになあ…
+   That's weird... He was definitely there...
+>> 79A6C0.18 | [蛮] 髪の長い女のユーレイと / 見間違えてンじゃねーか？
+   Sure you didn't mistake some long-haired lady ghost for him?
+>> 79A6C0.21 | [蛮] どうするよ、 / お前の背後にユーレイがいたりしたら？
+   So what're you gonna do if there's a ghost right behind you?
+>> 79A6C0.26 | [銀次] 平気、平気！ / オレ霊感ないもん！！
+   No problem, no problem! I can't sense spirits anyway!!
+>> 79A6C0.31 | [蛮] なら、向こうの物陰に赤屍が / 潜んでたらどうするよ？
+   Then what if Akabane's lurking in the shadows over there?
+>> 79A6C0.36 | [銀次] …そ、それは怖いね
+   ...Th-that'd be scary.
+>> 79A6C0.40 | [蛮] …ある意味、悪霊よりタチ悪ィからな
+   ...In a way, he's nastier than any evil spirit.
+>> 79A970.3 | [銀次] あっ！ / やっぱりカヅっちゃんいたんだね～！！
+   Ah! I knew you were here, Kazu-chan!!
+>> 79A970.8 | [花月] フフ、見つかってしまいましたね…
+   Heh, it seems I've been found...
+>> 79A970.10 | [花月] それにしても、 / あなたたちはなぜこんな所に？
+   But what brings you two to a place like this?
+>> 79A970.15 | [蛮] それはこっちが聞きたいね
+   I'd like to ask you the same thing.
+>> 79A970.17 | [蛮] 絃（いと）の花月（かづき）が / なんでこんな所に？
+   What's Kazuki of the Strings doing in a place like this?
+>> 79A970.20 | [蛮] 花月
+   Kazuki
+>> 79A970.23 | [蛮] 僕は早耳ですからね…
+   I do have sharp ears, after all...
+>> 79A970.25 | [蛮] 昔の知人がＣＡＶのリーダーと聞いて、 / 探りを入れてるんです
+   I heard an old acquaintance leads the CAV, so I came to look into it.
+>> 79A970.30 | [銀次] えっ？ / ひょっとして西園寺って人のコト？
+   Huh? You don't mean that Saionji person, do you?
+>> 79A970.35 | [花月] ええ…西園寺は西風鳥院派にて / 絃術を学びし者なのです
+   Yes... Saionji studied the string arts in the West Fuchoin school.
+>> 79A970.40 | [銀次] じゃあ、カヅっちゃんみたいに / 絃を使う人なの？
+   So he uses strings, just like you, Kazu-chan?
+>> 79A970.45 | [花月] そうです。西園寺はあるいきさつから / 僕に恨みの念を抱いていましてね…
+   That's right. For certain reasons, Saionji bears a grudge against me...
+>> 79A970.48 | [花月] 恐らく、今でも復讐したいと / 考えているでしょう
+   He probably still wants his revenge, even now.
+>> 79A970.53 | [蛮] それでヤツが動く前に自分から / 乗り込んできたってワケか
+   So you came barging in yourself before he could make a move, huh?
+>> 79A970.56 | [蛮] さすがに早耳と言うだけのことはあるな
+   Guess they don't call you sharp-eared for nothing.
+>> 79A970.60 | [花月] それであなた方はここへなにをしに？
+   And what have you two come here to do?
+>> 79A970.64 | [蛮] 仕事さ、決まってンだろ？
+   A job. What else?
+>> 79A970.67 | [蛮] …オイ、銀次。テメーの後ろに…
+   ...Hey, Ginji. Behind you...
+>> 79A970.71 | [銀次] え？ / まさかユーレイがいる…とか？
+   Huh? D-don't tell me there's a ghost...?
+>> 79A970.76 | [蛮] いや、敵だ！ / オメーら、抜かるンじゃねえぞ！
+   Nah, enemies! Don't screw this up, guys!
+>> 79AEE0.3 | [銀次] ねえ、ここは敵も多くて危ないから、 / カヅっちゃんも一緒に行こうよ
+   Hey, there's lots of enemies here and it's dangerous, so come with us, Kazu-chan.
+>> 79AEE0.6 | [銀次] オレたちも西園寺って人に用があるしさ
+   We've got business with this Saionji person, too.
+>> 79AEE0.10 | [花月] それは構いませんが… / 美堂さんはそれでよろしいんですか？
+   I don't mind... But are you all right with that, Mido-san?
+>> 79AEE0.15 | [蛮] 別に…
+   Whatever...
+>> 79AEE0.17 | [蛮] ただし、俺たちの仕事とお前の目的は / あくまで別のモンだぜ
+   But our job and your goal are two separate things, got it?
+>> 79AEE0.22 | [花月] それはもちろん
+   Of course.
+>> 79AEE0.24 | [花月] …依頼料の何％かをいただこうなんて / 考えていませんから
+   ...I have no intention of asking for a percentage of your fee.
+>> 79B0D8.3 | [花月] 西園寺！　西園寺はいないのか！ / 花月が自ら来たぞ！
+   Saionji! Are you here, Saionji?! Kazuki has come in person!
+>> 79B0D8.8 | [西園寺] 絃の花月…よくも、おめおめと / 私の前に姿を現せたものですね
+   Kazuki of the Strings... You have some nerve, showing your face before me.
+>> 79B0D8.13 | [銀次] （あれ？ / 西園寺って女の人じゃないんだね…
+   (Huh? So Saionji isn't a woman...
+>> 79B0D8.16 | [銀次] 薫って名前だから、 / てっきり女の人なのかと思ってたよ）
+   With a name like Kaoru, I was sure it was a woman.)
+>> 79B0D8.21 | [蛮] （…風鳥院流にありがちな間違いだな）
+   (...A common mistake with the Fuchoin school.)
+>> 79B0D8.25 | [花月] 西園寺、 / 同じ流派を学んだ者として言う
+   Saionji, I tell you this as one who studied the same school.
+>> 79B0D8.28 | [花月] 君を破門させるよう先代に / 申し立てたのは僕ではない
+   I was not the one who petitioned the former master to expel you.
+>> 79B0D8.31 | [花月] だから…
+   So...
+>> 79B0D8.35 | [西園寺] だから、なんです？ / 見逃してくれとでも言うのですか？
+   So what? Will you ask me to let you go?
+>> 79B0D8.38 | [西園寺] 私の才能にしっとし先代を言いくるめ、 / 私を破門に追い込んだお前が！
+   You, who envied my talent, talked the former master into it and drove me out!
+>> 79B0D8.43 | [銀次] 違うよ！　カヅっちゃんは / そんなことする人じゃないよ！
+   That's not true! Kazu-chan's not the kind of guy who'd do that!
+>> 79B0D8.48 | [蛮] よしな、銀次 / こういうことに部外者は口出し無用だ
+   Drop it, Ginji. Outsiders got no business butting into this kind of thing.
+>> 79B0D8.53 | [花月] …西園寺、あくまで僕を疑うなら / それでも構わない
+   ...Saionji, if you insist on doubting me, so be it.
+>> 79B0D8.56 | [花月] だが同じ流派である君が、 / 宗家の伝承者に牙を向けるということが
+   But you, of the same school, baring your fangs at the heir of the head family...
+>> 79B0D8.59 | [花月] どういうことであるのか、 / 知ってもらおう！
+   I will make you understand what that means!
+>> 79B0D8.64 | [西園寺] 面白い！　絃術では私が上であることを / 証明して見せましょう！
+   Interesting! I shall prove that my string arts are superior!
+>> 79B5D4.3 | [西園寺] …さすが風鳥院流宗家と言うべきか…
+   ...As expected of the head of the Fuchoin school...
+>> 79B5D4.5 | [西園寺] しかし負けるわけにはいかない！ / 私はこの時を何年も待ち望んだのだから
+   But I cannot lose! I have waited years for this moment.
+>> 79B688.3 | [花月] …愚かな
+   ...Foolish.
+>> 79B688.7 | [銀次] カヅっちゃん、 / 今度はオレたちも加勢するよ！
+   Kazu-chan, this time we'll fight with you!
+>> 79B71C.3 | [西園寺] くっ、なぜ…
+   Ngh, but why...
+>> 79B71C.7 | [花月] 君は力や技ばかりにこだわり、 / おのれの心を鍛えようとしなかった
+   You cared only for power and technique, and never tried to train your heart.
+>> 79B71C.10 | [花月] …それが君の負けた理由だ
+   ...That is why you lost.
+>> 79B71C.14 | [西園寺] ………
+   ...
+>> 79B71C.18 | [花月] そして怒りにまかせた絃は、いつか / 自らをしめつけることになる…
+   And strings driven by anger will one day tighten around the one who wields them...
+>> 79B71C.21 | [花月] 僕はそれを断ち切ってやりたかった
+   I wanted to cut that away for you.
+>> 79B71C.25 | [西園寺] …私を許すというのですか？
+   ...You mean you forgive me?
+>> 79B71C.29 | [花月] もちろん…
+   Of course...
+>> 79B71C.33 | [銀次] ねーねー西園寺さん、 / その髪どめって女の子のだよね？
+   Hey, hey, Saionji-san, that hairpin belongs to a little girl, right?
+>> 79B71C.38 | [西園寺] ？ / 違います、これは絃をおさめたもので…
+   ? No, this is what I keep my strings in...
+>> 79B71C.43 | [銀次] えっ、それって女の子から / 取り上げたものじゃなかったの！？
+   Huh? So you didn't take it from a little girl?!
+>> 79B71C.48 | [花月] 銀次さん、いくらなんでも / 西園寺はそこまでしませんよ
+   Ginji-san, Saionji would never go that far.
+>> 79B71C.51 | [花月] 奪還って、 / 髪どめのことだったんですか？
+   So the thing you came to retrieve was a hairpin?
+>> 79B71C.56 | [銀次] う、うん、実はそうなんだ…
+   Y-yeah, actually, it was...
+>> 79B71C.58 | [銀次] （蛮ちゃん、 / 見当違いだったみたいだケド…）
+   (Ban-chan, looks like we guessed wrong...)
+>> 79B71C.63 | [蛮] （ヤベぇぞ、ここまでハデにやって、 / またタダ働きか…？）
+   (Crap, we went all out like this, and it's another job for free...?)
+>> 79BB8C.3 | [蛮] ん？　なんだ？
+   Hm? What's that?
+>> 79BBD4.3 | [銀次] わっ、絃で髪どめが！ / ワーイ、奪還成功だ～！！
+   Whoa, the strings caught the hairpin! Yaaay, retrieval complete~!!
+>> 79BBD4.8 | [蛮] おっしゃ！　でかした、西園寺！
+   All right! Nice work, Saionji!
+>> 79BBD4.10 | [蛮] なるほどな。髪どめを奪った犯人は、 / 光るものが好きなカラスだったワケか
+   I get it. The culprit who swiped the hairpin was a crow that likes shiny things.
+>> 79BBD4.15 | [銀次] ありがとう、西園寺さん！ / キミ、本当はイイ人なんだね！
+   Thank you, Saionji-san! You're actually a really nice guy!
+>> 79BBD4.20 | [西園寺] いえ…実は私、以前から雷帝 / 『︀天野銀次』︀のウワサを聞き、
+   No... Actually, I've long heard the rumors of the Thunder Emperor, 'Ginji Amano',
+>> 79BBD4.23 | [西園寺] あこがれてましたから…
+   and I've admired you ever since...
+>> 79BBD4.27 | [銀次] えっ…キミって、 / 反ＶＯＬＴＳじゃなかったっけ？
+   Huh... But weren't you anti-VOLTS?
+>> 79BBD4.32 | [西園寺] 私、昔から憧れの人に対して / 反抗してみたくなるみたいで…
+   I've always had this urge to rebel against the people I admire...
+>> 79BBD4.37 | [蛮] …それで、昔は花月のヤローに / 反抗してたってワケか
+   ...So that's why you used to rebel against Kazuki, huh?
+>> 79BBD4.42 | [西園寺] はい、でもさっき目が覚めました！
+   Yes, but just now my eyes were opened!
+>> 79BBD4.44 | [西園寺] これからはもっと / 素直になろうと思います！
+   From now on, I mean to be more honest!
+>> 79BBD4.47 | [西園寺] 天野さん、私を弟子にして下さい！
+   Amano-san, please make me your disciple!
+>> 79BBD4.51 | [銀次] あの…オレ、弟子とかとらないし…
+   Um... I don't really take disciples or anything...
+>> 79BBD4.55 | [西園寺] 一生付いて行きます！ / どこまでも！！
+   I'll follow you for life! Anywhere!!
+>> 79BBD4.60 | [銀次] い、一生！？　ちょ、待っ… / 蛮ちゃ～ん、助けて～！！
+   F-for life?! Wh-wait a... Ban-chaaan, help meee!!
+>> 79C058.3 | [銀次] あの子、もうそろそろ来る頃だよ
+   That girl should be here any minute now.
+>> 79C058.7 | [蛮] 大丈夫なんだろうな、ギャラの方は？
+   The pay's gonna be okay, right?
+>> 79C058.11 | [銀次] ちゃんとお母さんに連絡してたから / バッチリだよ！
+   I got in touch with her mom, so it's all set!
+>> 79C058.14 | [銀次] お礼をしたいって言うから / 一緒に来るって！
+   She said she wants to thank us, so she's coming along!
+>> 79C058.19 | [蛮] ま、金持ちっつーからにはリムジンで / ビシッと来るんだろうな！
+   Heh, if they're rich, they'll pull up in style in a limo!
+>> 79C058.24 | [アル] ヒツジト一緒カモ知レヘンナァ～
+   Maybe she'll bring along her butter, ya know~
+>> 79C058.28 | [銀次] ヒツジ？　ああ、そうかもね / お金持ちだもんね！
+   Butter? Oh, yeah, maybe. She's rich, after all!
+>> 79C058.31 | [銀次] お金持ちはヒツジの一匹や二匹…
+   Rich people have a stick or two of butter...
+>> 79C058.35 | [蛮] そりゃ、執事だろうが！ / …って俺様にツッコミさせんじゃねえ！
+   He means a BUTLER! ...And don't make the great me play straight man!
+>> 79C058.38 | [蛮] ただでさえ、オメーら二人の相手は / 疲れるんだからな！
+   Dealing with you two is exhausting enough already!
+>> 79C354.3 | [母親] あの…
+   Um...
+>> 79C354.7 | [蛮] はいはい！ / どーもどーも！！
+   Yes, yes! Hello there, hello!!
+>> 79C354.12 | [みっちゃん] おにーちゃんたち、 / みっちゃんの髪どめは？
+   Misters, where's Mitchan's hairpin?
+>> 79C354.17 | [銀次] （蛮ちゃん、近頃のお金持ちの間では / 車よりも徒歩がはやってんのかな？）
+   (Ban-chan, is walking more popular than cars with rich people these days?)
+>> 79C354.22 | [蛮] （知らねえよ / ともかくホレ、髪どめを渡せ！）
+   (How should I know? Anyway, c'mon, give her the hairpin!)
+>> 79C354.27 | [銀次] ホラ、きみの髪どめってコレだろ？
+   Here, this is your hairpin, right?
+>> 79C354.31 | [みっちゃん] あっ、ホントにみっちゃんのだー！ / ありがと、おにーちゃんたち！！
+   Ah, it really is Mitchan's! Thanks, misters!!
+>> 79C354.37 | [母親] 本当にありがとうございます
+   Thank you so very much.
+>> 79C354.39 | [母親] この子、それをなくした時は / 泣いてばかりいて…
+   When she lost it, she did nothing but cry...
+>> 79C354.44 | [蛮] いえいえ、こちらも商売ですから！
+   Not at all, it's our business, after all!
+>> 79C354.48 | [母親] お礼と言っては失礼なのですが、 / この造花を差し上げます
+   It's not much of a thank-you, but please accept this artificial flower.
+>> 79C354.51 | [母親] それでは本当に / ありがとうございました…
+   Well then, thank you again, truly...
+>> 79C354.56 | [みっちゃん] バイバーイ、おにーちゃんたち！
+   Bye-bye, misters!
+>> 79C754.3 | [アル] メッチャ、リッチナ花ヤンカ～！
+   Whoa, what a SUPER rich flower, ain't it~!
+>> 79C754.5 | [アル] 赤イ花ハ、ウチノ国ヤッタラ金持チシカ / 持テヘンヨウナ高貴ナ花ヤデ！
+   In my country, red flowers are classy flowers only rich folks can have, ya know!
+>> 79C754.10 | [蛮] …テメーはそれであの子の母親を / 金持ちだと思った…と
+   ...So that's why you figured that kid's mother was rich...
+>> 79C754.15 | [アル] ナンデヤネン！ / 金持チチャウンケ？
+   Whaddaya mean?! She ain't rich?
+>> 79C754.20 | [銀次] 蛮…ちゃん………
+   Ban...-chan......
+>> 79C754.24 | [蛮] 銀次…この疫病神をどこかの海へ / 捨てて来い…俺はもう…ダメだ………
+   Ginji... go dump this walking jinx in some ocean... I'm... done for......

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "笑師",
   "jp": "しかし、あっけない連中やったな～",
-  "en": ""
+  "en": "Man, those guys went down easy, huh~"
  },
  {
   "id": "7B800C.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "花月、今の戦いでケガをしたようだな、",
-  "en": ""
+  "en": "Kazuki, it seems you were hurt in that"
  },
  {
   "id": "7B800C.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "見せてみろ　",
-  "en": ""
+  "en": "fight. Let me see."
  },
  {
   "id": "7B800C.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "大したことはないが…",
-  "en": ""
+  "en": "It's nothing serious, but... thank you,"
  },
  {
   "id": "7B800C.13",
@@ -58,6 +58,6 @@
   "box": 3,
   "speaker": "花月",
   "jp": "すまないな、十兵衛　",
-  "en": ""
+  "en": "Juubei."
  }
 ]

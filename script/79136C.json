@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…オイ、塔の住人のテメーがなんで",
-  "en": ""
+  "en": "...Hey, what's a resident of the Tower like"
  },
  {
   "id": "79136C.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "こんなところをウロついてやがんだよ？",
-  "en": ""
+  "en": "you doing prowling around here?"
  },
  {
   "id": "79136C.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "観察…だよ　",
-  "en": ""
+  "en": "Observing... Is that a problem, Ban"
  },
  {
   "id": "79136C.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "いけないかな、美堂蛮クン？　",
-  "en": ""
+  "en": "Mido-kun?"
  },
  {
   "id": "79136C.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "大方、なんか企んでるんじゃねーの？　",
-  "en": ""
+  "en": "You're scheming something, ain't you?"
  },
  {
   "id": "79136C.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "鏡　",
   "jp": "さあ、それはどうかな？　",
-  "en": ""
+  "en": "Hmm, I wonder?"
  },
  {
   "id": "79136C.19",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "ところでキミたち、　",
-  "en": ""
+  "en": "By the way, it looks like you two are"
  },
  {
   "id": "79136C.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "鏡　",
   "jp": "ゲームソフト探してるみたいだね？",
-  "en": ""
+  "en": "searching for a game?"
  },
  {
   "id": "79136C.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "えっ、どうして知ってるの？　",
-  "en": ""
+  "en": "Huh? How'd you know?"
  },
  {
   "id": "79136C.26",
@@ -119,7 +119,7 @@
   "box": 7,
   "speaker": "鏡　",
   "jp": "ちょっと観察させてもらって　",
-  "en": ""
+  "en": "I've been doing a little observing, you"
  },
  {
   "id": "79136C.29",
@@ -127,7 +127,7 @@
   "box": 7,
   "speaker": "鏡　",
   "jp": "いたからね…　　",
-  "en": ""
+  "en": "see..."
  },
  {
   "id": "79136C.31",
@@ -142,7 +142,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "（そ、それってストーカーなのでは…）",
-  "en": ""
+  "en": "(Isn't th-that called stalking...?)"
  },
  {
   "id": "79136C.35",
@@ -157,7 +157,7 @@
   "box": 9,
   "speaker": "鏡　",
   "jp": "ヒントを言わせてもらうけど、",
-  "en": ""
+  "en": "Let me give you a hint. The Snatchers"
  },
  {
   "id": "79136C.38",
@@ -165,7 +165,7 @@
   "box": 9,
   "speaker": "鏡　",
   "jp": "キミたちが探している奪い屋は",
-  "en": ""
+  "en": "you're looking for"
  },
  {
   "id": "79136C.40",
@@ -173,7 +173,7 @@
   "box": 10,
   "speaker": "鏡　",
   "jp": "もうこの辺りにはいないよ",
-  "en": ""
+  "en": "aren't anywhere around here anymore."
  },
  {
   "id": "79136C.42",
@@ -181,7 +181,7 @@
   "box": 11,
   "speaker": "鏡　",
   "jp": "でも依頼品は近くにある…分かるかな？",
-  "en": ""
+  "en": "But the goods are nearby... Understand?"
  },
  {
   "id": "79136C.44",
@@ -196,7 +196,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "どこかに隠してあるとでも",
-  "en": ""
+  "en": "You saying they've hidden it somewhere?"
  },
  {
   "id": "79136C.47",
@@ -204,7 +204,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "言いてえのかよ？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "79136C.49",
@@ -219,7 +219,7 @@
   "box": 13,
   "speaker": "鏡　",
   "jp": "さあ…ね",
-  "en": ""
+  "en": "Who knows... Well, I'll take my leave now."
  },
  {
   "id": "79136C.52",
@@ -227,6 +227,6 @@
   "box": 13,
   "speaker": "鏡　",
   "jp": "それじゃオレはこの辺で失礼するよ",
-  "en": ""
+  "en": " "
  }
 ]

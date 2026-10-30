@@ -8,21 +8,39 @@
 ヘヴン	Hevn	avoid: Heaven
 蛮ちゃん	Ban-chan
 アル	Al
-蛮	Ban
-銀次	Ginji
-士度	Shido
-花月	Kazuki
-赤屍	Akabane
-アル	Al
-ヘヴン	Hevn
-ＭＡＩ	MAI
-西園寺	Saionji
-？？？	???
-ハカマ	Hakama
-横取り屋	Poacher
-シズク	Shizuku
-山城	Yamashiro
+山城芸能プロ	Yamashiro Productions
+Ｎホール	N Hall
 ゲットバッカーズ	GetBackers	avoid: Get Backers
 電撃	Electric Shock
 威霊仙	Clematis Root
 冬虫夏草	Cordyceps
+護り屋	protector
+横取り屋	Poacher	avoid: Grabber
+ザ☆シグナルズ	The Signals
+ＤＶＤロム	DVD-ROM
+確かに引き受けた	consider it done
+染川シズク	Shizuku Somekawa
+紋之月ハカマ	Hakama Monnotsuki
+蛮	Ban	(name tag)
+銀次	Ginji	(name tag)
+士度	Shido	(name tag)
+笑師	Emishi	(name tag)
+花月	Kazuki	(name tag)
+卑弥呼	Himiko	(name tag)
+赤屍	Akabane	(name tag)
+鏡	Kagami	(name tag)
+十兵衛	Juubei	(name tag)
+アル	Al	(name tag)
+ヘヴン	Hevn	(name tag)
+社員	Employee	(name tag)
+女子社員	Employee	(name tag)
+西園寺	Saionji	(name tag)
+秘書	Secretary	(name tag)
+スタッフ	Staff	(name tag)
+ツルコ	Tsuruko	(name tag)
+Ｃメンバー	C Member	(name tag)
+マネージャー	Manager	(name tag)
+おばさん	Lady	(name tag)
+女子高生	Schoolgirl	(name tag)
+学生	Student	(name tag)
+専務	Director	(name tag)

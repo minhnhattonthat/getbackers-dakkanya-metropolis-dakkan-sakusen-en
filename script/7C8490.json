@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "笑師",
   "jp": "停電や…",
-  "en": ""
+  "en": "Blackout..."
  },
  {
   "id": "7C8490.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "まずいね…部屋のトビラは自動ドアだ　",
-  "en": ""
+  "en": "That's bad... The room doors are"
  },
  {
   "id": "7C8490.8",
@@ -35,6 +35,6 @@
   "box": 2,
   "speaker": "花月",
   "jp": "停電時には開かなくなってしまう　",
-  "en": ""
+  "en": "automatic. They won't open in a blackout."
  }
 ]

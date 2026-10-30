@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "花月",
   "jp": "十兵衛、無事だったんだね",
-  "en": ""
+  "en": "Juubei, you're safe."
  },
  {
   "id": "7BE858.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "すまん、花月…　",
-  "en": ""
+  "en": "Forgive me, Kazuki... Like this, I can hardly"
  },
  {
   "id": "7BE858.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "十兵衛　",
   "jp": "これではお前を守ることなど…",
-  "en": ""
+  "en": "protect you..."
  },
  {
   "id": "7BE858.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "花月",
   "jp": "いいんだ、十兵衛",
-  "en": ""
+  "en": "It's alright, Juubei. I'm just glad you're"
  },
  {
   "id": "7BE858.13",
@@ -58,6 +58,6 @@
   "box": 3,
   "speaker": "花月",
   "jp": "君が無事で良かった…",
-  "en": ""
+  "en": "safe..."
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛭田",
   "jp": "ここはボクの街だぞ！",
-  "en": ""
+  "en": "This is MY town!"
  },
  {
   "id": "7CAE3C.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "蛭田",
   "jp": "あんな人形みたいなのに　",
-  "en": ""
+  "en": "I won't let those doll-looking things act like"
  },
  {
   "id": "7CAE3C.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "蛭田",
   "jp": "デカい顔されてたまるか！！　",
-  "en": ""
+  "en": "they own the place!!"
  },
  {
   "id": "7CAE3C.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "使用人　",
   "jp": "ぼっちゃん、危険です！　",
-  "en": ""
+  "en": "Young master, it's dangerous! Please"
  },
  {
   "id": "7CAE3C.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "使用人　",
   "jp": "お屋敷にお戻り下さい！！",
-  "en": ""
+  "en": "return to the mansion!!"
  },
  {
   "id": "7CAE3C.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛭田",
   "jp": "うるさいな！",
-  "en": ""
+  "en": "Shut up!"
  },
  {
   "id": "7CAE3C.17",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "蛭田",
   "jp": "そんなこと言ってるヒマがあったら、　",
-  "en": ""
+  "en": "If you've got time to say stuff like that,"
  },
  {
   "id": "7CAE3C.18",
@@ -82,6 +82,6 @@
   "box": 5,
   "speaker": "蛭田",
   "jp": "お前たちもボクと一緒に戦え！！　",
-  "en": ""
+  "en": "then fight alongside me!!"
  }
 ]

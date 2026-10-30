@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "卑弥呼　",
   "jp": "ちょっと、あたしたちを　",
-  "en": ""
+  "en": "Hey, you're not planning to leave us"
  },
  {
   "id": "7CA870.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "卑弥呼　",
   "jp": "置いてく気じゃないでしょうね？　",
-  "en": ""
+  "en": "behind, are you?"
  },
  {
   "id": "7CA870.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "ここまで巻き込んでおきながら、　",
-  "en": ""
+  "en": "After dragging us in this far, that'd be"
  },
  {
   "id": "7CA870.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "卑弥呼　",
   "jp": "それはないんじゃない？　",
-  "en": ""
+  "en": "pretty low, don't you think?"
  },
  {
   "id": "7CA870.9",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "…卑弥呼！　",
-  "en": ""
+  "en": "...Himiko!"
  },
  {
   "id": "7CA870.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "あ、赤屍さんも一緒に",
-  "en": ""
+  "en": "Ah, Akabane-san, you're coming with us"
  },
  {
   "id": "7CA870.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "行ってくれるんですか？　",
-  "en": ""
+  "en": "too?"
  },
  {
   "id": "7CA870.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "赤屍",
   "jp": "ええ…楽しい仕事になりそうですからね",
-  "en": ""
+  "en": "Yes... This looks to be an enjoyable job."
  },
  {
   "id": "7CA870.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "赤屍",
   "jp": "そうですよね、銀次クン？",
-  "en": ""
+  "en": "Is it not, Ginji-kun?"
  },
  {
   "id": "7CA870.24",
@@ -112,6 +112,6 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "そ、そうですね…ハハハ………",
-  "en": ""
+  "en": "Y-yeah, it sure is... Hahaha......"
  }
 ]

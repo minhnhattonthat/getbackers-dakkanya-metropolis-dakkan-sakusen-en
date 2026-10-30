@@ -1,0 +1,354 @@
+>> 792B68.3 | [銀次] …ン？ / おぉーっ！　ソレは！！
+   ...Hm? Whoa! Is that...?!
+>> 792B68.8 | [蛮] おっ、こいつは手つかずの / デラックス幕の内弁当じゃねえかよ！
+   Whoa, it's an untouched deluxe bento box!
+>> 792B68.11 | [蛮] しかも賞味期限はまだ昨日！
+   And it only expired yesterday!
+>> 792B68.15 | [銀次] やったね、蛮ちゃん！ / やっとまともな食事にありつけるよ！
+   We did it, Ban-chan! We finally get to eat a real meal!
+>> 792B68.20 | [蛮] どれ、 / まずはプリプリのエビフライから…
+   Now then, starting with this plump fried shrimp...
+>> 792CFC.3 | [蛮] ………
+   ...
+>> 792CFC.7 | [銀次] ああー…、 / オレ達の３日ぶりのディナーが…
+   Aww... Our first dinner in three days...
+>> 792CFC.12 | [使用人] なんだ、お前らは… / 用がないならさっさと消えろ！
+   Who the hell are you two? If you've got no business here, get lost!
+>> 792CFC.17 | [蛮] ンだと、コラ！　用なら大アリだ！ / 食いモンのウラミ、思い知れ！！
+   What'd you say?! We've got business, all right! Feel the wrath of a stolen meal!!
+>> 792E54.3 | [蛮] 食いモンのウラミ、思い知ったかよ？
+   How'd you like the wrath of a stolen meal?
+>> 792E54.7 | [銀次] 蛮ちゃ～ん、もうダメだぁ… / すきっ腹で戦ったからパワーが…
+   Ban-chaaan, I can't go on... Fighting on an empty stomach drained all my power...
+>> 792F14.3 | [？？？] ＴＡＲＥ！
+   TARE!
+>> 792F14.7 | [蛮] あン？　テアだぁ！？
+   Huh? 'Tea-ah'?!
+>> 792F14.11 | [？？？] ＴＡＲＥ！　探シマシタデスヨ！ / 無事デ良カッタ…
+   TARE! I search and search for you! I am so glad you are safe...
+>> 792F14.16 | [銀次] あの～…
+   Ummm...
+>> 792F14.20 | [？？？] ハッ！ / アナタ、ＴＡＲＥジャアリマセンネ？
+   Huh! You are not TARE, are you?
+>> 792F14.25 | [銀次] そうです
+   That's right.
+>> 792F14.27 | [銀次] ＴＡＲＥじゃなくて、 / 天野銀次（あまのぎんじ）です
+   I'm not TARE, I'm Ginji Amano.
+>> 792F14.32 | [？？？] スミマセン…
+   I am sorry...
+>> 792F14.38 | [蛮] いい加減にしろ！！
+   Knock it off!!
+>> 792F14.40 | [蛮] そっちのヤツも / いきなりなんだってンだよ！
+   And what's your deal, popping up out of nowhere?!
+>> 792F14.45 | [？？？] ボク、ＴＡＲＥ探シテル / ＴＡＲＥ、コノ人ニトテモヨク似テル
+   I look for TARE. TARE look very much like this man.
+>> 792F14.48 | [？？？] デモ違イマシタ…
+   But I was wrong...
+>> 792F14.52 | [銀次] そのＴＡＲＥって / キミの友達かなにかなの？
+   Is this TARE your friend or something?
+>> 792F14.55 | [銀次] えーと…
+   Umm...
+>> 792F14.59 | [アル] ボク、名前アル言イマス
+   Me, my name is Al.
+>> 792F14.61 | [アル] ＴＡＲＥハボクノ大切ナペット！ / デモアノ人ノ仲間ニサラワレタ…
+   TARE is my precious pet! But friends of that man, they take it away...
+>> 792F14.66 | [銀次] 蛮ちゃん、オレたちがそのＴＡＲＥを / 奪り還してあげようよ！
+   Ban-chan, let's take TARE back for him!
+>> 792F14.71 | [蛮] ンな一銭の得にもならねェような仕事、 / 誰が引き受けるかってんだよ！
+   Who'd take a job that won't earn us a single yen?!
+>> 792F14.74 | [蛮] ただでさえ腹が減って…
+   We're starving as it is...
+>> 792F14.78 | [アル] オ金、イッパイアル！ / オ願イデス！　ＴＡＲＥ奪リ還シテ！
+   Money, I have lots! Please! Take back TARE!
+>> 792F14.81 | [アル] ボク、コノ街ノコトヨク分カラナイ…
+   Me, I do not know this town well...
+>> 792F14.85 | [蛮] それを早く言えってんだよ！ / 依頼料が出るなら話は別だ！！
+   Shoulda said that sooner! If there's a fee, that's a different story!!
+>> 792F14.89 | [蛮] ゲットバッカーズ！ / この依頼、確かに引き受けた！！
+   GetBackers! This job... consider it done!!
+>> 792F14.94 | [アル] ゲット…？？？
+   Get...???
+>> 792F14.98 | [銀次] そう、オレたちは / 成功率ほぼ１００％の奪還屋…
+   Yep, we're the retrievers with a nearly 100% success rate...
+>> 792F14.101 | [銀次] ＧｅｔＢａｃｋｅｒｓ / （ゲットバッカーズ）！
+   The GetBackers!
+>> 792F14.106 | [蛮] 俺は美堂蛮（みどうばん）だ / よろしくな、スポンサーさんよ
+   I'm Ban Mido. Nice to meet ya, Mr. Sponsor.
+>> 793650.3 | [蛮] ああ？ / …なんだってんだ！？
+   Huh? ...What the hell?!
+>> 793650.8 | [アル] アナタタチ、トテモ強イ力持ッテル / コノ石ガ教エテクレテマス…
+   You have very strong power. This stone, it tells me...
+>> 793650.11 | [アル] 蛮サンハ無ノ力ヲ…
+   Ban-san, the power of Void...
+>> 793650.15 | [蛮] …無の力？
+   ...The power of Void?
+>> 793650.19 | [アル] 銀サンハ雷ノ力ヲ持ッテル
+   Gin-san, he has the power of Thunder.
+>> 793650.23 | [銀次] 雷なら確かに出せるけど…
+   Well, I can make thunder, sure...
+>> 793650.27 | [アル] アナタタチ、 / ソノ力引キ出セバ、モット強クナル
+   You, if you draw out this power, you become more strong.
+>> 793650.30 | [アル] コノ石ハオ守リデス…持ッテテ下サイ
+   This stone is a charm... Please keep it.
+>> 793650.34 | [銀次] あ、ありがとう…
+   Th-thanks...
+>> 793650.38 | [アル] ボク、アナタタチニ会エタハ / 運命カモ知レナイ…
+   Me meeting you... maybe it is fate...
+>> 7938D0.3 | [蛮] さてと、まずはコイツの素性でも / 探ってみるとするか…
+   Right. First, let's dig up who this guy is...
+>> 7938D0.6 | [蛮] …ふ～ん、多分コイツは / 最近ここらで羽振りがいいってウワサの
+   ...Hmm. This punk's probably with the guy rumored to be rolling in dough lately:
+>> 7938D0.9 | [蛮] 蛭田（ひるた）んトコのヤローだぜ
+   that Hiruta guy.
+>> 7938D0.13 | [銀次] 蛭田って近頃よく聞く名前だよね / いいウワサ聞かないけど…
+   Hiruta's a name you hear a lot lately, huh. Never anything good, though...
+>> 7938D0.18 | [蛮] この辺りにまだいるんじゃねえか？
+   Bet he's still somewhere around here.
+>> 7938D0.22 | [銀次] だね！ / じゃあ、まずは蛭田を探そう！！
+   Yeah! Then first, let's find Hiruta!!
+>> 793AA4.3 | [銀次] 蛮ちゃん、蛭田ってアレじゃない？
+   Ban-chan, isn't that Hiruta over there?
+>> 793AA4.7 | [蛮] よォ、蛭田！ / ゲットバッカーズ、参上だ！
+   Yo, Hiruta! The GetBackers have arrived!
+>> 793AA4.10 | [蛮] ケガしたくなかったら、 / 大人しくＴＡＲＥを渡すんだな！
+   If you don't wanna get hurt, hand over TARE nice and quiet!
+>> 793AA4.15 | [蛭田] なんだ、お前ら…！？
+   Wh-who are you people...?!
+>> 793AA4.17 | [蛭田] ボクは蛭田財閥のおんぞうしだぞ！ / 呼び捨てにするな！！
+   I'm the heir of the Hiruta zaibatsu! Don't you dare call me just "Hiruta"!!
+>> 793AA4.22 | [蛮] 蛭田ちゃんよォ、優しく言ってるうちに / 渡した方が身のためだぜ？
+   Hiruta-chan, hand it over while I'm still being nice. It's for your own good.
+>> 793AA4.27 | [蛭田] ちゃんとはなんだ！ / お前のコトなんて、パパに言いつけて…
+   What's with the "-chan"?! I'm gonna tell my papa all about you...
+>> 793AA4.30 | [蛭田] イテテ！ / こいつ、またかみやがったな！！
+   Ow ow! This thing bit me again!!
+>> 793AA4.35 | [銀次] ねえ、ＴＡＲＥって犬なのかな？ / なんかすごくかんでるみたいだけど…
+   Hey, is TARE a dog? It sure seems to be biting a lot...
+>> 793AA4.40 | [蛮] そういや聞くの忘れてたな… / ま、犬かネコのどっちかだろ
+   Come to think of it, I forgot to ask... Eh, it's gotta be a dog or a cat.
+>> 793AA4.45 | [蛭田] コイツ、いい加減にしろ！ / パパに言いつけてやるぞ！！
+   You little pest, cut it out! I'm telling Papa on you!!
+>> 793E30.3 | [蛮] テメー、逃げンのかよ！！
+   Hey, you running away?!!
+>> 793E30.7 | [蛭田] ボクは忙しいんだよ！
+   I'm a busy man!
+>> 793E30.9 | [蛭田] お前たち！ / そいつらをコテンパンにしてやんな！！
+   You lot! Beat these guys to a pulp!!
+>> 793EF8.3 | [蛮] なんだよ、やろうってのか？ / 上等だ、コラ！
+   What, you wanna go? Bring it on, punk!
+>> 793EF8.8 | [銀次] 蛮ちゃん、来るよ！
+   Here they come, Ban-chan!
+>> 793F98.3 | [蛮] ケッ、準備運動にもなりゃしねえ
+   Feh, that wasn't even a warm-up.
+>> 793F98.7 | [アル] ＴＡＲＥ！
+   TARE!
+>> 793F98.12 | [ＴＡＲＥ] ウキュ～！
+   Ukyuu~!
+>> 793F98.16 | [蛮] あれがＴＡＲＥだあ？
+   THAT's TARE?
+>> 793F98.18 | [蛮] ……… / なんなんだ、ありゃあ？
+   ... What the hell is that thing?
+>> 793F98.23 | [アル] ＴＡＲＥハボクノ国ノ生キ物 / トテモトテモカワイイ！
+   TARE is creature from my country. Very, very cute!
+>> 793F98.28 | [銀次] へえ～、あんな生き物初めて見たよ / アル君の国ってどこなの？
+   Wow~, I've never seen a creature like that! Where's your country, Al-kun?
+>> 793F98.33 | [アル] ボクノ国、スゴクスゴク遠イトコロ / 地図ニモナイクライ遠イ…
+   My country is very, very far place. So far, it is not even on map...
+>> 793F98.38 | [蛮] ンなこたどうだってイイんだよ！ / アイツ捕まえねーと飯にもありつけねえ
+   Who cares about that! If we don't catch that thing, we don't get to eat.
+>> 793F98.41 | [蛮] オラ、 / さっさとこっち来やがれってんだよ！！
+   Come here already, dammit!!
+>> 793F98.46 | [アル] ダメデスヨ、蛮サン / 大キイ声ダシチャ…
+   No good, Ban-san. You must not make big voice...
+>> 7942DC.3 | [銀次] あっ、逃げちゃった…
+   Aww, it ran away...
+>> 7942DC.5 | [銀次] ダメだよ、蛮ちゃん！ / 怖い顔でイキナリおどかしたら！
+   That's no good, Ban-chan! You scared it all of a sudden with that scary face!
+>> 7942DC.10 | [蛮] ナニィ！ / 俺様の顔がコワイだァ？
+   Whaaat?! You're saying the great Ban Mido's face is scary?
+>> 7942DC.15 | [アル] ハイ、怖イデス / ウニ見エマス、蛮サンノ頭
+   Yes, very scary. Ban-san's head, it look like sea urchin.
+>> 7942DC.20 | [蛮] ………
+   ...
+>> 7942DC.24 | [銀次] ホラ、蛮ちゃん、落ち込んでないで / 早く探しに行かなくちゃ！
+   C'mon, Ban-chan, don't mope. We have to go look for it, quick!
+>> 7942DC.27 | [銀次] 蛭田がまだＴＡＲＥを / 狙ってるかも知れないよ！
+   Hiruta might still be after TARE!
+>> 7944CC.3 | [銀次] いた！　ＴＡＲＥだ！
+   There! It's TARE!
+>> 7944CC.7 | [蛮] よし、銀次 / 大声出さねえように近付くんだぞ
+   Okay, Ginji. Sneak up on it, and don't yell.
+>> 7944CC.12 | [銀次] 蛮ちゃんじゃないんだから大丈夫だよ
+   I'm not you, Ban-chan, so I'll be fine.
+>> 7944CC.14 | [銀次] ＴＡＲＥ、迎えに来たよ…
+   TARE, I've come to get you...
+>> 7945D4.3 | [蛮] テメーも逃げられてんじゃねーかよ！ / ったく、これだからケモノはよォ！
+   It ran from you too! Jeez, this is why animals are such a pain!
+>> 7945D4.8 | [銀次] …そうだ、士度（しど）なら / なんとかできるかも！
+   ...I know, Shido might be able to do something!
+>> 7945D4.13 | [蛮] よりによってアイツかよ…
+   Him, of all people...
+>> 7945D4.15 | [蛮] ま、ケモノに関しちゃアイツの方が / なれてるかも知れねーけどな？
+   Well, when it comes to animals, maybe he's got more experience, huh?
+>> 7945D4.20 | [銀次] でしょ！ / 士度に頼んでみようよ！
+   Right?! Let's ask Shido!
+>> 7945D4.25 | [蛮] 冗談じゃねえ！ / なんだってアイツに頭下げなくちゃ…
+   No way in hell! Why should I have to bow my head to that guy...
+>> 7945D4.30 | [蛮] グー…
+   *growl*...
+>> 7945D4.34 | [銀次] …蛮ちゃん、ご飯のためだよ
+   ...Ban-chan, it's for food.
+>> 7945D4.38 | [蛮] …チッ、しゃあねえな！ / 今回だけだからな！
+   ...Tch, fine! Just this once!
+>> 794894.3 | [蛮] おい、波児（ポール）！ / ここに猿マワシのヤロー来てねえか？
+   Hey, Paul! Has that monkey-wrangler come by here?
+>> 794894.8 | [波児] いや、ここにはいないぜ
+   Nope, he's not here.
+>> 794894.12 | [銀次] あれ、夏実（なつみ）ちゃんは？
+   Huh, where's Natsumi-chan?
+>> 794894.16 | [波児] 買いモン出てるよ
+   Out shopping.
+>> 794894.18 | [波児] …そういや士度なら、 / さっきヘヴンちゃんとどこかへ行ったな
+   ...Come to think of it, Shido went off somewhere with Hevn-chan a bit ago.
+>> 794894.23 | [蛮] あの女、俺たちを差し置いて / 猿マワシなんぞに仕事振りやがったな！
+   That woman went over our heads and gave a job to that monkey-wrangler!
+>> 794894.26 | [蛮] 許さん！！
+   Unforgivable!!
+>> 794894.30 | [波児] …オマエらがいなかったからだろ？
+   ...'Cause you two weren't around, right?
+>> 794894.34 | [蛮] そういう問題じゃねえ！ / ヘヴン探しに行くぞ、銀次！
+   That's not the point! Let's go find Hevn, Ginji!
+>> 794894.39 | [波児] …まったく、落ち着きのないヤローだな
+   ...Sheesh, that guy can't sit still.
+>> 794B60.3 | [夏実] あっ、奪還屋さんたちだー！ / 蛮さ～ん！　銀次さーん！！
+   Oh, it's the GetBackers! Ban-saaan! Ginji-saaan!!
+>> 794B60.8 | [銀次] やっほ～、夏実ちゃん！ / 買い物大変そうだね
+   Heya~, Natsumi-chan! Shopping looks like hard work.
+>> 794B60.13 | [夏実] お二人ともこんなトコロで / なにしてるんですか？
+   What are you two doing in a place like this?
+>> 794B60.18 | [銀次] そうそう、ヘヴンさんと士度が / ドコ行ったか知らない？
+   Oh yeah, do you know where Hevn-san and Shido went?
+>> 794B60.23 | [夏実] ヘヴンさんはその辺で用事が / あるって言ってたけど…
+   Hevn-san said she had some errands around here...
+>> 794B60.26 | [夏実] 士度さんのコトは聞いてませんよ
+   But I didn't hear anything about Shido-san.
+>> 794B60.30 | [蛮] なんだ、アイツら一緒じゃねえのか？
+   What, they're not together?
+>> 794B60.32 | [蛮] …まあいい、探すぞ、銀次！
+   ...Whatever. Let's search, Ginji!
+>> 794B60.36 | [銀次] じゃあまた後でね、夏実ちゃん！
+   See you later, Natsumi-chan!
+>> 794B60.41 | [夏実] ガンバってね！
+   Good luck!
+>> 794E4C.3 | [蛮] おいコラ、ヘヴン！
+   Hey, you! Hevn!
+>> 794E4C.5 | [蛮] テメー、俺たちを裏切って / 猿マワシに仕事振りやがったな！！
+   You betrayed us and gave a job to the monkey-wrangler!!
+>> 794E4C.10 | [ヘヴン] あら、士度クンに妬いてんの？ / 男のヤキモチはみっともないわよ
+   My, jealous of Shido-kun? A jealous man is so unbecoming.
+>> 794E4C.13 | [ヘヴン] それに私は士度クンに前の仕事の / ギャラを払っただけなんですからね
+   Besides, I was only paying Shido-kun his fee for a previous job, you know.
+>> 794E4C.18 | [蛮] ギャラだあ？
+   His fee?
+>> 794E4C.20 | [蛮] アイツに金渡すなんざ、 / それこそネコに小判じゃねえかよ！
+   Giving that guy money is like casting pearls before swine!
+>> 794E4C.23 | [蛮] ヤツへのギャラは俺に回せ！
+   Send his fee my way!
+>> 794E4C.27 | [銀次] 蛮ちゃんてば、 / むちゃくちゃなコト言って…
+   Ban-chan, you're talking nonsense...
+>> 794E4C.30 | [銀次] ところでヘヴンさん、 / 士度がドコ行ったか知らない？
+   By the way, Hevn-san, do you know where Shido went?
+>> 794E4C.35 | [ヘヴン] さあ…？ / 私はただギャラを渡しただけだから
+   Who knows? I just handed him his pay.
+>> 794E4C.38 | [ヘヴン] あっ、でもコンビニのある方に / 向ってたかな？
+   Oh, but I think he was heading toward the convenience store?
+>> 794E4C.43 | [銀次] ありがと、じゃあね！
+   Thanks, see ya!
+>> 794E4C.47 | [ヘヴン] （この二人が士度クンを探すなんて、 / 珍しいこともあるものね…）
+   (Those two out looking for Shido-kun? Now there's a rare sight...)
+>> 7951F8.3 | [銀次] 士度！
+   Shido!
+>> 7951F8.7 | [士度] ？　銀次… / それに美堂のヤローじゃねえかよ
+   ? Ginji... And that bastard Mido, too.
+>> 7951F8.11 | [士度] あん？　なんか用か？
+   Huh? You want something?
+>> 7951F8.15 | [銀次] 今、ある人の依頼でペットを / 奪還する仕事をしてるんだけど、
+   Right now we're doing a job for someone, retrieving a pet, but
+>> 7951F8.18 | [銀次] そのペットがオレたちを警戒してて / なかなか捕まえられないんだ
+   the pet's wary of us, so we just can't catch it.
+>> 7951F8.21 | [銀次] で、士度の力で / なんとかなんないかなーっと思ってさ
+   So we were thinking maybe your power could help, Shido.
+>> 7951F8.26 | [士度] 悪いがそんなことに付き合ってるほど / ヒマじゃねーよ
+   Sorry, but I'm not free enough to play along with that kind of thing.
+>> 7951F8.31 | [蛮] チッ、だからコイツに頼むのは / イヤだったんだよ！
+   Tch, this is exactly why I didn't wanna ask him!
+>> 7951F8.36 | [銀次] 用があるみたいだから仕方ないよ
+   He seems busy, so it can't be helped.
+>> 7951F8.38 | [銀次] 蛮ちゃん、ＴＡＲＥの姿も見えないし、 / もう一度蛭田を探して…
+   Ban-chan, there's no sign of TARE either, so let's look for Hiruta again and...
+>> 7951F8.43 | [士度] おい、今、なんてった？
+   Hey, what did you just say?
+>> 7951F8.47 | [銀次] え？　蛭田のこと？
+   Huh? About Hiruta?
+>> 7951F8.51 | [士度] …そいつがお前らの依頼人の / ペットを奪ったってのか？
+   ...You saying that guy stole your client's pet?
+>> 7951F8.56 | [銀次] そうだけど… / 蛭田を知ってるの？
+   Yeah... Do you know Hiruta?
+>> 7951F8.61 | [士度] 近頃、動物たちが蛭田のせいで / 妙におびえててな…
+   Lately the animals have been strangely scared, all because of Hiruta...
+>> 7951F8.64 | [士度] 蛭田ってのは珍しい生き物を見ると / 強引に自分のものにしちまうらしい
+   Word is, whenever Hiruta sees a rare creature, he takes it for himself by force.
+>> 7951F8.69 | [蛮] ほほう、それで心優しい猿マワシくんが / 立ち上がったってワケだ！
+   Oho, so the kindhearted monkey-wrangler-kun is taking a stand!
+>> 7951F8.74 | [銀次] なら話は早いじゃん！ / 蛭田を倒してＴＡＲＥを奪り還そうよ！
+   Then that makes it easy! Let's beat Hiruta and take TARE back!
+>> 7951F8.79 | [士度] 勝手に決めるんじゃねえよ / 別に俺は一人でも…
+   Don't go deciding on your own. I can handle it alone anyway...
+>> 7951F8.84 | [銀次] 頼むよ、士度 / 士度の力が必要なんだ
+   Please, Shido. We need your power.
+>> 7951F8.89 | [士度] …分かったよ
+   ...Fine.
+>> 795830.3 | [銀次] …あれ、なんだろう？
+   ...Huh, what's that?
+>> 795830.5 | [銀次] さっきアル君にもらった石が / 光ってるみたいなんだけど…
+   The stone Al-kun gave me earlier looks like it's glowing...
+>> 795830.10 | [蛮] どれ、見せてみな？
+   Here, lemme see.
+>> 795830.12 | [蛮] ……… / 土って字が浮かんでるように見えるな
+   ... Looks like the word "Earth" is showing up on it.
+>> 795830.17 | [銀次] さっきアル君がオレは雷の、蛮ちゃんは / 無の力を持ってるって言ってたよね
+   Earlier Al-kun said I've got Thunder power and Ban-chan's got Void power, right?
+>> 795830.20 | [銀次] …てことは士度は土の力を / 持ってるってことなのかな？
+   ...So does that mean Shido has the power of Earth?
+>> 795830.25 | [蛮] 土！！ / ブハハハハッ！　お似合いだぜ！
+   Earth!! Bwahahaha! That suits you!
+>> 795830.30 | [士度] うるせーんだよ、ウニ頭！
+   Shut up, urchin head!
+>> 795A70.3 | [銀次] あっ、ＴＡＲＥ！ / やっぱり蛭田に捕まってる！！
+   Ah, TARE! Hiruta caught it after all!!
+>> 795A70.8 | [蛮] テメー、しょうこりもなく / またＴＡＲＥを奪ったみてえだな！
+   You stubborn punk, looks like you snatched TARE again!
+>> 795A70.13 | [蛭田] ダレかと思えば、お前らか！ / お前らのことは後でパパに言いつけて…
+   I wondered who it was, and it's you guys! I'll tell Papa about you later...
+>> 795A70.16 | [蛭田] イテ！　イテテテテッ！！
+   Ow! Ow ow ow ow!!
+>> 795A70.20 | [銀次] またかまれてる…
+   It's biting him again...
+>> 795A70.22 | [銀次] なついてないんだから、 / さっさとこっちに渡せばいいのに
+   It doesn't even like you, so you should just hand it over already.
+>> 795A70.27 | [蛭田] うるさい！　ボクはこいつで / ＭＡＩちゃんの気を引くんだよ！
+   Shut up! I'm gonna use this thing to get MAI-chan's attention!
+>> 795A70.30 | [蛭田] 動物好きのＭＡＩちゃんだったら、 / この珍しい生き物を見れば…
+   MAI-chan loves animals, so if she sees this rare creature...
+>> 795A70.35 | [蛮] コイツ…まさか女の気ィ引くために / 珍しい動物集めてンのか？
+   This guy... don't tell me he's collecting rare animals to impress a girl?
+>> 795A70.40 | [士度] 許せねえな
+   Unforgivable.
+>> 795A70.44 | [蛭田] うるさい、もう怒ったぞ！
+   Shut up, now I'm mad!
+>> 795A70.46 | [蛭田] ボクが特別にならしたサソリで / お前らにおしおきしてやる！
+   I'll punish you with my specially trained scorpions!
+>> 795A70.51 | [蛮] おっ、ヤル気か？
+   Oh, you wanna go?
+>> 795A70.53 | [蛮] ちっとは楽しませてくれるんだろうな？ / 蛭田ちゃんよォ！
+   You'd better at least make it fun, Hiruta-chan!

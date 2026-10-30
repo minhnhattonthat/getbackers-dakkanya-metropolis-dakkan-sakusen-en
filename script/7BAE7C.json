@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "写真屋　",
   "jp": "旅の記念に写真いかがですカ？",
-  "en": ""
+  "en": "Photo for memory of trip, yes?"
  },
  {
   "id": "7BAE7C.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "写真屋さん、こんなところまで…　",
-  "en": ""
+  "en": "Photographer-san, all the way out here..."
  },
  {
   "id": "7BAE7C.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "大変ですね　",
-  "en": ""
+  "en": "That must be rough."
  },
  {
   "id": "7BAE7C.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "写真屋　",
   "jp": "気にしないで",
-  "en": ""
+  "en": "No worry. Is okay, is okay."
  },
  {
   "id": "7BAE7C.13",
@@ -58,6 +58,6 @@
   "box": 3,
   "speaker": "写真屋　",
   "jp": "ダイジョブダイジョブ",
-  "en": ""
+  "en": " "
  }
 ]

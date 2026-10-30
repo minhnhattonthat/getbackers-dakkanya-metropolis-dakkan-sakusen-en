@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "鏡　",
   "jp": "ところでキミたち、　",
-  "en": ""
+  "en": "By the way, you two are looking for the"
  },
  {
   "id": "7C5ADC.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "鏡　",
   "jp": "配電室のカギを探してるんだったね？　",
-  "en": ""
+  "en": "switch room key, aren't you?"
  },
  {
   "id": "7C5ADC.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "この階のどこかに",
-  "en": ""
+  "en": "Seems the key you're after is somewhere"
  },
  {
   "id": "7C5ADC.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "鏡　",
   "jp": "お探しのカギがあるみたいだよ",
-  "en": ""
+  "en": "on this floor."
  },
  {
   "id": "7C5ADC.9",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "な…なぜ、　",
-  "en": ""
+  "en": "H-how... How did you know we were looking"
  },
  {
   "id": "7C5ADC.12",
@@ -59,7 +59,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "カギを探してるって知ってるの！？",
-  "en": ""
+  "en": "for the key?!"
  },
  {
   "id": "7C5ADC.14",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "鏡　",
   "jp": "観察してたから…ね　",
-  "en": ""
+  "en": "Because I've been observing... you see."
  },
  {
   "id": "7C5ADC.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7C5ADC.22",
@@ -97,6 +97,6 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "（…やっぱり怖いよ～！！）　",
-  "en": ""
+  "en": "(...He IS scary~!!)"
  }
 ]

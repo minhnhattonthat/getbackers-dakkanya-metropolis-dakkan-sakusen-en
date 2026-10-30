@@ -12,14 +12,14 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "よォ、倉庫のカギ持ってねえか？　",
-  "en": ""
+  "en": "Yo, you got the warehouse key?"
  },
  {
   "id": "7D060C.5",
   "kind": "name",
   "box": 1,
   "jp": "民Ｄ",
-  "en": "Local D"
+  "en": "Wanderer D"
  },
  {
   "id": "7D060C.7",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "民Ｄ",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7D060C.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "安心して、　",
-  "en": ""
+  "en": "Don't worry, we're Al-kun's friends."
  },
  {
   "id": "7D060C.12",
@@ -50,14 +50,14 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "オレたちはアルくんの友達ですよ　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7D060C.14",
   "kind": "name",
   "box": 3,
   "jp": "民Ｄ",
-  "en": "Local D"
+  "en": "Wanderer D"
  },
  {
   "id": "7D060C.16",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "民Ｄ",
   "jp": "アア…話ハ聞イテマス",
-  "en": ""
+  "en": "Ah... I hear about you."
  },
  {
   "id": "7D060C.18",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "民Ｄ",
   "jp": "デモ、カギヲ持ッテルノ私デハナイ",
-  "en": ""
+  "en": "But the one with key is not me."
  },
  {
   "id": "7D060C.20",
@@ -81,7 +81,7 @@
   "box": 6,
   "speaker": "民Ｄ",
   "jp": "ソノ者、モット下ニ行キマシタ",
-  "en": ""
+  "en": "That one, he went further down."
  },
  {
   "id": "7D060C.22",
@@ -89,7 +89,7 @@
   "box": 7,
   "speaker": "民Ｄ",
   "jp": "６０階辺リニイルハズデス",
-  "en": ""
+  "en": "He should be around floor 60."
  },
  {
   "id": "7D060C.24",
@@ -104,7 +104,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "もっと下かあ…　",
-  "en": ""
+  "en": "Even further down, huh... Thanks, we'll go"
  },
  {
   "id": "7D060C.27",
@@ -112,6 +112,6 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "ありがと、探してみます！",
-  "en": ""
+  "en": "look!"
  }
 ]

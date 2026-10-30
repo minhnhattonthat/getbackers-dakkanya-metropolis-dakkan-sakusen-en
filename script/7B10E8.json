@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "ハカマ　",
   "jp": "悪いけど、　",
-  "en": ""
+  "en": "Sorry, but you'll have to find the passes"
  },
  {
   "id": "7B10E8.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "ハカマ　",
   "jp": "パスは自力で探してちょうだい",
-  "en": ""
+  "en": "yourselves."
  },
  {
   "id": "7B10E8.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "ハカマ　",
   "jp": "分からないことは聞いてもらって　",
-  "en": ""
+  "en": "You can ask me if there's anything you"
  },
  {
   "id": "7B10E8.7",
@@ -36,6 +36,6 @@
   "box": 2,
   "speaker": "ハカマ　",
   "jp": "構わないけど…　",
-  "en": ""
+  "en": "don't understand, though..."
  }
 ]

@@ -17,18 +17,6 @@
 十兵衛	Juubei	avoid: Jubei
 夏実	Natsumi
 アル	Al
-蛮	Ban
-銀次	Ginji
-士度	Shido
-笑師	Emishi
-花月	Kazuki
-卑弥呼	Himiko
-赤屍	Akabane
-鏡	Kagami
-十兵衛	Juubei
-アル	Al
-夏実	Natsumi
-ハカマ	Hakama
 アルファタワー	Alpha Tower
 スネークバイト	Snake Bite
 ベノムファング	Venom Fang
@@ -72,6 +60,9 @@
 芍薬	Peony Root
 冬虫夏草	Cordyceps
 蓬莱の玉	Horai Jewel
+ＤＶＤロム	DVD-ROM
+宝玉	orb	avoid: Hogyoku
+石	stone
 ＨＰ	HP
 ジュノー	Junon	avoid: Juno
 ラトリス	Ratrice

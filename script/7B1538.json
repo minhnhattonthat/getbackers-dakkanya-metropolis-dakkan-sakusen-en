@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "おじさん、おじさん！",
-  "en": ""
+  "en": "Mister, mister!"
  },
  {
   "id": "7B1538.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "社員",
   "jp": "あ、あ、あれ？　子供！？",
-  "en": ""
+  "en": "Wh-wh-what? A kid?! A-are you lost?"
  },
  {
   "id": "7B1538.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "社員",
   "jp": "ま、迷子かな？　どうしたの？",
-  "en": ""
+  "en": "What's wrong?"
  },
  {
   "id": "7B1538.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "えーと、パスが欲しいのです　",
-  "en": ""
+  "en": "Umm, I would like a pass, please."
  },
  {
   "id": "7B1538.14",
@@ -65,7 +65,7 @@
   "box": 4,
   "speaker": "社員",
   "jp": "お、お父さんに頼まれたのかな？　",
-  "en": ""
+  "en": "D-did your daddy send you? Then I'll"
  },
  {
   "id": "7B1538.17",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "社員",
   "jp": "じゃ僕のパスを転送するね",
-  "en": ""
+  "en": "transfer my pass to you."
  },
  {
   "id": "7B1538.21",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "社員",
   "jp": "パスコード１を手に入れた！　",
-  "en": ""
+  "en": "Got Passcode 1!"
  },
  {
   "id": "7B1538.23",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "わーい、アリガト～！！　",
-  "en": ""
+  "en": "Yaaay, thank youuu!!"
  },
  {
   "id": "7B1538.27",
@@ -111,7 +111,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7B1538.31",
@@ -119,6 +119,6 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "色々間違ってるが、まあよしとするか…",
-  "en": ""
+  "en": "A lot of that was wrong, but I'll call it\ngood..."
  }
 ]

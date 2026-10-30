@@ -1,0 +1,596 @@
+M09E10C	Himiko & Juubei 4
+M09E11E	Himiko & Juubei 5
+M09E130	Himiko & Juubei 7
+M09E142	Himiko & Juubei 8
+M09E154	Himiko & Kagami 7
+M09E162	Himiko & Kagami 8
+M09E170	Akabane & Shido 5
+M09E17E	Akabane & Shido 7
+M09E18C	Akabane & Shido 8
+M09E19A	Akabane & Emishi 5
+M09E1A8	Akabane & Emishi 7
+M09E1B6	Akabane & Emishi 8
+M09E1C4	Akabane & Kazuki 5
+M09E1D2	Akabane & Kazuki 7
+M09E1E0	Akabane & Kazuki 8
+M09E1EE	Akabane & Juubei 5
+M09E1FE	Akabane & Juubei 7
+M09E20E	Akabane & Juubei 8
+M09E21E	Akabane & Kagami 7
+M09E22A	Akabane & Kagami 8
+M09E236	Shido & Kazuki 2
+M09E244	Shido & Kazuki 3
+M09E252	Shido & Kazuki 4
+M09E260	Shido & Kazuki 5
+M09E26E	Shido & Kazuki 7
+M09E27C	Shido & Kazuki 8
+M09E28A	Shido & Emishi 4
+M09E298	Shido & Emishi 5
+M09E2A6	Shido & Emishi 6
+M09E2B4	Shido & Emishi 7
+M09E2C2	Shido & Emishi 8
+M09E2D0	Shido & Juubei 4
+M09E2E0	Shido & Juubei 5
+M09E2F0	Shido & Juubei 7
+M09E300	Shido & Juubei 8
+M09E310	Shido & Kagami 7
+M09E31C	Shido & Kagami 8
+M09E328	Emishi & Kazuki 4
+M09E336	Emishi & Kazuki 5
+M09E344	Emishi & Kazuki 7
+M09E352	Emishi & Kazuki 8
+M09E360	Emishi & Juubei 4
+M09E370	Emishi & Juubei 5
+M09E380	Emishi & Juubei 7
+M09E390	Emishi & Juubei 8
+M09E3A0	Emishi & Kagami 7
+M09E3AC	Emishi & Kagami 8
+M09E3B8	Kazuki & Juubei 4
+M09E3C8	Kazuki & Juubei 5
+M09E3D8	Kazuki & Juubei 6
+M09E3E8	Kazuki & Juubei 7
+M09E3F8	Kazuki & Juubei 8
+M09E408	Kazuki & Kagami 7
+M09E414	Kazuki & Kagami 8
+M09E420	Juubei & Kagami 7
+M09E42E	Juubei & Kagami 8
+M09E43C	Bonus 2
+M09E446	Bonus 3
+M09E450	Bonus 4
+M09E45A	Bonus 5
+M09E464	Bonus 6
+M09E46E	Bonus 7
+M09E478	Bonus 8
+M09E482	Bonus 9
+M09E48C	Bonus 10
+M09E498	Bonus 11
+M09E4A4	Bonus 12
+M09E4B0	Bonus 13
+M09E4BC	Bonus 14
+M09E4C8	Bonus 15
+M09E4D4	Bonus 16
+M09E4F4	Options
+M09E4FE	Battle Speed
+M09E508	Music
+M09E510	Sound
+M09E518	Voice
+M09E520	Fast........Slow
+M09E536	Set the battle display speed.
+M09E54A	Music, sound. Left/Right: change. / A Button: play. R Button: stop.
+M09E58C	Voice. Left/Right: change. / A Button: play. R Button: stop.
+M09E62A	Opening
+M09E638	Map 1
+M09E642	Map 2
+M09E64C	Map 3
+M09E656	Map 4
+M09E660	Map 5
+M09E66A	Wandering 1
+M09E676	Wandering 2
+M09E682	Event 1
+M09E68E	Event 2
+M09E69A	Event 3
+M09E6A6	Event 4
+M09E6B2	Event 5
+M09E6BE	Event 6
+M09E6CA	Battle 1
+M09E6D2	Battle 2
+M09E6DA	Battle 3
+M09E6E2	Battle 4
+M09E6EA	Game Over
+M09E6FA	Ending
+M09E708	ACT Start
+M09E718	Music Box Version
+M09E72E	Comedy Skit
+M09E736	Victory
+M09E740	Defeat
+M09E74A	Level Up
+M09E758	Ghost Piano 1
+M09E768	Ghost Piano 2
+M09E778	Ghost Piano 3
+M09E788	Machine Noise BGM
+M09E796	Combo Success
+M09E7A2	Discharge
+M09E7A8	Snake Hiss
+M09E7B0	Blink
+M09E7B6	Glow
+M09E7BC	Light Hit
+M09E7C4	Whoosh
+M09E7CC	Thunder
+M09E7D0	Sound Wave
+M09E7D6	Barrier
+M09E7DE	Status Up
+M09E7F0	Gunshot
+M09E7FA	Poison Attack
+M09E802	Paralysis Attack
+M09E80C	Confusion Attack
+M09E816	Hit 1
+M09E820	Hit 2
+M09E82A	Hit 3
+M09E834	String
+M09E838	Whip
+M09E83C	Lethal Attack
+M09E846	Explosion
+M09E84C	Hurricane
+M09E858	Light Gathers
+M09E862	Rumble
+M09E868	Wolf Howl
+M09E870	Heal
+M09E876	Ailment Cure
+M09E88A	Glass Shatters
+M09E89A	Glass Cracks
+M09E8A8	Confirm
+M09E8AE	Cancel
+M09E8BA	Cursor
+M09E8C4	Battle Sync Start
+M09E8D6	Battle Sync Success
+M09E8E8	Battle Sync Fail
+M09E8FA	Item Get 1
+M09E90C	Item Get 2
+M09E91E	Error
+M09E926	Machine
+M09E92C	Stomach Growl
+M09E934	Freeze
+M09E940	GBA
+M09E948	Door
+M09E94E	Ghost
+M09E956	Piano Note
+M09E962	Accelerate 1
+M09E96A	Accelerate 2
+M09E972	Brake
+M09E97C	Door 2
+M09E984	Fall
+M09E98A	Thunder 2
+M09E990	Bonk
+M09E998	Key
+M09E99E	Marionette
+M09E9AC	Switch
+M09E9B6	Elevator 1
+M09E9C6	Elevator 2
+M09E9D6	Elevator Door
+M09E9E8	Ship
+M09E9EC	Monitor
+M09E9F6	Battle Sync C1
+M09EA08	Battle Sync C2
+M09EA1A	Big Laugh
+M09EA24	Some Laughs
+M09EA2E	Total Flop
+M09EA3A	Radio Switch
+M09EA4C	Barrier 2
+M09EA56	Cell Phone Ring
+M09EA64	Cell Phone Switch
+M09EA74	Whiteout
+M09EA84	Waves
+M09EA88	Groan
+M09EA92	Ban Mido
+M09EA9A	Ginji Amano
+M09EAA4	Himiko Kudo
+M09EAB0	Kurodo Akabane
+M09EABA	Kazuki Fuchoin
+M09EAC6	Shido Fuyuki
+M09EAD0	Emishi Haruki
+M09EADA	Juubei Kakei
+M09EAE4	Kyoji Kagami
+M09EAEC	Yukihiko Miroku
+M09EAF6	Ar-ca-na
+M09EB04	Jend Long
+M09EB14	TARE
+M09EB1E	Natsumi Mizuki
+M09EB28	Move
+M09EB2E	ACT
+M09EB34	Location:
+M09EB3E	Go to:
+M09EB46	Honky Tonk
+M09EB5E	Downtown
+M09EB76	Downtown
+M09EB8E	Abandoned School
+M09EBA6	N Hall
+M09EBBE	Yamashiro Productions
+M09EBD6	Underground Cave
+M09EBEE	Niihama Island
+M09EC06	Alpha Tower One
+M09EC1E	Alpha Tower Two
+M09EC36	Alpha Tower Three
+M09EC76	Save
+M09EC7C	Load
+M09EC82	:
+M09EC86	Now
+M09EC8C	ACT
+M09EC94	NO DATA
+M09ECA4	Warning! Press A to overwrite.
+M09ECC2	Write error.
+3D7DE4.1	Attack
+3D7DE4.2	Defend
+3D7DE4.3	Item
+3D7DE4.4	Change
+3D7DE4.5	Run
+3D7DE4.6	Normal
+3D7DE4.7	Special
+3D7DE4.8	appears!
+3D7DE4.9	and company appear!
+3D7DE4.10	was poisoned!
+3D7DE4.11	was paralyzed!
+3D7DE4.12	became confused!
+3D7DE4.13	was defeated!
+3D7DE4.14	EXP
+3D7DE4.15	obtained!
+3D7DE4.16	leveled up!
+3D7DE4.17	HP +
+3D7DE4.18	Speed +
+3D7DE4.19	Attack +
+3D7DE4.20	Defense +
+3D7DE4.21	The battle was lost...
+3D7DE4.22	Managed to escape.
+3D7DE4.23	Couldn't escape.
+3D7DE4.24	Poison damage!
+3D7DE4.25	Paralyzed and can't move!
+3D7DE4.26	learned!
+3D7DE4.27	' element attack nullified
+3D7DE4.28	'
+3D7DE4.29	acquired!
+3D7DE4.30	--
+3D7DE4.31	' element barrier broken!
+3D7DE4.33	Venom Fang
+3D7DE4.34	Snake Bite
+3D7DE4.35	Sidewinder
+3D7DE4.36	Ophiuchus Unleashed
+3D7DE4.37	Electric Shock
+3D7DE4.38	Lightning Kick
+3D7DE4.39	EM Field
+3D7DE4.40	Thunder Emperor Descends
+3D7DE4.41	Antidote Perfume
+3D7DE4.42	Healing Perfume
+3D7DE4.43	Flame Perfume
+3D7DE4.44	Speed Perfume
+3D7DE4.45	Bloody Sword
+3D7DE4.46	Bloody Shield
+3D7DE4.47	Bloody Cross
+3D7DE4.48	Bloody Hurricane
+3D7DE4.49	Cocoon Shield
+3D7DE4.50	Autumn Rain
+3D7DE4.51	String Bind
+3D7DE4.52	Dewdrop
+3D7DE4.53	Ape Mimic
+3D7DE4.54	Mole Mimic
+3D7DE4.55	Tiger Claw Mimic
+3D7DE4.56	Wolf Mimic
+3D7DE4.57	Seize, like a viper
+3D7DE4.58	Coil, like quicksand
+3D7DE4.59	Vanish with the sandstorm
+3D7DE4.60	Swallow, like a flood
+3D7DE4.61	Poison Moth
+3D7DE4.62	Lantern Plant
+3D7DE4.63	Balsam Burst
+3D7DE4.64	Earth Spider
+3D7DE4.65	Mirror Image
+3D7DE4.66	Mirror Blade
+3D7DE4.67	Mirror Light
+3D7DE4.68	Diamond Dust
+3D7DE4.70	Enemy
+3D7DE4.71	Ally
+3D7DE4.72	One
+3D7DE4.73	All
+3D7DE4.74	Once
+3D7DE4.75	For a while
+3D7DE4.76	Instant KO
+3D7DE4.77	Heal
+3D7DE4.78	Nullify
+3D7DE4.79	HP
+3D7DE4.80	MP
+3D7DE4.81	KO
+3D7DE4.82	Poison
+3D7DE4.83	Paralysis
+3D7DE4.84	Confusion
+3D7DE4.85	Status ailment
+3D7DE4.86	Poison
+3D7DE4.87	Paralysis
+3D7DE4.88	Confusion
+3D7DE4.89	(Small)
+3D7DE4.90	(Medium)
+3D7DE4.91	(Large)
+3D7DE4.92	Full
+3D7DE4.93	Void
+3D7DE4.94	Thunder
+3D7DE4.95	Fire
+3D7DE4.96	Dark
+3D7DE4.97	Water
+3D7DE4.98	Earth
+3D7DE4.99	Sand
+3D7DE4.100	Wind
+3D7DE4.101	Light
+3D7DE4.102	Attack
+3D7DE4.103	Effect
+3D7DE4.104	Defense UP
+3D7DE4.105	Evasion UP
+3D7DE4.107	Speed UP
+3D7DE4.108	Attack UP
+3D7DE4.110	Houttuynia
+3D7DE4.111	Clematis Root
+3D7DE4.112	Enmei Herb
+3D7DE4.113	Reishi
+3D7DE4.114	Bezoar
+3D7DE4.115	Elecampane
+3D7DE4.116	Peony Root
+3D7DE4.117	Cordyceps
+3D7DE4.118	Horai Jewel
+3D7DE4.119	Pendu Card
+3D7DE4.120	Junon Card
+3D7DE4.121	Ratrice Card
+3D7DE4.122	Amoureux Card
+3D7DE4.123	Iustus Card
+3D7DE4.124	Hermite Card
+3D7DE4.125	Lefo Card
+3D7DE4.126	Jupiter Card
+3D7DE4.127	Rance Card
+3D7DE4.128	Dira Card
+3D7DE4.129	Lune Card
+3D7DE4.130	Reille Card
+3D7DE4.131	Monde Card
+3D7DE4.132	Gement Card
+3D7DE4.133	Chariot Card
+3D7DE4.134	Diable Card
+3D7DE4.136	Ban Mido
+3D7DE4.137	Ginji Amano
+3D7DE4.138	Himiko Kudo
+3D7DE4.139	Kurodo Akabane
+3D7DE4.140	Kazuki Fuchoin
+3D7DE4.141	Shido Fuyuki
+3D7DE4.142	Emishi Haruki
+3D7DE4.143	Juubei Kakei
+3D7DE4.144	Kyoji Kagami
+3D7DE4.145	Lemat
+3D7DE4.146	Batary
+3D7DE4.147	Junon
+3D7DE4.148	Ratrice
+3D7DE4.149	Lempereur
+3D7DE4.150	Lempereur
+3D7DE4.151	Jupiter
+3D7DE4.152	Amoureux
+3D7DE4.153	Chariot
+3D7DE4.154	Iustus
+3D7DE4.155	Hermite
+3D7DE4.156	Tune
+3D7DE4.157	Lefo
+3D7DE4.158	Pendu
+3D7DE4.159	Mort
+3D7DE4.160	Rance
+3D7DE4.161	Diable
+3D7DE4.162	Dira
+3D7DE4.163	Toile
+3D7DE4.164	Lune
+3D7DE4.165	Reille
+3D7DE4.166	Gement
+3D7DE4.167	Monde
+3D7DE4.168	Servant Trainee
+3D7DE4.169	Servant Assistant
+3D7DE4.170	Servant Leader
+3D7DE4.171	Head Servant
+3D7DE4.172	Hideo Hiruta
+3D7DE4.173	CAV Junior
+3D7DE4.174	CAV Low
+3D7DE4.175	CAV High
+3D7DE4.176	CAV Head
+3D7DE4.177	Kaoru Saionji
+3D7DE4.178	Class 3 Guard
+3D7DE4.179	Class 2 Guard
+3D7DE4.180	Class 1 Guard
+3D7DE4.181	Guard Chief
+3D7DE4.182	Muscle Fighter Dragon
+3D7DE4.183	Muscle Fighter Tiger
+3D7DE4.184	Comedian Apprentice
+3D7DE4.185	Comedian Master
+3D7DE4.186	Idol Hikaru
+3D7DE4.187	Idol Akira
+3D7DE4.188	Ryuzo Yamashiro
+3D7DE4.189	Poacher Little Bro
+3D7DE4.190	Poacher Big Bro
+3D7DE4.191	Poacher Eldest Bro
+3D7DE4.192	Poacher Dad
+3D7DE4.193	S-Service Tanaka
+3D7DE4.194	S-Service Suzuki
+3D7DE4.195	S-Service Sato
+3D7DE4.196	S-Service Yamamoto
+3D7DE4.197	Yukihiko Miroku
+3D7DE4.198	Yukihiko Miroku
+3D7DE4.199	TARE
+3D7DE4.200	Snatcher Trainee
+3D7DE4.201	Snatcher Assistant
+3D7DE4.202	Snatcher Leader
+3D7DE4.203	Snatcher Boss
+3D7DE4.204	Poacher Little Bro
+3D7DE4.205	Poacher Big Bro
+3D7DE4.206	Idol Kakeru
+3D7DE4.207	Hideo Hiruta
+3D7DE4.208	Hideo Hiruta
+3D7DE4.209	Batary A
+3D7DE4.210	Batary B
+3D7DE4.211	Monde A
+3D7DE4.212	Monde B
+3D7DE4.213	Monde C
+3D7DE4.214	Monde D
+3D7DE4.215	Monde E
+3D7DE4.216	Monde F
+3D7DE4.217	Monde G
+3D7DE4.218	Monde H
+3D7DE4.219	Monde I
+3D7DE4.220	Lune A
+3D7DE4.221	Lempereur A
+3D7DE4.222	Lempereur B
+3D7DE4.223	Reille S
+3D7DE4.224	Lune S
+3D7DE4.225	Gement S
+3D7DE4.226	Jupiter S
+3D7DE4.227	Junon S
+3D7DE4.228	Rance S
+3D7DE4.229	Monde S
+3D7DE4.230	Ratrice S
+3D7DE4.231	Dira S
+3D7DE4.232	Kaoru Saionji
+3D7DE4.233	Yukihiko Miroku
+3D7DE4.234	Himiko Kudo
+3D7DE4.235	Ban Mido (VR)
+3D7DE4.236	Ginji Amano (VR)
+3D7DE4.237	Himiko Kudo (VR)
+3D7DE4.238	Kurodo Akabane (VR)
+3D7DE4.239	Kazuki Fuchoin (VR)
+3D7DE4.240	Shido Fuyuki (VR)
+3D7DE4.241	Emishi Haruki (VR)
+3D7DE4.242	Juubei Kakei (VR)
+3D7DE4.243	Kyoji Kagami (VR)
+3D7DE4.244	Servant Leader
+3D7DE4.245	Head Servant
+3D7DE4.246	Hermite SS
+3D7DE4.247	Chariot SS
+3D7DE4.248	Pendu SS
+3D7DE4.249	Iustus SS
+3D7DE4.250	Lefo SS
+3D7DE4.251	Amoureux SS
+3D7DE4.252	Ratrice SS
+3D7DE4.253	Junon SS
+3D7DE4.254	Jupiter SS
+3D7DE4.255	Dira SS
+3D7DE4.256	Rance SS
+3D7DE4.257	Monde SS
+3D7DE4.258	Reille SS
+3D7DE4.259	Gement SS
+3D7DE4.260	Diable SS
+3D7DE4.261	Lune SS
+3D7DE4.262	Tune SS
+3D7DE4.263	Mort SS
+3D7DE4.264	Toile SS
+3D7DE4.265	Ban Mido
+3D7DE4.266	Ginji Amano
+3D7DE4.267	Himiko Kudo
+3D7DE4.268	Kurodo Akabane
+3D7DE4.269	Kazuki Fuchoin
+3D7DE4.270	Shido Fuyuki
+3D7DE4.271	Emishi Haruki
+3D7DE4.272	Juubei Kakei
+3D7DE4.273	Kyoji Kagami
+3D7DE4.275	Ban:
+3D7DE4.276	Too slow!
+3D7DE4.277	I can see your every move.
+3D7DE4.278	Man, you're sluggish.
+3D7DE4.279	Didn't even graze me.
+3D7DE4.280	Hmph, don't make me laugh.
+3D7DE4.281	Ha! That all you got?
+3D7DE4.282	Call that a scratch?
+3D7DE4.283	This ain't a game, y'know.
+3D7DE4.284	Are you even trying?
+3D7DE4.285	Well, I'll give you credit for landing one.
+3D7DE4.286	Damn!
+3D7DE4.287	Now it's getting a little fun!
+3D7DE4.288	Tch, you're not half bad.
+3D7DE4.289	Don't get cocky over a hit like that.
+3D7DE4.290	You've still got a ways to go.
+3D7DE4.291	Gaaah!
+3D7DE4.292	...Now this is getting interesting!
+3D7DE4.293	I can't go down here!
+3D7DE4.294	Not yet! I'm not letting this end!
+3D7DE4.295	I'll pay you back 10 times over, punk!
+3D7DE4.296	Tch! I let my guard down!
+3D7DE4.297	Ginji:
+3D7DE4.298	Safe!
+3D7DE4.299	Phew, that was close...
+3D7DE4.300	I can see it!
+3D7DE4.301	No use!
+3D7DE4.302	Sorry, you can't hit me!
+3D7DE4.303	Huh? Wha?
+3D7DE4.304	That was nothing!
+3D7DE4.305	I'm not done yet!
+3D7DE4.306	Ah! It hit me...
+3D7DE4.307	I couldn't dodge it?
+3D7DE4.308	Ugh!
+3D7DE4.309	I can take this much!
+3D7DE4.310	Ow! I goofed up...
+3D7DE4.311	...I can still keep going, right?
+3D7DE4.312	This is getting kinda bad, huh?
+3D7DE4.313	Waaah!
+3D7DE4.314	Ahh! At this rate...
+3D7DE4.315	I-I can't lose yet...!!
+3D7DE4.316	I can still fight! I can still go!
+3D7DE4.317	I can't go down heeere!
+3D7DE4.318	Ban-chan, I'm sorry!
+3D7DE4.319	Himiko:
+3D7DE4.320	Too bad for you.
+3D7DE4.321	Don't underestimate Lady Poison.
+3D7DE4.322	Too soft.
+3D7DE4.323	What a boring attack.
+3D7DE4.324	You call that an attack?
+3D7DE4.325	Hmph, is that it?
+3D7DE4.326	Are you holding back or something?
+3D7DE4.327	Oh my, is that really your best?
+3D7DE4.328	Don't make me laugh.
+3D7DE4.329	That doesn't even count as a scratch.
+3D7DE4.330	Ahh!
+3D7DE4.331	Hmph, this is nothing!
+3D7DE4.332	I couldn't dodge it?
+3D7DE4.333	I can still go on!
+3D7DE4.334	Don't get smug just because you hit me.
+3D7DE4.335	Ngh! At this rate...
+3D7DE4.336	Aaaah!!
+3D7DE4.337	Not yet! I can't lose yet!
+3D7DE4.338	What is this power...?!
+3D7DE4.339	I can't go down here...!
+3D7DE4.340	Aaaaah!
+3D7DE4.341	Akabane:
+3D7DE4.342	You bore me.
+3D7DE4.343	Where are you aiming?
+3D7DE4.344	I am right here.
+3D7DE4.345	...
+3D7DE4.346	I can see it.
+3D7DE4.347	Is this all?
+3D7DE4.348	How dull...
+3D7DE4.349	To challenge me with only this much...
+3D7DE4.350	You are no match for me.
+3D7DE4.351	Not nearly enough.
+3D7DE4.352	Passable...
+3D7DE4.353	Is that the extent of your ability?
+3D7DE4.354	This may prove a little entertaining...
+3D7DE4.355	Heh...
+3D7DE4.356	I would ask that you not disappoint me.
+3D7DE4.357	How interesting...
+3D7DE4.358	To push me this far... my, my.
+3D7DE4.359	To go this far... Interesting.
+3D7DE4.360	Heh heh heh... A fight should be like this...
+3D7DE4.361	My... this is becoming quite interesting.
+3D7DE4.362	Interesting... truly.
+3D7DE4.363	Kazuki:
+3D7DE4.364	Don't underestimate me.
+3D7DE4.365	Know your place.
+3D7DE4.366	That will never be enough to catch me.
+3D7DE4.367	Too soft...
+3D7DE4.368	I can read you.
+3D7DE4.369	Is that all?
+3D7DE4.370	You challenge me with only this...?
+3D7DE4.371	Don't make me laugh.
+3D7DE4.372	It seems I've been underestimated.
+3D7DE4.373	Heh... This is mere child's play.
+3D7DE4.374	Ngh!
+3D7DE4.375	This much, I can still take!
+3D7DE4.376	I let my guard down...
+3D7DE4.377	You seem quite skilled.
+3D7DE4.378	Any more of this would be bad...?
+3D7DE4.379	Gah!!
+3D7DE4.380	No, this can't be...
+3D7DE4.381	To be driven this far...
+3D7DE4.382	I can't lose! I swear by the Fuchoin school!

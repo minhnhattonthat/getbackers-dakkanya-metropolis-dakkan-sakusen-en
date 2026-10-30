@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "山城",
   "jp": "…なんだ、貴様ら？　",
-  "en": ""
+  "en": "...Who the devil are you?"
  },
  {
   "id": "7AD9D8.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "あんたが山城だな？　",
-  "en": ""
+  "en": "You're Yamashiro, right? Let us see MAI."
  },
  {
   "id": "7AD9D8.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "士度",
   "jp": "ＭＡＩに会わせてもらおうか　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7AD9D8.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "山城",
   "jp": "なるほど、貴様らが騒ぎを",
-  "en": ""
+  "en": "I see, so you're the ones who've been"
  },
  {
   "id": "7AD9D8.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "山城",
   "jp": "起こしていた連中か…",
-  "en": ""
+  "en": "causing the commotion..."
  },
  {
   "id": "7AD9D8.15",
@@ -66,6 +66,6 @@
   "box": 4,
   "speaker": "山城",
   "jp": "まったく、うるさいネズミどもだ　",
-  "en": ""
+  "en": "Honestly, what noisy rats."
  }
 ]

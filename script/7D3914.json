@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "蛮ちゃん…今、なにかが後ろを…　",
-  "en": ""
+  "en": "Ban-chan... Just now, something behind\nus..."
  },
  {
   "id": "7D3914.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "…これ以上タダ働きができるか！　",
-  "en": ""
+  "en": "...I'm not doing any more work for free!"
  },
  {
   "id": "7D3914.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "帰るぞ、銀次！！",
-  "en": ""
+  "en": "We're going home, Ginji!!"
  },
  {
   "id": "7D3914.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ねえ、蛮ちゃん…今度はちゃんと　",
-  "en": ""
+  "en": "Hey, Ban-chan... Next time, I wanna do a"
  },
  {
   "id": "7D3914.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "依頼料が入る仕事したいよね～",
-  "en": ""
+  "en": "job where we actually get paid~"
  },
  {
   "id": "7D3914.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "あったりめーだ！",
-  "en": ""
+  "en": "Damn straight! Who do you think we are?"
  },
  {
   "id": "7D3914.18",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "俺たちを誰だと思ってやがる？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7D3914.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "成功率１００％の無敵の奪還屋！　",
-  "en": ""
+  "en": "The invincible retrievers with a 100%"
  },
  {
   "id": "7D3914.21",
@@ -97,7 +97,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ゲットバッカーズだぞ！！",
-  "en": ""
+  "en": "success rate! The GetBackers!!"
  },
  {
   "id": "7D3914.23",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "だよね！",
-  "en": ""
+  "en": "You bet! Then let's go home to the Honky"
  },
  {
   "id": "7D3914.26",
@@ -120,6 +120,6 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "じゃ、ＨＯＮＫＹＴＯＮＫに帰ろう！！",
-  "en": ""
+  "en": "Tonk!!"
  }
 ]

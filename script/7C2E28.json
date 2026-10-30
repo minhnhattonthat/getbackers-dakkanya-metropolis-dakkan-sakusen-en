@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あれは…地下洞窟にいたヤツらだ！",
-  "en": ""
+  "en": "Those are the guys from the underground"
  },
  {
   "id": "7C2E28.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "どうしてこんな街中に！？",
-  "en": ""
+  "en": "cave! Why are they in the middle of town?!"
  },
  {
   "id": "7C2E28.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "…どうもその辺の説明を　",
-  "en": ""
+  "en": "...Looks like somebody's about to explain all"
  },
  {
   "id": "7C2E28.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "これからしてくれるみてェだぜ",
-  "en": ""
+  "en": "that for us."
  },
  {
   "id": "7C2E28.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "銀次、そこの大型ビジョン見てみな",
-  "en": ""
+  "en": "Ginji, take a look at that big screen over\nthere."
  },
  {
   "id": "7C2E28.16",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "？？？　",
   "jp": "親愛なる日本の諸君に告ぐ…　",
-  "en": ""
+  "en": "Hear me, my dear citizens of Japan..."
  },
  {
   "id": "7C2E28.20",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "あの人、この前の…　",
-  "en": ""
+  "en": "That guy, he's the one from before..."
  },
  {
   "id": "7C2E28.24",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "ジェンド",
   "jp": "我が名はジェンド…　",
-  "en": ""
+  "en": "My name is Jend... I am the king who rules"
  },
  {
   "id": "7C2E28.27",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "ジェンド",
   "jp": "『︀さすらいの民』︀一族を統べる王である",
-  "en": ""
+  "en": "the 'Wandering People' clan."
  },
  {
   "id": "7C2E28.29",
@@ -112,7 +112,7 @@
   "box": 7,
   "speaker": "ジェンド",
   "jp": "我々は一夜にして海中に没した",
-  "en": ""
+  "en": "We once lived on the 'Lost Continent,'"
  },
  {
   "id": "7C2E28.30",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "ジェンド",
   "jp": "『︀失われた大陸』︀の住人だった…　",
-  "en": ""
+  "en": "which sank into the sea in a single night..."
  },
  {
   "id": "7C2E28.32",
@@ -135,7 +135,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "失われた大陸って…　",
-  "en": ""
+  "en": "The Lost Continent... That's what"
  },
  {
   "id": "7C2E28.35",
@@ -143,7 +143,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "クレイマンさんが言ってた…　",
-  "en": ""
+  "en": "Clayman-san was talking about..."
  },
  {
   "id": "7C2E28.37",
@@ -158,7 +158,7 @@
   "box": 9,
   "speaker": "ジェンド",
   "jp": "故郷を失いし日より、我らは安住の地を",
-  "en": ""
+  "en": "Since losing our homeland, we have"
  },
  {
   "id": "7C2E28.40",
@@ -166,7 +166,7 @@
   "box": 9,
   "speaker": "ジェンド",
   "jp": "求めて旅を続けてきた",
-  "en": ""
+  "en": "journeyed on in search of a land to settle."
  },
  {
   "id": "7C2E28.42",
@@ -174,7 +174,7 @@
   "box": 10,
   "speaker": "ジェンド",
   "jp": "だが、我々を受け入れてくれる土地は　",
-  "en": ""
+  "en": "But nowhere was there a land that would"
  },
  {
   "id": "7C2E28.43",
@@ -182,7 +182,7 @@
   "box": 10,
   "speaker": "ジェンド",
   "jp": "どこにもなかった",
-  "en": ""
+  "en": "accept us."
  },
  {
   "id": "7C2E28.45",
@@ -197,7 +197,7 @@
   "box": 11,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7C2E28.49",
@@ -212,7 +212,7 @@
   "box": 12,
   "speaker": "ジェンド",
   "jp": "長きに渡る放浪の末、",
-  "en": ""
+  "en": "After long years of wandering, we have"
  },
  {
   "id": "7C2E28.52",
@@ -220,7 +220,7 @@
   "box": 12,
   "speaker": "ジェンド",
   "jp": "ようやく我らはこの結論に至った　",
-  "en": ""
+  "en": "at last reached this conclusion."
  },
  {
   "id": "7C2E28.54",
@@ -228,7 +228,7 @@
   "box": 13,
   "speaker": "ジェンド",
   "jp": "居場所がないのであれば　",
-  "en": ""
+  "en": "If we have no place of our own, we shall"
  },
  {
   "id": "7C2E28.55",
@@ -236,7 +236,7 @@
   "box": 13,
   "speaker": "ジェンド",
   "jp": "あるところから奪えばいい",
-  "en": ""
+  "en": "take one from those who do."
  },
  {
   "id": "7C2E28.57",
@@ -244,7 +244,7 @@
   "box": 14,
   "speaker": "ジェンド",
   "jp": "強者が弱者からものを奪うのは",
-  "en": ""
+  "en": "That it is only natural for the strong to"
  },
  {
   "id": "7C2E28.58",
@@ -252,7 +252,7 @@
   "box": 14,
   "speaker": "ジェンド",
   "jp": "当然の行為だという結論に！　",
-  "en": ""
+  "en": "take from the weak!"
  },
  {
   "id": "7C2E28.60",
@@ -267,7 +267,7 @@
   "box": 15,
   "speaker": "銀次",
   "jp": "だからって、こんな…",
-  "en": ""
+  "en": "But that doesn't mean you can do\nsomething like this..."
  },
  {
   "id": "7C2E28.64",
@@ -282,7 +282,7 @@
   "box": 16,
   "speaker": "ジェンド",
   "jp": "今、この時より新宿は",
-  "en": ""
+  "en": "From this moment on, Shinjuku is the"
  },
  {
   "id": "7C2E28.67",
@@ -290,7 +290,7 @@
   "box": 16,
   "speaker": "ジェンド",
   "jp": "我らさすらいの民一族の国となる　",
-  "en": ""
+  "en": "nation of our clan, the Wandering People."
  },
  {
   "id": "7C2E28.69",
@@ -298,7 +298,7 @@
   "box": 17,
   "speaker": "ジェンド",
   "jp": "かつて日本という国の民だった者共よ　",
-  "en": ""
+  "en": "You who were once the people of a nation\ncalled Japan,"
  },
  {
   "id": "7C2E28.71",
@@ -306,7 +306,7 @@
   "box": 18,
   "speaker": "ジェンド",
   "jp": "我が前にひざまずき、",
-  "en": ""
+  "en": "kneel before me, and bless the birth of a"
  },
  {
   "id": "7C2E28.72",
@@ -314,7 +314,7 @@
   "box": 18,
   "speaker": "ジェンド",
   "jp": "新しい国家の誕生を祝福するがいい！！",
-  "en": ""
+  "en": "new nation!!"
  },
  {
   "id": "7C2E28.76",
@@ -329,7 +329,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "フザけたことぬかしやがって！",
-  "en": ""
+  "en": "Quit screwin' around! Save the sleep-talk"
  },
  {
   "id": "7C2E28.79",
@@ -337,7 +337,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "寝言は寝てから言えってンだ！！　",
-  "en": ""
+  "en": "for when you're asleep!!"
  },
  {
   "id": "7C2E28.81",
@@ -352,7 +352,7 @@
   "box": 20,
   "speaker": "銀次",
   "jp": "蛮ちゃん！　",
-  "en": ""
+  "en": "Ban-chan! Just now, I saw Al-kun behind"
  },
  {
   "id": "7C2E28.84",
@@ -360,7 +360,7 @@
   "box": 20,
   "speaker": "銀次",
   "jp": "今、アイツの後ろにアルくんの姿が…　",
-  "en": ""
+  "en": "that guy..."
  },
  {
   "id": "7C2E28.88",
@@ -375,7 +375,7 @@
   "box": 21,
   "speaker": "？？？　",
   "jp": "キャーーーーーーーッ！！",
-  "en": ""
+  "en": "Kyaaaaaaaah!!"
  },
  {
   "id": "7C2E28.92",
@@ -390,7 +390,7 @@
   "box": 22,
   "speaker": "蛮　",
   "jp": "！？　なんだ？　",
-  "en": ""
+  "en": "?! What was that?"
  },
  {
   "id": "7C2E28.96",
@@ -405,7 +405,7 @@
   "box": 23,
   "speaker": "銀次",
   "jp": "近くで聞こえたよ！　",
-  "en": ""
+  "en": "It came from nearby! Let's go see!!"
  },
  {
   "id": "7C2E28.99",
@@ -413,6 +413,6 @@
   "box": 23,
   "speaker": "銀次",
   "jp": "行ってみようよ！！　",
-  "en": ""
+  "en": " "
  }
 ]

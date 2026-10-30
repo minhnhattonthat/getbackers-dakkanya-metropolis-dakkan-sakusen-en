@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "女子社員",
   "jp": "あら…女の子がなんの用なワケ？　",
-  "en": ""
+  "en": "Oh my... and what does a girl want?"
  },
  {
   "id": "7B1A94.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "いえ、僕はおと…",
-  "en": ""
+  "en": "No, I'm a ma..."
  },
  {
   "id": "7B1A94.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "女子社員",
   "jp": "悪いけど、女の子に用はないのよ　",
-  "en": ""
+  "en": "Sorry, but I've got no use for girls. Off"
  },
  {
   "id": "7B1A94.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "女子社員",
   "jp": "帰ってちょうだい",
-  "en": ""
+  "en": "you go."
  },
  {
   "id": "7B1A94.14",
@@ -65,6 +65,6 @@
   "box": 4,
   "speaker": "花月",
   "jp": "困りましたね…　",
-  "en": ""
+  "en": "This is troublesome..."
  }
 ]

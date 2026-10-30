@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "蛮ちゃん、蛭田ってアレじゃない？",
-  "en": ""
+  "en": "Ban-chan, isn't that Hiruta over there?"
  },
  {
   "id": "793AA4.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "よォ、蛭田！",
-  "en": ""
+  "en": "Yo, Hiruta! The GetBackers have arrived!"
  },
  {
   "id": "793AA4.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "ゲットバッカーズ、参上だ！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "793AA4.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ケガしたくなかったら、　",
-  "en": ""
+  "en": "If you don't wanna get hurt, hand over"
  },
  {
   "id": "793AA4.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "大人しくＴＡＲＥを渡すんだな！　",
-  "en": ""
+  "en": "TARE nice and quiet!"
  },
  {
   "id": "793AA4.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛭田",
   "jp": "なんだ、お前ら…！？",
-  "en": ""
+  "en": "Wh-who are you people...?!"
  },
  {
   "id": "793AA4.17",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "蛭田",
   "jp": "ボクは蛭田財閥のおんぞうしだぞ！",
-  "en": ""
+  "en": "I'm the heir of the Hiruta zaibatsu! Don't"
  },
  {
   "id": "793AA4.18",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "蛭田",
   "jp": "呼び捨てにするな！！",
-  "en": ""
+  "en": "you dare call me just \"Hiruta\"!!"
  },
  {
   "id": "793AA4.20",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "蛭田ちゃんよォ、優しく言ってるうちに",
-  "en": ""
+  "en": "Hiruta-chan, hand it over while I'm still"
  },
  {
   "id": "793AA4.23",
@@ -105,7 +105,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "渡した方が身のためだぜ？",
-  "en": ""
+  "en": "being nice. It's for your own good."
  },
  {
   "id": "793AA4.25",
@@ -120,7 +120,7 @@
   "box": 7,
   "speaker": "蛭田",
   "jp": "ちゃんとはなんだ！　",
-  "en": ""
+  "en": "What's with the \"-chan\"?! I'm gonna tell my"
  },
  {
   "id": "793AA4.28",
@@ -128,7 +128,7 @@
   "box": 7,
   "speaker": "蛭田",
   "jp": "お前のコトなんて、パパに言いつけて…",
-  "en": ""
+  "en": "papa all about you..."
  },
  {
   "id": "793AA4.30",
@@ -136,7 +136,7 @@
   "box": 8,
   "speaker": "蛭田",
   "jp": "イテテ！",
-  "en": ""
+  "en": "Ow ow! This thing bit me again!!"
  },
  {
   "id": "793AA4.31",
@@ -144,7 +144,7 @@
   "box": 8,
   "speaker": "蛭田",
   "jp": "こいつ、またかみやがったな！！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "793AA4.33",
@@ -159,7 +159,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "ねえ、ＴＡＲＥって犬なのかな？　",
-  "en": ""
+  "en": "Hey, is TARE a dog? It sure seems to be"
  },
  {
   "id": "793AA4.36",
@@ -167,7 +167,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "なんかすごくかんでるみたいだけど…　",
-  "en": ""
+  "en": "biting a lot..."
  },
  {
   "id": "793AA4.38",
@@ -182,7 +182,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "そういや聞くの忘れてたな…　",
-  "en": ""
+  "en": "Come to think of it, I forgot to ask... Eh,"
  },
  {
   "id": "793AA4.41",
@@ -190,7 +190,7 @@
   "box": 10,
   "speaker": "蛮　",
   "jp": "ま、犬かネコのどっちかだろ　",
-  "en": ""
+  "en": "it's gotta be a dog or a cat."
  },
  {
   "id": "793AA4.43",
@@ -205,7 +205,7 @@
   "box": 11,
   "speaker": "蛭田",
   "jp": "コイツ、いい加減にしろ！",
-  "en": ""
+  "en": "You little pest, cut it out! I'm telling Papa"
  },
  {
   "id": "793AA4.46",
@@ -213,6 +213,6 @@
   "box": 11,
   "speaker": "蛭田",
   "jp": "パパに言いつけてやるぞ！！　",
-  "en": ""
+  "en": "on you!!"
  }
 ]

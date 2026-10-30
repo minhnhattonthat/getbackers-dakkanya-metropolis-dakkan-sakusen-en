@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "おいコラ、ヘヴン！　",
-  "en": ""
+  "en": "Hey, you! Hevn!"
  },
  {
   "id": "794E4C.5",
@@ -20,7 +20,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "テメー、俺たちを裏切って",
-  "en": ""
+  "en": "You betrayed us and gave a job to the"
  },
  {
   "id": "794E4C.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "猿マワシに仕事振りやがったな！！",
-  "en": ""
+  "en": "monkey trainer!!"
  },
  {
   "id": "794E4C.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "ヘヴン　",
   "jp": "あら、士度クンに妬いてんの？",
-  "en": ""
+  "en": "My, jealous of Shido-kun? A jealous man is"
  },
  {
   "id": "794E4C.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "ヘヴン　",
   "jp": "男のヤキモチはみっともないわよ　",
-  "en": ""
+  "en": "so unbecoming."
  },
  {
   "id": "794E4C.13",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "ヘヴン　",
   "jp": "それに私は士度クンに前の仕事の　",
-  "en": ""
+  "en": "Besides, I was only paying Shido-kun his"
  },
  {
   "id": "794E4C.14",
@@ -67,7 +67,7 @@
   "box": 4,
   "speaker": "ヘヴン　",
   "jp": "ギャラを払っただけなんですからね",
-  "en": ""
+  "en": "fee for a previous job, you know."
  },
  {
   "id": "794E4C.16",
@@ -82,7 +82,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "ギャラだあ？",
-  "en": ""
+  "en": "His fee?"
  },
  {
   "id": "794E4C.20",
@@ -90,7 +90,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "アイツに金渡すなんざ、　",
-  "en": ""
+  "en": "Giving that guy money is like giving gold"
  },
  {
   "id": "794E4C.21",
@@ -98,7 +98,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "それこそネコに小判じゃねえかよ！",
-  "en": ""
+  "en": "coins to a cat!"
  },
  {
   "id": "794E4C.23",
@@ -106,7 +106,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "ヤツへのギャラは俺に回せ！　",
-  "en": ""
+  "en": "Send his fee my way!"
  },
  {
   "id": "794E4C.25",
@@ -121,7 +121,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "蛮ちゃんてば、　",
-  "en": ""
+  "en": "Ban-chan, you're talking nonsense..."
  },
  {
   "id": "794E4C.28",
@@ -129,7 +129,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "むちゃくちゃなコト言って…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "794E4C.30",
@@ -137,7 +137,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "ところでヘヴンさん、",
-  "en": ""
+  "en": "By the way, Hevn-san, do you know where"
  },
  {
   "id": "794E4C.31",
@@ -145,7 +145,7 @@
   "box": 9,
   "speaker": "銀次",
   "jp": "士度がドコ行ったか知らない？",
-  "en": ""
+  "en": "Shido went?"
  },
  {
   "id": "794E4C.33",
@@ -160,7 +160,7 @@
   "box": 10,
   "speaker": "ヘヴン　",
   "jp": "さあ…？",
-  "en": ""
+  "en": "Who knows? I just handed him his pay."
  },
  {
   "id": "794E4C.36",
@@ -168,7 +168,7 @@
   "box": 10,
   "speaker": "ヘヴン　",
   "jp": "私はただギャラを渡しただけだから",
-  "en": ""
+  "en": " "
  },
  {
   "id": "794E4C.38",
@@ -176,7 +176,7 @@
   "box": 11,
   "speaker": "ヘヴン　",
   "jp": "あっ、でもコンビニのある方に",
-  "en": ""
+  "en": "Oh, but I think he was heading toward the"
  },
  {
   "id": "794E4C.39",
@@ -184,7 +184,7 @@
   "box": 11,
   "speaker": "ヘヴン　",
   "jp": "向ってたかな？　",
-  "en": ""
+  "en": "convenience store?"
  },
  {
   "id": "794E4C.41",
@@ -199,7 +199,7 @@
   "box": 12,
   "speaker": "銀次",
   "jp": "ありがと、じゃあね！",
-  "en": ""
+  "en": "Thanks, see ya!"
  },
  {
   "id": "794E4C.45",
@@ -214,7 +214,7 @@
   "box": 13,
   "speaker": "ヘヴン　",
   "jp": "（この二人が士度クンを探すなんて、　",
-  "en": ""
+  "en": "(Those two out looking for Shido-kun? Now"
  },
  {
   "id": "794E4C.48",
@@ -222,6 +222,6 @@
   "box": 13,
   "speaker": "ヘヴン　",
   "jp": "珍しいこともあるものね…）　",
-  "en": ""
+  "en": "there's a rare sight...)"
  }
 ]

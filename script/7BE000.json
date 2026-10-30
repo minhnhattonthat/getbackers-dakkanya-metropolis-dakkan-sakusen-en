@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "赤屍",
   "jp": "この手ごたえのなさ…",
-  "en": ""
+  "en": "This lack of resistance... You are a fake,"
  },
  {
   "id": "7BE000.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "赤屍",
   "jp": "あなたはニセモノですね？",
-  "en": ""
+  "en": "are you not?"
  },
  {
   "id": "7BE000.6",
@@ -28,6 +28,6 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "本物は…すでに島内に侵入しましたか　",
-  "en": ""
+  "en": "So the real one... has already slipped onto\nthe island."
  }
 ]

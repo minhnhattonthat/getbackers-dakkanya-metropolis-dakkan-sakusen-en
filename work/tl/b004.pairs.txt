@@ -1,0 +1,718 @@
+>> 3D7DE4.736 | ひとりじめはずるいでっせ！
+   Hoggin' it all ain't fair!
+>> 3D7DE4.737 | ワイの力が必要でっか？
+   Need my help, do ya?
+>> 3D7DE4.739 | お礼に寒いギャグはごめんやで！
+   Don't thank me with a lame gag, now!
+>> 3D7DE4.740 | 援護させてもらいまっせ！
+   Lemme back ya up!
+>> 3D7DE4.741 | 息の合ったコンビ、敵に見せつけたろ！
+   Let's show 'em what a real duo looks like!
+>> 3D7DE4.742 | 雷帝と一緒に戦うなんて光栄やなあ！
+   With the Thunder Emperor? I'm honored!
+>> 3D7DE4.743 | こないな子と夫婦漫才できひんかなぁ？
+   Wonder if she'd do a married comedy act?
+>> 3D7DE4.744 | あんさんの力、ワイに貸してもらうで！
+   I'm borrowin' your power, pal!
+>> 3D7DE4.745 | 鞭と絃…どっちか早いか勝負やで！
+   Whip or strings... which is faster?!
+>> 3D7DE4.746 | 今こそボケツッコミの真髄極めるで～！
+   Now to master the art of comedy duos~!
+>> 3D7DE4.748 | もうかってまっか？　十兵衛はん！？
+   How's business, Juubei-han?!
+>> 3D7DE4.749 | 塔の住人がなんぼのモンか見せてーや！
+   Show me what a Tower resident's worth!
+>> 3D7DE4.750 | よっしゃ、任せとき！
+   All right, leave it to me!
+>> 3D7DE4.751 | 雷帝と一緒やったら無敵やなぁ！
+   With the Thunder Emperor, we can't lose!
+>> 3D7DE4.752 | なんや、つれないなぁ…卑弥呼はん
+   Aw, so cold... Himiko-han.
+>> 3D7DE4.753 | よっしゃ！　遅れんとついて来いや！
+   All right! Try to keep up!
+>> 3D7DE4.754 | 分かっとる！　こっちは任せてえや！
+   Got it! Leave this side to me!
+>> 3D7DE4.755 | 任しとき、士度はん！！
+   Leave it to me, Shido-han!!
+>> 3D7DE4.757 | ワイはいつでもマジメでっせ！
+   I'm always serious, I'll have ya know!
+>> 3D7DE4.758 | 言われへんでもやったるで！
+   Ya don't gotta tell me!
+>> 3D7DE4.759 | 危ないで、美堂はん！！
+   Look out, Mido-han!!
+>> 3D7DE4.760 | 雷帝をこないなトコでやらせへん！！
+   No way the Thunder Emperor falls here!!
+>> 3D7DE4.761 | ワイが守ったるで！！
+   I'll protect ya!!
+>> 3D7DE4.762 | 珍しな、あんさんがピンチだなんて！
+   Well, that's rare, you in a pinch!
+>> 3D7DE4.763 | 花月はん、下がっといてーや！！
+   Kazuki-han, stay back!!
+>> 3D7DE4.764 | させへんで！！
+   Not on my watch!!
+>> 3D7DE4.766 | 任せといてや、十兵衛はん！！
+   Leave it to me, Juubei-han!!
+>> 3D7DE4.767 | 塔の住人も形無しやな！！
+   Some Tower resident you are!!
+>> 3D7DE4.768 | 十兵衛：
+   Juubei:
+>> 3D7DE4.769 | 筧流針術！
+   Kakei school needle art!
+>> 3D7DE4.770 | 行くぞ！
+   Here I come!
+>> 3D7DE4.771 | 覚悟はいいか？
+   Are you prepared?
+>> 3D7DE4.772 | 参る！！
+   Have at you!!
+>> 3D7DE4.773 | いざ、勝負！！
+   Now, we fight!!
+>> 3D7DE4.774 | ここは協力するぞ、美堂蛮！
+   I will aid you this time, Ban Mido!
+>> 3D7DE4.775 | 任せろ、雷帝！
+   Leave it to me, Thunder Emperor!
+>> 3D7DE4.776 | 俺が援護する！
+   I will cover you!
+>> 3D7DE4.777 | ………
+   ...
+>> 3D7DE4.778 | お前は俺が守る！
+   I will protect you!
+>> 3D7DE4.779 | 手伝うぞ、ビーストマスター！
+   I will help you, Beastmaster!
+>> 3D7DE4.780 | 協力するぞ、笑師！
+   I will aid you, Emishi!
+>> 3D7DE4.782 | 加勢いたす！
+   I shall assist!
+>> 3D7DE4.783 | 参る！
+   Here I come!
+>> 3D7DE4.784 | 行くぞ、雷帝！！
+   Let us go, Thunder Emperor!!
+>> 3D7DE4.785 | 毒香水の魔女、準備はいいか？
+   Poison Perfume Witch, are you ready?
+>> 3D7DE4.786 | ………
+   ...
+>> 3D7DE4.787 | 花月、今こそ針絃一体の力を！
+   Kazuki, now! Needle and string as one!
+>> 3D7DE4.788 | 用意はいいか、ビーストマスター？
+   Are you ready, Beastmaster?
+>> 3D7DE4.789 | 笑師、たまには真剣に行くぞ！
+   Emishi, be serious for once!
+>> 3D7DE4.791 | 鏡、貴様の力を見せてもらおうか！
+   Kagami, show me your power!
+>> 3D7DE4.792 | 承知！
+   Understood!
+>> 3D7DE4.793 | 承知した、雷帝！
+   Understood, Thunder Emperor!
+>> 3D7DE4.794 | 同感だな！
+   Agreed!
+>> 3D7DE4.795 | ………
+   ...
+>> 3D7DE4.796 | 分かっている、花月！　俺に任せろ！
+   I know, Kazuki! Leave it to me!
+>> 3D7DE4.797 | 承知した！
+   Very well!
+>> 3D7DE4.798 | 戦いの場で戯言はやめろ！
+   No foolishness on the battlefield!
+>> 3D7DE4.800 | 俺はいつでも本気だ！　行くぞ！！
+   I am always serious! Here I come!!
+>> 3D7DE4.801 | 美堂、ここは助太刀致す！！
+   Mido, I shall aid you here!!
+>> 3D7DE4.802 | 下がっていろ、雷帝！！
+   Stand back, Thunder Emperor!!
+>> 3D7DE4.803 | やらせはせん！！
+   I will not allow it!!
+>> 3D7DE4.804 | ………
+   ...
+>> 3D7DE4.805 | 貴様のことは俺が絶対に守ってやる！
+   I will protect you, no matter what!
+>> 3D7DE4.806 | この場は任せておけ！！
+   Leave this to me!!
+>> 3D7DE4.807 | 俺に任せろ！！
+   Leave it to me!!
+>> 3D7DE4.809 | どいてろ、鏡！！
+   Out of the way, Kagami!!
+>> 3D7DE4.810 | 鏡：
+   Kagami:
+>> 3D7DE4.811 | 覚悟は決まったかな？
+   Made up your mind yet?
+>> 3D7DE4.812 | では始めるとしよう
+   Then let us begin.
+>> 3D7DE4.813 | お相手しようか
+   I'll be your opponent.
+>> 3D7DE4.814 | さあ、始めようか
+   Well then, shall we start?
+>> 3D7DE4.815 | 受けてみるかい？
+   Care to take this?
+>> 3D7DE4.816 | 観察料代わりだよ…なんてね
+   Call it my observation fee... just kidding.
+>> 3D7DE4.817 | 手伝わせてもらおうか
+   Allow me to help.
+>> 3D7DE4.818 | 観察しがいがあるね
+   You're worth observing.
+>> 3D7DE4.819 | 加勢の必要なんてない…かな？
+   You don't need any help... do you?
+>> 3D7DE4.820 | キミに協力しようか？
+   Shall I lend you a hand?
+>> 3D7DE4.821 | 加勢するよ
+   I'll back you up.
+>> 3D7DE4.822 | そろそろ倒してあげないとね？
+   Time I finished them off for you, hm?
+>> 3D7DE4.823 | 援護するよ
+   I'll cover you.
+>> 3D7DE4.825 | キミの本当の力…見せてもらおうかな？
+   Your true power... will you show me?
+>> 3D7DE4.826 | 雷帝、か。キミは観察しがいがあるね
+   Thunder Emperor, hm. You're worth a look.
+>> 3D7DE4.827 | 準備はいいかな、レディ・ポイズン？
+   Ready, Lady Poison?
+>> 3D7DE4.828 | ドクタージャッカルか…興味深いね
+   Dr. Jackal, hm... how intriguing.
+>> 3D7DE4.829 | そろそろ行こうか、絃の花月クン？
+   Shall we go, Kazuki-kun of the strings?
+>> 3D7DE4.830 | 行けるかい、ビーストマスター？
+   Can you go on, Beastmaster?
+>> 3D7DE4.831 | 鮮血のジョーカーの力…見てみたいな
+   I'd like to see the Crimson Joker's power...
+>> 3D7DE4.832 | 本気を出して欲しいな、飛針の十兵衛？
+   Get serious, Juubei of the Flying Needles.
+>> 3D7DE4.834 | そうだね、そろそろ本気で行こうか
+   Yes, I suppose it's time to get serious.
+>> 3D7DE4.835 | 観察は終わり…だね
+   Observation's over... it seems.
+>> 3D7DE4.836 | 任せて欲しいな、レディ・ポイズン？
+   Leave it to me, won't you, Lady Poison?
+>> 3D7DE4.837 | だったらオレも観察させてもらおうかな
+   Then maybe I'll do some observing too.
+>> 3D7DE4.838 | もちろん、キミがそう望むなら…ね
+   Of course, if that's what you wish...
+>> 3D7DE4.839 | もちろんだよ、ビーストマスター
+   Of course, Beastmaster.
+>> 3D7DE4.840 | いいよ…ただし、キミもだけどね
+   Fine... but the same goes for you.
+>> 3D7DE4.841 | いいとも…見極められるなら、ね
+   Gladly... if you can see it through, that is.
+>> 3D7DE4.843 | キミがピンチだなんてね…
+   You, in a pinch? Well, well...
+>> 3D7DE4.844 | 助けが必要かな？
+   Need some help?
+>> 3D7DE4.845 | どうしたんだい、レディ・ポイズン？
+   What's wrong, Lady Poison?
+>> 3D7DE4.846 | 珍しいね…ドクター・ジャッカル
+   How rare... Dr. Jackal.
+>> 3D7DE4.847 | 援護しようか？
+   Shall I cover you?
+>> 3D7DE4.848 | 危険…だね
+   Dangerous... isn't it?
+>> 3D7DE4.849 | これ以上は危ない、ね
+   Any more would be dangerous.
+>> 3D7DE4.850 | ここは任せてもらおうかな
+   Let me handle this.
+>> 3D7DE4.853 | 奪い屋
+   Snatcher
+>> 3D7DE4.854 | 使用人
+   Servant
+>> 3D7DE4.855 | Ｃメンバー
+   C Member
+>> 3D7DE4.856 | 西園寺
+   Saionji
+>> 3D7DE4.857 | 警備員
+   Guard
+>> 3D7DE4.858 | 蛭田
+   Hiruta
+>> 3D7DE4.859 | 赤屍
+   Akabane
+>> 3D7DE4.860 | 卑弥呼
+   Himiko
+>> 3D7DE4.861 | 横取り屋
+   Poacher
+>> 3D7DE4.862 | マッスルファイター龍
+   Muscle Fighter Ryu
+>> 3D7DE4.863 | 山城
+   Yamashiro
+>> 3D7DE4.864 | マッスルファイター虎
+   Muscle Fighter Tora
+>> 3D7DE4.865 | アイドルひかる
+   Idol Hikaru
+>> 3D7DE4.866 | お笑い芸人弟子
+   Comedian Apprentice
+>> 3D7DE4.867 | アイドルあきら
+   Idol Akira
+>> 3D7DE4.868 | お笑い芸人師匠
+   Comedian Master
+>> 3D7DE4.869 | ザ☆シグナルズ
+   The Signals
+>> 3D7DE4.870 | 横取り屋弟
+   Poacher Kid Bro
+>> 3D7DE4.871 | 横取り屋兄
+   Poacher Big Bro
+>> 3D7DE4.872 | 横取り屋長兄
+   Poacher Eldest Bro
+>> 3D7DE4.873 | 横取り屋父
+   Poacher Dad
+>> 3D7DE4.874 | バタリー
+   Batary
+>> 3D7DE4.875 | Ｓサービス
+   S-Service
+>> 3D7DE4.876 | 弥勒
+   Miroku
+>> 3D7DE4.877 | ユストス
+   Iustus
+>> 3D7DE4.878 | レーフォ
+   Lefo
+>> 3D7DE4.879 | エルミト
+   Hermite
+>> 3D7DE4.880 | アムルー
+   Amoureux
+>> 3D7DE4.881 | シャリオ
+   Chariot
+>> 3D7DE4.882 | ペンデュ
+   Pendu
+>> 3D7DE4.883 | 鏡
+   Kagami
+>> 3D7DE4.884 | テューヌ
+   Tune
+>> 3D7DE4.885 | モール
+   Mort
+>> 3D7DE4.886 | トワール
+   Toile
+>> 3D7DE4.887 | ルマ
+   Lemat
+>> 3D7DE4.888 | ラトリス
+   Ratrice
+>> 3D7DE4.889 | ディラ
+   Dira
+>> 3D7DE4.890 | レイユ
+   Reille
+>> 3D7DE4.891 | リュネ
+   Lune
+>> 3D7DE4.892 | ディブル
+   Diable
+>> 3D7DE4.893 | ジュノー
+   Junon
+>> 3D7DE4.894 | モンド
+   Monde
+>> 3D7DE4.895 | ゲメン
+   Gement
+>> 3D7DE4.896 | ランス
+   Rance
+>> 3D7DE4.897 | ユピテル
+   Jupiter
+>> 3D7DE4.898 | レンプレル
+   Lempereur
+>> 3D7DE4.899 | ＴＡＲＥ
+   TARE
+>> 3D7DE4.900 | レイユＳ
+   Reille S
+>> 3D7DE4.901 | リュネＳ
+   Lune S
+>> 3D7DE4.902 | ゲメンＳ
+   Gement S
+>> 3D7DE4.903 | ユピテルＳ
+   Jupiter S
+>> 3D7DE4.904 | ジュノーＳ
+   Junon S
+>> 3D7DE4.905 | ランスＳ
+   Rance S
+>> 3D7DE4.906 | モンドＳ
+   Monde S
+>> 3D7DE4.907 | ラトリスＳ
+   Ratrice S
+>> 3D7DE4.908 | ディラＳ
+   Dira S
+>> 3D7DE4.909 | エルミトＳＳ
+   Hermite SS
+>> 3D7DE4.910 | シャリオＳＳ
+   Chariot SS
+>> 3D7DE4.911 | ペンデュＳＳ
+   Pendu SS
+>> 3D7DE4.912 | ユストスＳＳ
+   Iustus SS
+>> 3D7DE4.913 | レーフォＳＳ
+   Lefo SS
+>> 3D7DE4.914 | アムルーＳＳ
+   Amoureux SS
+>> 3D7DE4.915 | ラトリスＳＳ
+   Ratrice SS
+>> 3D7DE4.916 | ジュノーＳＳ
+   Junon SS
+>> 3D7DE4.917 | ユピテルＳＳ
+   Jupiter SS
+>> 3D7DE4.918 | ディラＳＳ
+   Dira SS
+>> 3D7DE4.919 | ランスＳＳ
+   Rance SS
+>> 3D7DE4.920 | モンドＳＳ
+   Monde SS
+>> 3D7DE4.921 | レイユＳＳ
+   Reille SS
+>> 3D7DE4.922 | ゲメンＳＳ
+   Gement SS
+>> 3D7DE4.923 | ディブルＳＳ
+   Diable SS
+>> 3D7DE4.924 | リュネＳＳ
+   Lune SS
+>> 3D7DE4.925 | テューヌＳＳ
+   Tune SS
+>> 3D7DE4.926 | モールＳＳ
+   Mort SS
+>> 3D7DE4.927 | トワールＳＳ
+   Toile SS
+>> 3D7DE4.928 | ＶＲ風鳥院　花月
+   VR Kazuki Fuchoin
+>> 3D7DE4.929 | ＶＲ冬木　士度
+   VR Shido Fuyuki
+>> 3D7DE4.930 | ＶＲ赤屍　蔵人
+   VR Kurodo Akabane
+>> 3D7DE4.931 | ＶＲ美堂　蛮
+   VR Ban Mido
+>> 3D7DE4.932 | ダミー
+   Dummy
+>> 3D7DE4.933 | ダミー
+   Dummy
+>> 3D7DE4.935 | ♪さわやかな夏の風にのって
+   ♪Riding on a fresh summer breeze
+>> 3D7DE4.936 | ♪キミは舞い降りたね
+   ♪you came floating down
+>> 3D7DE4.937 | ♪いつも笑顔は青春色
+   ♪Your smile, always the color of youth
+>> 3D7DE4.938 | ♪ソーダ水のようにはじけてる
+   ♪sparkling like soda water
+>> 3D7DE4.939 | ♪ボクは夢を取り戻せたよ
+   ♪I got my dream back again
+>> 3D7DE4.940 | ♪勇気と笑顔をたくさんもらったね
+   ♪You gave me so much courage and so many smiles
+>> 3D7DE4.941 | ♪どんなに笑ってても
+   ♪No matter how much we smile
+>> 3D7DE4.942 | ♪これが最後だってわかるよ
+   ♪I know that this is the end
+>> 3D7DE4.943 | ♪でも大丈夫、大切なこと、
+   ♪But it's okay, the things that matter,
+>> 3D7DE4.944 | ♪全部おぼえてる
+   ♪I remember them all
+>> 3D7DE4.945 | 原作
+   Original Work
+>> 3D7DE4.946 | 『ＧｅｔＢａｃｋｅｒｓ～奪還屋～』
+   'GetBackers'
+>> 3D7DE4.947 | （講談社　週刊少年マガジン連載）
+   (Serialized in Kodansha's Weekly Shonen Magazine)
+>> 3D7DE4.948 | 協力
+   In Cooperation With
+>> 3D7DE4.949 | 週刊少年マガジン編集部
+   Weekly Shonen Magazine Editorial Dept.
+>> 3D7DE4.950 | 原作　　青樹　佑夜
+   Story: Yuya Aoki
+>> 3D7DE4.951 | 漫画　　綾峰　欄人
+   Art: Rando Ayamine
+>> 3D7DE4.952 | キャスト
+   Cast
+>> 3D7DE4.953 | 美堂　蛮　　　　神奈　延年
+   Ban Mido: Nobutoshi Canna
+>> 3D7DE4.954 | 天野　銀次　　　森久保　祥太郎
+   Ginji Amano: Showtaro Morikubo
+>> 3D7DE4.955 | 工藤　卑弥呼　　桑谷　夏子
+   Himiko Kudo: Natsuko Kuwatani
+>> 3D7DE4.956 | 風鳥院　花月　　保志　総一朗
+   Kazuki Fuchoin: Soichiro Hoshi
+>> 3D7DE4.957 | 筧　十兵衛　　　子安　武人
+   Juubei Kakei: Takehito Koyasu
+>> 3D7DE4.958 | 冬木　士度　　星野　貴紀（ノッポ）
+   Shido Fuyuki: Takanori Hoshino (Noppo)
+>> 3D7DE4.959 | 赤屍　蔵人　　飛田　展男
+   Kurodo Akabane: Nobuo Tobita
+>> 3D7DE4.960 | 笑師　春樹　　真殿　光昭
+   Emishi Haruki: Mitsuaki Madono
+>> 3D7DE4.961 | 鏡　形而　　　櫻井　孝宏
+   Kyoji Kagami: Takahiro Sakurai
+>> 3D7DE4.962 | 水城　夏実　　乙葉
+   Natsumi Mizuki: Otoha
+>> 3D7DE4.963 | 弥勒　雪彦
+   Yukihiko Miroku
+>> 3D7DE4.964 | アル　　　　木村　亜希子
+   Al: Akiko Kimura
+>> 3D7DE4.965 | ＴＡＲＥ　　宍戸　留美
+   TARE: Rumi Shishido
+>> 3D7DE4.966 | ジェンド　　高橋　広樹
+   Jend: Hiroki Takahashi
+>> 3D7DE4.967 | スタッフ
+   Staff
+>> 3D7DE4.968 | エグゼクティブプロデューサー
+   Executive Producers
+>> 3D7DE4.969 | 吉岡　基行
+   Motoyuki Yoshioka
+>> 3D7DE4.970 | 下村　聡
+   Satoshi Shimomura
+>> 3D7DE4.971 | プロデューサー　　下道　隆
+   Producer: Takashi Shimomichi
+>> 3D7DE4.972 | ディレクター　　冷泉　弘隆
+   Directors: Hirotaka Reizei
+>> 3D7DE4.973 | 井出　志織
+   Shiori Ide
+>> 3D7DE4.974 | 制作進行　　　　杉本　則之
+   Production Manager: Noriyuki Sugimoto
+>> 3D7DE4.975 | 制作協力
+   Production Support
+>> 3D7DE4.976 | 有限会社　サラマンダー・ファクトリー
+   Salamander Factory Co., Ltd.
+>> 3D7DE4.977 | プランニング　　井出　志織
+   Planning: Shiori Ide
+>> 3D7DE4.978 | 佐藤　昭彦
+   Akihiko Sato
+>> 3D7DE4.979 | シナリオ　　　　弓長　洋佳
+   Scenario: Hiroka Yuminaga
+>> 3D7DE4.980 | 井出　志織
+   Shiori Ide
+>> 3D7DE4.981 | メインプログラム　　小磯　裕昭
+   Main Program: Hiroaki Koiso
+>> 3D7DE4.982 | 戦闘・会話・イベントプログラム
+   Battle/Dialogue/Event Program
+>> 3D7DE4.983 | 吉原　隆
+   Takashi Yoshihara
+>> 3D7DE4.984 | グラフィック監修　　玉木　美孝
+   Graphics Supervisor: Yoshitaka Tamaki
+>> 3D7DE4.985 | オリジナルキャラクターデザイン
+   Original Character Design
+>> 3D7DE4.986 | 樋野　清史
+   Kiyoshi Hino
+>> 3D7DE4.987 | 磯部　友希
+   Yuki Isobe
+>> 3D7DE4.988 | オリジナル敵デザイン
+   Original Enemy Design
+>> 3D7DE4.989 | 森山　周一郎
+   Shuichiro Moriyama
+>> 3D7DE4.990 | バストアップグラフィック
+   Portrait Graphics
+>> 3D7DE4.991 | 市原　亜紀子
+   Akiko Ichihara
+>> 3D7DE4.992 | マップ・イベントグラフィック
+   Map/Event Graphics
+>> 3D7DE4.993 | 藤田　敬
+   Takashi Fujita
+>> 3D7DE4.994 | 線画協力
+   Line Art Support
+>> 3D7DE4.995 | 橋本　慎一
+   Shinichi Hashimoto
+>> 3D7DE4.996 | 戦闘グラフィック　　樋野　清史
+   Battle Graphics: Kiyoshi Hino
+>> 3D7DE4.997 | 磯部　友希
+   Yuki Isobe
+>> 3D7DE4.998 | 友永　稔
+   Minoru Tomonaga
+>> 3D7DE4.999 | 千葉　晃
+   Akira Chiba
+>> 3D7DE4.1000 | 櫻田　佳苗
+   Kanae Sakurada
+>> 3D7DE4.1001 | マップキャラクター・フォント
+   Map Characters/Font
+>> 3D7DE4.1002 | 加納　保宏
+   Yasuhiro Kano
+>> 3D7DE4.1003 | 平井　義則
+   Yoshinori Hirai
+>> 3D7DE4.1004 | 大河内　達也
+   Tatsuya Okochi
+>> 3D7DE4.1005 | エフェクト　　磯部　一郎
+   Effects: Ichiro Isobe
+>> 3D7DE4.1006 | 井浦　啓二
+   Keiji Iura
+>> 3D7DE4.1007 | 高山　晃
+   Akira Takayama
+>> 3D7DE4.1009 | サウンド　　鶴山　尚史
+   Sound: Naofumi Tsuruyama
+>> 3D7DE4.1010 | 花岡　拓也
+   Takuya Hanaoka
+>> 3D7DE4.1011 | 土屋　直樹
+   Naoki Tsuchiya
+>> 3D7DE4.1013 | 協力　　玉木　久美
+   Support: Kumi Tamaki
+>> 3D7DE4.1014 | 渋谷　千夏
+   Chinatsu Shibuya
+>> 3D7DE4.1015 | 保坂　晃正
+   Akimasa Hosaka
+>> 3D7DE4.1016 | 高木　愛美
+   Manami Takagi
+>> 3D7DE4.1017 | 河野　華奈
+   Kana Kono
+>> 3D7DE4.1018 | 協力　　チーム・アルカディア
+   Support: Team Arcadia
+>> 3D7DE4.1019 | 有限会社　クレスト・ワークス
+   Crest Works Co., Ltd.
+>> 3D7DE4.1020 | 有限会社　タイニーアート
+   Tiny Art Co., Ltd.
+>> 3D7DE4.1021 | 有限会社　ＷＡＮＤ
+   WAND Co., Ltd.
+>> 3D7DE4.1022 | 主題歌　　『言葉にできないカテゴリー』
+   Theme Song: 'Category Beyond Words'
+>> 3D7DE4.1023 | 作詞　クール泉
+   Lyrics: Cool Izumi
+>> 3D7DE4.1024 | 作曲　ｔｓｕｒｕｋｏ♥
+   Music: tsuruko♥
+>> 3D7DE4.1025 | 歌　　ＭＡＩ
+   Vocals: MAI
+>> 3D7DE4.1026 | 挿入歌　　『人生はスパンコール』
+   Insert Song: 'Life Is Sequins'
+>> 3D7DE4.1027 | 作詞　クール泉
+   Lyrics: Cool Izumi
+>> 3D7DE4.1028 | 作曲　ｔｓｕｒｕｋｏ♥
+   Music: tsuruko♥
+>> 3D7DE4.1029 | 唄　　フローラルつる子
+   Vocals: Floral Tsuruko
+>> 3D7DE4.1030 | キャスティングコーディネート
+   Casting Coordinator
+>> 3D7DE4.1031 | 原田　三穂
+   Miho Harada
+>> 3D7DE4.1032 | 株式会社　ネルケプランニング
+   Nelke Planning Co., Ltd.
+>> 3D7DE4.1033 | 音声収録　　　　　　　古澤　利久
+   Voice Recording: Toshihisa Furusawa
+>> 3D7DE4.1034 | プロダクトデザイン　　須藤　圭介
+   Product Design: Keisuke Sudo
+>> 3D7DE4.1035 | デバッグ　　　　　　　ドリームス
+   Debugging: Dreams
+>> 3D7DE4.1036 | プロモーション　　玉田　祐子
+   Promotion: Yuko Tamada
+>> 3D7DE4.1037 | 中原　郁奈子
+   Ikunako Nakahara
+>> 3D7DE4.1038 | 高田　祥至
+   Yoshiyuki Takada
+>> 3D7DE4.1039 | スペシャルサンクス
+   Special Thanks
+>> 3D7DE4.1040 | コナミ　　北上　一三
+   KONAMI: Kazumi Kitakami
+>> 3D7DE4.1041 | 酒井　雅人
+   Masato Sakai
+>> 3D7DE4.1042 | 土屋　潤一郎
+   Junichiro Tsuchiya
+>> 3D7DE4.1043 | 制作
+   Developed by
+>> 3D7DE4.1044 | コナミＪＰＮ－ＥＡＳＴ
+   KONAMI JPN-EAST
+>> 3D7DE4.1045 | コナミ株式会社
+   KONAMI Corporation
+>> 3D7DE4.1046 | 製作
+   Produced by
+>> 3D7DE4.1056 | 何者が邪魔をしようとも
+   No matter who stands in my way,
+>> 3D7DE4.1057 | ここで退くことは許されぬ
+   I cannot allow myself to retreat now.
+>> 3D7DE4.1058 | 立ちはだかる全ての邪魔者を排除し
+   I shall remove every obstacle before me
+>> 3D7DE4.1059 | この国を必ず手中に収めてみせる
+   and make this land mine without fail.
+>> 3D7DE4.1060 | レンプレルよ…
+   Lempereur...
+>> 3D7DE4.1061 | お前に全ての望みをかけよう
+   I place all my hopes in you.
+>> 3D7DE4.1062 | ゲットバッカーズとやら…
+   So you are these "GetBackers"...
+>> 3D7DE4.1063 | さあ、最後の勝負と参ろうぞ
+   Come, let us begin the final battle.
+>> 65C7A4.8 | 蛮： / チョーシこいてんじゃねえぞ！
+   Ban: / Don't get cocky!
+>> 65CBAC.8 | 蛮： / スネークバイト！
+   Ban: / Snake Bite!
+>> 65CFEC.8 | 蛮： / 俺様の本気を見せてやるぜ！
+   Ban: / Time for yours truly to get serious!
+>> 65D454.10 | 蛮： / 喰らえ、その毒蛇の牙を以て！
+   Ban: / Feel the venomous serpent's fangs!
+>> 65DA50.8 | 銀次： / おおおおあああっ！
+   Ginji: / Raaaaaaaaagh!
+>> 65DDF0.7 | 銀次： / イナズマキィィィィック！
+   Ginji: / Lightning Kiiiiiick!
+>> 65E250.8 | 銀次： / 電磁力最大！
+   Ginji: / Full electromagnetic power!
+>> 65E66C.11 | 銀次： / そろそろ終わりにしよう
+   Ginji: / Let's end this.
+>> 65ED78.14 | 卑弥呼： / 解毒香！
+   Himiko: / Antidote Perfume!
+>> 65F0F8.14 | 卑弥呼： / 毒香水！
+   Himiko: / Poison Perfume!
+>> 65F434.14 | 卑弥呼： / 火炎香！
+   Himiko: / Flame Perfume!
+>> 65F734.14 | 卑弥呼： / 加速香！
+   Himiko: / Speed Perfume!
+>> 660040.11 | 赤屍： / ブラッディ・ソード
+   Akabane: / Bloody Sword.
+>> 660360.18 | 赤屍： / ブラッディ・シールド
+   Akabane: / Bloody Shield.
+>> 660838.18 | 赤屍： / ブラッディ・クロス
+   Akabane: / Bloody Cross.
+>> 660CC4.18 | 赤屍： / ブラッディ・ハリケーン
+   Akabane: / Bloody Hurricane.
+>> 6612FC.18 | 花月： / 風鳥院流絃術
+   Kazuki: / Fuchoin school string art...
+>> 6612FC.23 | 花月： / 風鳥院流絃術　繭玉の楯
+   Kazuki: / Fuchoin school string art: Cocoon Shield!
+>> 661710.18 | 花月： / 風鳥院流絃術　秋雨
+   Kazuki: / Fuchoin school string art: Autumn Rain!
+>> 661B2C.18 | 花月： / 風鳥院流絃術
+   Kazuki: / Fuchoin school string art...
+>> 661B2C.23 | 花月： / 風鳥院流絃術　絃呪縛
+   Kazuki: / Fuchoin school string art: String Bind!
+>> 661FB0.18 | 花月： / 風鳥院流絃術
+   Kazuki: / Fuchoin school string art...
+>> 661FB0.23 | 花月： / 風鳥院流絃術　雫
+   Kazuki: / Fuchoin school string art: Dewdrop!
+>> 662654.8 | 士度： / 百獣擬態
+   Shido: / Beast Mimicry...
+>> 662654.26 | 士度： / 百獣擬態　猿擬
+   Shido: / Beast Mimicry: Ape Mimic!
+>> 662938.7 | 士度： / 百獣擬態
+   Shido: / Beast Mimicry...
+>> 662938.14 | 士度： / 百獣擬態　土竜擬
+   Shido: / Beast Mimicry: Mole Mimic!
+>> 662B6C.9 | 士度： / 百獣擬態
+   Shido: / Beast Mimicry...
+>> 662B6C.30 | 士度： / 百獣擬態　虎爪擬
+   Shido: / Beast Mimicry: Tiger Claw Mimic!
+>> 662FA0.6 | 士度： / 百獣擬態
+   Shido: / Beast Mimicry...
+>> 662FA0.13 | 士度： / 百獣擬態　餓狼擬
+   Shido: / Beast Mimicry: Wolf Mimic!
+>> 6634A0.18 | 笑師： / 捕らえよ　毒蛇の如く！
+   Emishi: / Seize 'em like a viper!
+>> 663888.18 | 笑師： / 絡みつけ　流砂の如く！
+   Emishi: / Coil 'round 'em like quicksand!
+>> 663C84.18 | 笑師： / 消えよ　砂嵐とともに！
+   Emishi: / Vanish with the sandstorm!
+>> 66408C.9 | 笑師： / 呑み込め　洪水の如く！
+   Emishi: / Swallow 'em like a flood!
+>> 664600.17 | 十兵衛： / 筧流針術
+   Juubei: / Kakei school needle art...
+>> 664600.22 | 十兵衛： / 筧流針術　毒蛾
+   Juubei: / Kakei school needle art: Poison Moth!
+>> 6649BC.11 | 十兵衛： / 筧流針術　鬼灯
+   Juubei: / Kakei school needle art: Lantern Plant!
+>> 664CD8.17 | 十兵衛： / 筧流針術
+   Juubei: / Kakei school needle art...
+>> 664CD8.22 | 十兵衛： / 筧流針術　鳳仙花
+   Juubei: / Kakei school needle art: Balsam Burst!
+>> 665150.17 | 十兵衛： / 筧流針術
+   Juubei: / Kakei school needle art...
+>> 665150.46 | 十兵衛： / 筧流針術　土蜘蛛
+   Juubei: / Kakei school needle art: Earth Spider!
+>> 665708.17 | 鏡： / チェックメイト、かな？
+   Kagami: / Checkmate, perhaps?
+>> 665AA0.16 | 鏡： / 死は苦痛ではないよ？
+   Kagami: / Death isn't painful, you know?
+>> 665DE0.16 | 鏡： / 遊びは終わりにしよう
+   Kagami: / Playtime is over.
+>> 666194.17 | 鏡： / ダイヤモンド・ダスト
+   Kagami: / Diamond Dust.
+>> 666774.8 | アル： / ………
+   Al: / ...
+>> 666A60.8 | アル： / ごめんなさい！
+   Al: / I'm sorry!
+>> 666CE4.8 | アル： / 本気で行きますよ！
+   Al: / I'm going all out!
+>> 667130.2 | バタリー： / ………
+   Batary: / ...
+>> 6671B4.3 | バタリー： / ………
+   Batary: / ...
+>> 6671B4.25 | [雷]無効バリアをはった！
+   Put up a Thunder-proof barrier!
+>> 6673C8.2 | バタリー： / ………
+   Batary: / ...
+>> 66745C.2 | バタリー： / ………
+   Batary: / ...
+>> 6675C4.2 | ジュノー： / ………
+   Junon: / ...
+>> 667648.2 | ジュノー： / ………！！
+   Junon: / ...!!

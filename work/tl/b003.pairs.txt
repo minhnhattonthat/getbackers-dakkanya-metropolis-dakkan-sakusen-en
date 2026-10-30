@@ -1,0 +1,656 @@
+>> 3D7DE4.383 | まだだ！　後少し…
+   Not yet! Just a little more...
+>> 3D7DE4.384 | しまった…
+   Damn it...
+>> 3D7DE4.385 | 士度：
+   Shido:
+>> 3D7DE4.386 | 格が違うんだよ！
+   You're out of your league!
+>> 3D7DE4.387 | 当るとでも思ってんのか？
+   You think that's gonna hit me?
+>> 3D7DE4.388 | 見えるぜ、お前の動きが！
+   I can see your every move!
+>> 3D7DE4.389 | 遅ェんだよ！
+   Too slow!
+>> 3D7DE4.390 | 見切った！
+   Saw that coming!
+>> 3D7DE4.391 | 笑わせるなよ
+   Don't make me laugh.
+>> 3D7DE4.392 | それで攻撃してるつもりか？
+   You call that an attack?
+>> 3D7DE4.393 | 効かねぇな
+   Didn't feel a thing.
+>> 3D7DE4.394 | おいおい、それが実力なのか？
+   Hey, hey, is that all you've got?
+>> 3D7DE4.395 | 相手になんねーな
+   You're no match for me.
+>> 3D7DE4.396 | ちイ！
+   Tch!
+>> 3D7DE4.397 | …油断したか？
+   ...Did I get careless?
+>> 3D7DE4.398 | ハッ、この程度！
+   Hah, that's nothing!
+>> 3D7DE4.399 | なんてことねえな
+   No big deal.
+>> 3D7DE4.400 | そんなモンでやられるかよ！
+   Like that's gonna take me down!
+>> 3D7DE4.401 | うがああっ！
+   Gwaaargh!
+>> 3D7DE4.402 | こいつ、やるじゃねえかよ！
+   This guy's not half bad!
+>> 3D7DE4.403 | ヘッ、ちったあ骨があるようだな！
+   Heh, looks like you've got some backbone!
+>> 3D7DE4.404 | 楽しませてくれるじゃねえかよ
+   Now you're making this fun.
+>> 3D7DE4.405 | うがああっ！
+   Gwaaargh!
+>> 3D7DE4.406 | うわああああっ！！
+   Waaaaagh!!
+>> 3D7DE4.407 | 笑師：
+   Emishi:
+>> 3D7DE4.408 | 見切ったで？
+   Saw right through ya!
+>> 3D7DE4.409 | ムハハハ！　当らんで～！
+   Muhahaha! Can't hit me~!
+>> 3D7DE4.410 | あんさんの動きが見える！見えるで～！
+   I can see your moves! I can seeee 'em~!
+>> 3D7DE4.411 | 当るかっちゅ～ねん！
+   Like that's gonna hit me!
+>> 3D7DE4.412 | もうエエって、ウチへ帰りーや
+   Enough already, go on home.
+>> 3D7DE4.413 | なんや、そんなモンかいな
+   What, that's it?
+>> 3D7DE4.414 | やる気あンのかいな？
+   Are ya even tryin'?
+>> 3D7DE4.415 | 危な！　…ってビビる程でもないな
+   Whoa! ...Eh, not that scary actually.
+>> 3D7DE4.416 | あんさん帰った方がエエんちゃうか？
+   Shouldn't ya just go on home?
+>> 3D7DE4.417 | こんなモンではやられへんで！
+   It'll take more than this to get me!
+>> 3D7DE4.418 | あかん！
+   Uh-oh!
+>> 3D7DE4.419 | しもた！
+   Dang it!
+>> 3D7DE4.420 | まだ負けられへん！
+   I can't lose yet!
+>> 3D7DE4.421 | まあまあってトコかいな
+   Eh, so-so, I guess.
+>> 3D7DE4.422 | ちょいピンチって感じやな
+   Gettin' a little dicey here.
+>> 3D7DE4.423 | まだ終わってへん！
+   It ain't over yet!
+>> 3D7DE4.424 | あかんて！　このままやったら…！！
+   No good! At this rate...!!
+>> 3D7DE4.425 | ぐああっ！　直撃してもうた！
+   Gwaah! Took a direct hit!
+>> 3D7DE4.426 | …ピンチの時こそ笑わんとな！
+   ...When things get rough, ya gotta laugh!
+>> 3D7DE4.427 | ごっつマズいことになっとるなぁ…
+   This is gettin' real bad...
+>> 3D7DE4.428 | んなアホなぁ！
+   Ya gotta be kiddin' me!
+>> 3D7DE4.429 | 十兵衛：
+   Juubei:
+>> 3D7DE4.430 | 見くびるなよ
+   Do not underestimate me.
+>> 3D7DE4.431 | 遅い！
+   Too slow!
+>> 3D7DE4.432 | 当るわけにはいかん！
+   I cannot afford to be hit!
+>> 3D7DE4.433 | 貴様の動きは読めるぞ！
+   I can read your movements!
+>> 3D7DE4.434 | 相手にならんな
+   You are no match for me.
+>> 3D7DE4.435 | 笑止！
+   Laughable!
+>> 3D7DE4.436 | 力量不足のようだな
+   You lack the skill, it seems.
+>> 3D7DE4.437 | 貴様の力はこんなものか？
+   Is this all your power amounts to?
+>> 3D7DE4.438 | これでは相手にならんな
+   At this rate, you are no opponent at all.
+>> 3D7DE4.439 | 見掛け倒しといったところか
+   All show and no substance, I see.
+>> 3D7DE4.440 | フ…なるほど
+   Heh... I see.
+>> 3D7DE4.441 | この程度！
+   This is nothing!
+>> 3D7DE4.442 | 焦る必要はない
+   There is no need to panic.
+>> 3D7DE4.443 | かわせなかっただと！？
+   I could not dodge it?!
+>> 3D7DE4.444 | 致命傷ではなさそうだ
+   It does not seem fatal.
+>> 3D7DE4.445 | 不覚…！
+   Careless of me...!
+>> 3D7DE4.446 | …これ程とはな！
+   ...I did not expect this much!
+>> 3D7DE4.447 | まだ勝敗はついておらん！
+   This fight is not decided yet!
+>> 3D7DE4.448 | なにっ！？
+   What?!
+>> 3D7DE4.449 | うかつだったか！
+   Was I careless?!
+>> 3D7DE4.450 | 無念…！
+   Curses...!
+>> 3D7DE4.451 | 鏡：
+   Kagami:
+>> 3D7DE4.452 | 甘いね、キミは
+   You're naive, aren't you?
+>> 3D7DE4.453 | クス…俺はこっちだよ
+   Heh... I'm over here.
+>> 3D7DE4.454 | それがキミの実力なのかい？
+   Is that really your strength?
+>> 3D7DE4.455 | そのスピードじゃ当らないよ
+   You'll never hit me at that speed.
+>> 3D7DE4.456 | ガッカリしたよ…
+   How disappointing...
+>> 3D7DE4.457 | こんなものかい？
+   Is that all?
+>> 3D7DE4.458 | これじゃつまらないよ
+   This is boring.
+>> 3D7DE4.459 | もっと本気を出して欲しいな
+   I'd like you to get a bit more serious.
+>> 3D7DE4.460 | 手加減でもしてるのかな？
+   Are you holding back on me?
+>> 3D7DE4.461 | 観察する必要はなさそうだね
+   Doesn't seem you're worth observing.
+>> 3D7DE4.462 | まあまあだね
+   Not bad.
+>> 3D7DE4.463 | 予想通り…かな？
+   Just as I expected... perhaps?
+>> 3D7DE4.464 | フーン、なかなかガンバるね
+   Hmm, you're putting up quite a fight.
+>> 3D7DE4.465 | この程度なのかい？
+   Is this the best you can do?
+>> 3D7DE4.466 | 当てたことは褒めてあげようかな？
+   Shall I praise you for landing a hit?
+>> 3D7DE4.467 | 観察しがいがあるね、キミは
+   You're worth observing, you know.
+>> 3D7DE4.468 | へえ…なかなかやるね
+   Oh... not bad at all.
+>> 3D7DE4.469 | ここまでやるとはね…
+   I didn't think you'd go this far...
+>> 3D7DE4.470 | その攻撃…興味深いね
+   That attack... how interesting.
+>> 3D7DE4.471 | 危険…だね、キミは
+   You're... dangerous, aren't you?
+>> 3D7DE4.472 | …なるほど
+   ...I see.
+>> 3D7DE4.474 | 蛮：
+   Ban:
+>> 3D7DE4.475 | 喰われちまいな！
+   Get devoured!
+>> 3D7DE4.476 | シャアアアッ！
+   Hssshaaah!
+>> 3D7DE4.477 | 後悔すンじゃねえぞ！
+   Don't say I didn't warn you!
+>> 3D7DE4.478 | 食らいやがれ！
+   Eat this!
+>> 3D7DE4.479 | おおおぉぉお！
+   Raaaaaaah!
+>> 3D7DE4.481 | 任しとけ　銀次！
+   Leave it to me, Ginji!
+>> 3D7DE4.482 | 手ェ貸すぜ！
+   I'll lend you a hand!
+>> 3D7DE4.483 | チッ！　しゃーねぇな！
+   Tch! Fine, whatever!
+>> 3D7DE4.484 | このカリは高ェーぞ！
+   This favor's gonna cost ya!
+>> 3D7DE4.485 | 援護が必要ってか？
+   Need backup, huh?
+>> 3D7DE4.486 | この美堂蛮様に任せときな！
+   Leave it to the great Ban Mido!
+>> 3D7DE4.487 | 大丈夫か？　サムライ君？
+   You okay, Samurai-kun?
+>> 3D7DE4.488 | 気に入らねェーが、加勢するぜ
+   Don't like it, but I'll back you up.
+>> 3D7DE4.490 | これで決めるぜ、銀次ィ！
+   Let's finish this, Ginjiii!
+>> 3D7DE4.491 | 卑弥呼、抜かるんじゃねぇぞ！
+   Himiko, don't you screw this up!
+>> 3D7DE4.492 | しゃーねえな…行くぜ、ジャッカル！
+   Guess I've got no choice... Let's go, Jackal!
+>> 3D7DE4.493 | 行くぜ、絃使い！！
+   Let's go, string-user!!
+>> 3D7DE4.494 | 足引っ張るんじゃねえぞ、猿マワシ！
+   Don't drag me down, monkey-wrangler!
+>> 3D7DE4.495 | 気合入れてけよ、お笑いヤロー！
+   Get fired up, clown!
+>> 3D7DE4.496 | 抜かるんじゃねぇぞ、サムライ君！
+   Don't you slip up, Samurai-kun!
+>> 3D7DE4.497 | 本気出せよ、ホスト野郎！！
+   Get serious, host boy!!
+>> 3D7DE4.499 | よっしゃあ！　任しとけ、銀次ィ！
+   All right! Leave it to me, Ginjiii!
+>> 3D7DE4.500 | ハッ！　やってみろよ、卑弥呼！
+   Hah! Show me what you've got, Himiko!
+>> 3D7DE4.501 | なら、テメーも本気で行けよ！
+   Then you go all out too!
+>> 3D7DE4.502 | おう、任せろってんだよ！
+   Yeah, just leave it to me!
+>> 3D7DE4.503 | そりゃこっちのセリフだってんだよ！
+   That's my line, damn it!
+>> 3D7DE4.504 | うるせえ！　黙ってろ、お笑いヤロー！
+   Shut it! Pipe down, clown!
+>> 3D7DE4.505 | おっと、俺様を置いてくんじゃねえ！
+   Whoa, don't leave the great me behind!
+>> 3D7DE4.506 | あいにくと俺はそれほど安かないぜ！
+   Sorry, but I don't come that cheap!
+>> 3D7DE4.508 | どいてろ、銀次！！
+   Outta the way, Ginji!!
+>> 3D7DE4.509 | 卑弥呼、お前は下がってな！！
+   Himiko, you stay back!!
+>> 3D7DE4.510 | こいつぁ高くつくぜ、ジャッカル！！
+   This'll cost you, Jackal!!
+>> 3D7DE4.511 | 下がってろ、絃使い！！
+   Stay back, string-user!!
+>> 3D7DE4.512 | 貸しってことにしといてやらあ！！
+   Let's call it a favor you owe me!!
+>> 3D7DE4.513 | フザけすぎだ、お笑いヤロー！！
+   You're goofing off too much, clown!!
+>> 3D7DE4.514 | ヤベーんじゃねえか、サムライ君？
+   Looking rough there, Samurai-kun?
+>> 3D7DE4.515 | 観察してる場合じゃねえぞ！！
+   This ain't the time for observing!!
+>> 3D7DE4.516 | 銀次：
+   Ginji:
+>> 3D7DE4.517 | このォォ！
+   Take thiiis!
+>> 3D7DE4.518 | うおおおおっ！
+   Hrraaaaagh!
+>> 3D7DE4.519 | いっけええええっ！！
+   Here goooes!!
+>> 3D7DE4.520 | 思いっきりいくよ！！
+   I'm going all out!!
+>> 3D7DE4.521 | シビれたらゴメンね！！
+   Sorry if this zaps you!!
+>> 3D7DE4.522 | 蛮ちゃん手伝うよ！！
+   I'll help you, Ban-chan!!
+>> 3D7DE4.524 | ここはオレに任せてよ！
+   Leave this to me!
+>> 3D7DE4.525 | て、手伝います！
+   I-I'll help!
+>> 3D7DE4.526 | 大丈夫、カヅっちゃん？
+   You okay, Kazu-chan?
+>> 3D7DE4.527 | 協力するよ！
+   I'll help out!
+>> 3D7DE4.528 | オレにも手伝わせてよ！
+   Let me help too!
+>> 3D7DE4.529 | オレも加勢するよ！
+   I'll back you up too!
+>> 3D7DE4.530 | え、援護します！
+   I-I'll cover you!
+>> 3D7DE4.531 | 蛮ちゃん、行けるよ！
+   Ban-chan, we can do this!
+>> 3D7DE4.533 | 卑弥呼ちゃん、今だよ！
+   Himiko-chan, now!
+>> 3D7DE4.534 | あ、赤屍さん、お願いします！
+   A-Akabane-san, please!
+>> 3D7DE4.535 | 今だよ、カヅっちゃん！
+   Now, Kazu-chan!
+>> 3D7DE4.536 | 士度、力を合わせよう！
+   Shido, let's team up!
+>> 3D7DE4.537 | 笑師、チャンスだよ！
+   Emishi, here's our chance!
+>> 3D7DE4.538 | 十兵衛、協力しよう！
+   Juubei, let's work together!
+>> 3D7DE4.539 | 鏡さん、行きますよ！
+   Kagami-san, here we go!
+>> 3D7DE4.540 | 任せてよ、蛮ちゃん！
+   Leave it to me, Ban-chan!
+>> 3D7DE4.542 | 任せて、卑弥呼ちゃん！
+   Count on me, Himiko-chan!
+>> 3D7DE4.543 | わ、分かりました…行きますよ！
+   O-Okay... here I go!
+>> 3D7DE4.544 | よし行こう、カヅっちゃん！
+   Okay, let's go, Kazu-chan!
+>> 3D7DE4.545 | こっちはＯＫだよ、士度！
+   I'm good to go, Shido!
+>> 3D7DE4.546 | じゃあ行くよ！　笑師！
+   Here we go! Emishi!
+>> 3D7DE4.547 | うん！　…今は雷帝じゃないんだけどね
+   Yeah! ...I'm not the Thunder Emperor now.
+>> 3D7DE4.548 | えっ、あの…行きますよ！　鏡さん！！
+   Huh? Um... here I go! Kagami-san!!
+>> 3D7DE4.549 | 危ない、蛮ちゃん！！
+   Look out, Ban-chan!!
+>> 3D7DE4.551 | 卑弥呼ちゃんは下がってて！！
+   Stay back, Himiko-chan!!
+>> 3D7DE4.552 | あ、赤屍さん、危ないですよ！！
+   A-Akabane-san, it's dangerous!!
+>> 3D7DE4.553 | ここはオレに任せてよ！！
+   Leave this to me!!
+>> 3D7DE4.554 | これ以上は危ないよ、士度！！
+   Any more is too dangerous, Shido!!
+>> 3D7DE4.555 | 危ないよ、笑師！！
+   Look out, Emishi!!
+>> 3D7DE4.556 | 十兵衛、下がって！！
+   Juubei, get back!!
+>> 3D7DE4.557 | やらせるもんか！！
+   I won't let you!!
+>> 3D7DE4.558 | 卑弥呼：
+   Himiko:
+>> 3D7DE4.559 | もらった！
+   Gotcha!
+>> 3D7DE4.560 | 覚悟はいいかしら？
+   Ready for this?
+>> 3D7DE4.561 | ナメてもらっちゃ困るわ！
+   Don't you underestimate me!
+>> 3D7DE4.562 | これでどうかしら？
+   How about this?
+>> 3D7DE4.563 | 女だからって甘くみないでよね！！
+   Don't take me lightly 'cause I'm a girl!!
+>> 3D7DE4.564 | …これも仕事だからね！
+   ...It's all part of the job!
+>> 3D7DE4.565 | あたしも手伝うわ！
+   I'll help too!
+>> 3D7DE4.567 | 援護するわ、ジャッカル！
+   I've got your back, Jackal!
+>> 3D7DE4.568 | 協力するわ！
+   I'll lend a hand!
+>> 3D7DE4.569 | あたしに任せて！
+   Leave it to me!
+>> 3D7DE4.570 | 加勢させてもらうわよ？
+   Mind if I join in?
+>> 3D7DE4.571 | ここは手伝うわ！
+   I'll help out here!
+>> 3D7DE4.572 | 今度はあたしが観察しようかしら？
+   Maybe I'll do the observing this time?
+>> 3D7DE4.573 | あたしの力、見せてあげるわよ！　蛮！
+   I'll show you what I can do, Ban!
+>> 3D7DE4.574 | 行くわよ！
+   Let's go!
+>> 3D7DE4.576 | ジャッカル！　本気で行くわよ！
+   Jackal! I'm going all out!
+>> 3D7DE4.577 | 用意はいいかしら？
+   Are you ready?
+>> 3D7DE4.578 | あんたの力、見せてもらうわよ！
+   Show me what you've got!
+>> 3D7DE4.579 | ちょっと、足引っ張らないでよね！
+   Hey, don't you drag me down!
+>> 3D7DE4.580 | 二人がかりなんてシュミじゃないけど！
+   Two-on-one isn't my style, but...!
+>> 3D7DE4.581 | 行くわよ、カッコつけのオニイさん？
+   Let's go, Mr. Show-Off.
+>> 3D7DE4.582 | 分かってるわよ、蛮！
+   I know, Ban!
+>> 3D7DE4.583 | 任せなさい！
+   Leave it to me!
+>> 3D7DE4.585 | 分かっているわ、ジャッカル！
+   I'm aware, Jackal!
+>> 3D7DE4.586 | レディ・ポイズンの名はダテじゃないわ
+   The name Lady Poison isn't just for show.
+>> 3D7DE4.587 | バカにしないで！！
+   Don't mock me!!
+>> 3D7DE4.588 | ふざけてないで真剣に行くわよ！
+   Quit fooling around and get serious!
+>> 3D7DE4.589 | 女だと思って甘く見ないでよね！
+   Don't take me lightly 'cause I'm a woman!
+>> 3D7DE4.590 | いつでもどうぞ、鏡形而サン！
+   Anytime you like, Kyoji Kagami-san!
+>> 3D7DE4.591 | 危ないわよ、蛮！！
+   Look out, Ban!!
+>> 3D7DE4.592 | ちょっと、しっかりしなさいよ！！
+   Hey, pull yourself together!!
+>> 3D7DE4.594 | 貸しってことにしとくわ…
+   You owe me one...
+>> 3D7DE4.595 | 仕方ないわね！！
+   Oh, fine!!
+>> 3D7DE4.596 | これも仕事のうちよ！！
+   It's all part of the job!!
+>> 3D7DE4.597 | アンタは下がってて！！
+   You stay back!!
+>> 3D7DE4.598 | ここはあたしが！！
+   I'll handle this!!
+>> 3D7DE4.599 | そろそろ本気出したらどう？
+   Isn't it time you got serious?
+>> 3D7DE4.600 | 赤屍：
+   Akabane:
+>> 3D7DE4.601 | 私を楽しませて下さい
+   Please, entertain me.
+>> 3D7DE4.602 | この私には役不足ですね
+   You are no match for me, I am afraid.
+>> 3D7DE4.603 | 準備はいいですか？
+   Are you ready?
+>> 3D7DE4.604 | さあ、いきますよ
+   Now, here I come.
+>> 3D7DE4.605 | 覚悟は決まりましたか？
+   Have you made your peace?
+>> 3D7DE4.606 | フ…面白い…
+   Heh... interesting...
+>> 3D7DE4.607 | 銀次クン…大丈夫ですか？
+   Ginji-kun... are you all right?
+>> 3D7DE4.608 | 手伝いますよ、レディポイズン
+   Allow me to help, Lady Poison.
+>> 3D7DE4.610 | …援護させていただきましょう
+   ...Allow me to assist you.
+>> 3D7DE4.611 | …もっと楽しませてください
+   ...Entertain me some more.
+>> 3D7DE4.612 | ………
+   ...
+>> 3D7DE4.613 | クス…
+   Heh...
+>> 3D7DE4.614 | 実に興味深い…ですね
+   Truly... fascinating.
+>> 3D7DE4.615 | あなたの本当の力を見せていただきたい
+   I would like to see your true power.
+>> 3D7DE4.616 | あなたの１００％の力…見せて下さい
+   Show me... 100% of your power.
+>> 3D7DE4.617 | それでは行きますよ、レディ・ポイズン
+   Shall we, then, Lady Poison?
+>> 3D7DE4.619 | 絃術の腕、拝見させていただきましょう
+   Let me see your skill with the strings.
+>> 3D7DE4.620 | 動物に擬態するとは…面白い方ですね
+   Animal mimicry... What an interesting man.
+>> 3D7DE4.621 | 楼蘭の鞭、見せていただきましょう
+   Show me your Loulan whip.
+>> 3D7DE4.622 | 黒磁鉱の針を使うとは…面白いですね
+   Black magnetite needles... How interesting.
+>> 3D7DE4.623 | 塔の住人の力、見せていただきましょう
+   Show me the power of a Tower resident.
+>> 3D7DE4.624 | クス…任せて下さい
+   Heh... leave it to me.
+>> 3D7DE4.625 | クス、あなたがそう言うのなら…
+   Heh, if you insist...
+>> 3D7DE4.626 | 分かっていますよ、レディ・ポイズン
+   I am aware, Lady Poison.
+>> 3D7DE4.628 | 私は敵ではありませんよ、今は…ね
+   I am not your enemy. For now, that is.
+>> 3D7DE4.629 | クス…
+   Heh...
+>> 3D7DE4.630 | クス…いいでしょう
+   Heh... very well.
+>> 3D7DE4.631 | クス…
+   Heh...
+>> 3D7DE4.632 | それはあなたもですよ、鏡形而クン？
+   The same goes for you, Kyoji Kagami-kun.
+>> 3D7DE4.633 | 倒れられるわけにはいきませんからね…
+   I cannot have you falling now...
+>> 3D7DE4.634 | あなたはこの私が倒したい…
+   I want to be the one who defeats you...
+>> 3D7DE4.635 | 大丈夫ですか、レディ・ポイズン？
+   Are you all right, Lady Poison?
+>> 3D7DE4.637 | 代わりになりましょう
+   Let me take your place.
+>> 3D7DE4.638 | この私に任せていただきましょう
+   Leave this to me.
+>> 3D7DE4.639 | 顔色が悪いですよ…
+   You look rather pale...
+>> 3D7DE4.640 | ………
+   ...
+>> 3D7DE4.641 | どうしました、こんなものですか？
+   What is the matter? Is this all?
+>> 3D7DE4.642 | 花月：
+   Kazuki:
+>> 3D7DE4.643 | 愚かな…
+   Foolish...
+>> 3D7DE4.644 | 逃げ場はないぞ
+   There's nowhere to run.
+>> 3D7DE4.645 | 君の負けだ
+   You lose.
+>> 3D7DE4.646 | 今こそ味わうがよい
+   Now, have a taste.
+>> 3D7DE4.647 | 行くぞ！！
+   Here I come!!
+>> 3D7DE4.648 | 協力しましょう！
+   Let's work together!
+>> 3D7DE4.649 | 僕に任せてください
+   Leave it to me.
+>> 3D7DE4.650 | 手伝いますよ、卑弥呼さん！
+   I'll help, Himiko-san!
+>> 3D7DE4.651 | …仕方ないですね
+   ...I suppose I have no choice.
+>> 3D7DE4.653 | 力を貸そう！
+   I'll lend you my strength!
+>> 3D7DE4.654 | 援護しよう、笑師！
+   I'll cover you, Emishi!
+>> 3D7DE4.655 | 加勢するよ、十兵衛！
+   I'm with you, Juubei!
+>> 3D7DE4.656 | 援護しましょう！
+   Let me support you!
+>> 3D7DE4.657 | 行きますよ、美堂さん！
+   Here we go, Mido-san!
+>> 3D7DE4.658 | 銀次さん、お願いします！
+   Ginji-san, please!
+>> 3D7DE4.659 | 卑弥呼さん、行けますか？
+   Himiko-san, are you ready?
+>> 3D7DE4.660 | あなたを信用していいんですね？
+   I can trust you, can't I?
+>> 3D7DE4.662 | 士度、力を合わせるんだ！
+   Shido, let's join forces!
+>> 3D7DE4.663 | 油断は禁物だ、笑師！
+   Don't let your guard down, Emishi!
+>> 3D7DE4.664 | 十兵衛…！
+   Juubei...!
+>> 3D7DE4.665 | あなたの力を貸していただきましょう！
+   Please lend me your strength!
+>> 3D7DE4.666 | 任せて下さい！
+   Leave it to me!
+>> 3D7DE4.667 | 分かりました！
+   Understood!
+>> 3D7DE4.668 | いいですよ、卑弥呼さん！
+   Ready when you are, Himiko-san!
+>> 3D7DE4.669 | いいでしょう、行きますよ！
+   Very well, here we go!
+>> 3D7DE4.671 | 分かったよ、士度！
+   Got it, Shido!
+>> 3D7DE4.672 | いいだろう！　行くぞ、笑師！
+   Very well! Let's go, Emishi!
+>> 3D7DE4.673 | よし！　行こう、十兵衛！
+   Right! Let's go, Juubei!
+>> 3D7DE4.674 | 任せて下さい！
+   Leave it to me!
+>> 3D7DE4.675 | ここは僕が代わりに！！
+   I'll take your place!!
+>> 3D7DE4.676 | 危ない！　銀次さん！！
+   Look out! Ginji-san!!
+>> 3D7DE4.677 | 卑弥呼さん、危険ですよ！！
+   Himiko-san, it's dangerous!!
+>> 3D7DE4.678 | ここは僕に任せて下さい！！
+   Leave this to me!!
+>> 3D7DE4.680 | 士度！　ここは下がるんだ！！
+   Shido! Fall back!!
+>> 3D7DE4.681 | これ以上は危険だ、笑師！！
+   It's too dangerous to go on, Emishi!!
+>> 3D7DE4.682 | 君を死なせるわけにはいかない！！
+   I won't let you die!!
+>> 3D7DE4.683 | 援護しましょう！！
+   Let me cover you!!
+>> 3D7DE4.684 | 士度：
+   Shido:
+>> 3D7DE4.685 | お前の負けだ！
+   You lose!
+>> 3D7DE4.686 | 格の違いを教えてやる！
+   I'll show you the difference between us!
+>> 3D7DE4.687 | 受けてみろ！！
+   Take this!!
+>> 3D7DE4.688 | 食らいな！！
+   Eat this!!
+>> 3D7DE4.689 | 見せてやるぜ！！
+   Watch this!!
+>> 3D7DE4.690 | やる気あンのか？　ウニ頭
+   You even trying, urchin head?
+>> 3D7DE4.691 | 援護するぜ、銀次！
+   I've got your back, Ginji!
+>> 3D7DE4.692 | 俺が助けてやるぜ
+   I'll help you out.
+>> 3D7DE4.693 | …手伝ってやるよ！
+   ...I'll give you a hand!
+>> 3D7DE4.694 | 俺に任せろっ！
+   Leave it to me!
+>> 3D7DE4.696 | 協力するぜ、笑師！
+   I'm with you, Emishi!
+>> 3D7DE4.697 | 援護は任せろ！
+   I'll cover you!
+>> 3D7DE4.698 | まあ一応、加勢するぜ！
+   Well, I'll back you up, I guess!
+>> 3D7DE4.699 | 俺のジャマすんじゃねえぞ、ウニ頭！
+   Don't get in my way, urchin head!
+>> 3D7DE4.700 | 全力で行くぜ、銀次！
+   Going all out, Ginji!
+>> 3D7DE4.701 | 悪ィが全力出してくぜ！
+   Sorry, but I'm going all out!
+>> 3D7DE4.702 | テメーの力を借りることになるとはな！
+   Never thought I'd need your help!
+>> 3D7DE4.703 | 花月、そっちは任せたぜ！
+   Kazuki, I'm counting on you over there!
+>> 3D7DE4.705 | 俺のスピードについて来いよ、笑師！
+   Keep up with my speed, Emishi!
+>> 3D7DE4.706 | 十兵衛、力を合わせるぞ！
+   Juubei, let's join forces!
+>> 3D7DE4.707 | 俺のジャマすんじゃねーぞ！
+   Don't get in my way!
+>> 3D7DE4.708 | テメーこそな！
+   Same to you!
+>> 3D7DE4.709 | よし！　銀次、行くぜ！
+   Right! Ginji, let's go!
+>> 3D7DE4.710 | 任せてもらおうか！
+   Leave it to me!
+>> 3D7DE4.711 | …さあ、行くぜ！
+   ...Now, let's go!
+>> 3D7DE4.712 | よし、こっちは任せろ、花月！！
+   Right, I've got this side, Kazuki!!
+>> 3D7DE4.714 | アホか！　マジメにやれ、笑師！
+   Idiot! Take this seriously, Emishi!
+>> 3D7DE4.715 | あたりめぇだ！　いつでもいいぜ！！
+   Damn right! Ready anytime!!
+>> 3D7DE4.716 | 甘く見るな、いつでも行けるぜ！
+   Don't take me lightly. I'm ready anytime!
+>> 3D7DE4.717 | いいザマだな、ウニ頭！！
+   Serves you right, urchin head!!
+>> 3D7DE4.718 | 銀次、ここは任せな！！
+   Ginji, leave this to me!!
+>> 3D7DE4.719 | あんたはどいてな！！
+   You, out of the way!!
+>> 3D7DE4.720 | どうにも気に入らねえがな！！
+   Not that I like it one bit!!
+>> 3D7DE4.721 | 花月、ちっと下がってな！！
+   Kazuki, stay back a sec!!
+>> 3D7DE4.723 | すぐに■めるのは悪いクセだぜ！！
+   Giving up so fast is a bad habit!!
+>> 3D7DE4.724 | 大丈夫かよ、十兵衛！？
+   You okay, Juubei?!
+>> 3D7DE4.725 | …しゃーねえな！！
+   ...Guess I've got no choice!!
+>> 3D7DE4.726 | 笑師：
+   Emishi:
+>> 3D7DE4.727 | かんにんやで！
+   Sorry 'bout this!
+>> 3D7DE4.728 | 一緒に笑おうや！
+   Let's all laugh together!
+>> 3D7DE4.729 | これで終わらしたる！！
+   I'll end it with this!!
+>> 3D7DE4.730 | せめて血飛沫に嗤うたるで！
+   Least I can do is laugh at the blood spray!
+>> 3D7DE4.731 | 本気で行きまっせ！！
+   Here I go, for real!!
+>> 3D7DE4.732 | 手伝いまっせ！
+   I'll help ya out!
+>> 3D7DE4.733 | ここはワイに任せてーや！
+   Leave this one to me!
+>> 3D7DE4.734 | 笑師春樹参上やで！
+   Emishi Haruki has arrived!
+>> 3D7DE4.735 | あんま気ぃー進まんけど、仕方ないな！
+   Not really feelin' it, but whatever!

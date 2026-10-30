@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "な、なんで殴るの～？？？",
-  "en": ""
+  "en": "Wh-why'd you hit me~???"
  },
  {
   "id": "7C091C.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "テメー、",
-  "en": ""
+  "en": "I told you not to go wandering off on"
  },
  {
   "id": "7C091C.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "勝手に動くなって言ったじゃねえかよ！",
-  "en": ""
+  "en": "your own, damn it!"
  },
  {
   "id": "7C091C.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "チョロチョロすっから",
-  "en": ""
+  "en": "This is what happens when you go"
  },
  {
   "id": "7C091C.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "こういうことになんだろうが！！　",
-  "en": ""
+  "en": "scurrying around!!"
  },
  {
   "id": "7C091C.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ゴメ～ン…　",
-  "en": ""
+  "en": "Sorryyy..."
  },
  {
   "id": "7C091C.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "雷帝状態で弥勒のヤローと",
-  "en": ""
+  "en": "You didn't go fighting that Miroku bastard"
  },
  {
   "id": "7C091C.20",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "戦ったりしなかっただろうな？",
-  "en": ""
+  "en": "as the Thunder Emperor, did you?"
  },
  {
   "id": "7C091C.22",
@@ -104,7 +104,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "うーん、無限城と違うから",
-  "en": ""
+  "en": "Well, it's not like the Infinity Fortress, so"
  },
  {
   "id": "7C091C.25",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "電気が足りなかったんだよね～",
-  "en": ""
+  "en": "there wasn't enough electricity~"
  },
  {
   "id": "7C091C.27",
@@ -120,6 +120,6 @@
   "box": 7,
   "speaker": "銀次",
   "jp": "それですぐに戻っちゃって…　",
-  "en": ""
+  "en": "So I changed back right away..."
  }
 ]

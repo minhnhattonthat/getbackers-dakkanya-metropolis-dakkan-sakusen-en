@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "おばさん",
   "jp": "ごめんねぇ、階段清掃中なのよ",
-  "en": ""
+  "en": "Sorry, dear, we're cleaning the stairs."
  },
  {
   "id": "7AC500.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "おばさん",
   "jp": "もう少ししてから来てもらえるかしら？",
-  "en": ""
+  "en": "Could you come back a little later?"
  },
  {
   "id": "7AC500.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "しゃーないな、どっかで時間でも　",
-  "en": ""
+  "en": "Can't be helped. Shall we go kill some time"
  },
  {
   "id": "7AC500.9",
@@ -43,6 +43,6 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "つぶしてきましょか、士度はん？　",
-  "en": ""
+  "en": "somewhere, Shido-han?"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "テメー、逃げンのかよ！！",
-  "en": ""
+  "en": "Hey, you running away?!!"
  },
  {
   "id": "793E30.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛭田",
   "jp": "ボクは忙しいんだよ！",
-  "en": ""
+  "en": "I'm a busy man!"
  },
  {
   "id": "793E30.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "蛭田",
   "jp": "お前たち！　",
-  "en": ""
+  "en": "You lot! Beat these guys to a pulp!!"
  },
  {
   "id": "793E30.10",
@@ -43,6 +43,6 @@
   "box": 3,
   "speaker": "蛭田",
   "jp": "そいつらをコテンパンにしてやんな！！",
-  "en": ""
+  "en": " "
  }
 ]

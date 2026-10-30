@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "…なんつーメンツだ、ありゃあ？　",
-  "en": ""
+  "en": "...What the hell kind of lineup is that?"
  },
  {
   "id": "7D2B50.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "クス…時には自分と　",
-  "en": ""
+  "en": "Heh... Fighting oneself every now and then"
  },
  {
   "id": "7D2B50.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "戦ってみるというのも悪くないですよ　",
-  "en": ""
+  "en": "is not so bad."
  },
  {
   "id": "7D2B50.10",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "そ、そんなことを思うのは",
-  "en": ""
+  "en": "Y-You're the only one who'd think that,"
  },
  {
   "id": "7D2B50.13",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "赤屍さんだけだと思いますが！？　",
-  "en": ""
+  "en": "Akabane-san!"
  },
  {
   "id": "7D2B50.15",
@@ -73,7 +73,7 @@
   "box": 4,
   "speaker": "鏡　",
   "jp": "そうかな？　",
-  "en": ""
+  "en": "You think so? I'm finding it pretty fun too,"
  },
  {
   "id": "7D2B50.18",
@@ -81,7 +81,7 @@
   "box": 4,
   "speaker": "鏡　",
   "jp": "オレもなかなか楽しいと思うけど？",
-  "en": ""
+  "en": "though?"
  },
  {
   "id": "7D2B50.20",
@@ -96,7 +96,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "（…赤屍さんと鏡さんは　",
-  "en": ""
+  "en": "(...I think Akabane-san and Kagami-san are"
  },
  {
   "id": "7D2B50.23",
@@ -104,6 +104,6 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "ちょっとおかしいと思います…）　",
-  "en": ""
+  "en": "a little weird...)"
  }
 ]

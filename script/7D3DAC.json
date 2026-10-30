@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "笑師",
   "jp": "ふう～…キグルミ隊、大活躍やったな！",
-  "en": ""
+  "en": "Whew~... The Mascot Squad really pulled\nthrough, huh!"
  },
  {
   "id": "7D3DAC.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "似合ってンぞ、オメーら！",
-  "en": ""
+  "en": "Looking good, you guys!"
  },
  {
   "id": "7D3DAC.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ブハハハハッ！！",
-  "en": ""
+  "en": "Bwahahahaha!!"
  },
  {
   "id": "7D3DAC.11",
@@ -50,7 +50,7 @@
   "box": 4,
   "speaker": "士度",
   "jp": "クソッ！　さっさと脱いでや…",
-  "en": ""
+  "en": "Damn it! I'm getting this thing off right--"
  },
  {
   "id": "7D3DAC.15",
@@ -58,7 +58,7 @@
   "box": 5,
   "speaker": "士度",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7D3DAC.17",
@@ -66,7 +66,7 @@
   "box": 6,
   "speaker": "士度",
   "jp": "ん？　下がらねえぞ、これ",
-  "en": ""
+  "en": "Huh? It won't go down."
  },
  {
   "id": "7D3DAC.19",
@@ -81,7 +81,7 @@
   "box": 7,
   "speaker": "花月",
   "jp": "人にもまれたせいか、",
-  "en": ""
+  "en": "It seems the zipper broke while you were"
  },
  {
   "id": "7D3DAC.22",
@@ -89,7 +89,7 @@
   "box": 7,
   "speaker": "花月",
   "jp": "ジッパーが壊れてしまったようですね…",
-  "en": ""
+  "en": "being jostled by the crowd..."
  },
  {
   "id": "7D3DAC.24",
@@ -104,7 +104,7 @@
   "box": 8,
   "speaker": "士度",
   "jp": "脱げねえじゃねえかよ！　",
-  "en": ""
+  "en": "So I can't take it off?! What am I"
  },
  {
   "id": "7D3DAC.27",
@@ -112,7 +112,7 @@
   "box": 8,
   "speaker": "士度",
   "jp": "どうすんだ！！　",
-  "en": ""
+  "en": "supposed to do?!"
  },
  {
   "id": "7D3DAC.29",
@@ -127,7 +127,7 @@
   "box": 9,
   "speaker": "笑師",
   "jp": "エエやん、そのままで",
-  "en": ""
+  "en": "Aw, who cares? Stay like that. Right,"
  },
  {
   "id": "7D3DAC.32",
@@ -135,7 +135,7 @@
   "box": 9,
   "speaker": "笑師",
   "jp": "なあ、十兵衛はん",
-  "en": ""
+  "en": "Juubei-han?"
  },
  {
   "id": "7D3DAC.34",
@@ -150,7 +150,7 @@
   "box": 10,
   "speaker": "十兵衛　",
   "jp": "まあ、これも修行と思えば辛くない",
-  "en": ""
+  "en": "Well, if I think of this as training, it is not\nso hard."
  },
  {
   "id": "7D3DAC.38",
@@ -165,7 +165,7 @@
   "box": 11,
   "speaker": "士度",
   "jp": "なんの修行だよ！？　",
-  "en": ""
+  "en": "Training for WHAT?!"
  },
  {
   "id": "7D3DAC.42",
@@ -180,7 +180,7 @@
   "box": 12,
   "speaker": "笑師",
   "jp": "エエやん、エエやん！",
-  "en": ""
+  "en": "Who cares, who cares! Let's get goin'~"
  },
  {
   "id": "7D3DAC.45",
@@ -188,6 +188,6 @@
   "box": 12,
   "speaker": "笑師",
   "jp": "ほな行きましょか～　",
-  "en": ""
+  "en": " "
  }
 ]

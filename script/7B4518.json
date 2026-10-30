@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "社員",
   "jp": "う～ん、",
-  "en": ""
+  "en": "Hmm, I'd say it all depends on how hard"
  },
  {
   "id": "7B4518.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "社員",
   "jp": "これからの努力次第ってとこかな？",
-  "en": ""
+  "en": "you work from here?"
  },
  {
   "id": "7B4518.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "社員",
   "jp": "じゃ、がんばれってことで",
-  "en": ""
+  "en": "So, as a \"keep at it,\" here's a little"
  },
  {
   "id": "7B4518.7",
@@ -36,7 +36,7 @@
   "box": 2,
   "speaker": "社員",
   "jp": "これあげちゃおうかな！　",
-  "en": ""
+  "en": "something!"
  },
  {
   "id": "7B4518.11",
@@ -44,7 +44,7 @@
   "box": 3,
   "speaker": "社員",
   "jp": "冬虫夏草を手に入れた！　",
-  "en": ""
+  "en": "Got Cordyceps!"
  },
  {
   "id": "7B4518.13",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "こうなったら毎日練習するしかないな！",
-  "en": ""
+  "en": "Now we've just gotta practice every day!"
  },
  {
   "id": "7B4518.16",
@@ -67,7 +67,7 @@
   "box": 4,
   "speaker": "笑師",
   "jp": "がんばっていこか、士度はん！",
-  "en": ""
+  "en": "Let's give it our all, Shido-han!"
  },
  {
   "id": "7B4518.18",
@@ -82,6 +82,6 @@
   "box": 5,
   "speaker": "士度",
   "jp": "しねえよ",
-  "en": ""
+  "en": "We're not."
  }
 ]

@@ -21,22 +21,6 @@
 西園寺	Saionji
 山城	Yamashiro
 ジェンド	Jend
-蛮	Ban
-銀次	Ginji
-士度	Shido
-笑師	Emishi
-花月	Kazuki
-卑弥呼	Himiko
-赤屍	Akabane
-鏡	Kagami
-十兵衛	Juubei
-ジェンド	Jend
-蛭田	Hiruta
-弥勒	Miroku
-西園寺	Saionji
-Ｓサービス	S-Service
-山城	Yamashiro
-使用人	Servant
 奪い屋	Snatcher
 スネークバイト	Snake Bite
 解毒香	Antidote Perfume
@@ -59,6 +43,9 @@
 鳳仙花	Balsam Burst
 土蜘蛛	Earth Spider
 ダイヤモンド・ダスト	Diamond Dust
+毒香水	Poison Perfume
+百獣擬態	Beast Mimicry
+ＣＡＶ	CAV
 バタリー	Batary
 ジュノー	Junon	avoid: Juno
 ラトリス	Ratrice

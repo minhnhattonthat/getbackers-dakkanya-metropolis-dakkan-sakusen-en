@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "ビ、ビックリした…　",
-  "en": ""
+  "en": "Th-that scared me..."
  },
  {
   "id": "7BA9C4.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "…別の場所に穴が開きましたね",
-  "en": ""
+  "en": "...A hole opened up somewhere else."
  },
  {
   "id": "7BA9C4.9",
@@ -42,6 +42,6 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "どれ、もう一回押してみるか…",
-  "en": ""
+  "en": "Okay, let's press it one more time..."
  }
 ]

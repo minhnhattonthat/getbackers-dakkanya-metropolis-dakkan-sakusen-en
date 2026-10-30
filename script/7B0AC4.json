@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "社員",
   "jp": "おや、新人のお笑い芸人さんですか？　",
-  "en": ""
+  "en": "Oh, are you a new comedian?"
  },
  {
   "id": "7B0AC4.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "せや、デビューしたての　",
-  "en": ""
+  "en": "That's right, a fresh-faced newbie, just"
  },
  {
   "id": "7B0AC4.8",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "ピチピチの新人でっせ！！",
-  "en": ""
+  "en": "debuted!!"
  },
  {
   "id": "7B0AC4.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "笑師",
   "jp": "ところでパスコード持ってへん？　",
-  "en": ""
+  "en": "By the way, got a passcode?"
  },
  {
   "id": "7B0AC4.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "社員",
   "jp": "ええ、パスコード１なら　",
-  "en": ""
+  "en": "Yes, I've got Passcode 1."
  },
  {
   "id": "7B0AC4.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "社員",
   "jp": "持ってますよ",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B0AC4.17",
@@ -81,7 +81,7 @@
   "box": 5,
   "speaker": "笑師",
   "jp": "そのパス記憶させてくれへん？",
-  "en": ""
+  "en": "Mind savin' that pass onto mine?"
  },
  {
   "id": "7B0AC4.21",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "社員",
   "jp": "ええ、いいですよ",
-  "en": ""
+  "en": "Sure, no problem."
  },
  {
   "id": "7B0AC4.27",
@@ -104,7 +104,7 @@
   "box": 7,
   "speaker": "社員",
   "jp": "パスコード１を手に入れた！　",
-  "en": ""
+  "en": "Got Passcode 1!"
  },
  {
   "id": "7B0AC4.29",
@@ -119,6 +119,6 @@
   "box": 8,
   "speaker": "笑師",
   "jp": "作戦成功やな！　",
-  "en": ""
+  "en": "Plan's a success!"
  }
 ]

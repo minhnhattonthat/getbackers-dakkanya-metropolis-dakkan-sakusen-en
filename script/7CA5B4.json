@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "笑師",
   "jp": "なんや、",
-  "en": ""
+  "en": "Whoa there, you two look all stiff!"
  },
  {
   "id": "7CA5B4.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "笑師",
   "jp": "二人とも表情が固うなっとりまっせ！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CA5B4.6",
@@ -28,7 +28,7 @@
   "box": 2,
   "speaker": "笑師",
   "jp": "こういう時こそ笑わなアカンて！　",
-  "en": ""
+  "en": "Times like this, ya gotta laugh!"
  },
  {
   "id": "7CA5B4.8",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "…テメーがいると",
-  "en": ""
+  "en": "...With you around, all the tension drains"
  },
  {
   "id": "7CA5B4.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "緊張感が一気に失せるな　",
-  "en": ""
+  "en": "right outta the room."
  },
  {
   "id": "7CA5B4.13",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "士度、笑師…",
-  "en": ""
+  "en": "Shido, Emishi... You're coming with us?"
  },
  {
   "id": "7CA5B4.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "オレたちと一緒に行ってくれるの？",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CA5B4.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "士度",
   "jp": "ああ、新宿をこのままにしとくワケにも",
-  "en": ""
+  "en": "Yeah. Can't just leave Shinjuku like this."
  },
  {
   "id": "7CA5B4.21",
@@ -97,6 +97,6 @@
   "box": 5,
   "speaker": "士度",
   "jp": "いかねーからな　",
-  "en": ""
+  "en": " "
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "テメーも逃げられてんじゃねーかよ！　",
-  "en": ""
+  "en": "It ran from you too! Jeez, this is why"
  },
  {
   "id": "7945D4.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "蛮　",
   "jp": "ったく、これだからケモノはよォ！",
-  "en": ""
+  "en": "animals are such a pain!"
  },
  {
   "id": "7945D4.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "…そうだ、士度（しど）なら　",
-  "en": ""
+  "en": "...I know, Shido might be able to do"
  },
  {
   "id": "7945D4.9",
@@ -43,7 +43,7 @@
   "box": 2,
   "speaker": "銀次",
   "jp": "なんとかできるかも！",
-  "en": ""
+  "en": "something!"
  },
  {
   "id": "7945D4.11",
@@ -58,7 +58,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "よりによってアイツかよ…",
-  "en": ""
+  "en": "Him, of all people..."
  },
  {
   "id": "7945D4.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "ま、ケモノに関しちゃアイツの方が",
-  "en": ""
+  "en": "Well, when it comes to animals, maybe he's"
  },
  {
   "id": "7945D4.16",
@@ -74,7 +74,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "なれてるかも知れねーけどな？",
-  "en": ""
+  "en": "got more experience, huh?"
  },
  {
   "id": "7945D4.18",
@@ -89,7 +89,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "でしょ！",
-  "en": ""
+  "en": "Right?! Let's ask Shido!"
  },
  {
   "id": "7945D4.21",
@@ -97,7 +97,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "士度に頼んでみようよ！　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7945D4.23",
@@ -112,7 +112,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "冗談じゃねえ！　",
-  "en": ""
+  "en": "No way in hell! Why should I have to bow"
  },
  {
   "id": "7945D4.26",
@@ -120,7 +120,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "なんだってアイツに頭下げなくちゃ…　",
-  "en": ""
+  "en": "my head to that guy..."
  },
  {
   "id": "7945D4.30",
@@ -128,7 +128,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "グー…　",
-  "en": ""
+  "en": "*growl*..."
  },
  {
   "id": "7945D4.32",
@@ -143,7 +143,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "…蛮ちゃん、ご飯のためだよ　",
-  "en": ""
+  "en": "...Ban-chan, it's for food."
  },
  {
   "id": "7945D4.36",
@@ -158,7 +158,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "…チッ、しゃあねえな！　",
-  "en": ""
+  "en": "...Tch, fine! Just this once!"
  },
  {
   "id": "7945D4.39",
@@ -166,6 +166,6 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "今回だけだからな！　",
-  "en": ""
+  "en": " "
  }
 ]

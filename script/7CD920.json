@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "…行っちゃったね",
-  "en": ""
+  "en": "...They're gone."
  },
  {
   "id": "7CD920.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "ああ…　",
-  "en": ""
+  "en": "Yeah..."
  },
  {
   "id": "7CD920.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "あっ、それって論文が入ってる",
-  "en": ""
+  "en": "Oh, isn't that the DVD-ROM with the thesis"
  },
  {
   "id": "7CD920.12",
@@ -50,7 +50,7 @@
   "box": 3,
   "speaker": "銀次",
   "jp": "ＤＶＤロムだよね？　",
-  "en": ""
+  "en": "on it?"
  },
  {
   "id": "7CD920.14",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "…どうするの、それ？",
-  "en": ""
+  "en": "...What are you gonna do with it?"
  },
  {
   "id": "7CD920.16",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "財宝が眠ってるんだったよな…",
-  "en": ""
+  "en": "There's supposed to be treasure sleeping\nin there..."
  },
  {
   "id": "7CD920.20",
@@ -88,7 +88,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "すっごいお宝が　",
-  "en": ""
+  "en": "Must be tons of amazing treasure..."
  },
  {
   "id": "7CD920.23",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "銀次",
   "jp": "たくさんあるんだろうね…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7CD920.25",
@@ -111,7 +111,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7CD920.29",
@@ -126,7 +126,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7CD920.33",
@@ -141,7 +141,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "…捨てちまうか！",
-  "en": ""
+  "en": "...Let's toss it!"
  },
  {
   "id": "7CD920.37",
@@ -156,7 +156,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "うん、そうだね！",
-  "en": ""
+  "en": "Yeah, sounds good! I think that's best."
  },
  {
   "id": "7CD920.40",
@@ -164,6 +164,6 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "それがいいと思うよ　",
-  "en": ""
+  "en": " "
  }
 ]

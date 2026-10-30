@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "卑弥呼　",
   "jp": "なにかしら、これ？　",
-  "en": ""
+  "en": "What's this? Something's written on the"
  },
  {
   "id": "7BA270.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "卑弥呼　",
   "jp": "カベになにか書いてあるわ…　",
-  "en": ""
+  "en": "wall..."
  },
  {
   "id": "7BA270.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "…どれどれ？",
-  "en": ""
+  "en": "...Lemme see?"
  },
  {
   "id": "7BA270.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ＡＢＣＤＥＦＧＨＩＪＫＬＭＮ",
-  "en": ""
+  "en": "ABCDEFGHIJKLMN OPQRSTUVWXYZ..."
  },
  {
   "id": "7BA270.11",
@@ -51,7 +51,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "ＯＰＱＲＳＴＵＶＷＸＹＺ…　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BA270.13",
@@ -59,7 +59,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "…ってアルファベットじゃねえかよ！　",
-  "en": ""
+  "en": "...That's just the alphabet! What the hell is"
  },
  {
   "id": "7BA270.14",
@@ -67,7 +67,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "なんだ、こりゃ？",
-  "en": ""
+  "en": "this?"
  },
  {
   "id": "7BA270.16",
@@ -75,7 +75,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "まだ続いてるな…",
-  "en": ""
+  "en": "There's more... Red: RED, Blue: BLUE"
  },
  {
   "id": "7BA270.17",
@@ -83,7 +83,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "赤：ＲＥＤ、青：ＢＬＵＥ",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BA270.19",
@@ -91,7 +91,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "黄：ＹＥＬＬＯＷ、緑：ＧＲＥＥＮ",
-  "en": ""
+  "en": "Yellow: YELLOW, Green: GREEN, White:"
  },
  {
   "id": "7BA270.20",
@@ -99,7 +99,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "白：ＷＨＩＴＥ、銀：ＳＩＬＶＥＲ",
-  "en": ""
+  "en": "WHITE, Silver: SILVER"
  },
  {
   "id": "7BA270.22",
@@ -107,7 +107,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "紫：ＰＵＲＰＬＥ",
-  "en": ""
+  "en": "Purple: PURPLE, Orange: ORANGE..."
  },
  {
   "id": "7BA270.23",
@@ -115,7 +115,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "オレンジ：ＯＲＡＮＧＥ…",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BA270.25",
@@ -123,7 +123,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "注意：スイッチを押すにはまず",
-  "en": ""
+  "en": "Note: Before pressing a switch, first"
  },
  {
   "id": "7BA270.26",
@@ -131,7 +131,7 @@
   "box": 8,
   "speaker": "蛮　",
   "jp": "トビラを調べること…",
-  "en": ""
+  "en": "examine the door..."
  },
  {
   "id": "7BA270.28",
@@ -139,7 +139,7 @@
   "box": 9,
   "speaker": "蛮　",
   "jp": "トビラを調べていない場合は無効　",
-  "en": ""
+  "en": "Invalid if the door has not been examined."
  },
  {
   "id": "7BA270.30",
@@ -154,7 +154,7 @@
   "box": 10,
   "speaker": "士度",
   "jp": "トビラに数字が書いてあるってことは　",
-  "en": ""
+  "en": "There are numbers on the doors. Guess"
  },
  {
   "id": "7BA270.33",
@@ -162,7 +162,7 @@
   "box": 10,
   "speaker": "士度",
   "jp": "それと数字が関係してるんだろうな？　",
-  "en": ""
+  "en": "the numbers tie in with that?"
  },
  {
   "id": "7BA270.35",
@@ -177,7 +177,7 @@
   "box": 11,
   "speaker": "卑弥呼　",
   "jp": "…スイッチに色がついてるわよね？",
-  "en": ""
+  "en": "...The switches are colored, aren't they?"
  },
  {
   "id": "7BA270.39",
@@ -192,7 +192,7 @@
   "box": 12,
   "speaker": "蛮　",
   "jp": "まあ、そこにあるのは黄色だな？　",
-  "en": ""
+  "en": "Well, the one over there's yellow, right?"
  },
  {
   "id": "7BA270.43",
@@ -207,7 +207,7 @@
   "box": 13,
   "speaker": "卑弥呼　",
   "jp": "ということはＹＥＬＬＯＷ…　",
-  "en": ""
+  "en": "So that makes it YELLOW... What number"
  },
  {
   "id": "7BA270.46",
@@ -215,7 +215,7 @@
   "box": 13,
   "speaker": "卑弥呼　",
   "jp": "Ｙは何番目のアルファベット？",
-  "en": ""
+  "en": "letter of the alphabet is Y?"
  },
  {
   "id": "7BA270.48",
@@ -230,7 +230,7 @@
   "box": 14,
   "speaker": "蛮　",
   "jp": "２５番目だな",
-  "en": ""
+  "en": "It's number 25."
  },
  {
   "id": "7BA270.52",
@@ -245,6 +245,6 @@
   "box": 15,
   "speaker": "卑弥呼　",
   "jp": "そういうことじゃないのかしら？　",
-  "en": ""
+  "en": "Isn't that the idea?"
  }
 ]

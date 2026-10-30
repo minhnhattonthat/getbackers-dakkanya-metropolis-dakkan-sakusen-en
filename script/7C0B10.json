@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "弥勒",
   "jp": "………美堂…蛮！！　",
-  "en": ""
+  "en": ".........Ban... Mido!!"
  },
  {
   "id": "7C0B10.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "末弟の雪彦か…　",
-  "en": ""
+  "en": "Yukihiko, the youngest brother, huh..."
  },
  {
   "id": "7C0B10.9",
@@ -35,7 +35,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "どうやら兄弟の中で最強ってのも　",
-  "en": ""
+  "en": "Looks like that \"strongest of the"
  },
  {
   "id": "7C0B10.10",
@@ -43,7 +43,7 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "まんざらウソでもなさそうだな？　",
-  "en": ""
+  "en": "brothers\" talk wasn't a total lie, huh?"
  },
  {
   "id": "7C0B10.12",
@@ -58,7 +58,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "ねえ、蛮ちゃん！　雪彦くんはオレを　",
-  "en": ""
+  "en": "Hey, Ban-chan! Yukihiko-kun was trying to"
  },
  {
   "id": "7C0B10.15",
@@ -66,7 +66,7 @@
   "box": 4,
   "speaker": "銀次",
   "jp": "助けようとしてくれたんだよ！",
-  "en": ""
+  "en": "save me!"
  },
  {
   "id": "7C0B10.17",
@@ -74,7 +74,7 @@
   "box": 5,
   "speaker": "銀次",
   "jp": "戦うことなんてないよ！　",
-  "en": ""
+  "en": "There's no reason to fight!"
  },
  {
   "id": "7C0B10.19",
@@ -89,7 +89,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "ヤツが護り屋である以上、",
-  "en": ""
+  "en": "As long as he's a protector, we can't"
  },
  {
   "id": "7C0B10.22",
@@ -97,7 +97,7 @@
   "box": 6,
   "speaker": "蛮　",
   "jp": "そうも言ってられねえさ！！　",
-  "en": ""
+  "en": "afford to think like that!!"
  },
  {
   "id": "7C0B10.24",
@@ -105,6 +105,6 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "行くぞ、銀次！！",
-  "en": ""
+  "en": "Let's go, Ginji!!"
  }
 ]

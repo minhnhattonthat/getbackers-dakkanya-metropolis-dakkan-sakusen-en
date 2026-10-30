@@ -1,0 +1,400 @@
+>> 7C51C8.3 | ばんかがのＭ、かがぎんのＭを / 手に入れた！
+   Obtained Ban-Kaga Memory and Kaga-Gin Memory!
+>> 7C51C8.8 | [鏡] クス…なかなかやるね
+   Heh... Not bad.
+>> 7C51C8.10 | [鏡] もっとキミたちのことを / 観察させて欲しいな
+   I'd like to observe you two a little more.
+>> 7C51C8.15 | [蛮] 今のは小手調べのつもりかよ / …なに企んでやがる？
+   Was that supposed to be a warm-up? ...What are you plotting?
+>> 7C51C8.21 | [鏡] 言ったろ？　観察だって…
+   Didn't I tell you? Observation...
+>> 7C51C8.25 | [蛮] ………
+   ...
+>> 7C51C8.29 | [銀次] 蛮ちゃん、 / 今は仲間が一人でも多い方が良くない？
+   Ban-chan, right now, isn't it better to have as many friends as we can get?
+>> 7C51C8.34 | [蛮] 冗談じゃねえ！ / ンな得体も知れねえヤツ連れていけるか
+   No way in hell! Like I'd drag along some guy we know nothing about.
+>> 7C51C8.39 | [鏡] でも、オレを仲間にしないと / あの王様に勝つことはできないよ
+   But unless I join you, you'll never beat that king.
+>> 7C51C8.44 | [蛮] …なんだと？
+   ...What?
+>> 7C54B0.4 | [銀次] あっ… / それはアルくんがくれたものと同じ石！
+   Ah... That's the same stone Al-kun gave us!
+>> 7C54B0.7 | [銀次] どうしてそれを…？
+   How did you get that...?
+>> 7C54B0.11 | [鏡] ある人にもらったのさ
+   Someone gave it to me.
+>> 7C54B0.15 | [銀次] まさか…アルくんが？ / どうして！？
+   No way... Al-kun did? But why?!
+>> 7C54B0.20 | [鏡] さあ？　オレが光の力を / 持ってるからじゃないかな？
+   Who knows? Maybe because I have the power of light?
+>> 7C54B0.25 | [蛮] 確かに光という字が浮かんでいるな
+   Yeah, the character for 'light' is showing on it, all right.
+>> 7C54B0.27 | [蛮] …それで？
+   ...And?
+>> 7C54B0.31 | [鏡] この石に浮かぶ文字は全部で九種類…
+   The characters that appear on these stones come in nine kinds in all...
+>> 7C54B0.33 | [鏡] 無・光・闇・火・水・風・土・砂… / そして雷
+   Void, Light, Dark, Fire, Water, Wind, Earth, Sand... and Thunder.
+>> 7C54B0.36 | [鏡] そのどれか一つが欠けても、 / あの王様に勝つことはできない
+   If even one of them is missing, you can't beat that king.
+>> 7C54B0.39 | [鏡] 九つの属性の完全なる調和が勝利の / 絶対条件となる…ということだよ
+   Perfect harmony of the nine elements is the absolute key to victory... You see.
+>> 7C54B0.44 | [蛮] アルがテメーにそう言ったんだな？ / なぜだ？
+   Al told you that, didn't he? Why you?
+>> 7C54B0.49 | [鏡] 多分、キミたちには / 言い出せなかったからじゃないかな？
+   Probably because he couldn't bring himself to tell you two.
+>> 7C54B0.52 | [鏡] 怖かったんだろうね、キミたちとの / 関係が壊れてしまうのが…
+   He must have been scared... of ruining what he had with you.
+>> 7C54B0.57 | [銀次] アルくん…
+   Al-kun...
+>> 7C54B0.61 | [鏡] さあ、どうするんだい？
+   So, what'll it be?
+>> 7C54B0.63 | [鏡] オレを連れていくのか、それとも / キミたちだけでがんばってみるのか…
+   Will you take me along, or try your luck on your own...?
+>> 7C54B0.68 | [銀次] いいでしょ、蛮ちゃん？ / アルくんもそうすることを望んでるし…
+   It's okay, right, Ban-chan? It's what Al-kun wants too...
+>> 7C54B0.73 | [蛮] …勝手にしろ
+   ...Do whatever you want.
+>> 7C54B0.77 | [銀次] やったー！　いいって！！
+   Yaaay! He said it's okay!!
+>> 7C54B0.81 | [鏡] クス…よろしく、天野銀次クン
+   Heh... Pleased to work with you, Ginji Amano-kun.
+>> 7C54B0.85 | [銀次] （ハッ！　今、鏡さんから赤屍さんと / 同じような怖さを感じました…
+   (Eek! Just now, Kagami-san gave me the same scary vibe as Akabane-san does...
+>> 7C54B0.88 | [銀次] ナゼでしょうか………）
+   Why might that be......)
+>> 7C5ADC.3 | [鏡] ところでキミたち、 / 配電室のカギを探してるんだったね？
+   By the way, you two are looking for the switch room key, aren't you?
+>> 7C5ADC.6 | [鏡] この階のどこかに / お探しのカギがあるみたいだよ
+   Seems the key you're after is somewhere on this floor.
+>> 7C5ADC.11 | [銀次] な…なぜ、 / カギを探してるって知ってるの！？
+   H-how... How did you know we were looking for the key?!
+>> 7C5ADC.16 | [鏡] 観察してたから…ね
+   Because I've been observing... you see.
+>> 7C5ADC.20 | [銀次] ………
+   ...
+>> 7C5ADC.22 | [銀次] （…やっぱり怖いよ～！！）
+   (...He IS scary~!!)
+>> 7C5C68.3 | 配電室のカギを手に入れた！
+   Obtained the Switch Room Key!
+>> 7C5C68.7 | [銀次] あったー！　カギ発見～！！
+   Found it! Key discovered~!!
+>> 7C5C68.11 | [蛮] よっしゃ、 / これでエレベーターを動かせるな！
+   All right! Now we can get the elevator running!
+>> 7C5C68.14 | [蛮] 配電室に戻ろうぜ
+   Let's head back to the switch room.
+>> 7C5D6C.3 | [蛮] エレベーターの電力は…どこだ？
+   Where's the power for the elevator...?
+>> 7C5D6C.7 | [銀次] えっと…あ、ここじゃない？ / スイッチ・オン！！
+   Umm... Oh, isn't it this one? Switch on!!
+>> 7C5E1C.3 | [銀次] …蛮ちゃ～ん、 / エレベーターの電気つかないんだけど…
+   ...Ban-chaaan, the elevator's power won't come on...
+>> 7C5E1C.8 | [蛮] あん？ / だったらムリヤリ電気通すしかねえな
+   Huh? Then we'll just have to force some juice through it.
+>> 7C5E1C.13 | [銀次] ！ / そっか、オレの電撃で！！
+   ! Oh yeah, with my Electric Shock!!
+>> 7C5F20.3 | [卑弥呼] ………
+   ...
+>> 7C5F20.7 | [赤屍] ………
+   ...
+>> 7C5F20.11 | [花月] ………
+   ...
+>> 7C5F20.15 | [十兵衛] ………
+   ...
+>> 7C5F20.19 | [士度] ………
+   ...
+>> 7C5F20.23 | [笑師] ………
+   ...
+>> 7C5F20.27 | [鏡] ………
+   ...
+>> 7C5F20.31 | [蛮] テメー、 / 余計不安定になってんじゃねえかよ！
+   You idiot, you just made it even more unstable!
+>> 7C5F20.34 | [蛮] ちったあ手加減てものをしろ！！
+   Learn to hold back a little!!
+>> 7C5F20.38 | [銀次] ゴ、ゴメ～ン…
+   S-sorryyy...
+>> 7C5F20.40 | [銀次] でもエレベーターの / 電気入ったみたいだよ！
+   But it looks like the elevator's got power now!
+>> 7C5F20.43 | [銀次] １Ｆのエレベーターのとこに / 行ってみようよ！
+   Let's go to the elevator on 1F!
+>> 7C619C.3 | [蛮] ヤベェな… / 電力が思いっきり不安定じゃねえかよ
+   Damn... The power's all over the place.
+>> 7C619C.6 | [蛮] このままじゃ、上に着く前に / エレベーターが止まるかも知れねえな…
+   At this rate, the elevator might stop before we reach the top...
+>> 7C619C.11 | [銀次] ス、スミマセン…
+   I-I'm terribly sorry...
+>> 7C619C.15 | [蛮] 謝りゃ済むってモンでもねえだろうが！
+   Saying sorry doesn't fix anything!
+>> 7C619C.17 | [蛮] だいたいテメーはいつもいつも…
+   You're always, always...
+>> 7C619C.21 | [花月] あの…ちょっとよろしいですか？
+   Um... May I have a moment?
+>> 7C619C.25 | [蛮] あン？
+   Huh?
+>> 7C619C.29 | [花月] 電力のことですけど、非常用の電力を / ＯＮにするとなんとかなりそうですよ
+   About the power... It seems switching on the emergency power should do the trick.
+>> 7C619C.34 | [銀次] 非常用？？？
+   Emergency???
+>> 7C619C.38 | [花月] ええ…配電室に書いてありましたよ
+   Yes... It was written in the switch room.
+>> 7C619C.40 | [花月] 非常時は１０階、５０階、８０階にある / 電力室のスイッチを入れろ…と
+   'In an emergency, turn on the switches in the power rooms on floors 10, 50 and 80.'
+>> 7C619C.45 | [蛮] どうもそうするしかなさそうだな？
+   Looks like that's our only option, huh?
+>> 7C619C.49 | [士度] エレベーターは動くのかよ？
+   Will the elevator even run?
+>> 7C619C.53 | [蛮] ま、一回位はなんとかなンだろ…
+   Eh, it oughta hold up for one trip...
+>> 7C619C.55 | [蛮] つーワケでパーティを三つに分けるぞ
+   So we're splitting into three parties.
+>> 7C619C.57 | [蛮] それぞれ１０階、５０階、８０階の / スイッチを押して１階で合流する…
+   Each one hits the switch on floor 10, 50 or 80, then we regroup on 1F...
+>> 7C619C.60 | [蛮] いいな？
+   Got it?
+>> 7C619C.64 | [銀次] あの…蛮ちゃん / パーティの振り分けってどうなるの？
+   Um... Ban-chan, how are we splitting up the parties?
+>> 7C619C.69 | [蛮] 前と同じでいいんじゃねえか？
+   Same as before should be fine, right?
+>> 7C619C.71 | [蛮] ああ…お前ンとこは２人だったから、 / そこに鏡のヤローが加わることになるな
+   Oh yeah... Yours only had 2, so that Kagami bastard joins up with you.
+>> 7C619C.74 | [蛮] で、俺様のチームが１０階のスイッチを
+   So, my team takes the switch on floor 10,
+>> 7C619C.76 | [蛮] 絃使いのチームが５０階のスイッチを
+   the string user's team takes the switch on floor 50,
+>> 7C619C.78 | [蛮] 銀次のチームが８０階のスイッチを押す
+   and Ginji's team presses the switch on floor 80.
+>> 7C619C.80 | [蛮] ンなとこだな
+   That's about it.
+>> 7C619C.84 | [銀次] やっぱり…
+   I knew it...
+>> 7C67BC.3 | [アル] 蛮さん…銀さん………
+   Ban-san... Gin-san......
+>> 7C67BC.7 | [銀次] アルくん、 / ＨＯＮＫＹＴＯＮＫに帰ろうよ！
+   Al-kun, let's go back to the Honky Tonk!
+>> 7C67BC.10 | [銀次] こんなことしてちゃいけないよ / こんな…
+   You shouldn't be doing this... Not like this...
+>> 7C6890.3 | [銀次] ！　お前は！！
+   ! It's you!!
+>> 7C6890.7 | [ジェンド] さあ、アルよ / お前の忠誠心を余に示すのだ
+   Now, Al. Show me your loyalty.
+>> 7C6890.10 | [ジェンド] その者共を地獄に葬り去れ
+   Send these people to hell.
+>> 7C6890.14 | [アル] ………
+   ...
+>> 7C6890.18 | [ジェンド] 忘れたのか？　故郷を失った我らが / どれだけ放浪の旅を続けたか…
+   Have you forgotten? How long we wandered after losing our homeland...
+>> 7C6890.21 | [ジェンド] どれだけの同胞が / 旅の途中で死んでいったか…
+   How many of our brethren died along the way...
+>> 7C6890.26 | [アル] ………
+   ...
+>> 7C6890.30 | [ジェンド] 思い出せ、 / 死んでいった者たちの断末魔を！
+   Remember the death cries of those who perished!
+>> 7C6890.33 | [ジェンド] 我らの国を勝ち取るために戦うのだ！！
+   Fight to win a nation of our own!!
+>> 7C6890.37 | [アル] …行きますよ / 蛮さん…銀さん！
+   ...Here I come, Ban-san... Gin-san!
+>> 7C6890.42 | [銀次] アルくん、ダメだよ！ / 間違ってるよ、こんなの！！
+   Al-kun, don't! This is wrong!!
+>> 7C6890.47 | [蛮] よせ銀次、言うだけムダだ / アイツはもう覚悟決めてンだよ！
+   Stop it, Ginji, talking's no use. He's already made up his mind!
+>> 7C6890.50 | [蛮] 行くぞ！！
+   Here we go!!
+>> 7C6BD8.3 | [ジェンド] 余と同じ人形遣いの力を持つ / アルを倒すとはな…だが！
+   So you defeated Al, who wields the same puppeteer's power as I... But!
+>> 7C6C4C.3 | [銀次] ぐっ！　あの時と同じ…だ…！！
+   Ngh! It's just like... that time...!!
+>> 7C6C4C.7 | [蛮] 銀次ィ！！
+   Ginjiii!!
+>> 7C6C4C.11 | [ジェンド] 貴様の命、もらったぞ！！
+   Your life is mine!!
+>> 7C6D14.3 | [アル] ジェンド様、もうお止めください！ / こんなことをしても国はもどりません！
+   Jend-sama, please stop this! Doing this will not bring our country back!
+>> 7C6D14.6 | [アル] 死んでいった者たちも / 帰ってはこないのです！！
+   And those who died will not return either!!
+>> 7C6D14.11 | [ジェンド] …裏切り者め / 余に歯向かうつもりか！！
+   ...Traitor. You dare defy me?!
+>> 7C6E20.3 | [ジェンド] 裏切り者には死を… / それが我が一族の掟だ
+   Death to traitors... That is the law of our clan.
+>> 7C6E20.6 | [ジェンド] さらばだ、アル
+   Farewell, Al.
+>> 7C6E20.10 | [銀次] ！！ / アルーーーーーッ！！
+   !! Aaaaaal!!
+>> 7C6EFC.3 | [銀次] …あれ、雪彦くん？ / キミが助けてくれたの？
+   ...Huh, Yukihiko-kun? You saved me?
+>> 7C6EFC.8 | [弥勒] ちょっと気になったから来てみたんだ
+   I was a little worried, so I came to check.
+>> 7C6EFC.10 | [弥勒] そしたら君が空から降ってきて… / ビックリしたよ
+   And then you came falling out of the sky... It really surprised me.
+>> 7C6EFC.15 | [銀次] ありがとう、雪彦くん
+   Thanks, Yukihiko-kun.
+>> 7C6EFC.17 | [銀次] ……… / あれ…アルくんは！？
+   ...... Wait... What about Al-kun?!
+>> 7C6EFC.22 | [弥勒] もう一人の人のこと？
+   You mean the other person?
+>> 7C6EFC.24 | [弥勒] ひどいケガをしてるみたいだけど、 / 命に別状はなさそうだよ
+   He seems badly hurt, but his life doesn't seem to be in danger.
+>> 7C6EFC.29 | [銀次] そう…良かった………
+   I see... Thank goodness......
+>> 7C70FC.3 | [銀次] あ…あれ？ / 今、誰かに助けられたような…
+   Huh...? Did somebody just save me...?
+>> 7C70FC.8 | [青樹] キミ、大丈夫？
+   You okay?
+>> 7C70FC.12 | [綾峰] ケガはない？
+   Not hurt?
+>> 7C70FC.16 | [銀次] あ…ハイ、大丈夫…でもないですけど…
+   Ah... yes, I'm okay... well, not really, but...
+>> 7C70FC.20 | [青樹] それはいけないね / これをあげるから元気出すんだよ
+   That's no good. Here, take this and cheer up.
+>> 7C70FC.25 | [青樹] 蓬莱の玉を手に入れた！
+   Obtained a Horai Jewel!
+>> 7C70FC.29 | [銀次] あ…どうも………
+   Ah... thanks......
+>> 7C70FC.33 | [綾峰] もう一人の人もケガしてるみたいだけど / 命に別状はなさそうだよ
+   The other person seems hurt too, but his life doesn't seem to be in danger.
+>> 7C70FC.38 | [銀次] そうですか…良かった………
+   I see... Thank goodness......
+>> 7C7374.4 | [蛮] …テメー、覚悟はできてンだろうな / ああン？
+   ...You ready for this, punk? Huh?
+>> 7C7374.9 | [鏡] 美堂クン、あの王様…本体じゃない / みたいだけど、いいのかな？
+   Mido-kun, that king... doesn't seem to be his real body. Is that okay?
+>> 7C7374.14 | [蛮] 知ってるさ…だがなあ、こうでも / しねえと怒りが収まらねえんだよ！
+   I know... But if I don't do this, I'll never cool off!
+>> 7C7374.17 | [蛮] 喰らえ、スネークバイト！！
+   Take this! Snake Bite!!
+>> 7C74D8.3 | [ジェンド] フフ…余と一戦交えたいのであれば / アルファタワーＴＷＯへ来るがいい
+   Heh heh... If you wish to cross swords with me, come to Alpha Tower Two.
+>> 7C74D8.6 | [ジェンド] その最上階で相手になってやろう
+   I shall face you on its top floor.
+>> 7C7584.3 | [蛮] 面白ェ、行ってやろうじゃねえかよ！ / 首洗って待っていやがれ！！
+   Interesting. I'll come, all right! You'd better be ready for me!!
+>> 7C7600.3 | [蛮] 電力を回復させるまで１階から / あまり離れない方が良さそうだな…
+   Better not stray too far from 1F till we get the power back...
+>> 7C7678.3 | [蛮] よし、 / 俺たちは階段で１０階へ急ぐぞ！
+   Right, we're taking the stairs up to floor 10, fast!
+>> 7C76DC.3 | [蛮] なんだ、こりゃ？ / 階段使えねーじゃねえかよ！！
+   What the hell? We can't use the stairs!!
+>> 7C76DC.8 | [卑弥呼] こういう大きなビルって / 非常階段があるんじゃないかしら？
+   A big building like this should have emergency stairs, don't you think?
+>> 7C76DC.11 | [卑弥呼] それを探しましょう！
+   Let's look for them!
+>> 7C77C8.3 | [士度] 開かねえな…
+   Won't open...
+>> 7C77C8.7 | [蛮] ロックがかかってンな、こりゃ / どこかで解除しないとな…
+   It's locked, all right. We'll have to unlock it from somewhere...
+>> 7C7868.3 | [蛮] ン？　停電かよ…
+   Hm? A blackout?
+>> 7C7868.7 | [卑弥呼] マズいわね… / トビラが開かないんじゃない？
+   That's bad... The doors won't open, will they?
+>> 7C7868.12 | [蛮] ここは自動ドアになってるからな… / やれやれだぜ
+   These are automatic doors... Give me a break.
+>> 7C7958.3 | [銀次] （く、空気が重いな～…なんか
+   (Th-the air's so heavy... somehow
+>> 7C7958.5 | [銀次] というか、 / 生きた心地しないんですけど…
+   Or rather, I feel more dead than alive...
+>> 7C7958.8 | [銀次] 他のチームは楽しそうなのに… / なんでオレだけ…こんな目に…？）
+   The other teams look like they're having fun... Why me... why do I get this...?)
+>> 7C7958.13 | [赤屍] どうかしましたか、銀次クン？
+   Is something the matter, Ginji-kun?
+>> 7C7958.17 | [銀次] いえ、なんでもありま…
+   N-no, nothing's the mat...
+>> 7C7958.19 | [銀次] ア、ア、ア、アレ！？
+   Wh-wh-wh-what's that?!
+>> 7C7AC8.3 | [銀次] エ、エレベーターが…止まった！？
+   Th-the elevator... stopped?!
+>> 7C7AC8.7 | [鏡] みたいだね？
+   Seems that way?
+>> 7C7AC8.11 | [銀次] ヤバい！　閉じ込められた！！ / ど、ど、どうしよう！？
+   Oh no! We're trapped!! Wh-wh-what do we do?!
+>> 7C7AC8.14 | [銀次] 助けて、蛮ちゃ～～～～～ん！！
+   Help me, Ban-chaaaaaaan!!
+>> 7C7AC8.18 | [鏡] でもどこかの階に止まってるみたいだよ / 降りられるんじゃないかな？
+   But it seems to have stopped at some floor. We can probably get off, no?
+>> 7C7AC8.23 | [銀次] ………
+   ...
+>> 7C7AC8.25 | [銀次] よ、良かった………
+   Th-thank goodness......
+>> 7C7C84.3 | [赤屍] ここは…７４階のようですね
+   It seems this is the 74th floor.
+>> 7C7C84.7 | [銀次] あ、じゃあ結構近いじゃん！ / 楽勝！　楽勝！！
+   Oh, so we're pretty close! Easy! Easy!!
+>> 7C7C84.12 | [赤屍] 銀次クン、 / あまり油断しない方がいいですよ
+   Ginji-kun, you had best not let your guard down.
+>> 7C7C84.15 | [赤屍] ただならぬ気配を感じますからね…
+   I sense an extraordinary presence, you see...
+>> 7C7C84.19 | [鏡] 近いね、これは…
+   It's close, this one...
+>> 7C7C84.21 | [鏡] 楽しくなってきたね？
+   Things are getting fun, huh?
+>> 7C7C84.25 | [赤屍] ええ…楽しい仕事になりそうですね
+   Yes... This looks to be an enjoyable job.
+>> 7C7C84.29 | [銀次] （ちっとも楽しくないんですが…）
+   (I'm not having any fun at all...)
+>> 7C7E84.3 | [赤屍] やはり潜んでいましたか…
+   So they were lurking here after all...
+>> 7C7E84.7 | [鏡] それにしても / あまり本気を出してなさそうだね？
+   Still, you don't seem to be putting much effort in, do you?
+>> 7C7E84.10 | [鏡] ドクタージャッカル
+   Dr. Jackal.
+>> 7C7E84.14 | [赤屍] それはあなたもですよ…鏡形而クン
+   The same goes for you... Kyoji Kagami-kun.
+>> 7C7E84.18 | [銀次] ………
+   ...
+>> 7C7E84.20 | [銀次] （…なぜ仲間同士なのに / 緊張感がみなぎっているのでしょうか）
+   (...Why is there so much tension between teammates?)
+>> 7C8004.3 | [銀次] あっ、電力が回復した！
+   Oh, the power's back!
+>> 7C8004.7 | [鏡] これで部屋に入ることができそうだね
+   Looks like we can get into the rooms now.
+>> 7C809C.3 | [笑師] （もう二度とこんな状況イヤや / 思うてるんにこの有様や…
+   (Here I was thinkin' 'never again' with this kinda thing, an' look at this mess...
+>> 7C809C.6 | [笑師] また一人だけのけ者や…
+   Left out all alone again...
+>> 7C809C.8 | [笑師] なんでやねんな…
+   Why, man...
+>> 7C809C.10 | [笑師] なんぞ悪いことしたんかいな、ワイ…
+   Did I do somethin' wrong or what...
+>> 7C809C.12 | [笑師] もうこうなったら、 / エレベーターなんぞ止まればエエ…
+   At this point, the elevator can go ahead an' stop for all I care...
+>> 7C809C.15 | [笑師] ………？？？）
+   ......???)
+>> 7C81DC.3 | [十兵衛] エレベーターが停止したようだな…
+   The elevator seems to have stopped...
+>> 7C81DC.7 | [笑師] アカン！ / ワイが変なこと考えたばっかりに！！
+   Oh no! It's 'cause I went an' thought somethin' weird!!
+>> 7C81DC.10 | [笑師] すんまへん！！
+   Sorry!!
+>> 7C81DC.14 | [花月] 変なこと？
+   Something weird?
+>> 7C81DC.18 | [笑師] いや～、花月はんと十兵衛はんの / 仲がよろしもんで、ワイが一人ぼっ…
+   Well, ya see, Kazuki-han an' Juubei-han get along so well, I'm all alo...
+>> 7C81DC.21 | [笑師] あわわ…なんでもあらへん
+   Whoa whoa... It's nothin'!
+>> 7C81DC.25 | [花月] ？
+   ?
+>> 7C81DC.27 | [花月] とにかくエレベーターはどこかの階に / 停止したみたいだね…
+   Anyway, it seems the elevator stopped at some floor...
+>> 7C81DC.30 | [花月] 降りてみよう
+   Let's get off.
+>> 7C83E8.3 | [十兵衛] ４３階か…近い階ではあったようだな
+   Floor 43, huh... It seems it stopped at a floor close by.
+>> 7C83E8.7 | [花月] そうだね… / このまま昇ってみよう
+   Right... Let's keep climbing.
+>> 7C8490.3 | [笑師] 停電や…
+   Blackout...
+>> 7C8490.7 | [花月] まずいね…部屋のトビラは自動ドアだ / 停電時には開かなくなってしまう
+   That's bad... The room doors are automatic. They won't open in a blackout.
+>> 7C853C.3 | [笑師] おっ、電気ついたやん！
+   Oh, the lights are on!
+>> 7C853C.7 | [十兵衛] これで部屋に入れるようにはなったな…
+   Now we can get into the rooms...
+>> 7C85D8.3 | [蛮] ン？　ここのトビラ開かねえな…
+   Hm? This door won't open...
+>> 7C8630.3 | [士度] ここが電力室なんだがな…
+   This is the power room, but...
+>> 7C8630.7 | [蛮] 停電してると開かねえ、か…
+   Won't open in a blackout, huh...
+>> 7C86C0.3 | [銀次] あっ、また停電だ…
+   Ah, another blackout...
+>> 7C86C0.7 | [赤屍] これでは部屋に入ることが / できませんね…
+   Now we cannot enter the rooms...

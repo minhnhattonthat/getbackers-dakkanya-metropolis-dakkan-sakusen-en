@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "たっだいまー！　",
-  "en": ""
+  "en": "We're baaack!"
  },
  {
   "id": "7B9A04.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "夏実",
   "jp": "………　",
-  "en": ""
+  "en": "......"
  },
  {
   "id": "7B9A04.9",
@@ -42,7 +42,7 @@
   "box": 3,
   "speaker": "波児",
   "jp": "…おう、お前らか",
-  "en": ""
+  "en": "...Oh, it's you two."
  },
  {
   "id": "7B9A04.13",
@@ -57,7 +57,7 @@
   "box": 4,
   "speaker": "蛮　",
   "jp": "なんだなんだ、場が暗ェぞ！　",
-  "en": ""
+  "en": "What's this, what's this? Why's it so\ngloomy in here?!"
  },
  {
   "id": "7B9A04.17",
@@ -65,7 +65,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "おい、ヘヴン！　これが依頼の品だ",
-  "en": ""
+  "en": "Hey, Hevn! Here's the goods. Hurry up and"
  },
  {
   "id": "7B9A04.18",
@@ -73,7 +73,7 @@
   "box": 5,
   "speaker": "蛮　",
   "jp": "さっそくクライアントに会わせてくれや",
-  "en": ""
+  "en": "take us to the client."
  },
  {
   "id": "7B9A04.20",
@@ -88,7 +88,7 @@
   "box": 6,
   "speaker": "ヘヴン　",
   "jp": "…それが",
-  "en": ""
+  "en": "...About that. I can't get in touch with the"
  },
  {
   "id": "7B9A04.23",
@@ -96,7 +96,7 @@
   "box": 6,
   "speaker": "ヘヴン　",
   "jp": "クライアントと連絡が取れないのよ",
-  "en": ""
+  "en": "client."
  },
  {
   "id": "7B9A04.25",
@@ -111,7 +111,7 @@
   "box": 7,
   "speaker": "蛮　",
   "jp": "連絡が取れないだァ！？　",
-  "en": ""
+  "en": "You can't get in touch?!"
  },
  {
   "id": "7B9A04.29",
@@ -126,7 +126,7 @@
   "box": 8,
   "speaker": "銀次",
   "jp": "ヘヴンさん、それってどういうこと？　",
-  "en": ""
+  "en": "Hevn-san, what do you mean?"
  },
  {
   "id": "7B9A04.33",
@@ -141,7 +141,7 @@
   "box": 9,
   "speaker": "ヘヴン　",
   "jp": "それがよくわからないのよ",
-  "en": ""
+  "en": "I don't really know myself. Contact just"
  },
  {
   "id": "7B9A04.36",
@@ -149,7 +149,7 @@
   "box": 9,
   "speaker": "ヘヴン　",
   "jp": "突然、連絡が途絶えて…それっきりよ　",
-  "en": ""
+  "en": "suddenly cut off... and that was it."
  },
  {
   "id": "7B9A04.38",
@@ -164,7 +164,7 @@
   "box": 10,
   "speaker": "銀次",
   "jp": "ええ～？",
-  "en": ""
+  "en": "Whaaat?"
  },
  {
   "id": "7B9A04.42",
@@ -172,7 +172,7 @@
   "box": 11,
   "speaker": "銀次",
   "jp": "あれ、そういえばアルくんは？",
-  "en": ""
+  "en": "Huh, come to think of it, where's Al-kun?"
  },
  {
   "id": "7B9A04.44",
@@ -187,7 +187,7 @@
   "box": 12,
   "speaker": "夏実",
   "jp": "急にいなくなっちゃったんです",
-  "en": ""
+  "en": "He suddenly disappeared. He left this note"
  },
  {
   "id": "7B9A04.47",
@@ -195,7 +195,7 @@
   "box": 12,
   "speaker": "夏実",
   "jp": "この置き手紙を残して…　",
-  "en": ""
+  "en": "behind..."
  },
  {
   "id": "7B9A04.49",
@@ -210,7 +210,7 @@
   "box": 13,
   "speaker": "銀次",
   "jp": "手紙…？",
-  "en": ""
+  "en": "A note...?"
  },
  {
   "id": "7B9A04.53",
@@ -218,7 +218,7 @@
   "box": 14,
   "speaker": "銀次",
   "jp": "『︀みなさん、",
-  "en": ""
+  "en": "'Everyone, thank you for all you did for"
  },
  {
   "id": "7B9A04.54",
@@ -226,7 +226,7 @@
   "box": 14,
   "speaker": "銀次",
   "jp": "いままでおせわになりました　",
-  "en": ""
+  "en": "me until now."
  },
  {
   "id": "7B9A04.56",
@@ -234,7 +234,7 @@
   "box": 15,
   "speaker": "銀次",
   "jp": "ボク、もういかなくちゃならない　",
-  "en": ""
+  "en": "Me, I must go now. Sorry. Goodbye.'"
  },
  {
   "id": "7B9A04.57",
@@ -242,7 +242,7 @@
   "box": 15,
   "speaker": "銀次",
   "jp": "ごめんなさい、さよなら』︀",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B9A04.59",
@@ -250,7 +250,7 @@
   "box": 16,
   "speaker": "銀次",
   "jp": "…これって…",
-  "en": ""
+  "en": "...This is..."
  },
  {
   "id": "7B9A04.61",
@@ -265,7 +265,7 @@
   "box": 17,
   "speaker": "ヘヴン　",
   "jp": "もう、なにがなんだかサッパリ…　",
-  "en": ""
+  "en": "Honestly, I haven't got a clue what's going\non..."
  },
  {
   "id": "7B9A04.65",
@@ -280,7 +280,7 @@
   "box": 18,
   "speaker": "蛮　",
   "jp": "サ、サッパリじゃねえ！　",
-  "en": ""
+  "en": "D-don't give me \"haven't got a clue\"! You"
  },
  {
   "id": "7B9A04.68",
@@ -288,7 +288,7 @@
   "box": 18,
   "speaker": "蛮　",
   "jp": "テメー、それでも仲介人かよ！",
-  "en": ""
+  "en": "call yourself a broker?!"
  },
  {
   "id": "7B9A04.70",
@@ -296,7 +296,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "俺たちの２００万は　",
-  "en": ""
+  "en": "What happens to our 2 million?!"
  },
  {
   "id": "7B9A04.71",
@@ -304,7 +304,7 @@
   "box": 19,
   "speaker": "蛮　",
   "jp": "どうなっちまうんだ！？　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B9A04.73",
@@ -319,7 +319,7 @@
   "box": 20,
   "speaker": "ヘヴン　",
   "jp": "お・あ・ず・けって　",
-  "en": ""
+  "en": "I guess it's... o-n h-o-l-d♥"
  },
  {
   "id": "7B9A04.76",
@@ -327,7 +327,7 @@
   "box": 20,
   "speaker": "ヘヴン　",
   "jp": "ことになるのかしらネ♥　",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B9A04.78",
@@ -342,7 +342,7 @@
   "box": 21,
   "speaker": "蛮　",
   "jp": "グガッ…ぐぐぐ…",
-  "en": ""
+  "en": "Gwah... grrr... Don't \"o-n h-o-l-d\" me~!!"
  },
  {
   "id": "7B9A04.81",
@@ -350,7 +350,7 @@
   "box": 21,
   "speaker": "蛮　",
   "jp": "お・あ・ず・けじゃねェ～！！",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7B9A04.83",
@@ -365,6 +365,6 @@
   "box": 22,
   "speaker": "銀次",
   "jp": "…アルくん………",
-  "en": ""
+  "en": "...Al-kun......"
  }
 ]

@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "秘書",
   "jp": "ちょっと、ここは女子トイレよ！　",
-  "en": ""
+  "en": "Hey, this is the ladies' room! Only girls"
  },
  {
   "id": "7B06B4.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "秘書",
   "jp": "女の子だけで入ってきなさいよ！！",
-  "en": ""
+  "en": "allowed in here!!"
  },
  {
   "id": "7B06B4.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "蛮　",
   "jp": "………　",
-  "en": ""
+  "en": "..."
  },
  {
   "id": "7B06B4.10",
@@ -43,6 +43,6 @@
   "box": 3,
   "speaker": "蛮　",
   "jp": "…メンバー入れ替えでもしてみるか",
-  "en": ""
+  "en": "...Maybe I'll try switching up the team."
  }
 ]

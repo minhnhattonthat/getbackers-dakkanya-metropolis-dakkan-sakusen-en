@@ -283,3 +283,18 @@ unless the notes say `no lint`.
 - controller: pair items 「ばんぎんのＭ」 = "Ban-Gin Memory" (Ginji spells it メ・モ・リー): first syllables of the two
   names (Ban, Gin, Himi, Bane for Akabane, Kazu, Shido, Emi, Ju, Kaga) + Memory.
 - controller: ジェンド = Jend (not Zhend/Gend); 雷帝 = Thunder Emperor; 蛭田 = Hiruta (Ban calls him Hiru-chan).
+- wave 1 rulings: 猿マワシ = monkey trainer; TARE's cry ウキュ～ = Ukyuu; 疫病神 = jinx; キグルミ = mascot suit (キグルミ隊 =
+  Mascot Squad); 衣装部屋 = Costume Room; 寝室 = Master Bedroom; ベッドルーム = Bedroom; 配電室 = Switch Room; 電力室 = Power
+  Room; カヅっちゃん = Kazu-chan; 銀さん = Gin-san; Emishi's 〜はん = -han; 〜殿 = -dono; クン = -kun; 嬢ちゃん = the young lady;
+  サムライ君 = Samurai-kun; ハリペンズ = Hedge-Pens; ボケ/ツッコミ = funny man/straight man; まいどあり = Thanks for your
+  business!!; 体力が回復した = HP restored; ＡＣＴ８ = ACT 8 (８面 = ACT 8); Alpha Tower One/Two/Three (not caps);
+  宝玉（小/大） = Small/Large Orb; 〜Ｃ = <Name> Card; 相性 = affinity; てんとう虫 = the Ladybug (Ban's car); 水城夏実 =
+  Natsumi Mizuki; element icons 無雷火闇水土砂風光 = Void Thunder Fire Dark Water Earth Sand Wind Light.
+- Mob names (battle list = battle labels): Servant Trainee / Servant Assistant / Servant Leader / Head Servant; Snatcher
+  Trainee / Assistant / Leader / Boss; CAV Junior / Low / High / Head; Class 3 / Class 2 / Class 1 Guard, Guard Chief;
+  Poacher Little Bro / Big Bro / Eldest Bro / Dad; Muscle Fighter Dragon / Tiger; letter suffixes uppercase (Monde A);
+  Ｐ/Ｈのキグルミ = P / H Mascot Suit; Alpha Tower One/Two/Three also in menus ("Key to Alpha Tower One"); 特殊 = Effect.
+- Puzzles adapted (keep answers): 7BB278 colour riddle = Isle of Wight + the President's house -> WHITE; 7BB120 みかん =
+  Tangerine; dressing-room answers per docs/synopsis.md part 1 section 4.
+- Pidgin: Al's broken katakana and the Wanderers' / photographer's katakana speech = simple broken English (dropped
+  articles/auxiliaries), kept consistent; Al's fake Kansai (from Paul's comedy videos) = light slang ("ya", "yer").

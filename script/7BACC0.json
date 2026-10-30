@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あれ？　",
-  "en": ""
+  "en": "Huh? The button sank all the way in."
  },
  {
   "id": "7BACC0.4",
@@ -20,7 +20,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "押すところが中に入っちゃってるよ",
-  "en": ""
+  "en": " "
  },
  {
   "id": "7BACC0.6",
@@ -35,7 +35,7 @@
   "box": 2,
   "speaker": "花月",
   "jp": "どうやら一回しか押すことのできない　",
-  "en": ""
+  "en": "It seems it's built so it can only be"
  },
  {
   "id": "7BACC0.9",
@@ -43,6 +43,6 @@
   "box": 2,
   "speaker": "花月",
   "jp": "構造になってるみたいですね　",
-  "en": ""
+  "en": "pressed once."
  }
 ]

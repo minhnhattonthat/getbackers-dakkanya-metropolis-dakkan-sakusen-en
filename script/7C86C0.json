@@ -12,7 +12,7 @@
   "box": 1,
   "speaker": "銀次",
   "jp": "あっ、また停電だ…　",
-  "en": ""
+  "en": "Ah, another blackout..."
  },
  {
   "id": "7C86C0.5",
@@ -27,7 +27,7 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "これでは部屋に入ることが",
-  "en": ""
+  "en": "Now we cannot enter the rooms..."
  },
  {
   "id": "7C86C0.8",
@@ -35,6 +35,6 @@
   "box": 2,
   "speaker": "赤屍",
   "jp": "できませんね…　",
-  "en": ""
+  "en": " "
  }
 ]
