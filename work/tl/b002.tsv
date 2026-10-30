@@ -1,0 +1,598 @@
+# scene menu
+M09E10C		menu	1x96px?	卑弥呼＆十兵衛４
+M09E11E		menu	1x96px?	卑弥呼＆十兵衛５
+M09E130		menu	1x96px?	卑弥呼＆十兵衛７
+M09E142		menu	1x96px?	卑弥呼＆十兵衛８
+M09E154		menu	1x72px?	卑弥呼＆鏡７
+M09E162		menu	1x72px?	卑弥呼＆鏡８
+M09E170		menu	1x72px?	赤屍＆士度５
+M09E17E		menu	1x72px?	赤屍＆士度７
+M09E18C		menu	1x72px?	赤屍＆士度８
+M09E19A		menu	1x72px?	赤屍＆笑師５
+M09E1A8		menu	1x72px?	赤屍＆笑師７
+M09E1B6		menu	1x72px?	赤屍＆笑師８
+M09E1C4		menu	1x72px?	赤屍＆花月５
+M09E1D2		menu	1x72px?	赤屍＆花月７
+M09E1E0		menu	1x72px?	赤屍＆花月８
+M09E1EE		menu	1x84px?	赤屍＆十兵衛５
+M09E1FE		menu	1x84px?	赤屍＆十兵衛７
+M09E20E		menu	1x84px?	赤屍＆十兵衛８
+M09E21E		menu	1x60px?	赤屍＆鏡７
+M09E22A		menu	1x60px?	赤屍＆鏡８
+M09E236		menu	1x72px?	士度＆花月２
+M09E244		menu	1x72px?	士度＆花月３
+M09E252		menu	1x72px?	士度＆花月４
+M09E260		menu	1x72px?	士度＆花月５
+M09E26E		menu	1x72px?	士度＆花月７
+M09E27C		menu	1x72px?	士度＆花月８
+M09E28A		menu	1x72px?	士度＆笑師４
+M09E298		menu	1x72px?	士度＆笑師５
+M09E2A6		menu	1x72px?	士度＆笑師６
+M09E2B4		menu	1x72px?	士度＆笑師７
+M09E2C2		menu	1x72px?	士度＆笑師８
+M09E2D0		menu	1x84px?	士度＆十兵衛４
+M09E2E0		menu	1x84px?	士度＆十兵衛５
+M09E2F0		menu	1x84px?	士度＆十兵衛７
+M09E300		menu	1x84px?	士度＆十兵衛８
+M09E310		menu	1x60px?	士度＆鏡７
+M09E31C		menu	1x60px?	士度＆鏡８
+M09E328		menu	1x72px?	笑師＆花月４
+M09E336		menu	1x72px?	笑師＆花月５
+M09E344		menu	1x72px?	笑師＆花月７
+M09E352		menu	1x72px?	笑師＆花月８
+M09E360		menu	1x84px?	笑師＆十兵衛４
+M09E370		menu	1x84px?	笑師＆十兵衛５
+M09E380		menu	1x84px?	笑師＆十兵衛７
+M09E390		menu	1x84px?	笑師＆十兵衛８
+M09E3A0		menu	1x60px?	笑師＆鏡７
+M09E3AC		menu	1x60px?	笑師＆鏡８
+M09E3B8		menu	1x84px?	花月＆十兵衛４
+M09E3C8		menu	1x84px?	花月＆十兵衛５
+M09E3D8		menu	1x84px?	花月＆十兵衛６
+M09E3E8		menu	1x84px?	花月＆十兵衛７
+M09E3F8		menu	1x84px?	花月＆十兵衛８
+M09E408		menu	1x60px?	花月＆鏡７
+M09E414		menu	1x60px?	花月＆鏡８
+M09E420		menu	1x72px?	十兵衛＆鏡７
+M09E42E		menu	1x72px?	十兵衛＆鏡８
+M09E43C		menu	1x48px?	おまけ２
+M09E446		menu	1x48px?	おまけ３
+M09E450		menu	1x48px?	おまけ４
+M09E45A		menu	1x48px?	おまけ５
+M09E464		menu	1x48px?	おまけ６
+M09E46E		menu	1x48px?	おまけ７
+M09E478		menu	1x48px?	おまけ８
+M09E482		menu	1x48px?	おまけ９
+M09E48C		menu	1x60px?	おまけ１０
+M09E498		menu	1x60px?	おまけ１１
+M09E4A4		menu	1x60px?	おまけ１２
+M09E4B0		menu	1x60px?	おまけ１３
+M09E4BC		menu	1x60px?	おまけ１４
+M09E4C8		menu	1x60px?	おまけ１５
+M09E4D4		menu	1x60px?	おまけ１６
+M09E4F4		menu	1x216px	オプション
+M09E4FE		menu	1x72px	戦闘速度
+M09E508		menu	1x72px	ＢＧＭ
+M09E510		menu	1x72px	ＳＥ　
+M09E518		menu	1x72px	ボイス
+M09E520		menu	1x120px?	速・・・・・・・・遅
+M09E536		menu	1x216px	戦闘表示速度の設定
+M09E54A		menu	2x216px	ＢＧＭ、ＳＥ。左右で変更。 / Ａボタンでリクエスト。Ｒボタンで停止
+M09E58C		menu	2x216px	ボイス。左右で変更。 / Ａボタンでリクエスト。Ｒボタンで停止
+M09E62A		menu	1x72px?	オープニング
+M09E638		menu	1x48px?	マップ１
+M09E642		menu	1x48px?	マップ２
+M09E64C		menu	1x48px?	マップ３
+M09E656		menu	1x48px?	マップ４
+M09E660		menu	1x48px?	マップ５
+M09E66A		menu	1x60px?	さすらい１
+M09E676		menu	1x60px?	さすらい２
+M09E682		menu	1x60px?	イベント１
+M09E68E		menu	1x60px?	イベント２
+M09E69A		menu	1x60px?	イベント３
+M09E6A6		menu	1x60px?	イベント４
+M09E6B2		menu	1x60px?	イベント５
+M09E6BE		menu	1x60px?	イベント６
+M09E6CA		menu	1x36px?	戦闘１
+M09E6D2		menu	1x36px?	戦闘２
+M09E6DA		menu	1x36px?	戦闘３
+M09E6E2		menu	1x36px?	戦闘４
+M09E6EA		menu	1x84px?	ゲームオーバー
+M09E6FA		menu	1x72px?	エンディング
+M09E708		menu	1x84px?	ＡＣＴスタート
+M09E718		menu	1x120px?	オルゴールバージョン
+M09E72E		menu	1x36px?	コント
+M09E736		menu	1x48px?	戦闘勝利
+M09E740		menu	1x48px?	戦闘負け
+M09E74A		menu	1x72px?	レベルアップ
+M09E758		menu	1x84px?	おばけピアノ１
+M09E768		menu	1x84px?	おばけピアノ２
+M09E778		menu	1x84px?	おばけピアノ３
+M09E788		menu	1x72px?	機械音ＢＧＭ
+M09E796		menu	1x60px?	合体技成功
+M09E7A2		menu	1x24px?	放電
+M09E7A8		menu	1x36px?	蛇の声
+M09E7B0		menu	1x24px?	点滅
+M09E7B6		menu	1x24px?	発光
+M09E7BC		menu	1x36px?	小打撃
+M09E7C4		menu	1x36px?	風切音
+M09E7CC		menu	1x12px?	雷
+M09E7D0		menu	1x24px?	音波
+M09E7D6		menu	1x36px?	バリア
+M09E7DE		menu	1x96px?	ステータスアップ
+M09E7F0		menu	1x48px?	拳銃攻撃
+M09E7FA		menu	1x36px?	毒攻撃
+M09E802		menu	1x48px?	まひ攻撃
+M09E80C		menu	1x48px?	混乱攻撃
+M09E816		menu	1x48px?	ヒット１
+M09E820		menu	1x48px?	ヒット２
+M09E82A		menu	1x48px?	ヒット３
+M09E834		menu	1x12px?	絃
+M09E838		menu	1x12px?	鞭
+M09E83C		menu	1x48px?	殺傷攻撃
+M09E846		menu	1x24px?	爆発
+M09E84C		menu	1x60px?	ハリケーン
+M09E858		menu	1x48px?	光が収東
+M09E862		menu	1x24px?	振動
+M09E868		menu	1x36px?	狼の声
+M09E870		menu	1x24px?	回復
+M09E876		menu	1x108px?	ステータス異常回復
+M09E88A		menu	1x84px?	ガラスが割れる
+M09E89A		menu	1x72px?	ガラスにひび
+M09E8A8		menu	1x24px?	確定
+M09E8AE		menu	1x60px?	キャンセル
+M09E8BA		menu	1x48px?	カーソル
+M09E8C4		menu	1x96px?	バトルシンク発生
+M09E8D6		menu	1x96px?	バトルシンク成功
+M09E8E8		menu	1x96px?	バトルシンク失敗
+M09E8FA		menu	1x96px?	アイテムゲット１
+M09E90C		menu	1x96px?	アイテムゲット２
+M09E91E		menu	1x36px?	エラー
+M09E926		menu	1x24px?	機械
+M09E92C		menu	1x36px?	腹の虫
+M09E934		menu	1x60px?	こおりつく
+M09E940		menu	1x36px?	ＧＢＡ
+M09E948		menu	1x24px?	ドア
+M09E94E		menu	1x36px?	おばけ
+M09E956		menu	1x60px?	ピアノ単音
+M09E962		menu	1x36px?	加速１
+M09E96A		menu	1x36px?	加速２
+M09E972		menu	1x48px?	ブレーキ
+M09E97C		menu	1x36px?	ドア２
+M09E984		menu	1x24px?	落下
+M09E98A		menu	1x24px?	雷２
+M09E990		menu	1x36px?	ぽかっ
+M09E998		menu	1x24px?	カギ
+M09E99E		menu	1x72px?	マリオネット
+M09E9AC		menu	1x48px?	スイッチ
+M09E9B6		menu	1x84px?	エレベーター１
+M09E9C6		menu	1x84px?	エレベーター２
+M09E9D6		menu	1x96px?	エレベータードア
+M09E9E8		menu	1x12px?	船
+M09E9EC		menu	1x48px?	モニター
+M09E9F6		menu	1x96px?	バトルシンクＣ１
+M09EA08		menu	1x96px?	バトルシンクＣ２
+M09EA1A		menu	1x48px?	ばかうけ
+M09EA24		menu	1x48px?	ややうけ
+M09EA2E		menu	1x60px?	どっちらけ
+M09EA3A		menu	1x96px?	ラジオのスイッチ
+M09EA4C		menu	1x48px?	バリア２
+M09EA56		menu	1x72px?	ケイ帯着信音
+M09EA64		menu	1x84px?	ケイ帯スイッチ
+M09EA74		menu	1x84px?	ホワイトアウト
+M09EA84		menu	1x12px?	波
+M09EA88		menu	1x48px?	うめき声
+M09EA92		menu	1x36px?	美堂蛮
+M09EA9A		menu	1x48px?	天野銀次
+M09EAA4		menu	1x60px?	工藤卑弥呼
+M09EAB0		menu	1x48px?	赤屍蔵人
+M09EABA		menu	1x60px?	風鳥院花月
+M09EAC6		menu	1x48px?	冬木士度
+M09EAD0		menu	1x48px?	笑師春樹
+M09EADA		menu	1x48px?	筧十兵衛
+M09EAE4		menu	1x36px?	鏡形而
+M09EAEC		menu	1x48px?	弥勒雪彦
+M09EAF6		menu	1x72px?	アル・カ・ナ
+M09EB04		menu	1x84px?	ジェンド・ロン
+M09EB14		menu	1x48px?	ＴＡＲＥ
+M09EB1E		menu	1x48px?	水城夏実
+M09EB28		menu	1x36px?	いどう
+M09EB2E		menu	1x36px?	ＡＣＴ
+M09EB34		menu	1x60px?	現在位置：
+M09EB3E		menu	1x48px?	移動先：
+M09EB46		menu	2x60px?	ホンキー　 / 　　トンク
+M09EB5E		menu	2x60px?	繁華街　　 / 　　　　　
+M09EB76		menu	2x60px?	繁華街　　 / 　　　　　
+M09EB8E		menu	2x60px?	廃校　　　 / 　　　　　
+M09EBA6		menu	2x60px?	Ｎホール　 / 　　　　　
+M09EBBE		menu	2x60px?	山城芸能　 / 　　　ビル
+M09EBD6		menu	2x60px?	地下洞窟　 / 　　　　　
+M09EBEE		menu	2x60px?	新浜島　　 / 　　　　　
+M09EC06		menu	2x60px?	アルファ　 / 　タワー１
+M09EC1E		menu	2x60px?	アルファ　 / 　タワー２
+M09EC36		menu	2x60px?	アルファ　 / 　タワー３
+M09EC76		menu	1x216px	セーブ
+M09EC7C		menu	1x216px	ロード
+M09EC82		menu	1x16px	番
+M09EC86		menu	1x32px	現在
+M09EC8C		menu	1x36px	ＡＣＴ
+M09EC94		menu	1x192px	ＮＯ　ＤＡＴＡ
+M09ECA4		menu	1x168px?	警告！Ａボタンで上書きします
+M09ECC2		menu	1x108px?	書き込みエラーです
+# scene 3D7DE4
+3D7DE4.1		system	1x36px?	攻撃
+3D7DE4.2		system	1x36px?	防御
+3D7DE4.3		system	1x48px?	アイテム
+3D7DE4.4		system	1x48px?	チェンジ
+3D7DE4.5		system	1x36px?	逃げる
+3D7DE4.6		system	1x36px?	通常
+3D7DE4.7		system	1x36px?	必殺技
+3D7DE4.8		system	1x144px?	だ！
+3D7DE4.9		system	1x144px?	たちだ！
+3D7DE4.10		system	1x144px?	は毒をうけた！
+3D7DE4.11		system	1x144px?	の身体はマヒした！
+3D7DE4.12		system	1x144px?	は混乱した！
+3D7DE4.13		system	1x144px?	を倒した！
+3D7DE4.14		system	1x144px?	ＥＸＰ
+3D7DE4.15		system	1x144px?	入手！
+3D7DE4.16		system	1x144px?	はレベルアップした！
+3D7DE4.17		system	1x144px?	ＨＰ　＋
+3D7DE4.18		system	1x144px?	すばやさ　＋
+3D7DE4.19		system	1x144px?	攻撃力＋
+3D7DE4.20		system	1x144px?	防御力　　＋
+3D7DE4.21		system	1x144px?	戦いに敗れた…
+3D7DE4.22		system	1x144px?	なんとか逃げきれた
+3D7DE4.23		system	1x144px?	逃げそこなった
+3D7DE4.24		system	1x144px?	毒に侵されてダメージ！
+3D7DE4.25		system	1x144px?	マヒで動けない！
+3D7DE4.26		system	1x144px?	を習得した！
+3D7DE4.27		system	1x144px?	』属性攻撃無効
+3D7DE4.28		system	1x144px?	『
+3D7DE4.29		system	1x144px?	ゲット！
+3D7DE4.30		system	1x144px?	は
+3D7DE4.31		system	1x144px?	』属性バリアを破った！
+3D7DE4.33		system	1x108px?	ベノムファング
+3D7DE4.34		system	1x108px?	スネークバイト
+3D7DE4.35		system	1x108px?	サイドワインダー
+3D7DE4.36		system	1x108px?	蛇遣い座解放
+3D7DE4.37		system	1x108px?	電撃
+3D7DE4.38		system	1x108px?	イナズマキック
+3D7DE4.39		system	1x108px?	電磁フィールド
+3D7DE4.40		system	1x108px?	雷帝降臨
+3D7DE4.41		system	1x108px?	解毒香
+3D7DE4.42		system	1x108px?	回復香
+3D7DE4.43		system	1x108px?	火炎香
+3D7DE4.44		system	1x108px?	加速香
+3D7DE4.45		system	1x108px?	赤い剣
+3D7DE4.46		system	1x108px?	赤い楯
+3D7DE4.47		system	1x108px?	赤い十字架
+3D7DE4.48		system	1x108px?	赤い暴風
+3D7DE4.49		system	1x108px?	繭玉の楯
+3D7DE4.50		system	1x108px?	秋雨
+3D7DE4.51		system	1x108px?	絃呪縛
+3D7DE4.52		system	1x108px?	雫
+3D7DE4.53		system	1x108px?	猿擬
+3D7DE4.54		system	1x108px?	土竜擬
+3D7DE4.55		system	1x108px?	虎爪擬
+3D7DE4.56		system	1x108px?	餓狼擬
+3D7DE4.57		system	1x120px?	捕らえよ　毒蛇の如く
+3D7DE4.58		system	1x120px?	絡みつけ　流砂の如く
+3D7DE4.59		system	1x120px?	消えよ　砂嵐とともに
+3D7DE4.60		system	1x120px?	呑み込め　洪水の如く
+3D7DE4.61		system	1x108px?	毒蛾
+3D7DE4.62		system	1x108px?	鬼灯
+3D7DE4.63		system	1x108px?	鳳仙花
+3D7DE4.64		system	1x108px?	土蜘蛛
+3D7DE4.65		system	1x108px?	鏡像
+3D7DE4.66		system	1x108px?	鏡刃
+3D7DE4.67		system	1x108px?	鏡光
+3D7DE4.68		system	1x120px?	ダイヤモンド・ダスト
+3D7DE4.70		system	1x36px?	　敵
+3D7DE4.71		system	1x36px?	　味方
+3D7DE4.72		system	1x36px?	　単体
+3D7DE4.73		system	1x36px?	　全体
+3D7DE4.74		system	1x36px?	　一度
+3D7DE4.75		system	1x48px?	一定時間
+3D7DE4.76		system	1x24px?	即死
+3D7DE4.77		system	1x24px?	回復
+3D7DE4.78		system	1x36px?	無効化
+3D7DE4.79		system	1x24px?	ＨＰ
+3D7DE4.80		system	1x24px?	ＭＰ
+3D7DE4.81		system	1x48px?	戦闘不能
+3D7DE4.82		system	1x12px?	毒
+3D7DE4.83		system	1x24px?	マヒ
+3D7DE4.84		system	1x24px?	混乱
+3D7DE4.85		system	1x48px?	状態異常
+3D7DE4.86		system	1x12px?	毒
+3D7DE4.87		system	1x24px?	マヒ
+3D7DE4.88		system	1x24px?	混乱
+3D7DE4.89		system	1x36px?	（小）
+3D7DE4.90		system	1x36px?	（中）
+3D7DE4.91		system	1x36px?	（大）
+3D7DE4.92		system	1x12px?	全
+3D7DE4.93		system	1x12px?	[無]
+3D7DE4.94		system	1x12px?	[雷]
+3D7DE4.95		system	1x12px?	[火]
+3D7DE4.96		system	1x12px?	[闇]
+3D7DE4.97		system	1x12px?	[水]
+3D7DE4.98		system	1x12px?	[土]
+3D7DE4.99		system	1x12px?	[砂]
+3D7DE4.100		system	1x12px?	[風]
+3D7DE4.101		system	1x12px?	[光]
+3D7DE4.102		system	1x24px?	攻撃
+3D7DE4.103		system	1x24px?	特殊
+3D7DE4.104		system	1x60px?	防御力ＵＰ
+3D7DE4.105		system	1x60px?	回避率ＵＰ
+3D7DE4.107		system	1x60px?	素早さＵＰ
+3D7DE4.108		system	1x60px?	攻撃力ＵＰ
+3D7DE4.110		system	1x60px?	十薬
+3D7DE4.111		system	1x60px?	威霊仙
+3D7DE4.112		system	1x60px?	延命草
+3D7DE4.113		system	1x60px?	霊芝
+3D7DE4.114		system	1x60px?	牛黄
+3D7DE4.115		system	1x60px?	土木香
+3D7DE4.116		system	1x60px?	芍薬
+3D7DE4.117		system	1x60px?	冬虫夏草
+3D7DE4.118		system	1x60px?	蓬莱の玉
+3D7DE4.119		system	1x60px?	ペンデュＣ
+3D7DE4.120		system	1x60px?	ジュノーＣ
+3D7DE4.121		system	1x60px?	ラトリスＣ
+3D7DE4.122		system	1x60px?	アムルーＣ
+3D7DE4.123		system	1x60px?	ユストスＣ
+3D7DE4.124		system	1x60px?	エルミトＣ
+3D7DE4.125		system	1x60px?	レーフォＣ
+3D7DE4.126		system	1x60px?	ユピテルＣ
+3D7DE4.127		system	1x60px?	ランスＣ
+3D7DE4.128		system	1x60px?	ディラＣ
+3D7DE4.129		system	1x60px?	リュネＣ
+3D7DE4.130		system	1x60px?	レイユＣ
+3D7DE4.131		system	1x60px?	モンドＣ
+3D7DE4.132		system	1x60px?	ゲメンＣ
+3D7DE4.133		system	1x60px?	シャリオＣ
+3D7DE4.134		system	1x60px?	ディブルＣ
+3D7DE4.136		system	1x48px?	美堂　蛮
+3D7DE4.137		system	1x60px?	天野　銀次
+3D7DE4.138		system	1x72px?	工藤　卑弥呼
+3D7DE4.139		system	1x60px?	赤屍　蔵人
+3D7DE4.140		system	1x72px?	風鳥院　花月
+3D7DE4.141		system	1x60px?	冬木　士度
+3D7DE4.142		system	1x60px?	笑師　春樹
+3D7DE4.143		system	1x60px?	筧　十兵衛
+3D7DE4.144		system	1x48px?	鏡　形而
+3D7DE4.145		system	1x24px?	ルマ
+3D7DE4.146		system	1x48px?	バタリー
+3D7DE4.147		system	1x48px?	ジュノー
+3D7DE4.148		system	1x48px?	ラトリス
+3D7DE4.149		system	1x60px?	レンプレル
+3D7DE4.150		system	1x60px?	レンプレル
+3D7DE4.151		system	1x48px?	ユピテル
+3D7DE4.152		system	1x48px?	アムルー
+3D7DE4.153		system	1x48px?	シャリオ
+3D7DE4.154		system	1x48px?	ユストス
+3D7DE4.155		system	1x48px?	エルミト
+3D7DE4.156		system	1x48px?	テューヌ
+3D7DE4.157		system	1x48px?	レーフォ
+3D7DE4.158		system	1x48px?	ペンデュ
+3D7DE4.159		system	1x36px?	モール
+3D7DE4.160		system	1x36px?	ランス
+3D7DE4.161		system	1x48px?	ディブル
+3D7DE4.162		system	1x36px?	ディラ
+3D7DE4.163		system	1x48px?	トワール
+3D7DE4.164		system	1x36px?	リュネ
+3D7DE4.165		system	1x36px?	レイユ
+3D7DE4.166		system	1x36px?	ゲメン
+3D7DE4.167		system	1x36px?	モンド
+3D7DE4.168		system	1x72px?	使用人見習い
+3D7DE4.169		system	1x60px?	使用人補佐
+3D7DE4.170		system	1x84px?	使用人リーダー
+3D7DE4.171		system	1x48px?	使用人頭
+3D7DE4.172		system	1x60px?	蛭田　秀夫
+3D7DE4.173		system	1x84px?	ＣＡＶジュニア
+3D7DE4.174		system	1x60px?	ＣＡＶロウ
+3D7DE4.175		system	1x60px?	ＣＡＶハイ
+3D7DE4.176		system	1x72px?	ＣＡＶヘッド
+3D7DE4.177		system	1x60px?	西園寺　薫
+3D7DE4.178		system	1x60px?	三級警備員
+3D7DE4.179		system	1x60px?	二級警備員
+3D7DE4.180		system	1x60px?	一級警備員
+3D7DE4.181		system	1x36px?	警備長
+3D7DE4.182		system	1x120px?	マッスルファイター龍
+3D7DE4.183		system	1x120px?	マッスルファイター虎
+3D7DE4.184		system	1x84px?	お笑い芸人弟子
+3D7DE4.185		system	1x84px?	お笑い芸人師匠
+3D7DE4.186		system	1x84px?	アイドルひかる
+3D7DE4.187		system	1x84px?	アイドルあきら
+3D7DE4.188		system	1x60px?	山城　龍三
+3D7DE4.189		system	1x60px?	横取り屋弟
+3D7DE4.190		system	1x60px?	横取り屋兄
+3D7DE4.191		system	1x72px?	横取り屋長兄
+3D7DE4.192		system	1x60px?	横取り屋父
+3D7DE4.193		system	1x84px?	Ｓサービス田中
+3D7DE4.194		system	1x84px?	Ｓサービス鈴木
+3D7DE4.195		system	1x84px?	Ｓサービス佐藤
+3D7DE4.196		system	1x84px?	Ｓサービス山本
+3D7DE4.197		system	1x60px?	弥勒　雪彦
+3D7DE4.198		system	1x60px?	弥勒　雪彦
+3D7DE4.199		system	1x48px?	ＴＡＲＥ
+3D7DE4.200		system	1x72px?	奪い屋見習い
+3D7DE4.201		system	1x60px?	奪い屋補佐
+3D7DE4.202		system	1x84px?	奪い屋リーダー
+3D7DE4.203		system	1x48px?	奪い屋頭
+3D7DE4.204		system	1x60px?	横取り屋弟
+3D7DE4.205		system	1x60px?	横取り屋兄
+3D7DE4.206		system	1x84px?	アイドルかける
+3D7DE4.207		system	1x60px?	蛭田　秀夫
+3D7DE4.208		system	1x60px?	蛭田　秀夫
+3D7DE4.209		system	1x60px?	バタリーａ
+3D7DE4.210		system	1x60px?	バタリーｂ
+3D7DE4.211		system	1x48px?	モンドａ
+3D7DE4.212		system	1x48px?	モンドｂ
+3D7DE4.213		system	1x48px?	モンドｃ
+3D7DE4.214		system	1x48px?	モンドｄ
+3D7DE4.215		system	1x48px?	モンドｅ
+3D7DE4.216		system	1x48px?	モンドｆ
+3D7DE4.217		system	1x48px?	モンドｇ
+3D7DE4.218		system	1x48px?	モンドｈ
+3D7DE4.219		system	1x48px?	モンドｉ
+3D7DE4.220		system	1x48px?	リュネａ
+3D7DE4.221		system	1x72px?	レンプレルａ
+3D7DE4.222		system	1x72px?	レンプレルｂ
+3D7DE4.223		system	1x48px?	レイユＳ
+3D7DE4.224		system	1x48px?	リュネＳ
+3D7DE4.225		system	1x48px?	ゲメンＳ
+3D7DE4.226		system	1x60px?	ユピテルＳ
+3D7DE4.227		system	1x60px?	ジュノーＳ
+3D7DE4.228		system	1x48px?	ランスＳ
+3D7DE4.229		system	1x48px?	モンドＳ
+3D7DE4.230		system	1x60px?	ラトリスＳ
+3D7DE4.231		system	1x48px?	ディラＳ
+3D7DE4.232		system	1x60px?	西園寺　薫
+3D7DE4.233		system	1x60px?	弥勒　雪彦
+3D7DE4.234		system	1x72px?	工藤　卑弥呼
+3D7DE4.235		system	1x96px?	美堂　蛮（ＶＲ）
+3D7DE4.236		system	1x108px?	天野　銀次（ＶＲ）
+3D7DE4.237		system	1x120px?	工藤　卑弥呼（ＶＲ）
+3D7DE4.238		system	1x108px?	赤屍　蔵人（ＶＲ）
+3D7DE4.239		system	1x120px?	風鳥院　花月（ＶＲ）
+3D7DE4.240		system	1x108px?	冬木　士度（ＶＲ）
+3D7DE4.241		system	1x108px?	笑師　春樹（ＶＲ）
+3D7DE4.242		system	1x108px?	筧　十兵衛（ＶＲ）
+3D7DE4.243		system	1x96px?	鏡　形而（ＶＲ）
+3D7DE4.244		system	1x84px?	使用人リーダー
+3D7DE4.245		system	1x48px?	使用人頭
+3D7DE4.246		system	1x72px?	エルミトＳＳ
+3D7DE4.247		system	1x72px?	シャリオＳＳ
+3D7DE4.248		system	1x72px?	ペンデュＳＳ
+3D7DE4.249		system	1x72px?	ユストスＳＳ
+3D7DE4.250		system	1x72px?	レーフォＳＳ
+3D7DE4.251		system	1x72px?	アムルーＳＳ
+3D7DE4.252		system	1x72px?	ラトリスＳＳ
+3D7DE4.253		system	1x72px?	ジュノーＳＳ
+3D7DE4.254		system	1x72px?	ユピテルＳＳ
+3D7DE4.255		system	1x60px?	ディラＳＳ
+3D7DE4.256		system	1x60px?	ランスＳＳ
+3D7DE4.257		system	1x60px?	モンドＳＳ
+3D7DE4.258		system	1x60px?	レイユＳＳ
+3D7DE4.259		system	1x60px?	ゲメンＳＳ
+3D7DE4.260		system	1x72px?	ディブルＳＳ
+3D7DE4.261		system	1x60px?	リュネＳＳ
+3D7DE4.262		system	1x72px?	テューヌＳＳ
+3D7DE4.263		system	1x60px?	モールＳＳ
+3D7DE4.264		system	1x72px?	トワールＳＳ
+3D7DE4.265		system	1x60px?	美堂　蛮
+3D7DE4.266		system	1x60px?	天野　銀次
+3D7DE4.267		system	1x72px?	工藤　卑弥呼
+3D7DE4.268		system	1x60px?	赤屍　蔵人
+3D7DE4.269		system	1x72px?	風鳥院　花月
+3D7DE4.270		system	1x60px?	冬木　士度
+3D7DE4.271		system	1x60px?	笑師　春樹
+3D7DE4.272		system	1x60px?	筧　十兵衛
+3D7DE4.273		system	1x60px?	鏡　形而
+3D7DE4.275		system	1x24px?	蛮：
+3D7DE4.276		system	1x216px	遅ェよ！
+3D7DE4.277		system	1x216px	動きが見えるぜ
+3D7DE4.278		system	1x216px	トロい動きだな、オイ
+3D7DE4.279		system	1x216px	かすりもしねえ
+3D7DE4.280		system	1x216px	フン、笑わせるぜ
+3D7DE4.281		system	1x216px	ハッ、そんなもんかよ？
+3D7DE4.282		system	1x216px	かすったか？
+3D7DE4.283		system	1x216px	遊びじゃねンだぞ
+3D7DE4.284		system	1x216px	やる気あンのか？
+3D7DE4.285		system	1x216px	ま、当てただけ褒めてやるよ
+3D7DE4.286		system	1x216px	クソッ！
+3D7DE4.287		system	1x216px	ちっとは面白くなってきたな！
+3D7DE4.288		system	1x216px	クッ、なかなかやるじゃねェかよ
+3D7DE4.289		system	1x216px	こんなモンでチョーシに乗るなよ
+3D7DE4.290		system	1x216px	まだまだってトコだな
+3D7DE4.291		system	1x216px	がああっ！
+3D7DE4.292		system	1x216px	…面白ェじゃねえかよ！
+3D7DE4.293		system	1x216px	やられるわけにはいかねえんだ！
+3D7DE4.294		system	1x216px	まだだ！　まだ終わらせねえ！
+3D7DE4.295		system	1x216px	テメー、１０倍にして返してやる！
+3D7DE4.296		system	1x216px	チッ！　油断しちまったぜ！
+3D7DE4.297		system	1x36px?	銀次：
+3D7DE4.298		system	1x216px	セーフ！
+3D7DE4.299		system	1x216px	ふう、危なかった…
+3D7DE4.300		system	1x216px	見えるよ！
+3D7DE4.301		system	1x216px	ムダだよ！
+3D7DE4.302		system	1x216px	悪いね、当らないよ！
+3D7DE4.303		system	1x216px	あ、あれ？
+3D7DE4.304		system	1x216px	軽い軽い！
+3D7DE4.305		system	1x216px	まだまだ！
+3D7DE4.306		system	1x216px	あっ！　当っちゃったか…
+3D7DE4.307		system	1x216px	よけられなかった？
+3D7DE4.308		system	1x216px	ぐっ！
+3D7DE4.309		system	1x216px	これくらいだったら！
+3D7DE4.310		system	1x216px	うっ！　ドジっちゃったな…
+3D7DE4.311		system	1x216px	…まだいけるよね？
+3D7DE4.312		system	1x216px	このままじゃヤバいかな？
+3D7DE4.313		system	1x216px	わあああっ！
+3D7DE4.314		system	1x216px	ああっ！　このままじゃ…
+3D7DE4.315		system	1x216px	ま、まだ負けられない…！！
+3D7DE4.316		system	1x216px	まだ戦える！　まだやれるよ！
+3D7DE4.317		system	1x216px	やられるわけにはいかないんだぁ！
+3D7DE4.318		system	1x216px	蛮ちゃん、ごめん！
+3D7DE4.319		system	1x48px?	卑弥呼：
+3D7DE4.320		system	1x216px	おあいにくさま
+3D7DE4.321		system	1x216px	レディ・ポイズンを甘く見ないで
+3D7DE4.322		system	1x216px	甘いわね
+3D7DE4.323		system	1x216px	つまらない攻撃ね
+3D7DE4.324		system	1x216px	それで攻撃してるつもり？
+3D7DE4.325		system	1x216px	フン、こんなもの？
+3D7DE4.326		system	1x216px	手加減でもしてるつもり？
+3D7DE4.327		system	1x216px	あら、それが本気なの？
+3D7DE4.328		system	1x216px	笑わせないでよ
+3D7DE4.329		system	1x216px	こんなの傷のうちにも入らないわ
+3D7DE4.330		system	1x216px	ああっ！
+3D7DE4.331		system	1x216px	なによ、こんなもの！
+3D7DE4.332		system	1x216px	避けられなかった？
+3D7DE4.333		system	1x216px	まだいけるわ！
+3D7DE4.334		system	1x216px	当てたからっていい気にならないで
+3D7DE4.335		system	1x216px	くっ！　このままじゃ…
+3D7DE4.336		system	1x216px	きゃああっ！！
+3D7DE4.337		system	1x216px	まだよ！　まだ負けられないわ！
+3D7DE4.338		system	1x216px	なんなの、この力…！？
+3D7DE4.339		system	1x216px	ここでやられるわけには…！
+3D7DE4.340		system	1x216px	キャアアア！
+3D7DE4.341		system	1x36px?	赤屍：
+3D7DE4.342		system	1x216px	退屈ですよ、キミは
+3D7DE4.343		system	1x216px	どこを狙っているのですか？
+3D7DE4.344		system	1x216px	私はここですよ
+3D7DE4.345		system	1x216px	………
+3D7DE4.346		system	1x216px	見えますよ
+3D7DE4.347		system	1x216px	こんなものですか？
+3D7DE4.348		system	1x216px	つまらないですね…
+3D7DE4.349		system	1x216px	この程度で私に挑むとはね…
+3D7DE4.350		system	1x216px	あなたでは役不足ですよ
+3D7DE4.351		system	1x216px	まだまだですよ
+3D7DE4.352		system	1x216px	まあまあですね…
+3D7DE4.353		system	1x216px	それがあなたの実力ですか？
+3D7DE4.354		system	1x216px	少しは楽しめそうですね…
+3D7DE4.355		system	1x216px	クス…
+3D7DE4.356		system	1x216px	私を失望させないでいただきたい
+3D7DE4.357		system	1x216px	これは面白い…
+3D7DE4.358		system	1x216px	この私をここまで追い詰めるとは…ね
+3D7DE4.359		system	1x216px	ここまでやるとは…面白い
+3D7DE4.360		system	1x216px	ククク…やはり戦いはこうでないと…
+3D7DE4.361		system	1x216px	これは…面白い展開になってきましたね
+3D7DE4.362		system	1x216px	面白い…実に、ね
+3D7DE4.363		system	1x36px?	花月：
+3D7DE4.364		system	1x216px	見くびるな
+3D7DE4.365		system	1x216px	身の程を知るがいい
+3D7DE4.366		system	1x216px	それでは僕を捕らえることはできない
+3D7DE4.367		system	1x216px	甘いな…
+3D7DE4.368		system	1x216px	読めるぞ
+3D7DE4.369		system	1x216px	こんなものか？
+3D7DE4.370		system	1x216px	この程度で戦いを挑むとは…
+3D7DE4.371		system	1x216px	笑わせるな
+3D7DE4.372		system	1x216px	甘く見られたものだな
+3D7DE4.373		system	1x216px	フ…まるで遊びだな
+3D7DE4.374		system	1x216px	くっ！
+3D7DE4.375		system	1x216px	この程度なら、まだ！
+3D7DE4.376		system	1x216px	油断してしまったか…
+3D7DE4.377		system	1x216px	なかなかの腕のようですね
+3D7DE4.378		system	1x216px	これ以上はまずいか…？
+3D7DE4.379		system	1x216px	ぐあっ！！
+3D7DE4.380		system	1x216px	まさか、こんな…
+3D7DE4.381		system	1x216px	ここまで追い詰められるなんて…
+3D7DE4.382		system	1x216px	負けられない！風鳥院流の名にかけて！

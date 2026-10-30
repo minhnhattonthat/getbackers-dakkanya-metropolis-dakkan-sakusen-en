@@ -1,0 +1,26 @@
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+赤屍	Akabane
+士度	Shido
+笑師	Emishi
+十兵衛	Juubei	avoid: Jubei
+ヘヴン	Hevn	avoid: Heaven
+蛮ちゃん	Ban-chan
+アル	Al
+蛮	Ban
+銀次	Ginji
+士度	Shido
+笑師	Emishi
+卑弥呼	Himiko
+赤屍	Akabane
+鏡	Kagami
+十兵衛	Juubei
+アル	Al
+ヘヴン	Hevn
+？？？	???
+ＴＡＲＥ	TARE
+無限城	Infinity Fortress	avoid: Mugenjo
+アルファタワー	Alpha Tower
+属性	element	avoid: attribute
+蓬莱の玉	Horai Jewel

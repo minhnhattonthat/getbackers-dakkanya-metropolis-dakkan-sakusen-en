@@ -92,10 +92,17 @@ def text_edits(orig, mode='en', qa=None):
                 t = e['en']
             if not t:
                 continue
-            recs[i] = vwf.encode(t, pool)
+            # '\n' = a second box line: a line record inserted after this one, and the box command before it
+            # turned from 0x238C (1-line box) into 0x238D (2-line box; docs/re/text.md)
+            if '\n' in t:
+                b = i - 1
+                assert recs[b] == struct.pack('<I', script.BOX[0]) and t.count('\n') == 1, \
+                    f'{e["id"]}: only a 1-line box (0x238C) takes a \\n'
+                recs[b] = struct.pack('<I', script.BOX[1])
+            recs[i] = [vwf.encode(s or ' ', pool) for s in t.split('\n')]
             changed = True
         if changed:
-            edits[o] = recs
+            edits[o] = [r for x in recs for r in (x if isinstance(x, list) else [x])]
     return edits, pool
 
 

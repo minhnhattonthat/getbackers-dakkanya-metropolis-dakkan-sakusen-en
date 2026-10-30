@@ -1,0 +1,27 @@
+蛮	Ban
+銀次	Ginji
+十兵衛	Juubei	avoid: Jubei
+西園寺	Saionji
+波児	Paul
+夏実	Natsumi
+ヘヴン	Hevn	avoid: Heaven
+蛮ちゃん	Ban-chan
+銀ちゃん	Gin-chan
+アル	Al
+蛮	Ban
+銀次	Ginji
+十兵衛	Juubei
+アル	Al
+ヘヴン	Hevn
+波児	Paul
+夏実	Natsumi
+西園寺	Saionji
+？？？	???
+ツルコ	Tsuruko
+マドカ	Madoka
+ハカマ	Hakama
+クレイマン	Clayman
+ゲットバッカーズ	GetBackers	avoid: Get Backers
+運び屋	transporter
+電撃	Electric Shock
+ＣＡＶ	CAV

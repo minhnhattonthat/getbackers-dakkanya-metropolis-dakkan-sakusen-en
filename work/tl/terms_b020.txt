@@ -1,0 +1,23 @@
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+赤屍	Akabane
+花月	Kazuki
+士度	Shido
+笑師	Emishi
+十兵衛	Juubei	avoid: Jubei
+ヘヴン	Hevn	avoid: Heaven
+ドクタージャッカル	Dr. Jackal
+アル	Al
+蛮	Ban
+銀次	Ginji
+士度	Shido
+笑師	Emishi
+花月	Kazuki
+卑弥呼	Himiko
+赤屍	Akabane
+十兵衛	Juubei
+アル	Al
+ヘヴン	Hevn
+横取り屋	Poacher
+スネークバイト	Snake Bite

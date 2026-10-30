@@ -1,0 +1,473 @@
+# scene 6677B4
+6677B4.2		dlg	2x216px	ジュノー： / ………
+# scene 667838
+667838.2		dlg	2x216px	ラトリス： / ………
+# scene 6678BC
+6678BC.2		dlg	2x216px	ラトリス： / ………
+# scene 667A24
+667A24.9		dlg	2x216px	ジェンド： / ………
+# scene 667D18
+667D18.9		dlg	2x216px	ジェンド： / 受けてみろ
+# scene 6680B0
+6680B0.10		dlg	2x216px	ジェンド： / ………
+# scene 6683F0
+6683F0.9		dlg	2x216px	ジェンド： / 受けてみろ
+# scene 668708
+668708.9		dlg	2x216px	ジェンド： / 喰らうがいい
+# scene 668C54
+668C54.10		dlg	2x216px	ジェンド： / ………！！
+# scene 6691D8
+6691D8.2		dlg	2x216px	ユピテル： / ………
+# scene 66925C
+66925C.2		dlg	2x216px	ユピテル： / ………
+# scene 6693C4
+6693C4.2		dlg	2x216px	ユピテル： / ………
+# scene 669448
+669448.2		dlg	2x216px	ユピテル： / ………！！
+# scene 6695B4
+6695B4.2		dlg	2x216px	アムルー： / ………
+# scene 669638
+669638.2		dlg	2x216px	アムルー： / ………
+# scene 669740
+669740.2		dlg	2x216px	シャリオ： / ………
+# scene 6697C4
+6697C4.2		dlg	2x216px	シャリオ： / ………
+# scene 66992C
+66992C.2		dlg	2x216px	ユストス： / ………
+# scene 6699B0
+6699B0.2		dlg	2x216px	ユストス： / ………
+6699B0.24		dlg	1x216px	[土]無効バリアをはった！
+# scene 669BBC
+669BBC.2		dlg	2x216px	エルミト： / ………
+# scene 669C40
+669C40.2		dlg	2x216px	エルミト： / ………
+669C40.16		dlg	1x216px	敵の攻撃力が上がった！
+# scene 669D90
+669D90.2		dlg	2x216px	テューヌ： / ………
+# scene 669E14
+669E14.2		dlg	2x216px	テューヌ： / ………
+# scene 669F74
+669F74.2		dlg	2x216px	レーフォ： / ………
+# scene 669FF8
+669FF8.2		dlg	2x216px	レーフォ： / ………
+669FF8.24		dlg	1x216px	[火]無効バリアをはった！
+# scene 66A204
+66A204.2		dlg	2x216px	ペンデュ： / ………
+# scene 66A288
+66A288.2		dlg	2x216px	ペンデュ： / ………
+# scene 66A40C
+66A40C.2		dlg	2x216px	モール： / ………
+# scene 66A48C
+66A48C.2		dlg	2x216px	モール： / ………
+66A48C.21		dlg	1x216px	特殊効果が無効化された！！
+# scene 66A66C
+66A66C.2		dlg	2x216px	モール： / ………
+# scene 66A6E8
+66A6E8.2		dlg	2x216px	ランス： / ………
+# scene 66A768
+66A768.2		dlg	2x216px	ランス： / ………
+# scene 66A7E8
+66A7E8.2		dlg	2x216px	ランス： / ………
+# scene 66A8EC
+66A8EC.2		dlg	2x216px	ディブル： / ………
+# scene 66A970
+66A970.2		dlg	2x216px	ディブル： / ………
+# scene 66A9F4
+66A9F4.2		dlg	2x216px	ディラ： / ………
+# scene 66AA74
+66AA74.2		dlg	2x216px	ディラ： / ………！！
+# scene 66AAF8
+66AAF8.2		dlg	2x216px	ディラ： / ………
+# scene 66AC5C
+66AC5C.2		dlg	2x216px	トワール： / ………
+# scene 66ACE0
+66ACE0.2		dlg	2x216px	トワール： / ………
+# scene 66ADE8
+66ADE8.2		dlg	2x216px	リュネ： / ………
+# scene 66AE68
+66AE68.2		dlg	2x216px	リュネ： / ………
+# scene 66AEE8
+66AEE8.2		dlg	2x216px	リュネ： / ………
+# scene 66AF78
+66AF78.2		dlg	2x216px	レイユ： / ………
+# scene 66AFF8
+66AFF8.2		dlg	2x216px	レイユ： / ………！！
+# scene 66B07C
+66B07C.2		dlg	2x216px	ゲメン： / ………
+# scene 66B0FC
+66B0FC.2		dlg	2x216px	ゲメン： / ………
+# scene 66B260
+66B260.2		dlg	2x216px	モンド： / ………
+# scene 66B2E0
+66B2E0.2		dlg	2x216px	モンド： / ………
+# scene 66B384
+66B384.2		dlg	2x216px	モンド： / ………
+# scene 66B424
+66B424.2		dlg	2x216px	使用人見習い： / おらあっ！
+# scene 66B4B0
+66B4B0.2		dlg	2x216px	使用人補佐： / くらえっ！！！
+# scene 66B53C
+66B53C.2		dlg	2x216px	使用人リーダー： / いくぜっ！
+# scene 66B5C8
+66B5C8.2		dlg	2x216px	使用人頭： / くらえっ！！！
+# scene 66B654
+66B654.12		dlg	2x216px	蛭田： / ボクをなめるなよォ！
+# scene 66B9CC
+66B9CC.6		dlg	2x216px	蛭田： / 行け！　サソリ達ィ！！
+# scene 66BDD4
+66BDD4.2		dlg	2x216px	蛭田： / 出て来い！　おまえ達ィいい！！
+# scene 66BE68
+66BE68.2		dlg	2x216px	ＣＡＶジュニア： / おらあっ！
+# scene 66BEF4
+66BEF4.2		dlg	2x216px	ＣＡＶロウ： / くらえっ！！！
+# scene 66BF80
+66BF80.2		dlg	2x216px	ＣＡＶハイ： / いくぜっ！
+# scene 66C008
+66C008.2		dlg	2x216px	ＣＡＶヘッド： / くらえっ！！！
+# scene 66C098
+66C098.20		dlg	2x216px	西園寺： / 西風鳥院流絃術！
+# scene 66C410
+66C410.15		dlg	2x216px	西園寺： / 花月には負けられない！
+# scene 66C8A0
+66C8A0.2		dlg	2x216px	三級警備員： / 怪しい奴っ！
+# scene 66C928
+66C928.2		dlg	2x216px	二級警備員： / 何者だっ！
+# scene 66C9B0
+66C9B0.2		dlg	2x216px	一級警備員： / 不審者めっ！
+# scene 66CA38
+66CA38.2		dlg	2x216px	一級警備員： / こうしてやるっ！
+# scene 66CB20
+66CB20.2		dlg	2x216px	警備長： / くせ者っ！
+# scene 66CBA4
+66CBA4.2		dlg	2x216px	警備長： / どりゃあああっ！
+# scene 66CC88
+66CC88.2		dlg	2x216px	マッスルファイター龍： / ふんぬっ！！
+# scene 66CD1C
+66CD1C.2		dlg	2x216px	マッスルファイター虎： / ふんんっっっ！
+# scene 66CDB4
+66CDB4.2		dlg	2x216px	マッスルファイター虎： / ふんぬおおおおうっっ！
+# scene 66CEB0
+66CEB0.2		dlg	2x216px	お笑い芸人弟子： / なにゆうてんねんっ！
+# scene 66CF44
+66CF44.2		dlg	2x216px	お笑い芸人弟子： / もうしらんわぁっ！
+# scene 66D034
+66D034.2		dlg	2x216px	お笑い芸人師匠： / やっとれんわっ！
+# scene 66D0C4
+66D0C4.2		dlg	2x216px	お笑い芸人弟子： / キミとはコンビ解消やっ！
+# scene 66D1B8
+66D1B8.2		dlg	2x216px	アイドルひかる： / どうだいっ！
+# scene 66D244
+66D244.2		dlg	2x216px	アイドルあきら： / いくよっ！
+# scene 66D2D0
+66D2D0.8		dlg	2x216px	山城　龍三： / お前ら如きに負けはせんよ！
+# scene 66D4CC
+66D4CC.14		dlg	2x216px	山城　龍三： / フハハハハハハ！
+# scene 66DB10
+66DB10.2		dlg	2x216px	横取り屋弟： / 具歯葉母！
+# scene 66DB98
+66DB98.2		dlg	2x216px	横取り屋兄： / 腐歯破葉母！！
+# scene 66DC24
+66DC24.2		dlg	2x216px	横取り屋兄： / 腐歯破葉破葉母母！！
+# scene 66DD10
+66DD10.2		dlg	2x216px	横取り屋長兄： / 具歯葉母歯葉！
+# scene 66DDA0
+66DDA0.2		dlg	2x216px	横取り屋父： / 腐歯破葉母母母！！
+# scene 66DE30
+66DE30.2		dlg	2x216px	横取り屋父： / 腐歯破葉母母母母母母！！
+# scene 66DF20
+66DF20.2		dlg	2x216px	Ｓサービス田中： / こいつめっ！
+# scene 66DFAC
+66DFAC.2		dlg	2x216px	Ｓサービス鈴木： / このやろっ！
+# scene 66E038
+66E038.2		dlg	2x216px	Ｓサービス佐藤： / こいつらぁっ！
+# scene 66E0C8
+66E0C8.2		dlg	2x216px	Ｓサービス佐藤： / とどめだっ！
+# scene 66E1B0
+66E1B0.2		dlg	2x216px	Ｓサービス山本： / このおっ！
+# scene 66E23C
+66E23C.8		dlg	2x216px	弥勒： / 甘いわよ
+# scene 66E494
+66E494.19		dlg	2x216px	弥勒： / その首頂戴いたす
+# scene 66E720
+66E720.11		dlg	2x216px	弥勒： / 一刀両断！
+# scene 66E958
+66E958.15		dlg	2x216px	弥勒： / 弥勒流　綺の太刀　有量円月
+# scene 66ECEC
+66ECEC.19		dlg	2x216px	ＴＡＲＥ： / ウキュー！
+# scene 66F18C
+66F18C.19		dlg	2x216px	ＴＡＲＥ： / ウキュキュ！
+# scene 66F9AC
+66F9AC.2		dlg	2x216px	奪い屋見習い： / おらあっ！
+# scene 66FA38
+66FA38.2		dlg	2x216px	奪い屋補佐： / くらえっ！！！
+# scene 66FAC4
+66FAC4.2		dlg	2x216px	奪い屋リーダー： / いくぜっ！
+# scene 66FB50
+66FB50.2		dlg	2x216px	奪い屋頭： / くらえっ！！！
+# scene 66FBDC
+66FBDC.2		dlg	2x216px	横取り屋弟： / 具歯葉母！
+# scene 66FC64
+66FC64.2		dlg	2x216px	横取り屋兄： / 腐歯破葉母！！
+# scene 66FCF0
+66FCF0.2		dlg	2x216px	アイドルかける： / いくよっ！
+# scene 66FD7C
+66FD7C.2		dlg	2x216px	アイドルかける： / サインはおことわりっ！
+# scene 66FE64
+66FE64.12		dlg	2x216px	蛭田： / ボクをなめるなよォ！
+# scene 6701DC
+6701DC.6		dlg	2x216px	蛭田： / 行け！　サソリ達ィ！！
+# scene 6705E4
+6705E4.2		dlg	2x216px	蛭田： / 出て来い！　おまえ達ィいい！！
+# scene 67066C
+67066C.12		dlg	2x216px	蛭田： / ボクをなめるなよォ！
+# scene 6709E4
+6709E4.6		dlg	2x216px	蛭田： / 行け！　サソリ達ィ！！
+# scene 670DEC
+670DEC.2		dlg	2x216px	蛭田： / 出て来い！　おまえ達ィいい！！
+# scene 670E74
+670E74.2		dlg	2x216px	バタリーａ： / ………
+# scene 670EF8
+670EF8.3		dlg	2x216px	バタリーａ： / ………
+670EF8.25		dlg	1x216px	[闇]無効バリアをはった！
+# scene 67110C
+67110C.2		dlg	2x216px	バタリーａ： / ………
+# scene 671274
+671274.2		dlg	2x216px	バタリーｂ： / ………
+# scene 6712F8
+6712F8.3		dlg	2x216px	バタリーｂ： / ………
+6712F8.25		dlg	1x216px	[砂]無効バリアをはった！
+# scene 67150C
+67150C.2		dlg	2x216px	バタリーｂ： / ………
+# scene 671684
+671684.2		dlg	2x216px	モンドａ： / ………
+# scene 671708
+671708.2		dlg	2x216px	モンドａ： / ………
+# scene 6717B0
+6717B0.2		dlg	2x216px	モンドｂ： / ………
+# scene 671834
+671834.2		dlg	2x216px	モンドｂ： / ………
+# scene 6718DC
+6718DC.2		dlg	2x216px	モンドｃ： / ………
+# scene 671960
+671960.2		dlg	2x216px	モンドｃ： / ………
+# scene 671A08
+671A08.2		dlg	2x216px	モンドｄ： / ………
+# scene 671A8C
+671A8C.2		dlg	2x216px	モンドｄ： / ………
+# scene 671B34
+671B34.2		dlg	2x216px	モンドｅ： / ………
+# scene 671BB8
+671BB8.2		dlg	2x216px	モンドｅ： / ………
+# scene 671C60
+671C60.2		dlg	2x216px	モンドｆ： / ………
+# scene 671CE4
+671CE4.2		dlg	2x216px	モンドｆ： / ………
+# scene 671D8C
+671D8C.2		dlg	2x216px	モンドｇ： / ………
+# scene 671E10
+671E10.2		dlg	2x216px	モンドｇ： / ………
+# scene 671EB8
+671EB8.2		dlg	2x216px	モンドｈ： / ………
+# scene 671F3C
+671F3C.2		dlg	2x216px	モンドｈ： / ………
+# scene 671FE4
+671FE4.2		dlg	2x216px	モンドｉ： / ………
+# scene 672068
+672068.2		dlg	2x216px	モンドｉ： / ………
+# scene 672110
+672110.2		dlg	2x216px	リュネａ： / ………
+# scene 672194
+672194.2		dlg	2x216px	リュネａ： / ………
+# scene 672218
+672218.2		dlg	2x216px	レンプレル： / ………
+# scene 67229C
+67229C.2		dlg	2x216px	レンプレル： / ………
+# scene 6723FC
+6723FC.2		dlg	2x216px	レンプレル： / ………
+# scene 67255C
+67255C.2		dlg	2x216px	レンプレル： / ………
+# scene 6725E0
+6725E0.2		dlg	2x216px	レンプレル： / ………
+# scene 672740
+672740.2		dlg	2x216px	レンプレル： / ………
+# scene 6728A0
+6728A0.2		dlg	2x216px	レイユＳ： / ………
+# scene 672924
+672924.2		dlg	2x216px	レイユＳ： / ………！！
+# scene 6729AC
+6729AC.2		dlg	2x216px	リュネＳ： / ………
+# scene 672A30
+672A30.2		dlg	2x216px	リュネＳ： / ………
+# scene 672AB4
+672AB4.2		dlg	2x216px	リュネＳ： / ………
+# scene 672B48
+672B48.2		dlg	2x216px	ゲメンＳ： / ………
+# scene 672BCC
+672BCC.2		dlg	2x216px	ゲメンＳ： / ………
+# scene 672D34
+672D34.2		dlg	2x216px	ユピテルＳ： / ………
+# scene 672DB8
+672DB8.2		dlg	2x216px	ユピテルＳ： / ………
+# scene 672F20
+672F20.2		dlg	2x216px	ユピテルＳ： / ………
+# scene 672FA4
+672FA4.2		dlg	2x216px	ユピテルＳ： / ………！！
+# scene 673110
+673110.2		dlg	2x216px	ジュノーＳ： / ………
+# scene 673194
+673194.2		dlg	2x216px	ジュノーＳ： / ………！！
+# scene 673300
+673300.2		dlg	2x216px	ジュノーＳ： / ………
+# scene 673384
+673384.2		dlg	2x216px	ランスＳ： / ………
+# scene 673408
+673408.2		dlg	2x216px	ランスＳ： / ………
+# scene 67348C
+67348C.2		dlg	2x216px	ランスＳ： / ………
+# scene 673594
+673594.2		dlg	2x216px	モンドＳ： / ………
+# scene 673618
+673618.2		dlg	2x216px	モンドＳ： / ………
+# scene 6736C0
+6736C0.2		dlg	2x216px	モンドＳ： / ………
+# scene 673764
+673764.2		dlg	2x216px	ラトリスＳ： / ………
+# scene 6737E8
+6737E8.2		dlg	2x216px	ラトリスＳ： / ………
+# scene 673950
+673950.2		dlg	2x216px	ディラＳ： / ………
+# scene 6739D4
+6739D4.2		dlg	2x216px	ディラＳ： / ………！！
+# scene 673A5C
+673A5C.2		dlg	2x216px	ディラＳ： / ………
+# scene 673BC4
+673BC4.18		dlg	2x216px	西園寺： / 西風鳥院流絃術！
+# scene 673F24
+673F24.14		dlg	2x216px	西園寺： / 花月には負けられない！
+# scene 674384
+674384.8		dlg	2x216px	弥勒： / 甘いわよ
+# scene 6745DC
+6745DC.19		dlg	2x216px	弥勒： / その首頂戴いたす
+# scene 674868
+674868.11		dlg	2x216px	弥勒： / 一刀両断！
+# scene 674AA0
+674AA0.15		dlg	2x216px	弥勒： / 行くよ
+# scene 674E20
+674E20.10		dlg	2x216px	卑弥呼： / もらった！
+# scene 675004
+675004.4		dlg	2x216px	ＶＲ美堂　蛮： / ………
+# scene 6751AC
+6751AC.8		dlg	2x216px	ＶＲ美堂　蛮： / スネークバイト！
+# scene 6755F8
+6755F8.8		dlg	2x216px	ＶＲ美堂　蛮： / チョーシこいてんじゃねえぞ！
+# scene 675A0C
+675A0C.8		dlg	2x216px	蛮： / 俺様の本気を見せてやるぜ！
+# scene 675E74
+675E74.10		dlg	2x216px	蛮： / 喰らえ、その毒蛇の牙を以て！
+# scene 6762F0
+6762F0.4		dlg	2x216px	ＶＲ天野　銀次： / ………
+# scene 676498
+676498.8		dlg	2x216px	ＶＲ天野　銀次： / おおおおあああっ！
+# scene 676840
+676840.7		dlg	2x216px	ＶＲ天野　銀次： / イナズマキィィィィック！
+# scene 676CA8
+676CA8.8		dlg	2x216px	ＶＲ天野　銀次： / 電磁力最大！
+# scene 6770C0
+6770C0.11		dlg	2x216px	ＶＲ天野　銀次： / そろそろ終わりにしよう
+# scene 677638
+677638.4		dlg	2x216px	ＶＲ工藤　卑弥呼： / ………
+# scene 677800
+677800.14		dlg	2x216px	ＶＲ工藤　卑弥呼： / 解毒香！
+# scene 677B8C
+677B8C.14		dlg	2x216px	ＶＲ工藤　卑弥呼： / 毒香水！
+# scene 677ED4
+677ED4.14		dlg	2x216px	ＶＲ工藤　卑弥呼： / 火炎香！
+# scene 6781E0
+6781E0.14		dlg	2x216px	ＶＲ工藤　卑弥呼： / 加速香！
+# scene 678890
+678890.4		dlg	2x216px	ＶＲ赤屍　蔵人： / ………
+# scene 678B20
+678B20.11		dlg	2x216px	ＶＲ赤屍　蔵人： / ブラッディ・ソード
+# scene 678E48
+678E48.18		dlg	2x216px	ＶＲ赤屍　蔵人： / ブラッディ・シールド
+# scene 679328
+679328.18		dlg	2x216px	ＶＲ赤屍　蔵人： / ブラッディ・クロス
+# scene 6797BC
+6797BC.18		dlg	2x216px	ＶＲ赤屍　蔵人： / ブラッディ・ハリケーン
+# scene 679C00
+679C00.4		dlg	2x216px	ＶＲ風鳥院　花月： / ………
+# scene 679E28
+679E28.18		dlg	2x216px	ＶＲ風鳥院　花月： / 風鳥院流絃術
+679E28.23		dlg	2x216px	ＶＲ風鳥院　花月： / 風鳥院流絃術　繭玉の楯
+# scene 67A254
+67A254.18		dlg	2x216px	ＶＲ風鳥院　花月： / 風鳥院流絃術　秋雨
+# scene 67A67C
+67A67C.18		dlg	2x216px	ＶＲ風鳥院　花月： / 風鳥院流絃術
+67A67C.23		dlg	2x216px	ＶＲ風鳥院　花月： / 風鳥院流絃術　絃呪縛
+# scene 67AB18
+67AB18.18		dlg	2x216px	ＶＲ風鳥院　花月： / 風鳥院流絃術
+67AB18.23		dlg	2x216px	ＶＲ風鳥院　花月： / 風鳥院流絃術　雫
+# scene 67B088
+67B088.4		dlg	2x216px	ＶＲ冬木　士度： / ………
+# scene 67B1FC
+67B1FC.8		dlg	2x216px	ＶＲ冬木　士度： / 百獣擬態
+67B1FC.26		dlg	2x216px	ＶＲ冬木　士度： / 百獣擬態　猿擬
+# scene 67B4F0
+67B4F0.7		dlg	2x216px	ＶＲ冬木　士度： / 百獣擬態
+67B4F0.14		dlg	2x216px	ＶＲ冬木　士度： / 百獣擬態　土竜擬
+# scene 67B734
+67B734.9		dlg	2x216px	ＶＲ冬木　士度： / 百獣擬態
+67B734.30		dlg	2x216px	ＶＲ冬木　士度： / 百獣擬態　虎爪擬
+# scene 67BB78
+67BB78.6		dlg	2x216px	ＶＲ冬木　士度： / 百獣擬態
+67BB78.13		dlg	2x216px	ＶＲ冬木　士度： / 百獣擬態　餓狼擬
+# scene 67BEA4
+67BEA4.4		dlg	2x216px	ＶＲ笑師　春樹： / ………
+# scene 67C0A0
+67C0A0.18		dlg	2x216px	ＶＲ笑師　春樹： / 捕らえよ　毒蛇の如く！
+# scene 67C490
+67C490.18		dlg	2x216px	ＶＲ笑師　春樹： / 絡みつけ　流砂の如く！
+# scene 67C888
+67C888.18		dlg	2x216px	ＶＲ笑師　春樹： / 消えよ　砂嵐とともに！
+# scene 67CC98
+67CC98.10		dlg	2x216px	ＶＲ笑師　春樹： / 呑み込め　洪水の如く！
+# scene 67D04C
+67D04C.4		dlg	2x216px	ＶＲ筧　十兵衛： / ………
+# scene 67D270
+67D270.17		dlg	2x216px	ＶＲ筧　十兵衛： / 筧流針術
+67D270.22		dlg	2x216px	ＶＲ筧　十兵衛： / 筧流針術　毒蛾
+# scene 67D63C
+67D63C.11		dlg	2x216px	ＶＲ筧　十兵衛： / 筧流針術　鬼灯
+# scene 67D960
+67D960.17		dlg	2x216px	ＶＲ筧　十兵衛： / 筧流針術
+67D960.22		dlg	2x216px	ＶＲ筧　十兵衛： / 筧流針術　鳳仙花
+# scene 67DDE8
+67DDE8.17		dlg	2x216px	ＶＲ筧　十兵衛： / 筧流針術
+67DDE8.46		dlg	2x216px	ＶＲ筧　十兵衛： / 筧流針術　土蜘蛛
+# scene 67E23C
+67E23C.4		dlg	2x216px	ＶＲ鏡　形而： / ………
+# scene 67E3D8
+67E3D8.17		dlg	2x216px	ＶＲ鏡　形而： / チェックメイト、かな？
+# scene 67E77C
+67E77C.16		dlg	2x216px	ＶＲ鏡　形而： / 死は苦痛ではないよ？
+# scene 67EAC8
+67EAC8.16		dlg	2x216px	ＶＲ鏡　形而： / 遊びは終わりにしよう
+# scene 67EE88
+67EE88.17		dlg	2x216px	鏡： / ダイヤモンド・ダスト
+# scene 67F468
+67F468.2		dlg	2x216px	使用人リーダー： / いくぜっ！
+# scene 67F4F4
+67F4F4.2		dlg	2x216px	使用人頭： / くらえっ！！！
+# scene 67F580
+67F580.2		dlg	2x216px	エルミトＳＳ： / ………
+# scene 67F608
+67F608.2		dlg	2x216px	エルミトＳＳ： / ………
+67F608.16		dlg	1x216px	敵の攻撃力が上がった！
+# scene 67F75C
+67F75C.2		dlg	2x216px	シャリオＳＳ： / ………
+# scene 67F7E4
+67F7E4.2		dlg	2x216px	シャリオＳＳ： / ………
+# scene 67F950
+67F950.2		dlg	2x216px	ペンデュＳＳ： / ………
+# scene 67F9D8
+67F9D8.2		dlg	2x216px	ペンデュＳＳ： / ………

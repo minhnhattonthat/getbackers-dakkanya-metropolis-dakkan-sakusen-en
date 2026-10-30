@@ -4,7 +4,7 @@
   "kind": "name",
   "box": 0,
   "jp": "社員",
-  "en": ""
+  "en": "Employee"
  },
  {
   "id": "7B08E4.3",
@@ -19,7 +19,7 @@
   "kind": "name",
   "box": 1,
   "jp": "士度",
-  "en": ""
+  "en": "Shido"
  },
  {
   "id": "7B08E4.7",
@@ -42,7 +42,7 @@
   "kind": "name",
   "box": 2,
   "jp": "社員",
-  "en": ""
+  "en": "Employee"
  },
  {
   "id": "7B08E4.12",
@@ -65,7 +65,7 @@
   "kind": "name",
   "box": 3,
   "jp": "士度",
-  "en": ""
+  "en": "Shido"
  },
  {
   "id": "7B08E4.17",
@@ -80,7 +80,7 @@
   "kind": "name",
   "box": 4,
   "jp": "社員",
-  "en": ""
+  "en": "Employee"
  },
  {
   "id": "7B08E4.21",
@@ -103,7 +103,7 @@
   "kind": "name",
   "box": 6,
   "jp": "士度",
-  "en": ""
+  "en": "Shido"
  },
  {
   "id": "7B08E4.29",

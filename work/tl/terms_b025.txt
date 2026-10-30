@@ -1,0 +1,33 @@
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+赤屍	Akabane
+花月	Kazuki
+士度	Shido
+笑師	Emishi
+十兵衛	Juubei	avoid: Jubei
+波児	Paul
+夏実	Natsumi
+ヘヴン	Hevn	avoid: Heaven
+蛮ちゃん	Ban-chan
+アル	Al
+ジェンド	Jend
+蛮	Ban
+銀次	Ginji
+士度	Shido
+笑師	Emishi
+花月	Kazuki
+卑弥呼	Himiko
+赤屍	Akabane
+十兵衛	Juubei
+アル	Al
+ヘヴン	Hevn
+波児	Paul
+夏実	Natsumi
+ジェンド	Jend
+ＭＡＩ	MAI
+新宿	Shinjuku
+無限城	Infinity Fortress	avoid: Mugenjo
+ゲットバッカーズ	GetBackers	avoid: Get Backers
+仲介屋	broker
+属性	element	avoid: attribute

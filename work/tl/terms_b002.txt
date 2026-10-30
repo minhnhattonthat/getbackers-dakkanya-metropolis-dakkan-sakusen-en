@@ -1,0 +1,115 @@
+美堂　蛮	Ban Mido
+天野　銀次	Ginji Amano
+工藤　卑弥呼	Himiko Kudo
+赤屍　蔵人	Kurodo Akabane	avoid: Kuroudo
+風鳥院　花月	Kazuki Fuchoin	avoid: Fuuchouin
+冬木　士度	Shido Fuyuki
+笑師　春樹	Emishi Haruki
+筧　十兵衛	Juubei Kakei	avoid: Jubei
+鏡　形而	Kyoji Kagami
+弥勒　雪彦	Yukihiko Miroku
+蛭田　秀夫	Hideo Hiruta
+西園寺　薫	Kaoru Saionji
+山城　龍三	Ryuzo Yamashiro
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+赤屍	Akabane
+花月	Kazuki
+士度	Shido
+笑師	Emishi
+十兵衛	Juubei	avoid: Jubei
+弥勒	Miroku
+蛭田	Hiruta
+西園寺	Saionji
+山城	Yamashiro
+レディ・ポイズン	Lady Poison
+蛮ちゃん	Ban-chan
+ジェンド・ロン	Jend Long
+アル・カ・ナ	Ar-ca-na
+蛮	Ban
+銀次	Ginji
+士度	Shido
+笑師	Emishi
+花月	Kazuki
+卑弥呼	Himiko
+赤屍	Akabane
+鏡	Kagami
+十兵衛	Juubei
+蛭田	Hiruta
+弥勒	Miroku
+西園寺	Saionji
+ＴＡＲＥ	TARE
+Ｓサービス	S-Service
+山城	Yamashiro
+使用人	Servant
+奪い屋	Snatcher
+スネークバイト	Snake Bite
+ベノムファング	Venom Fang
+サイドワインダー	Sidewinder
+蛇遣い座解放	Ophiuchus Unleashed
+電撃	Electric Shock
+イナズマキック	Lightning Kick
+電磁フィールド	EM Field
+雷帝降臨	Thunder Emperor Descends
+解毒香	Antidote Perfume
+回復香	Healing Perfume
+火炎香	Flame Perfume
+加速香	Speed Perfume
+赤い剣	Bloody Sword
+赤い楯	Bloody Shield
+赤い十字架	Bloody Cross
+赤い暴風	Bloody Hurricane
+繭玉の楯	Cocoon Shield
+秋雨	Autumn Rain
+絃呪縛	String Bind
+雫	Dewdrop
+猿擬	Ape Mimic
+土竜擬	Mole Mimic
+虎爪擬	Tiger Claw Mimic
+餓狼擬	Wolf Mimic
+毒蛾	Poison Moth
+鬼灯	Lantern Plant
+鳳仙花	Balsam Burst
+土蜘蛛	Earth Spider
+鏡像	Mirror Image
+鏡刃	Mirror Blade
+鏡光	Mirror Light
+ダイヤモンド・ダスト	Diamond Dust
+必殺技	special move ; special
+属性	element	avoid: attribute
+十薬	Houttuynia
+威霊仙	Clematis Root
+延命草	Enmei Herb
+霊芝	Reishi
+牛黄	Bezoar
+土木香	Elecampane
+芍薬	Peony Root
+冬虫夏草	Cordyceps
+蓬莱の玉	Horai Jewel
+ＥＸＰ	EXP
+ＨＰ	HP
+ＭＰ	MP
+ルマ	Lemat
+バタリー	Batary
+ジュノー	Junon	avoid: Juno
+ラトリス	Ratrice
+レンプレル	Lempereur
+ユピテル	Jupiter
+アムルー	Amoureux
+シャリオ	Chariot
+ユストス	Iustus
+エルミト	Hermite
+テューヌ	Tune
+レーフォ	Lefo
+ペンデュ	Pendu
+モール	Mort
+ランス	Rance
+ディラ	Dira
+ディブル	Diable
+トワール	Toile
+リュネ	Lune
+レイユ	Reille
+ゲメン	Gement
+モンド	Monde
+ＣＡＶ	CAV

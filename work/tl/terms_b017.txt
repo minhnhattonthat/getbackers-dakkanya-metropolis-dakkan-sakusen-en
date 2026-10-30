@@ -1,0 +1,19 @@
+卑弥呼	Himiko
+花月	Kazuki
+士度	Shido
+笑師	Emishi
+十兵衛	Juubei	avoid: Jubei
+山城	Yamashiro
+アル	Al
+士度	Shido
+笑師	Emishi
+花月	Kazuki
+卑弥呼	Himiko
+十兵衛	Juubei
+アル	Al
+ＭＡＩ	MAI
+秘書	Secretary
+マドカ	Madoka
+山城	Yamashiro
+雷帝	Thunder Emperor	avoid: Raitei
+電撃	Electric Shock

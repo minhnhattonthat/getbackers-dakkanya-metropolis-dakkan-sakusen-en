@@ -1,0 +1,23 @@
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+赤屍	Akabane
+ヘヴン	Hevn	avoid: Heaven
+ジャッカル	Jackal
+レディ・ポイズン	Lady Poison
+蛮ちゃん	Ban-chan
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+赤屍	Akabane
+ヘヴン	Hevn
+ツルコ	Tsuruko
+ハカマ	Hakama
+馬車	Carriage
+シズク	Shizuku
+ナミヲ	Namio
+ロクロー	Rokuro
+警備員	Guard
+奪還屋	GetBackers ; retriever ; retrieval	avoid: Dakkanya
+ゲットバッカーズ	GetBackers	avoid: Get Backers
+邪眼	Evil Eye	avoid: Jagan

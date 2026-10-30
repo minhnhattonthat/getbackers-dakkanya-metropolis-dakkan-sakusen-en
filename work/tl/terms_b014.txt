@@ -1,0 +1,20 @@
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+ヘヴン	Hevn	avoid: Heaven
+ジャッカル	Jackal
+蛮ちゃん	Ban-chan
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+ヘヴン	Hevn
+？？？	???
+ツルコ	Tsuruko
+ハカマ	Hakama
+横取り屋	Poacher
+シズク	Shizuku
+ナミヲ	Namio
+ロクロー	Rokuro
+ゲットバッカーズ	GetBackers	avoid: Get Backers
+電撃	Electric Shock
+属性	element	avoid: attribute

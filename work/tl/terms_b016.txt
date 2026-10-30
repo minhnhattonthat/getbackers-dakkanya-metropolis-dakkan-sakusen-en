@@ -1,0 +1,26 @@
+蛮	Ban
+士度	Shido
+笑師	Emishi
+十兵衛	Juubei	avoid: Jubei
+ヘヴン	Hevn	avoid: Heaven
+マクベス	MakubeX	avoid: Macbeth
+蛮ちゃん	Ban-chan
+アル	Al
+蛮	Ban
+士度	Shido
+笑師	Emishi
+十兵衛	Juubei
+アル	Al
+ヘヴン	Hevn
+社員	Employee
+ＭＡＩ	MAI
+マクベス	MakubeX
+？？？	???
+ツルコ	Tsuruko
+マドカ	Madoka
+ハカマ	Hakama
+シズク	Shizuku
+ナミヲ	Namio
+ロクロー	Rokuro
+奪還屋	GetBackers ; retriever ; retrieval	avoid: Dakkanya
+属性	element	avoid: attribute

@@ -1,0 +1,26 @@
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+赤屍	Akabane
+花月	Kazuki
+士度	Shido
+笑師	Emishi
+十兵衛	Juubei	avoid: Jubei
+弥勒	Miroku
+ドクター・ジャッカル	Dr. Jackal
+レディ・ポイズン	Lady Poison
+蛮	Ban
+銀次	Ginji
+士度	Shido
+笑師	Emishi
+花月	Kazuki
+卑弥呼	Himiko
+赤屍	Akabane
+鏡	Kagami
+十兵衛	Juubei
+弥勒	Miroku
+？？？	???
+無限城	Infinity Fortress	avoid: Mugenjo
+奪還屋	GetBackers ; retriever ; retrieval	avoid: Dakkanya
+運び屋	transporter
+雷帝	Thunder Emperor	avoid: Raitei

@@ -1,0 +1,21 @@
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+赤屍	Akabane
+花月	Kazuki
+士度	Shido
+笑師	Emishi
+十兵衛	Juubei	avoid: Jubei
+ジャッカル	Jackal
+レディ・ポイズン	Lady Poison
+蛮ちゃん	Ban-chan
+蛮	Ban
+銀次	Ginji
+士度	Shido
+笑師	Emishi
+花月	Kazuki
+卑弥呼	Himiko
+赤屍	Akabane
+鏡	Kagami
+十兵衛	Juubei
+雷帝	Thunder Emperor	avoid: Raitei

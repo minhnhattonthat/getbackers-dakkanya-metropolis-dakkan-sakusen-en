@@ -1,0 +1,61 @@
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+赤屍	Akabane
+花月	Kazuki
+士度	Shido
+笑師	Emishi
+十兵衛	Juubei	avoid: Jubei
+ジャッカル	Jackal
+レディ・ポイズン	Lady Poison
+アル	Al
+蛮	Ban
+銀次	Ginji
+士度	Shido
+笑師	Emishi
+花月	Kazuki
+卑弥呼	Himiko
+赤屍	Akabane
+鏡	Kagami
+十兵衛	Juubei
+アル	Al
+ツルコ	Tsuruko
+マドカ	Madoka
+ハカマ	Hakama
+馬車	Carriage
+奪還屋	GetBackers ; retriever ; retrieval	avoid: Dakkanya
+スネークバイト	Snake Bite
+加速香	Speed Perfume
+ブラッディ・ハリケーン	Bloody Hurricane
+雫	Dewdrop
+餓狼擬	Wolf Mimic
+鳳仙花	Balsam Burst
+ダイヤモンド・ダスト	Diamond Dust
+十薬	Houttuynia
+威霊仙	Clematis Root
+延命草	Enmei Herb
+霊芝	Reishi
+牛黄	Bezoar
+土木香	Elecampane
+芍薬	Peony Root
+冬虫夏草	Cordyceps
+蓬莱の玉	Horai Jewel
+ジュノー	Junon	avoid: Juno
+ラトリス	Ratrice
+ユピテル	Jupiter
+アムルー	Amoureux
+シャリオ	Chariot
+ユストス	Iustus
+エルミト	Hermite
+テューヌ	Tune
+レーフォ	Lefo
+ペンデュ	Pendu
+モール	Mort
+ランス	Rance
+ディラ	Dira
+ディブル	Diable
+トワール	Toile
+リュネ	Lune
+レイユ	Reille
+ゲメン	Gement
+モンド	Monde

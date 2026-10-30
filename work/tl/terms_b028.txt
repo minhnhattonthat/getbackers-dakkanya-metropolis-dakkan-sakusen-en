@@ -1,0 +1,19 @@
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+士度	Shido
+十兵衛	Juubei	avoid: Jubei
+蛮ちゃん	Ban-chan
+アル	Al
+蛮	Ban
+銀次	Ginji
+士度	Shido
+卑弥呼	Himiko
+十兵衛	Juubei
+アル	Al
+ＴＡＲＥ	TARE
+ＨＯＮＫＹＴＯＮＫ	Honky Tonk	avoid: HONKYTONK
+アルファタワー	Alpha Tower
+奪還屋	GetBackers ; retriever ; retrieval	avoid: Dakkanya
+ゲットバッカーズ	GetBackers	avoid: Get Backers
+雷帝	Thunder Emperor	avoid: Raitei

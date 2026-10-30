@@ -1,0 +1,24 @@
+蛮	Ban
+銀次	Ginji
+赤屍	Akabane
+花月	Kazuki
+十兵衛	Juubei	avoid: Jubei
+ドクタージャッカル	Dr. Jackal
+蛮ちゃん	Ban-chan
+アル	Al
+ジェンド	Jend
+蛮	Ban
+銀次	Ginji
+花月	Kazuki
+赤屍	Akabane
+鏡	Kagami
+十兵衛	Juubei
+アル	Al
+ジェンド	Jend
+？？？	???
+ＨＯＮＫＹＴＯＮＫ	Honky Tonk	avoid: HONKYTONK
+アルファタワー	Alpha Tower
+スネークバイト	Snake Bite
+電撃	Electric Shock
+属性	element	avoid: attribute
+蓬莱の玉	Horai Jewel

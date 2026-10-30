@@ -1,0 +1,23 @@
+蛮	Ban
+銀次	Ginji
+士度	Shido
+波児	Paul
+夏実	Natsumi
+ヘヴン	Hevn	avoid: Heaven
+蛮ちゃん	Ban-chan
+アル	Al
+蛮	Ban
+銀次	Ginji
+士度	Shido
+アル	Al
+ヘヴン	Hevn
+波児	Paul
+夏実	Natsumi
+マドカ	Madoka
+ＴＡＲＥ	TARE
+ＨＯＮＫＹＴＯＮＫ	Honky Tonk	avoid: HONKYTONK
+無限城	Infinity Fortress	avoid: Mugenjo
+奪還屋	GetBackers ; retriever ; retrieval	avoid: Dakkanya
+ゲットバッカーズ	GetBackers	avoid: Get Backers
+邪眼	Evil Eye	avoid: Jagan
+属性	element	avoid: attribute

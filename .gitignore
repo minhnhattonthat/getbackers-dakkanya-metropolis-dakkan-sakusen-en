@@ -1,6 +1,8 @@
 rom/
 build/
-work/
+work/*
+!work/tl/
+work/tl/dump_*.txt
 dist/
 release/
 .venv/

@@ -1,0 +1,28 @@
+蛮	Ban
+銀次	Ginji
+赤屍	Akabane
+花月	Kazuki
+士度	Shido
+西園寺	Saionji
+山城	Yamashiro
+ヘヴン	Hevn	avoid: Heaven
+蛮ちゃん	Ban-chan
+アル	Al
+蛮	Ban
+銀次	Ginji
+士度	Shido
+花月	Kazuki
+赤屍	Akabane
+アル	Al
+ヘヴン	Hevn
+ＭＡＩ	MAI
+西園寺	Saionji
+？？？	???
+ハカマ	Hakama
+横取り屋	Poacher
+シズク	Shizuku
+山城	Yamashiro
+ゲットバッカーズ	GetBackers	avoid: Get Backers
+電撃	Electric Shock
+威霊仙	Clematis Root
+冬虫夏草	Cordyceps

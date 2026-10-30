@@ -1,0 +1,101 @@
+美堂　蛮	Ban Mido
+天野　銀次	Ginji Amano
+工藤　卑弥呼	Himiko Kudo
+赤屍　蔵人	Kurodo Akabane	avoid: Kuroudo
+風鳥院　花月	Kazuki Fuchoin	avoid: Fuuchouin
+冬木　士度	Shido Fuyuki
+笑師　春樹	Emishi Haruki
+筧　十兵衛	Juubei Kakei	avoid: Jubei
+鏡　形而	Kyoji Kagami
+弥勒　雪彦	Yukihiko Miroku
+蛮	Ban
+銀次	Ginji
+卑弥呼	Himiko
+赤屍	Akabane
+花月	Kazuki
+士度	Shido
+笑師	Emishi
+十兵衛	Juubei	avoid: Jubei
+弥勒	Miroku
+蛭田	Hiruta
+西園寺	Saionji
+山城	Yamashiro
+夏実	Natsumi
+ドクタージャッカル	Dr. Jackal
+ドクター・ジャッカル	Dr. Jackal
+レディ・ポイズン	Lady Poison
+アル	Al
+ジェンド	Jend
+蛮	Ban
+銀次	Ginji
+士度	Shido
+笑師	Emishi
+花月	Kazuki
+卑弥呼	Himiko
+赤屍	Akabane
+鏡	Kagami
+十兵衛	Juubei
+アル	Al
+夏実	Natsumi
+ジェンド	Jend
+蛭田	Hiruta
+弥勒	Miroku
+ＭＡＩ	MAI
+西園寺	Saionji
+スタッフ	Staff
+Ｃメンバー	C Member
+ＴＡＲＥ	TARE
+横取り屋	Poacher
+Ｓサービス	S-Service
+山城	Yamashiro
+使用人	Servant
+青樹	Aoki
+綾峰	Ayamine
+警備員	Guard
+奪還屋	GetBackers ; retriever ; retrieval	avoid: Dakkanya
+ゲットバッカーズ	GetBackers	avoid: Get Backers
+奪い屋	Snatcher
+雷帝	Thunder Emperor	avoid: Raitei
+スネークバイト	Snake Bite
+解毒香	Antidote Perfume
+火炎香	Flame Perfume
+加速香	Speed Perfume
+ブラッディ・ソード	Bloody Sword
+ブラッディ・シールド	Bloody Shield
+ブラッディ・クロス	Bloody Cross
+ブラッディ・ハリケーン	Bloody Hurricane
+繭玉の楯	Cocoon Shield
+秋雨	Autumn Rain
+絃呪縛	String Bind
+雫	Dewdrop
+猿擬	Ape Mimic
+土竜擬	Mole Mimic
+虎爪擬	Tiger Claw Mimic
+餓狼擬	Wolf Mimic
+毒蛾	Poison Moth
+鬼灯	Lantern Plant
+鳳仙花	Balsam Burst
+土蜘蛛	Earth Spider
+ダイヤモンド・ダスト	Diamond Dust
+ルマ	Lemat
+バタリー	Batary
+ジュノー	Junon	avoid: Juno
+ラトリス	Ratrice
+レンプレル	Lempereur
+ユピテル	Jupiter
+アムルー	Amoureux
+シャリオ	Chariot
+ユストス	Iustus
+エルミト	Hermite
+テューヌ	Tune
+レーフォ	Lefo
+ペンデュ	Pendu
+モール	Mort
+ランス	Rance
+ディラ	Dira
+ディブル	Diable
+トワール	Toile
+リュネ	Lune
+レイユ	Reille
+ゲメン	Gement
+モンド	Monde

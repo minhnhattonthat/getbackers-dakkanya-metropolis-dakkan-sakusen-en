@@ -1,0 +1,20 @@
+蛮	Ban
+銀次	Ginji
+赤屍	Akabane
+花月	Kazuki
+士度	Shido
+西園寺	Saionji
+蛮ちゃん	Ban-chan
+アル	Al
+蛮	Ban
+銀次	Ginji
+士度	Shido
+花月	Kazuki
+赤屍	Akabane
+アル	Al
+西園寺	Saionji
+？？？	???
+母親	Mother
+ゲットバッカーズ	GetBackers	avoid: Get Backers
+雷帝	Thunder Emperor	avoid: Raitei
+ＣＡＶ	CAV
