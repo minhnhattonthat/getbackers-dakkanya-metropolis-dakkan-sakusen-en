@@ -244,11 +244,11 @@ M09ECC2	Write error.
 3D7DE4.24	Poison damage!
 3D7DE4.25	Paralyzed and can't move!
 3D7DE4.26	learned!
-3D7DE4.27	' element attack nullified
-3D7DE4.28	'
+3D7DE4.27	element attack was nullified!
+3D7DE4.28	The
 3D7DE4.29	acquired!
 3D7DE4.30	--
-3D7DE4.31	' element barrier broken!
+3D7DE4.31	element barrier was broken!
 3D7DE4.33	Venom Fang
 3D7DE4.34	Snake Bite
 3D7DE4.35	Sidewinder
@@ -290,7 +290,7 @@ M09ECC2	Write error.
 3D7DE4.72	One
 3D7DE4.73	All
 3D7DE4.74	Once
-3D7DE4.75	For a while
+3D7DE4.75	Lasting
 3D7DE4.76	Instant KO
 3D7DE4.77	Heal
 3D7DE4.78	Nullify

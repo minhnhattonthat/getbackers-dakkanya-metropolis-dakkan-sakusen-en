@@ -33,6 +33,12 @@ MENUTAB = ORIG_END + 0x1000  # English menu table (tools/menutext.py english());
 POOL = ORIG_END + 0x4000  # English string pool (tools/vwf.py); relocated PACs above it
 SLOT_DELTAS = (0, 8, 12)  # slots point at the magic, or at record 0's length word / data
 SYSTEM_PAC = 0x3D7DE4
+# Scrolling battle lists redraw rows without hiding sprites, so every entry takes its list's longest English cell
+# count: a shorter row drawn over a longer one left stale sprites (docs/re/vwf.md §Battle screens).
+LIST_GROUPS = ((110, 134), (136, 144))  # battle item list, Change list
+# The battle commands and list titles keep their Japanese cell count: the list scroll code redraws the rows from
+# a sprite base laid out for the Japanese title ('Item' 2 cells put the first rows over stale ones).
+JP_CELLS = (1, 7)
 
 
 def is_text(rom, off):
@@ -80,7 +86,14 @@ def text_edits(orig, mode='en', qa=None):
     for f in sorted(script.SCRIPT.glob('[0-9A-F]*.json')):
         o = int(f.stem, 16)
         recs, changed = None, False
-        for e in json.loads(f.read_text(encoding='utf-8')):
+        entries = json.loads(f.read_text(encoding='utf-8'))
+        group_cells = {}
+        if o == SYSTEM_PAC:
+            en = {int(e['id'].split('.')[1]): e['en'] for e in entries if e['en']}
+            for lo, hi in LIST_GROUPS:
+                c = max(vwf.cells(t) for i, t in en.items() if lo <= i <= hi)
+                group_cells.update({i: c for i in range(lo, hi + 1)})
+        for e in entries:
             if recs is None:
                 recs = pac.unpack(orig, o)
             i = int(e['id'].split('.')[1])
@@ -100,7 +113,10 @@ def text_edits(orig, mode='en', qa=None):
                 assert recs[b] == struct.pack('<I', script.BOX[0]) and t.count('\n') == 1, \
                     f'{e["id"]}: only a 1-line box (0x238C) takes a \\n'
                 recs[b] = struct.pack('<I', script.BOX[1])
-            recs[i] = [vwf.encode(s or ' ', pool) for s in t.split('\n')]
+            pad = group_cells.get(i, 0)
+            if o == SYSTEM_PAC and JP_CELLS[0] <= i <= JP_CELLS[1]:
+                pad = engine.rec_cells(recs[i])
+            recs[i] = [vwf.encode(s or ' ', pool, pad) for s in t.split('\n')]
             changed = True
         if changed:
             edits[o] = [r for x in recs for r in (x if isinstance(x, list) else [x])]
@@ -159,13 +175,14 @@ def build(orig, edits=None, relocate=None, engine_on=False, pool=None, menu=None
 
     slot = slots(orig, offs)
     free = ORIG_END
+    strtab = (POOL + len(pool.data) + 3) & ~3 if pool is not None else 0  # index-form address table
     if engine_on:
         mwrites, mtable = menu or ([], b'')
         sys_orig = pac.unpack(orig, SYSTEM_PAC)
         sys_recs = edits.get(SYSTEM_PAC, sys_orig)
         assert len(sys_recs) == len(sys_orig), 'system text records must keep their indices'
         code, labels = engine.assemble(0x08000000 + free, 0x08000000 + MENUTAB,
-                                       engine.credits_table(sys_orig, sys_recs))
+                                       engine.credits_table(sys_orig, sys_recs), 0x08000000 + strtab)
         assert len(code) <= MENUTAB - ORIG_END, 'engine runs into the menu table'
         assert len(mtable) <= POOL - MENUTAB, 'menu table runs into the string pool'
         write(free, code, 'engine')
@@ -180,7 +197,8 @@ def build(orig, edits=None, relocate=None, engine_on=False, pool=None, menu=None
     if pool is not None and pool.data:
         assert pool.base == 0x08000000 + POOL
         write(POOL, bytes(pool.data), 'string pool')
-        free = (POOL + len(pool.data) + 0xFF) & ~0xFF
+        write(strtab, pool.table(), 'string pool index table')
+        free = (strtab + len(pool.table()) + 0xFF) & ~0xFF
     for o in offs:
         recs = edits.get(o)
         blob = pac.pack(recs if recs is not None else pac.unpack(orig, o))

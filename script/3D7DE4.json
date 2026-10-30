@@ -213,7 +213,7 @@
   "box": 0,
   "speaker": "",
   "jp": "』属性攻撃無効　",
-  "en": "' element attack nullified"
+  "en": "element attack was nullified!"
  },
  {
   "id": "3D7DE4.28",
@@ -221,7 +221,7 @@
   "box": 0,
   "speaker": "",
   "jp": "『　",
-  "en": "'"
+  "en": "The"
  },
  {
   "id": "3D7DE4.29",
@@ -245,7 +245,7 @@
   "box": 0,
   "speaker": "",
   "jp": "』属性バリアを破った！　",
-  "en": "' element barrier broken!"
+  "en": "element barrier was broken!"
  },
  {
   "id": "3D7DE4.33",
@@ -581,7 +581,7 @@
   "box": 0,
   "speaker": "",
   "jp": "一定時間",
-  "en": "For a while"
+  "en": "Lasting"
  },
  {
   "id": "3D7DE4.76",

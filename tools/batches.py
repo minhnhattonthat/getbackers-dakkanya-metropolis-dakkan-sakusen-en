@@ -4,7 +4,7 @@ A unit is what a translator translates as one utterance:
 - a dialogue box: the run of line records after a box command. 0x238D boxes show 2 lines; a 0x238C box shows 1, but
   the build turns it into a 2-line box when its English needs a second line (tools/build.py), so every box gets
   2 x 216 px. Runs after other commands (0x384 battle messages, ...) keep their Japanese line count.
-- a system-text string (PAC 3D7DE4): one line, budget vwf.budget() (fixed sprite slots: Japanese cells, a guess).
+- a system-text string (PAC 3D7DE4): one line, budget vwf.budget() (measured per battle screen, vwf.SYSTEM_PX).
 - a menu string (script/menu.json): menutext.budget() px x its Japanese line count.
 Speaker name tags are not in batches: `names` fills them from glossary.md's Name tags table.
 
@@ -73,7 +73,7 @@ def units():
             i = int(first['id'].split('.')[1])
             if o == int(vwf.SYSTEM_PAC, 16):
                 px = vwf.budget(first, script.cells(recs[i]))
-                form, lines, measured, expand = 'system', 1, px in (vwf.LINE_PX, vwf.CREDIT_PX), False
+                form, lines, measured, expand = 'system', 1, vwf.measured(first), False
             else:
                 px, form = vwf.LINE_PX, 'dlg'
                 box = recs[i - 1] in (BOX1, BOX2)

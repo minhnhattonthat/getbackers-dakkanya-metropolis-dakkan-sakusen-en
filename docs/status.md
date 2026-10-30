@@ -2,36 +2,33 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7 (insert, fit, check) in progress. Menus and staff roll fitted; battle system-text slots remain.
+- **Phase:** 7 (insert, fit, check) done. Next: phase 8 (QA in the emulator).
 - **Done (phase 6):** every script/system/menu string has English (28 batches `work/tl/b001-b028`, reviewed; the
-  `.out.tsv` files are the source: `batches.py merge b001 .. b028` reproduces `script/*.json` exactly).
-- **Done (phase 7 so far):**
-  - Menu budgets measured (docs/re/vwf.md §Menu budgets, `menutext.MEASURED`, optional 4th field = lines): item
-    names 75, event/card names 100, descriptions 2 x 216, sound test titles 128, party header 96. New warp scenes
-    menu_items / menu_event / menu_card (inventory writes), menu_party3 (Akabane/Kazuki in the party), menu_sound.
-  - Engine: party list names on 2 lines from the unreferenced name copy 9C464 (`engine.PARTY_*`); staff roll hook
-    `credmove` (sprite starts from English lengths + on-screen x clamp; `engine.credits_table`). Credits pages and
-    party list verified in warps (ending, menu_party3).
-  - Refits (D8): pair items "Ban-Gin M" in the list, "President's Key", "Cavern", credits/lyric rewording.
-  - `batches.py`: ENGINE_FIT gone; glossary check reads " / " as a space. 0 errors over all batches; 86 LONG left.
-- **Next (phase 7):**
-  - 86 LONG = system text 3D7DE4 against Japanese-cell guesses: battle skill names .40/.59, element/target/status
-    fragments .75-.103, battle item names .111-.133, enemy/character names .139-.273 and .853-.930, speaker labels
-    .341/.451/.600/.810. DrawText allocates sprites/tiles sequentially (sprite += n, tile += 4n; battle box from
-    sprite 8 / tile 816), so a longer string only matters where a screen packs fixed slots: battle command/item
-    menu (0804C2C0.., base sprite 2 tile 0x318; item list via 0804C382 loop), target select (centred, fine for
-    "Snatcher Assistant"), enemy name tags. Measure in warps battle / battle_02 (+ `tools/lua/linelog.lua` for
-    sprite/tile ranges), then set `vwf.budget` per range and refit.
-  - Battle fragments: how 3D7DE4.8-31 concatenate (name + "appears!"); 6E5CD8.83/.86 Hiruta tag on Ban's cut-in.
-  - Then lint (width/overflow, control codes, romdiff ranges, jp_left) per the skill's phase 7; wire into check.py.
+  `.out.tsv` files are the source: `batches.py merge b001 .. b028` reproduces `script/*.json` exactly, and
+  `tests/test_english.py::test_text_lint_clean` checks that).
+- **Done (phase 7):**
+  - Menu budgets measured (docs/re/vwf.md §Menu budgets); party list names on 2 lines; staff roll hook `credmove`.
+  - Battle screens measured (docs/re/vwf.md §Battle screens, `vwf.SYSTEM_PX`, `tools/infosw.py`): every system
+    budget is measured now; lint 0 errors, 0 LONG over all batches.
+  - Engine: index-form records (0x8000 + k, n = pixel cells); DrawText advance hook (pixels + 4 px word space for
+    English fragments); battle item count x 96 -> 102 (both draw paths); list titles keep Japanese cells, scrolling
+    lists pad to their longest entry (no stale/doubled sprites when scrolling). Refits D9.
+  - Checks wired into `tools/check.py` via `tests/test_english.py` (builds its own ROM): text lint, romdiff with
+    the write log, writes below 8 MiB only at slots/hooks/menu strings, no branch into a patched span, battle
+    sprite totals per skill/item info case, `jp_left.py` (0 runs, 29 known).
+  - Build 21e4c4df smoke ok; warps battle, battle_02, act1, ending, menu_party3 look right.
+- **Next (phase 8):** QA tours with contact sheets for every warp scene + visual-QA verdicts (`qa_gate.py`);
+  graphics-text rows in English in zoomed cold-boot shots (title, act cards, game over, credits end card: the
+  final copyright card is still Japanese graphics, element icons `[無]` etc.). Battle menus need play.py sessions:
+  `warp_all.py battle_02 --frames 1830` saves the command-menu state; `tools/lua/inventory.lua` fills the items.
 - **Guessed budgets left:** いどう location names (2 x 60; drawn at (2,15) in the bottom box, likely 216), save
-  warning/error, load title, battle message fragments (144 px).
+  warning/error, load title (menu text).
 - **Debug gaps (non-blocking):** game over, the 13 choice windows (G7), elevator floor select, いどう screen, demo
   notice G8, random encounters, shops.
 - **Open bugs:** none.
-- **Polish ideas:** deferred review Minors in `work/tl/reports.md`; concatenated system fragments start on a 12 px
-  cell; battle-speed slider "Fast........Slow" (M09E520) squeezes 10 fixed cells under a cursor sprite (labels get
-  12 px each unless redrawn); element icons `[無]` etc. are graphics text to redraw.
+- **Polish ideas:** deferred review Minors in `work/tl/reports.md`; battle-speed slider "Fast........Slow"
+  (M09E520) squeezes 10 fixed cells under a cursor sprite; element icons `[無]` etc. are graphics text to redraw;
+  the info row shows the game's 12 px group gaps on top of word spaces ("HP   Status ailment   Full Heal").
 - **Waiting on the user:** GUI keyboard input in `tools/mesen/` not checked by hand (headless agent). Non-blocking:
   game-original names chosen by default (ジェンド Jend, tarot enemies in glossary.md Enemies, credits readings
-  3D7DE4.979/1009/1015/1037/1038/1040 guessed); D8 abbreviations ("Ban-Gin M" in the item list).
+  3D7DE4.979/1009/1015/1037/1038/1040 guessed); D8/D9 abbreviations and rewordings.

@@ -3,9 +3,10 @@
 Sprite text: DrawLine 08052930(r0 = first OBJ tile, r1 = line record {n, codes}) draws code i as a 16x16 font cell
 into OBJ tiles r0 + 4i; 08052960 then places sprite i at x + 12i. The hook replaces DrawLine: a line whose first
 code is 0xFEFF (tools/vwf.py) is English, drawn proportionally across its n cells, cell i holding pixels
-12i..12i+11 (columns 12-15 clear, so the 4 px sprite overlap draws nothing twice); 0xFEFE + u32 = pointer to the
-text in the string pool. Any other line takes the original per-code path. Ink colour follows the palette mode
-02018BC8 (the remap in 0805281C: 6 -> 6/5/C/D).
+12i..12i+11 (columns 12-15 clear, so the 4 px sprite overlap draws nothing twice); 0x8000 + k = string k of the
+pool's address table (index form, one code, so n = the pixel cells). Any other line takes the original per-code
+path. Ink colour follows the palette mode 02018BC8 (the remap in 0805281C: 6 -> 6/5/C/D). DrawText then moves x
+by 12n; for an English line the 'advance' hook moves it by the text's pixels + a 4 px word space instead.
 
 Menu text: DrawString 0800C920 / 0800C9D4 draw charset cells as 2x2 BG tiles at a 12 px pitch over BG0/BG1. A
 menu string whose first u16 is 0xF800 + k (k < 0x7FE) is English entry k of the menu table {u32 text, u8 field
@@ -32,9 +33,11 @@ SITES = (
     (0x00C920, 'f0b557464e464546e0b485b0', 'drawstring'),
     (0x00C9D4, 'f0b557464e464546e0b488b0', 'drawstring2'),
     (0x065394, 'f0b5061c151c9c4600241248', 'credmove'),
+    (0x052B14, '30684100091889004b461868', 'advance'),
 )
 
-ENTRIES = ('drawline', 'drawstring', 'drawstring2', 'credmove')  # jump table at base + 2i
+ENTRIES = ('drawline', 'drawstring', 'drawstring2', 'credmove', 'advance')  # jump table at base + 2i
+R2_FREE = ('drawline', 'advance')  # sites whose stub may load r2 (the others pass r0-r3)
 
 # Staff roll: each line slides in by 08065394(r0 = first sprite, r1 = line index in the RAM table 020182FC, x, y).
 # The first sprites are immediates laid out for the Japanese line lengths, while the lines are drawn with
@@ -77,13 +80,17 @@ def credits_table(orig_recs, recs):
 PARTY_NAMES = [0x0809C464 + 14 * i for i in range(9)]
 PARTY_LITS = (0x9F34, 0xA0DC, 0xA1D8, 0xA2BC, 0xA370, 0xA404, 0xA50C, 0xA590, 0xDF64)  # each feeds a bl 0800D35C
 PARTY_Y = (0x00D3A2, '0235', '0035')  # adds r5, #2 -> #0: name row = the sprite row
+# Battle item list (first draw 0804C382 loop, scroll redraw 0804D797): names at x 24, the count sprite at x 96 ->
+# 102 (movs r2, #0x60 -> #0x66), so names get 74 px; the digits end at 117, the scroll arrow starts at 119.
+ITEM_COUNT_X = ((0x04C43E, '6022', '6622'), (0x04D82C, '6022', '6622'))
 
 SRC = """
     b drawline
     b drawstring
     b drawstring2
     b credmove
-drawline:                  @ r0 = first tile, r1 = record {n, ptr}
+    b advance
+drawline:                 @ r0 = first tile, r1 = record {n, ptr}
     push {r4-r7, lr}
     mov r4, r0
     ldr r7, [r1]
@@ -94,9 +101,8 @@ drawline:                  @ r0 = first tile, r1 = record {n, ptr}
     ldr r1, L_magic
     cmp r0, r1
     beq vwf
-    subs r1, #1
-    cmp r0, r1
-    beq vwf_ptr
+    lsrs r1, r0, #15
+    bne vwf_idx
 orig:
     mov r0, r4
     ldrh r1, [r6]
@@ -107,12 +113,11 @@ orig:
     subs r7, #1
     bne orig
     b h_done
-vwf_ptr:                    @ 0xFEFE, u16 lo, u16 hi: the text is in the string pool
-    ldrh r0, [r6, #2]
-    ldrh r1, [r6, #4]
-    lsls r1, r1, #16
-    orrs r0, r1
-    mov r6, r0
+vwf_idx:                    @ 0x8000 + k: the text is string k of the pool's address table
+    lsls r0, r0, #17
+    lsrs r0, r0, #15
+    ldr r1, L_strtab
+    ldr r6, [r1, r0]
     b vwf_text
 vwf:
     adds r6, #2
@@ -507,6 +512,50 @@ cm_keep:
     ldr r7, L_cm_back
     bx r7
 
+advance:                    @ DrawText's x += 12n (08052B14; r6 = record {n, ptr}, sb = &x). An English line
+    ldr r0, [r6]            @ advances by its pixels + a 4 px word space instead, so concatenated fragments
+    movs r1, #12            @ (name + 'appears!', the skill info row) read as words. r4/r5 are popped after.
+    muls r1, r0, r1
+    cmp r0, #0
+    beq adv_add
+    ldr r2, [r6, #4]
+    ldrh r3, [r2]
+    ldr r0, L_magic
+    cmp r3, r0
+    beq adv_inline
+    lsrs r0, r3, #15
+    beq adv_add
+    lsls r3, r3, #17
+    lsrs r3, r3, #15
+    ldr r0, L_strtab
+    ldr r2, [r0, r3]
+    b adv_text
+adv_inline:
+    adds r2, #2
+adv_text:
+    movs r1, #4
+    ldr r3, L_font
+adv_char:
+    ldrb r0, [r2]
+    cmp r0, #0
+    beq adv_add
+    subs r0, #0x20
+    lsls r4, r0, #3
+    lsls r0, r0, #2
+    adds r0, r0, r4
+    ldrb r0, [r3, r0]
+    adds r1, r1, r0
+    adds r1, #1
+    adds r2, #1
+    b adv_char
+adv_add:
+    mov r3, sb
+    ldr r0, [r3]
+    adds r0, r0, r1
+    str r0, [r3]
+    ldr r0, L_adv_back
+    bx r0
+
     .align 2
 L_magic:     .word 0xFEFF
 L_drawglyph: .word 0x0805281D
@@ -525,6 +574,8 @@ L_font:      .word FONT
 L_credtab:   .word CREDTAB
 L_credram:   .word 0x020182FC
 L_cm_back:   .word 0x080653A1
+L_adv_back:  .word 0x08052B25
+L_strtab:    .word STRTAB
 """
 
 
@@ -544,22 +595,24 @@ def thumb1_only(code, base):
     assert end == len(code), f'undecodable code at {base + end:08X}'
 
 
-def _src(ink, font, menutab, credtab):
+def _src(ink, font, menutab, credtab, strtab):
     return (SRC.replace('INK', hex(ink)).replace('FONT', hex(font)).replace('MENUTAB', hex(menutab))
-            .replace('CREDTAB', hex(credtab)).replace('CREDLINES', str(CREDITS_LINES)).replace('TBASEV', str(TBASE)))
+            .replace('CREDTAB', hex(credtab)).replace('CREDLINES', str(CREDITS_LINES)).replace('TBASEV', str(TBASE))
+            .replace('STRTAB', hex(strtab)))
 
 
-def assemble(base, menutab=0, credits=b'\xff' * CREDITS_LINES):
+def assemble(base, menutab=0, credits=b'\xff' * CREDITS_LINES, strtab=0):
     """Code + ink table + font + party list name table + staff roll sprite table (credits_table), placed at ROM
-    address base (0x08xxxxxx), reading the menu table at menutab. Returns (bytes, {entry label: address})."""
+    address base (0x08xxxxxx), reading the menu table at menutab and index-form lines' addresses at strtab
+    (vwf.Pool.table). Returns (bytes, {entry label: address})."""
     assert len(credits) == CREDITS_LINES
     ks = Ks(KS_ARCH_ARM, KS_MODE_THUMB)
-    code_len = len(bytes(ks.asm(_src(0, 0, 0, 0), base)[0]))
+    code_len = len(bytes(ks.asm(_src(0, 0, 0, 0, 0), base)[0]))
     ink = base + ((code_len + 3) & ~3)
     font = ink + 4
     party = (font + len(vwf.blob()) + 3) & ~3
     credtab = party + 4 * len(PARTY_NAMES)
-    code = bytes(ks.asm(_src(ink, font, menutab, credtab), base)[0])
+    code = bytes(ks.asm(_src(ink, font, menutab, credtab, strtab), base)[0])
     assert len(code) == code_len
     thumb1_only(code[:SRC_CODE_END(code)], base)
     labels = {name: base + 2 * i for i, name in enumerate(ENTRIES)}
@@ -576,12 +629,12 @@ def patches(labels):
     Every site is 4-aligned and no branch lands inside its 12 bytes (only the function start is called)."""
     out = []
     for off, orig, name in SITES:
-        stub = bytes.fromhex('014a1047c046c046' if name == 'drawline' else '10b4014c2047c046')
+        stub = bytes.fromhex('014a1047c046c046' if name in R2_FREE else '10b4014c2047c046')
         out.append((off, bytes.fromhex(orig), stub + struct.pack('<I', labels[name] | 1), f'engine {name}'))
     for off in PARTY_LITS:
         out.append((off, struct.pack('<I', 0x0809FDAC), struct.pack('<I', labels['party_names']), 'party list names'))
-    off, orig, new = PARTY_Y
-    out.append((off, bytes.fromhex(orig), bytes.fromhex(new), 'party list name y'))
+    for (off, orig, new), by in ((PARTY_Y, 'party list name y'), *((s, 'battle item count x') for s in ITEM_COUNT_X)):
+        out.append((off, bytes.fromhex(orig), bytes.fromhex(new), by))
     return out
 
 

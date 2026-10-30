@@ -65,27 +65,39 @@ LINE_PX = 216  # dialogue line: 18 cells from x=8 (sprites 8.. tiles 816..); mea
 NAME_PX = 72   # name tag: 6 cells (sprites 2-7, tiles 792-815; line sprites start at 8); measured act1
 
 
-MESSAGE_PX = 144  # battle message fragment after a name in the 2-line battle box: LINE_PX - NAME_PX (guess)
-# System text (PAC 3D7DE4) record ranges whose strings are box lines rather than fixed list slots
+MESSAGE_PX = 144  # battle message fragment after a name in the 2-line battle box: LINE_PX - NAME_PX
 CREDIT_PX = 228  # staff roll line: 19 cells; engine.credits_table fixes its sprites, the hook keeps it on screen
-SYSTEM_LINES = ((8, 31, MESSAGE_PX), (275, 472, LINE_PX), (474, 851, LINE_PX), (935, 944, LINE_PX),
-                (945, 1054, CREDIT_PX), (1056, 1063, LINE_PX))
-# 935-944: song lyrics in the epilogue's dialogue box (sprites 2.., tiles 792.., x 8; ending warp)
+# System text (PAC 3D7DE4) record ranges and their measured widths (docs/re/vwf.md §Battle screens). DrawText
+# allocates sprites and tiles sequentially, so only the x of the next thing on the row limits a string.
+SYSTEM_PX = (
+    (1, 7, 56),       # battle commands / Normal, Special: x 24, box frame at x 84
+    (8, 31, MESSAGE_PX),
+    (33, 68, 148),    # skill list: x 24, frame at x 178 (target box from x 180)
+    (70, 75, 48),     # target box (tools/infosw.py): x 184, frame at x 234
+    (76, 108, 108),   # skill/item info row: fragments in sequence from x 8 (longest combination ~140 px)
+    (110, 134, 75),   # battle item list: x 24, count at x 102 (engine.ITEM_COUNT_X)
+    (136, 144, 88),   # party names: Change list x 24, frame at x 116
+    (145, 273, 112),  # enemy names: target select (centred) and messages "name + fragment" in 216 px
+    (275, 851, LINE_PX),   # battle shouts and their 'name:' labels: lines of the 2-line battle box
+    (853, 933, 112),  # short enemy names: "name appears!" / "name and company appear!"
+    (935, 944, LINE_PX),   # song lyrics in the epilogue's dialogue box (sprites 2.., tiles 792.., x 8)
+    (945, 1054, CREDIT_PX),
+    (1056, 1063, LINE_PX))
 
 
 def budget(e, jp_cells):
-    """Pixel budget of a script entry (docs/re/vwf.md §Budgets). Most system-text strings sit in fixed sprite
-    slots sized by their Japanese padding (battle commands, move/item/enemy names), so they get their Japanese
-    cell count (216 px markers there overran into other sprites' tiles); battle shouts, battle messages, credits
-    and the closing text are box lines (SYSTEM_LINES), except the speaker labels 'name：'. Dialogue lines and
-    name tags have measured box limits."""
+    """Pixel budget of a script entry (docs/re/vwf.md §Budgets): system text by SYSTEM_PX (a string outside it
+    gets its Japanese cells), dialogue lines and name tags their measured box limits."""
     if e['id'].startswith(SYSTEM_PAC + '.'):
         i = int(e['id'].split('.')[1])
-        for lo, hi, px in SYSTEM_LINES:
-            if lo <= i <= hi and not e['jp'].rstrip('　').endswith('：'):
-                return px
-        return jp_cells * CELL
+        return next((px for lo, hi, px in SYSTEM_PX if lo <= i <= hi), jp_cells * CELL)
     return NAME_PX if e['kind'] == 'name' else LINE_PX
+
+
+def measured(e):
+    """Whether the entry's budget was measured in game (else it is a Japanese-cell guess)."""
+    i = int(e['id'].split('.')[1])
+    return not e['id'].startswith(SYSTEM_PAC + '.') or any(lo <= i <= hi for lo, hi, _ in SYSTEM_PX)
 
 
 def cells(text):
@@ -94,10 +106,11 @@ def cells(text):
 
 
 class Pool:
-    """String pool for pointer-form lines: text bytes placed from ROM address base, deduplicated."""
+    """String pool: text bytes placed from ROM address base, deduplicated; key() also gives the text an entry in
+    the address table (table(), placed by the build at engine.assemble's strtab) for index-form lines."""
 
     def __init__(self, base):
-        self.base, self.data, self.at = base, bytearray(), {}
+        self.base, self.data, self.at, self.keys = base, bytearray(), {}, {}
 
     def add(self, raw):
         if raw not in self.at:
@@ -105,12 +118,28 @@ class Pool:
             self.data += raw
         return self.at[raw]
 
+    def key(self, raw):
+        if raw not in self.keys:
+            assert len(self.keys) < INDEX_MAX, 'index-form table full'
+            self.add(raw)
+            self.keys[raw] = len(self.keys)
+        return self.keys[raw]
 
-def encode(text, pool=None):
+    def table(self):
+        return struct.pack(f'<{len(self.keys)}I', *(self.at[r] for r in self.keys))
+
+
+INDEX = 0x8000       # index form: the one code INDEX + k (Japanese codes stay below 0x600)
+INDEX_MAX = 0x7E00   # k below it keeps INDEX + k clear of 0xFEFF
+
+
+def encode(text, pool=None, min_cells=0):
     """English line -> record bytes (empty text -> empty record, as the original's empty strings).
 
     Inline form 0xFEFF + ASCII + 0; when that needs more cells than the pixels do and a pool is given, the
-    pointer form 0xFEFE + u32 address (two u16) with the text in the pool, so the line costs only its pixels."""
+    index form INDEX + k (k = pool.key, the text's entry in the pool's address table), so the line costs only
+    its pixel cells: sprites and tiles are scarce on some battle screens. min_cells pads the record with blank
+    cells (battle lists keep their sprite totals, so a shorter row leaves no stale sprites behind)."""
     if not text:
         return b''
     bad = bad_chars(text)
@@ -119,8 +148,9 @@ def encode(text, pool=None):
     data = struct.pack('<H', MAGIC) + raw
     n = max(cells(text), math.ceil(len(data) / 2))
     if pool is not None and n > cells(text):
-        data = struct.pack('<HI', MAGIC - 1, pool.add(raw))
-        n = max(cells(text), 3)
+        data = struct.pack('<H', INDEX + pool.key(raw))
+        n = cells(text)
+    n = max(n, min_cells)
     data = data.ljust(2 * n, b'\0')
     if n % 2:
         data += struct.pack('<H', PAD)
@@ -167,7 +197,8 @@ def selftest():
         assert n * CELL >= width(t) and 2 * n >= len(t) + 3, t
     p = Pool(0x08900000)
     r = encode('illicit lil ill', p)
-    assert struct.unpack_from('<HI', r) == (MAGIC - 1, 0x08900000) and p.data == b'illicit lil ill\0'
+    assert struct.unpack_from('<H', r)[0] == INDEX and p.data == b'illicit lil ill\0'
+    assert p.table() == struct.pack('<I', 0x08900000) and encode('illicit lil ill', p) == r
     assert len(r) // 2 == cells('illicit lil ill') == 4
     assert encode('MMMMMMMMMM', p) == encode('MMMMMMMMMM')  # fits inline: no pool use
     assert len(blob()) == 12 * len(CHARS)
