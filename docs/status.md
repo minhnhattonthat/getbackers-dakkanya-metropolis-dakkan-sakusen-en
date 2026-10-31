@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 (release) done 2026-10-31. The release zip is built and verified; publishing is the owner's call
-  (never `gh release create` from an agent run).
+- **Phase:** 9 (release) done 2026-10-31. Published by the owner 2026-10-31: repo public,
+  https://github.com/minhnhattonthat/getbackers-dakkanya-metropolis-dakkan-sakusen-en/releases/tag/v1.0
 - **Release v1.0:** `release/v1.0/GetBackers_Dakkanya_EN_v1.0.zip` (patch + README.txt, gitignored).
   `tools/release.py` ran clean: build, check 42 passed, cold-boot smoke ok, `jp_left.py` 0 runs (29 known), all five
   QA gates pass (43 tour, 189 rooms, 13 choices, 1 intro, 15 story chapters), polish list fully ticked, BPS
