@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8 (QA in the emulator): awaiting independent choice-window and fresh intro verdicts to close it.
+- **Phase:** 9 (release), ready to start. Phase 8 completed 2026-10-31: all four visual gates pass (246 entries),
+  check 42 passed, cold-boot smoke passed. No release package built yet.
 - **Done (phase 8):**
   - Graphics text redrawn by `tools/gfx.py` (docs/re/graphics.md §Redraws, D10, D11): act cards Act.0-9, title
     logo (katakana reading erased, tag "Retrievers", subtitle strip), title/end copyright line, intro banner + 9
@@ -20,19 +21,19 @@ Updated at the end of every session. Keep it to what the next session needs; his
   elevator lists), 13/13 exit 0. Shots/states in `work/qa/choices/` / `work/states/choice_*.mss`; overview
   `docs/screenshots/phase8_choices.png`. The event-table hook resolves relocated pointers; `choice_05` overrides
   a selector to exercise the otherwise unused Drink/Don't drink window (not proof of story reachability).
-  `work/qa/choices/manifest.tsv` awaits independent visual review; tools and captures frozen during review.
-  Reviewer launch was refused by Orca (`nested_worker_depth_exceeded`, depth 2 / max 1); the coordinator was
-  asked to dispatch a sibling visual-qa reviewer for `work/qa/choices/chunks/chunk_000.txt`, writing
-  `work/qa/choices/verdicts/round1.tsv`. The choice gate currently reports 13 missing verdicts; do not mark
-  phase 8 complete or advance to release until those independent verdicts pass.
-  Fresh build: 2026-10-30 10:31:41 UTC, SHA-1 `3b47207abe39ad396784390e3795477d296074af`; smoke passes,
-  check 42 passed, existing 43-sheet tour and 189-room gates pass. Debug hooks remain emulator-only.
+  `work/qa/choices/manifest.tsv`: all 13 verdicts now ok in `verdicts/round1.tsv`. Owner authorized a fresh
+  read-only review pass when Orca refused nested workers (D12); the new session inspected every frozen sheet
+  and every final frame enlarged 3x. The empty dialogue box in `choice_04` was reproduced on the original ROM.
+  Durable verdict report: `docs/qa/phase8-final-review.md`. Debug hooks remain emulator-only.
 - **Intro follow-up:** current-build cold boot at 10-frame intervals captures all nine complete name bars,
   including Juubei (f001980), plus the banner and current title/copyright. The older 50-frame sample missed
   Juubei; no graphics fix was necessary. Overview `docs/screenshots/phase8_intro.png`, captures and gate
   `work/qa/intro_final/`; reproducible command and frame list in `docs/re/graphics.md`.
-  Requested sibling review through the coordinator for both choice and intro chunks; captures frozen.
-  Revalidated unchanged build: check 42 passed, smoke passed, 43-sheet tour and 189-room gates passed.
+  Fresh read-only review complete under D12: all 11 enlarged frames ok, including all nine full name bars;
+  `work/qa/intro_final/verdicts/round1.tsv` passes the gate. No source or graphics change was needed.
+  Revalidated unchanged build on 2026-10-31: check 42 passed, smoke passed, all four gates passed (43 tour,
+  189 rooms, 13 choices, 1 intro). Build time 2026-10-30 10:31:41 UTC,
+  SHA-1 `3b47207abe39ad396784390e3795477d296074af` (9,437,184 bytes).
 - **Next (phase 9):** story pass per chapter (`qa_gate.py` on `work/qa/story/manifest.tsv`, skill
   references/translation.md §Review), `docs/polish.md` (from the polish ideas below), `tools/release.py` (patch,
   re-apply, verify, README with base ROM hashes, zip = patch + README; runs `qa_gate.py check` on every manifest),
