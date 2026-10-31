@@ -204,7 +204,7 @@
   "box": 14,
   "speaker": "スタッフ",
   "jp": "花はイベントアイテムの中に　",
-  "en": "I'll put the flowers in with your event"
+  "en": "I'll put the flowers in your Event items."
  },
  {
   "id": "7A3304.41",
@@ -212,7 +212,7 @@
   "box": 14,
   "speaker": "スタッフ",
   "jp": "入れておくよ",
-  "en": "items."
+  "en": " "
  },
  {
   "id": "7A3304.43",

@@ -188,7 +188,7 @@
   "box": 15,
   "speaker": "スタッフ",
   "jp": "衣装はイベントアイテムの中に",
-  "en": "I'll put the costumes in with your event"
+  "en": "I'll put the costumes in your Event items."
  },
  {
   "id": "7A3CC8.40",
@@ -196,7 +196,7 @@
   "box": 15,
   "speaker": "スタッフ",
   "jp": "入れておくよ",
-  "en": "items."
+  "en": " "
  },
  {
   "id": "7A3CC8.42",

@@ -1320,7 +1320,7 @@
   "charset": "09EEB0",
   "end": true,
   "jp": "倉庫のカギ",
-  "en": "Storeroom Key"
+  "en": "Warehouse Key"
  },
  {
   "id": "M09C9E8",
@@ -3224,7 +3224,7 @@
   "charset": "09EEB0",
   "end": true,
   "jp": "倉庫のカギ",
-  "en": "Key to the storeroom"
+  "en": "Key to the warehouse"
  },
  {
   "id": "M09DBC8",
